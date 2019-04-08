@@ -1,0 +1,115 @@
+{
+  "id": 421173391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.98272,31.68755,34.98272,31.68755",
+    "geom:latitude":31.68755,
+    "geom:longitude":34.98272,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Netiv ha-Lamed He"
+    ],
+    "name:cze_x_preferred":[
+        "Netiv ha-Lamed He"
+    ],
+    "name:dut_x_preferred":[
+        "Netiv HaLamed-Heh"
+    ],
+    "name:eng_x_preferred":[
+        "Netiv HaLamed-Heh"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05ea\u05d9\u05d1 \u05d4\u05dc\"\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05e0\u05ea\u05d9\u05d1 \u05d4\u05dc\u2019\u2019\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Netiv HaLamed-Heh"
+    ],
+    "name:pol_x_preferred":[
+        "Netiw ha-Lamed-He"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0442\u0438\u0432 \u0410-\u041b\u0430\u043c\u0435\u0434-\u0425\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Netiv HaLamed He"
+    ],
+    "name:unk_x_variant":[
+        "Netiv Lah"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294070,
+    "qs:gn_pop":390,
+    "qs:name":"Netiv HaLamed He",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Jerusalem",
+    "qs:photos":163,
+    "qs:photos_1k":33,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":163,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":288048,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967749,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":178,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294070,
+        "gp:id":1967749,
+        "qs:id":288048,
+        "wd:id":"Q942371",
+        "wk:page":"Netiv HaLamed-Heh"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008980,
+    "wof:geomhash":"7fb3865b07347f24b50ac9e2ef881dd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421173391,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":421173391,
+    "wof:lastmodified":1549930315,
+    "wof:name":"Netiv HaLamed He",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:population":390,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.98272,
+    31.68755,
+    34.98272,
+    31.68755
+],
+  "geometry": {"coordinates":[34.98272,31.68755],"type":"Point"}
+}

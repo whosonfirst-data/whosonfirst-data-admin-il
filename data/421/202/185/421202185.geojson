@@ -1,0 +1,226 @@
+{
+  "id": 421202185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.98877,31.74959,34.98877,31.74959",
+    "geom:latitude":31.74959,
+    "geom:longitude":34.98877,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0634\u064a\u0645\u0634"
+    ],
+    "name:cat_x_preferred":[
+        "Betx\u00e8meix"
+    ],
+    "name:ces_x_preferred":[
+        "Bejt \u0160eme\u0161"
+    ],
+    "name:chi_x_preferred":[
+        "\u8c9d\u7279\u8b1d\u6885\u4ec0"
+    ],
+    "name:cze_x_preferred":[
+        "Bejt \u0160eme\u0161"
+    ],
+    "name:deu_x_preferred":[
+        "Bet Schemesch"
+    ],
+    "name:dut_x_preferred":[
+        "Bet Shemesh"
+    ],
+    "name:eng_x_preferred":[
+        "Bet Shemesh"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062a \u0634\u0645\u0634"
+    ],
+    "name:fra_x_preferred":[
+        "Bet Shemesh"
+    ],
+    "name:fre_x_preferred":[
+        "Bet Shemesh"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10d4\u10d8\u10d7-\u10e8\u10d4\u10db\u10d4\u10e8\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Bet Schemesch"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05e9\u05de\u05e9"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e9t Semes"
+    ],
+    "name:ind_x_preferred":[
+        "Bet-Semes"
+    ],
+    "name:ita_x_preferred":[
+        "Bet Shemesh"
+    ],
+    "name:jav_x_preferred":[
+        "Beit Shemesh"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30c8\u30fb\u30b7\u30a7\u30e1\u30b7\u30e5"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10d8\u10d7-\u10e8\u10d4\u10db\u10d4\u10e8\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\uc774\ud2b8\uc170\uba54\uc2dc"
+    ],
+    "name:lad_x_preferred":[
+        "Bet Shemesh"
+    ],
+    "name:nld_x_preferred":[
+        "Bet Shemesh"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Shemesh"
+    ],
+    "name:nob_x_preferred":[
+        "Beit Shemesh"
+    ],
+    "name:nor_x_preferred":[
+        "Beit Shemesh"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u062a \u0634\u0645\u0634"
+    ],
+    "name:pol_x_preferred":[
+        "Bet Szemesz"
+    ],
+    "name:pol_x_variant":[
+        "Bet Shemesh",
+        "Beit Szemesz"
+    ],
+    "name:por_x_preferred":[
+        "Bete-Semes"
+    ],
+    "name:ron_x_preferred":[
+        "Beit \u0218eme\u0219"
+    ],
+    "name:ron_x_variant":[
+        "Beit \u015eeme\u0219"
+    ],
+    "name:rum_x_preferred":[
+        "Beit \u0218eme\u0219"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0439\u0442-\u0428\u0435\u043c\u0435\u0448"
+    ],
+    "name:sco_x_preferred":[
+        "Beit Shemesh"
+    ],
+    "name:spa_x_preferred":[
+        "Beit Shemesh"
+    ],
+    "name:spa_x_variant":[
+        "Bet Shemesh"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0442 \u0428\u0435\u043c\u0435\u0448"
+    ],
+    "name:swe_x_preferred":[
+        "Bet Shemesh"
+    ],
+    "name:tgl_x_preferred":[
+        "Beit Shemesh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0439\u0442-\u0428\u0435\u043c\u0435\u0448"
+    ],
+    "name:unk_x_variant":[
+        "Maabarat Hartuv"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u062a \u0634\u0645\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Beit Shemesh"
+    ],
+    "name:war_x_preferred":[
+        "Beit Shemesh"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05e9\u05de\u05e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u7279\u8b1d\u6885\u4ec0"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295432,
+    "qs:gn_pop":67100,
+    "qs:name":"Bet Shemesh",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Jerusalem",
+    "qs:photos":176,
+    "qs:photos_1k":36,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":176,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":8086,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967202,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":31.751389,
+    "wd:longitude":34.988611,
+    "wd:wordcount":4245,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295432,
+        "gp:id":1967202,
+        "qs:id":8086,
+        "wd:id":"Q152449",
+        "wk:page":"Beit Shemesh"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010108,
+    "wof:geomhash":"334d1a835fbac24c0fff10c45a73fc27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421202185,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":421202185,
+    "wof:lastmodified":1549930399,
+    "wof:name":"Bet Shemesh",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:population":67100,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.98877,
+    31.74959,
+    34.98877,
+    31.74959
+],
+  "geometry": {"coordinates":[34.98877,31.74959],"type":"Point"}
+}

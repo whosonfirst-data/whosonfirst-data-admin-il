@@ -1,0 +1,70 @@
+{
+  "id": 1292921471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.43185,30.91086,34.43185,30.91086",
+    "geom:latitude":30.91086,
+    "geom:longitude":34.43185,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kemehin",
+    "gn:country_code":"IL",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8184854,
+    "gn:latitude":30.91086,
+    "gn:longitude":34.43185,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kemehin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05db\u05de\u05d4\u05d9\u05df"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8184854
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"bedaf392fae4cb9319031362adae2afe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1292921471,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1292921471,
+    "wof:lastmodified":1549930362,
+    "wof:name":"Kemehin",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.43185,
+    30.91086,
+    34.43185,
+    30.91086
+],
+  "geometry": {"coordinates":[34.43185,30.91086],"type":"Point"}
+}

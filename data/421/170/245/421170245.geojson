@@ -1,0 +1,84 @@
+{
+  "id": 421170245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.80332,32.04928,34.80332,32.04928",
+    "geom:latitude":32.04928,
+    "geom:longitude":34.80332,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05e9\u05dc\u05dd"
+    ],
+    "name:unk_x_variant":[
+        "Salamah"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294512,
+    "qs:gn_pop":0,
+    "qs:name":"Kfar Shalem",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Tel Aviv",
+    "qs:photos":44,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":44,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":487651,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":22725120,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        1125955239,
+        1108720837,
+        85672549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294512,
+        "gp:id":22725120,
+        "qs:id":487651
+    },
+    "wof:country":"IL",
+    "wof:created":1459008845,
+    "wof:geomhash":"e8adf74f2ef4df29585890aa58164aa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720837,
+            "locality_id":1125955239,
+            "neighbourhood_id":421170245,
+            "region_id":85672549
+        }
+    ],
+    "wof:id":421170245,
+    "wof:lastmodified":1549930535,
+    "wof:name":"Kfar Shalem",
+    "wof:parent_id":1125955239,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.80332,
+    32.04928,
+    34.80332,
+    32.04928
+],
+  "geometry": {"coordinates":[34.80332,32.04928],"type":"Point"}
+}

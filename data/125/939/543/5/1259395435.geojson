@@ -1,0 +1,80 @@
+{
+  "id": 1259395435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.9393,32.17217,34.9393,32.17217",
+    "geom:latitude":32.17217,
+    "geom:longitude":34.9393,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Newe Yamin",
+    "gn:country_code":"IL",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294044,
+    "gn:latitude":32.17217,
+    "gn:longitude":34.9393,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"New\u00e9 Yamin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "New\u00e9 Yamin"
+    ],
+    "name:heb_x_variant":[
+        "\u05e0\u05d5\u05d4 \u05d9\u05de\u05d9\u05df",
+        "Nev\u00e9 Yamin"
+    ],
+    "name:und_x_variant":[
+        "Yamin",
+        "Neweh Yamin",
+        "Nabi Yamin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294044,
+        "wk:page":"Neve_Yamin"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"1a0a097cbde6801d7a16052823174591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720821,
+            "locality_id":1259395435,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1259395435,
+    "wof:lastmodified":1549930347,
+    "wof:name":"Newe Yamin",
+    "wof:parent_id":1108720821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.9393,
+    32.17217,
+    34.9393,
+    32.17217
+],
+  "geometry": {"coordinates":[34.9393,32.17217],"type":"Point"}
+}

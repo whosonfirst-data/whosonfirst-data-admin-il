@@ -1,0 +1,112 @@
+{
+  "id": 421200381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.22069,32.77732,35.22069,32.77732",
+    "geom:latitude":32.77732,
+    "geom:longitude":35.22069,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0626\u0631 \u0627\u0644\u0645\u0643\u0633\u0648\u0631"
+    ],
+    "name:ces_x_preferred":[
+        "Bir al-Maksur"
+    ],
+    "name:cze_x_preferred":[
+        "Bir al-Maksur"
+    ],
+    "name:eng_x_preferred":[
+        "Bir al-Maksur"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05e8 \u05d0\u05dc-\u05de\u05db\u05e1\u05d5\u05e8"
+    ],
+    "name:heb_x_variant":[
+        "B\u012br el Maks\u016br",
+        "\u05d1\u05d9\u05e8 \u05d0\u05dc \u05de\u05db\u05e1\u05d5\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Bir al-Maksur"
+    ],
+    "name:pol_x_preferred":[
+        "Bir al-Maksur"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0440-\u0430\u043b\u044c-\u041c\u0430\u043a\u0441\u0443\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Bir al-Maksur"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295404,
+    "qs:gn_pop":7106,
+    "qs:name":"Bir el Maksur",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1301579,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967215,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":157,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295404,
+        "gp:id":1967215,
+        "qs:id":1301579,
+        "wd:id":"Q2467031"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010020,
+    "wof:geomhash":"42f9523a306dd20793dfa49094c86eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":421200381,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421200381,
+    "wof:lastmodified":1549930396,
+    "wof:name":"Bir el Maksur",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:population":7106,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.22069,
+    32.77732,
+    35.22069,
+    32.77732
+],
+  "geometry": {"coordinates":[35.22069,32.77732],"type":"Point"}
+}

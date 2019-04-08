@@ -1,0 +1,168 @@
+{
+  "id": 421199243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.92087,32.5064,34.92087,32.5064",
+    "geom:latitude":32.5064,
+    "geom:longitude":34.92087,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0631 \u0639\u0642\u064a\u0641\u0627"
+    ],
+    "name:arm_x_preferred":[
+        "\u0555\u057c \u0531\u056f\u056b\u057e\u0561"
+    ],
+    "name:cat_x_preferred":[
+        "Or Aqiva"
+    ],
+    "name:ces_x_preferred":[
+        "Or Akiva"
+    ],
+    "name:cze_x_preferred":[
+        "Or Akiva"
+    ],
+    "name:dut_x_preferred":[
+        "Or Akiva"
+    ],
+    "name:eng_x_preferred":[
+        "Or Akiva"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631 \u0639\u0642\u06cc\u0641\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Or Aqiva"
+    ],
+    "name:fre_x_preferred":[
+        "Or Aqiva"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e8 \u05e2\u05e7\u05d9\u05d1\u05d0"
+    ],
+    "name:heb_x_variant":[
+        "Or \u2018Aqiva"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u057c \u0531\u056f\u056b\u057e\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Or Akiva"
+    ],
+    "name:nno_x_preferred":[
+        "Or Akiva"
+    ],
+    "name:nob_x_preferred":[
+        "Or Akiva"
+    ],
+    "name:nor_x_preferred":[
+        "Or Akiva"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0648\u0631 \u0639\u0642\u06cc\u0641\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Or Akiwa"
+    ],
+    "name:por_x_preferred":[
+        "Or Aqiva"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440-\u0410\u043a\u0438\u0432\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Or Akiva"
+    ],
+    "name:spa_x_preferred":[
+        "Or Akiva"
+    ],
+    "name:swe_x_preferred":[
+        "Or \u2018Aqiva"
+    ],
+    "name:tgl_x_preferred":[
+        "Or Akiva"
+    ],
+    "name:unk_x_variant":[
+        "Or \u2018Aq\u012bv\u0101h"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0631 \u0639\u06a9\u06cc\u0648\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Or Akiva"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d0\u05d5\u05e8 \u05e2\u05e7\u05d9\u05d1\u05d0"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293969,
+    "qs:gn_pop":0,
+    "qs:name":"Or Akiva",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Haifa",
+    "qs:photos":1973,
+    "qs:photos_1k":400,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":1973,
+    "qs:photos_sr":15,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":460342,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967802,
+    "src:geom":"quattroshapes",
+    "wd:latitude":32.5,
+    "wd:longitude":34.916667,
+    "wd:wordcount":476,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293969,
+        "gp:id":1967802,
+        "qs:id":460342,
+        "wd:id":"Q1814658",
+        "wk:page":"Or Akiva"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009983,
+    "wof:geomhash":"b0e98b05c9687c044013d738c9f67341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":421199243,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":421199243,
+    "wof:lastmodified":1549930391,
+    "wof:name":"Or Akiva",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.92087,
+    32.5064,
+    34.92087,
+    32.5064
+],
+  "geometry": {"coordinates":[34.92087,32.5064],"type":"Point"}
+}

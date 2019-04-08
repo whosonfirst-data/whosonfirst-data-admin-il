@@ -1,0 +1,78 @@
+{
+  "id": 1360191995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.19921,32.83907,35.19921,32.83907",
+    "geom:latitude":32.83907,
+    "geom:longitude":35.19921,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mizpe Aviv",
+    "gn:country_code":"IL",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8262022,
+    "gn:latitude":32.83907,
+    "gn:longitude":35.19921,
+    "gn:modification_date":"2018-04-16",
+    "gn:name":"Mi\u1e95p\u00e9 Aviv",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Mi\u1e95p\u00e9 Aviv"
+    ],
+    "name:heb_x_variant":[
+        "Mitsp\u00e9 Aviv",
+        "Mi\u1e95p\u00e9 Avraham Ya\u2019akov Brower",
+        "\u05de\u05e6\u05e4\u05d4 \u05d0\u05d1\u05d9\u2019\u2019\u05d1",
+        "\u05de\u05e6\u05e4\u05d4 \u05d0\u05d1\u05e8\u05d4\u05dd \u05d9\u05e2\u05e7\u05d1 \u05d1\u05e8\u05d5\u05e8",
+        "\u05de\u05e6\u05e4\u05d4 \u05d0\u05d1\u05d9\u05d1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8262022,
+        "wk:page":"Mitzpe_Aviv"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"a3148fe20556092374b3a2febc644938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":1360191995,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1360191995,
+    "wof:lastmodified":1549930442,
+    "wof:name":"Mizpe Aviv",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.19921,
+    32.83907,
+    35.19921,
+    32.83907
+],
+  "geometry": {"coordinates":[35.19921,32.83907],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 421176695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.94446,31.77118,34.94446,31.77118",
+    "geom:latitude":31.77118,
+    "geom:longitude":34.94446,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Giv'at \u0160eme\u0161"
+    ],
+    "name:cze_x_preferred":[
+        "Giv'at \u0160eme\u0161"
+    ],
+    "name:dut_x_preferred":[
+        "Givat Shemesh"
+    ],
+    "name:eng_x_preferred":[
+        "Givat Shemesh"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d1\u05e2\u05ea \u05e9\u05de\u05e9"
+    ],
+    "name:heb_x_variant":[
+        "Giv\u2018at Shemesh"
+    ],
+    "name:nno_x_preferred":[
+        "Givat Shemesh"
+    ],
+    "name:pol_x_preferred":[
+        "Giwat Szemesz"
+    ],
+    "name:unk_x_variant":[
+        "Givat Hahamisch"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294982,
+    "qs:gn_pop":0,
+    "qs:name":"Givat Shemesh",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Jerusalem",
+    "qs:photos":40,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":40,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1333210,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967394,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":250,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294982,
+        "gp:id":1967394,
+        "qs:id":1333210,
+        "wd:id":"Q2919832",
+        "wk:page":"Givat Shemesh"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009116,
+    "wof:geomhash":"d3649c1e99aa5584a6600c1be3bc8392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421176695,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":421176695,
+    "wof:lastmodified":1549930323,
+    "wof:name":"Givat Shemesh",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.94446,
+    31.77118,
+    34.94446,
+    31.77118
+],
+  "geometry": {"coordinates":[34.94446,31.77118],"type":"Point"}
+}

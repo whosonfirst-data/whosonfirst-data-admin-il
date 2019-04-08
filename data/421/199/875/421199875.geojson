@@ -1,0 +1,106 @@
+{
+  "id": 421199875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.57151,32.90459,35.57151,32.90459",
+    "geom:latitude":32.90459,
+    "geom:longitude":35.57151,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Amnun"
+    ],
+    "name:cze_x_preferred":[
+        "Amnun"
+    ],
+    "name:eng_x_preferred":[
+        "Amnun"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0646\u0627\u0646"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05de\u05e0\u05d5\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Amnun"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0645\u0646\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Amnun"
+    ],
+    "name:unk_x_variant":[
+        "Amnun"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":8140364,
+    "qs:gn_pop":0,
+    "qs:name":"Amnon",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":468,
+    "qs:photos_1k":95,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":468,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":505290,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":22528336,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":116,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140364,
+        "gp:id":22528336,
+        "qs:id":505290,
+        "wd:id":"Q2889113",
+        "wk:page":"Amnun"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010003,
+    "wof:geomhash":"959b9803708bcad6966f69903393e73f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720825,
+            "locality_id":421199875,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421199875,
+    "wof:lastmodified":1549930394,
+    "wof:name":"Amnon",
+    "wof:parent_id":1108720825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.57151,
+    32.90459,
+    35.57151,
+    32.90459
+],
+  "geometry": {"coordinates":[35.57151,32.90459],"type":"Point"}
+}

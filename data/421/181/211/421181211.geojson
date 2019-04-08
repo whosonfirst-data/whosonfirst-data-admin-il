@@ -1,0 +1,100 @@
+{
+  "id": 421181211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.94483,32.62899,34.94483,32.62899",
+    "geom:latitude":32.62899,
+    "geom:longitude":34.94483,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Ejn Ajala"
+    ],
+    "name:cze_x_preferred":[
+        "Ejn Ajala"
+    ],
+    "name:eng_x_preferred":[
+        "Ein Ayala"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d9\u05df \u05d0\u05d9\u05dc\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Ein Ayala"
+    ],
+    "name:pol_x_preferred":[
+        "En Ajjala"
+    ],
+    "name:unk_x_variant":[
+        "Ain Ayala"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295225,
+    "qs:gn_pop":0,
+    "qs:name":"En Ayyala",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Haifa",
+    "qs:photos":225,
+    "qs:photos_1k":46,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":225,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":479250,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967274,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":224,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295225,
+        "gp:id":1967274,
+        "qs:id":479250,
+        "wd:id":"Q2889931",
+        "wk:page":"Ein Ayala"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009288,
+    "wof:geomhash":"e327426075a0c530efa6005a0cc3e73d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":421181211,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":421181211,
+    "wof:lastmodified":1549930341,
+    "wof:name":"En Ayyala",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.94483,
+    32.62899,
+    34.94483,
+    32.62899
+],
+  "geometry": {"coordinates":[34.94483,32.62899],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 421184077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.84379,32.27201,34.84379,32.27201",
+    "geom:latitude":32.27201,
+    "geom:longitude":34.84379,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:heb_x_preferred":[
+        "\u05e8\u05de\u05ea \u05e4\u05d5\u05dc\u05d2"
+    ],
+    "name:unk_x_variant":[
+        "Ramat Poleg"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":8142265,
+    "qs:gn_pop":0,
+    "qs:name":"Ramat Polin",
+    "qs:name_adm0":"Palestine",
+    "qs:name_adm1":"West Bank",
+    "qs:photos":20,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":20,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":989428,
+    "qs:woe_adm0":28289408,
+    "qs:woe_id":22724621,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421182059,
+        1108720805,
+        85672541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142265,
+        "gp:id":22724621,
+        "qs:id":989428
+    },
+    "wof:country":"IL",
+    "wof:created":1459009399,
+    "wof:geomhash":"5a30f97b22ead9ba733b58b68520ef6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":421182059,
+            "neighbourhood_id":421184077,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421184077,
+    "wof:lastmodified":1549930540,
+    "wof:name":"Ramat Polin",
+    "wof:parent_id":421182059,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.84379,
+    32.27201,
+    34.84379,
+    32.27201
+],
+  "geometry": {"coordinates":[34.84379,32.27201],"type":"Point"}
+}

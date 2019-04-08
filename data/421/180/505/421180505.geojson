@@ -1,0 +1,109 @@
+{
+  "id": 421180505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.10092,32.99556,35.10092,32.99556",
+    "geom:latitude":32.99556,
+    "geom:longitude":35.10092,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Evron"
+    ],
+    "name:cze_x_preferred":[
+        "Evron"
+    ],
+    "name:dut_x_preferred":[
+        "Evron"
+    ],
+    "name:eng_x_preferred":[
+        "Evron"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10d5\u10e0\u10dd\u10dc\u10d8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d1\u05e8\u05d5\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u2018Evron"
+    ],
+    "name:nno_x_preferred":[
+        "Evron i Israel"
+    ],
+    "name:pol_x_preferred":[
+        "Evron"
+    ],
+    "name:unk_x_variant":[
+        "Ga\u2018aton"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295119,
+    "qs:gn_pop":0,
+    "qs:name":"Evron",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":18,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":18,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":433579,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967324,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":232,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295119,
+        "gp:id":1967324,
+        "qs:id":433579,
+        "wd:id":"Q2889411",
+        "wk:page":"Evron, Israel"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009261,
+    "wof:geomhash":"a9e1562c4be45d8f0af5ffa5d2603945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":421180505,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421180505,
+    "wof:lastmodified":1549930339,
+    "wof:name":"Evron",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.10092,
+    32.99556,
+    35.10092,
+    32.99556
+],
+  "geometry": {"coordinates":[35.10092,32.99556],"type":"Point"}
+}

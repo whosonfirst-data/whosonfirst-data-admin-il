@@ -1,0 +1,106 @@
+{
+  "id": 421173543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.44691,33.00514,35.44691,33.00514",
+    "geom:latitude":33.00514,
+    "geom:longitude":35.44691,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Or ha-Ganuz"
+    ],
+    "name:cze_x_preferred":[
+        "Or ha-Ganuz"
+    ],
+    "name:dut_x_preferred":[
+        "Or HaGanuz"
+    ],
+    "name:eng_x_preferred":[
+        "Or HaGanuz"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e8 \u05d4\u05d2\u05e0\u05d5\u05d6"
+    ],
+    "name:nno_x_preferred":[
+        "Or HaGanuz"
+    ],
+    "name:pol_x_preferred":[
+        "Or ha-Ganuz"
+    ],
+    "name:unk_x_variant":[
+        "Or HaGanuz"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d0\u05d5\u05e8 \u05d4\u05d2\u05e0\u05d5\u05d6"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":8134533,
+    "qs:gn_pop":0,
+    "qs:name":"Or Haganouz",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":133,
+    "qs:photos_1k":27,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":133,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":290595,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":22528338,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":439,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8134533,
+        "gp:id":22528338,
+        "qs:id":290595,
+        "wd:id":"Q2919917",
+        "wk:page":"Or HaGanuz"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008989,
+    "wof:geomhash":"e4b0a5e63367c055ba5c9bebbe540f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720839,
+            "locality_id":421173543,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421173543,
+    "wof:lastmodified":1549930320,
+    "wof:name":"Or Haganouz",
+    "wof:parent_id":1108720839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.44691,
+    33.00514,
+    35.44691,
+    33.00514
+],
+  "geometry": {"coordinates":[35.44691,33.00514],"type":"Point"}
+}

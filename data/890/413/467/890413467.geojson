@@ -1,0 +1,96 @@
+{
+  "id": 890413467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.03222,31.91764,35.03222,31.91764",
+    "geom:latitude":31.91764,
+    "geom:longitude":35.03222,
+    "gn:country":"IL",
+    "gn:fcode":"PPL",
+    "gn:pop":2497,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u043f\u0438\u0434"
+    ],
+    "name:cze_x_preferred":[
+        "Lapid"
+    ],
+    "name:dut_x_preferred":[
+        "Lapid"
+    ],
+    "name:eng_x_preferred":[
+        "Lapid"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05e4\u05d9\u05d3"
+    ],
+    "name:nno_x_preferred":[
+        "Lapid"
+    ],
+    "name:pol_x_preferred":[
+        "Lapid"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043f\u0438\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Lapid"
+    ],
+    "qs:name":"Lapid",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":73,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8199383,
+        "gp:id":1937180,
+        "qs:id":759669,
+        "wd:id":"Q2509463",
+        "wk:page":"Lapid"
+    },
+    "wof:country":"IL",
+    "wof:created":1469051001,
+    "wof:geomhash":"80db6103e5423914a09b416546650e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720815,
+            "locality_id":890413467,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":890413467,
+    "wof:lastmodified":1549930508,
+    "wof:name":"Lapid",
+    "wof:parent_id":1108720815,
+    "wof:placetype":"locality",
+    "wof:population":2497,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.03222,
+    31.91764,
+    35.03222,
+    31.91764
+],
+  "geometry": {"coordinates":[35.03222,31.91764],"type":"Point"}
+}

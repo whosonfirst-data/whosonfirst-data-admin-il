@@ -1,0 +1,82 @@
+{
+  "id": 1209207149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-02-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.15613,31.75519,35.15613,31.75519",
+    "geom:latitude":31.75519,
+    "geom:longitude":35.15613,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ora",
+    "gn:country_code":"IL",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293976,
+    "gn:latitude":31.75519,
+    "gn:longitude":35.15613,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Ora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e8\u05d4"
+    ],
+    "name:und_x_variant":[
+        "Jorah",
+        "Oran",
+        "J\u016bra",
+        "Orah",
+        "Jurah",
+        "Ora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293976,
+        "wk:page":"Ora%2C_Israel"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"93b0c2b9be340c4dd9fc7a5e0f94a402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":1209207149,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":1209207149,
+    "wof:lastmodified":1549930767,
+    "wof:name":"Ora",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[
+        1376891439
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.15613,
+    31.75519,
+    35.15613,
+    31.75519
+],
+  "geometry": {"coordinates":[35.15613,31.75519],"type":"Point"}
+}

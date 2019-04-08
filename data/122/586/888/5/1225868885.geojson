@@ -1,0 +1,79 @@
+{
+  "id": 1225868885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.04026,32.54864,35.04026,32.54864",
+    "geom:latitude":32.54864,
+    "geom:longitude":35.04026,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Giv`a Nili",
+    "gn:country_code":"IL",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294989,
+    "gn:latitude":32.54864,
+    "gn:longitude":35.04026,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Giv\u2018a Nili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Giv\u2018a Nili"
+    ],
+    "name:heb_x_variant":[
+        "\u05d2\u05d1\u05e2\u05ea \u05e0\u05d9\u05dc\u05d9",
+        "Giv\u2019at Nili",
+        "\u05d2\u05d1\u05e2\u05ea \u05e0\u05d9\u05dc\u2019\u2019\u05d9"
+    ],
+    "name:und_x_variant":[
+        "Umm el Shuf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294989,
+        "wk:page":"Givat_Nili"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"4ff6cf2a763db63c0cb13ffd92282ced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":1225868885,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1225868885,
+    "wof:lastmodified":1549930410,
+    "wof:name":"Giv`a Nili",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.04026,
+    32.54864,
+    35.04026,
+    32.54864
+],
+  "geometry": {"coordinates":[35.04026,32.54864],"type":"Point"}
+}

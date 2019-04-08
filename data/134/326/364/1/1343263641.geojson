@@ -1,0 +1,82 @@
+{
+  "id": 1343263641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.53816,32.74311,35.53816,32.74311",
+    "geom:latitude":32.74311,
+    "geom:longitude":35.53816,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Poriyya",
+    "gn:country_code":"IL",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293906,
+    "gn:latitude":32.74311,
+    "gn:longitude":35.53816,
+    "gn:modification_date":"2018-04-16",
+    "gn:name":"Poriyya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8\u05d9\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "New\u00e9 \u2018Oved",
+        "\u05e0\u05d5\u05d4 \u05e2\u05d5\u05d1\u05d3"
+    ],
+    "name:und_x_variant":[
+        "Newe \u2018Oved",
+        "Neveh Oved",
+        "Newe Oved-Poriyya",
+        "Poriya",
+        "Poriyya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293906,
+        "wk:page":"Poria,_Israel"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"419b38b5889309377f29871ecdc858e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720825,
+            "locality_id":1343263641,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1343263641,
+    "wof:lastmodified":1549930335,
+    "wof:name":"Poriyya",
+    "wof:parent_id":1108720825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.53816,
+    32.74310999999999,
+    35.53816,
+    32.74310999999999
+],
+  "geometry": {"coordinates":[35.53816,32.74310999999999],"type":"Point"}
+}

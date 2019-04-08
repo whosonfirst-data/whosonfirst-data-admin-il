@@ -1,0 +1,74 @@
+{
+  "id": 1343264929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.87425,32.38565,34.87425,32.38565",
+    "geom:latitude":32.38565,
+    "geom:longitude":34.87425,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hofit",
+    "gn:country_code":"IL",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294757,
+    "gn:latitude":32.38565,
+    "gn:longitude":34.87425,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"H\u0331ofit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "H\u0331ofit"
+    ],
+    "name:heb_x_variant":[
+        "\u05d7\u05d5\u05e4\u05d9\u05ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294757,
+        "wk:page":"Hofit"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"4dcbe81af452e6e1ca9384409de68457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":1343264929,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1343264929,
+    "wof:lastmodified":1549930338,
+    "wof:name":"Hofit",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.87425,
+    32.38565,
+    34.87425,
+    32.38565
+],
+  "geometry": {"coordinates":[34.87425,32.38565],"type":"Point"}
+}

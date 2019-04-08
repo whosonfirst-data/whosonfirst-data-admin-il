@@ -1,0 +1,78 @@
+{
+  "id": 1326947809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.67995,31.733,34.67995,31.733",
+    "geom:latitude":31.733,
+    "geom:longitude":34.67995,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Giv`ati",
+    "gn:country_code":"IL",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294992,
+    "gn:latitude":31.733,
+    "gn:longitude":34.67995,
+    "gn:modification_date":"2018-04-15",
+    "gn:name":"Giv\u2018ati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Giv\u2018ati"
+    ],
+    "name:heb_x_variant":[
+        "\u05d2\u05d1\u05e2\u05ea\u05d9"
+    ],
+    "name:und_x_variant":[
+        "Mesillat Oz",
+        "Giv\u2018ati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294992,
+        "wk:page":"Giv%27ati"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"27b125ce06c290639c89663d9800847f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720841,
+            "locality_id":1326947809,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1326947809,
+    "wof:lastmodified":1549930474,
+    "wof:name":"Giv`ati",
+    "wof:parent_id":1108720841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.67995,
+    31.733,
+    34.67995,
+    31.733
+],
+  "geometry": {"coordinates":[34.67995,31.733],"type":"Point"}
+}

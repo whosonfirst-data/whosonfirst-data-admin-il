@@ -1,0 +1,76 @@
+{
+  "id": 1293224749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.96667,32.68333,34.96667,32.68333",
+    "geom:latitude":32.68333,
+    "geom:longitude":34.96667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Mazar",
+    "gn:cc2":"IL",
+    "gn:country_code":"IL",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":295250,
+    "gn:latitude":32.68333,
+    "gn:longitude":34.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Maz\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Al Mazar",
+        "Maz\u0101r",
+        "El Maz\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672535,
+        102191569,
+        85632315,
+        136253049,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295250,
+        "wk:page":"Al-Mazar%2C_Haifa"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"6b8ebee0b9d0cb238889f2a7067996cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "empire_id":136253049,
+            "locality_id":1293224749,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1293224749,
+    "wof:lastmodified":1537636854,
+    "wof:name":"El Mazar",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.96667,
+    32.68333,
+    34.96667,
+    32.68333
+],
+  "geometry": {"coordinates":[34.96667,32.68333],"type":"Point"}
+}

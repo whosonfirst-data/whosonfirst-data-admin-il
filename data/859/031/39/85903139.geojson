@@ -1,0 +1,349 @@
+{
+  "id": 85903139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":490423.006048,
+    "geom:bbox":"34.7593688965,32.0629114838,34.7703552246,32.0709381508",
+    "geom:latitude":32.066459,
+    "geom:longitude":34.764755,
+    "gn:latitude":32.08088,
+    "gn:longitude":34.78057,
+    "gn:population":250000,
+    "iso:country":"IL",
+    "lbl:latitude":32.066947,
+    "lbl:longitude":34.766268,
+    "mps:latitude":32.066263,
+    "mps:longitude":34.764753,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:note":"old historic center, name is for whole city",
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:als_x_preferred":[
+        "Tel Aviv-Jaffa"
+    ],
+    "name:amh_x_preferred":[
+        "\u1274\u120d \u12a0\u126a\u126d"
+    ],
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0623\u0628\u064a\u0628"
+    ],
+    "name:arc_x_preferred":[
+        "\u072c\u0720 \u0710\u0712\u071d\u0712"
+    ],
+    "name:arz_x_preferred":[
+        "\u062a\u0644 \u0627\u0628\u064a\u0628"
+    ],
+    "name:aze_x_preferred":[
+        "Tel-\u018fviv"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u044d\u043b\u044c-\u0410\u0432\u0456\u045e"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09c7\u09b2 \u0986\u09ad\u09bf\u09ad"
+    ],
+    "name:bos_x_preferred":[
+        "Tel Aviv"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0435\u043b \u0410\u0432\u0438\u0432"
+    ],
+    "name:cat_x_preferred":[
+        "Tel Aviv"
+    ],
+    "name:ces_x_preferred":[
+        "Tel Aviv"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0435\u043b\u044c-\u0410\u0432\u0438\u0432"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062a\u06ce\u0644 \u0626\u06d5\u06a4\u06cc\u06a4"
+    ],
+    "name:dan_x_preferred":[
+        "Tel Aviv"
+    ],
+    "name:deu_x_preferred":[
+        "Tel Aviv"
+    ],
+    "name:diq_x_preferred":[
+        "Tel Eviv"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03bb \u0391\u03b2\u03af\u03b2"
+    ],
+    "name:eng_x_preferred":[
+        "Tell Afif"
+    ],
+    "name:eng_x_variant":[
+        "Tel Aviv",
+        "Tel Aviv Yafo",
+        "Tel Aviv Yaffo"
+    ],
+    "name:epo_x_preferred":[
+        "Tel-Avivo"
+    ],
+    "name:fao_x_preferred":[
+        "Tel Aviv-Jaffa"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0644\u200c\u0622\u0648\u06cc\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Tel Aviv"
+    ],
+    "name:fra_x_preferred":[
+        "Tel-Aviv"
+    ],
+    "name:glg_x_preferred":[
+        "Tel Aviv"
+    ],
+    "name:glv_x_preferred":[
+        "Tel Aviv-Yafo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1-\u05d9\u05e4\u05d5"
+    ],
+    "name:heb_x_variant":[
+        "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u0947\u0932 \u0905\u0935\u093f\u0935"
+    ],
+    "name:hrv_x_preferred":[
+        "Tel Aviv"
+    ],
+    "name:hun_x_preferred":[
+        "Tel-Aviv"
+    ],
+    "name:hye_x_preferred":[
+        "\u0539\u0565\u056c \u0531\u057e\u056b\u057e"
+    ],
+    "name:ido_x_preferred":[
+        "Tel Aviv"
+    ],
+    "name:ind_x_preferred":[
+        "Tel Aviv"
+    ],
+    "name:isl_x_preferred":[
+        "Tel Av\u00edv"
+    ],
+    "name:ita_x_preferred":[
+        "Tel Aviv"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30eb\u30a2\u30d3\u30d6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d4\u10da-\u10d0\u10d5\u10d8\u10d5\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0435\u043b\u044c-\u0410\u0432\u0438\u0432"
+    ],
+    "name:kor_x_preferred":[
+        "\ud154\uc544\ube44\ube0c"
+    ],
+    "name:lad_x_preferred":[
+        "Tel Aviv"
+    ],
+    "name:lat_x_preferred":[
+        "Telavivum"
+    ],
+    "name:lav_x_preferred":[
+        "Telaviva"
+    ],
+    "name:lit_x_preferred":[
+        "Tel Avivas"
+    ],
+    "name:ltz_x_preferred":[
+        "Tel Aviv"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1f\u0d46\u0d7d \u0d05\u0d35\u0d40\u0d35\u0d4d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0924\u0947\u0932 \u0905\u0935\u0940\u0935"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0435\u043b \u0410\u0432\u0438\u0432"
+    ],
+    "name:mon_x_preferred":[
+        "\u0422\u0435\u043b-\u0410\u0432\u0438\u0432"
+    ],
+    "name:new_x_preferred":[
+        "\u0924\u0947\u0932 \u0905\u092d\u093f\u0935"
+    ],
+    "name:nld_x_preferred":[
+        "Tel Aviv"
+    ],
+    "name:nno_x_preferred":[
+        "Tel Aviv"
+    ],
+    "name:nor_x_preferred":[
+        "Tel Aviv"
+    ],
+    "name:oss_x_preferred":[
+        "\u0422\u0435\u043b\u044c-\u0410\u0432\u0438\u0432"
+    ],
+    "name:pol_x_preferred":[
+        "Tel Awiw"
+    ],
+    "name:por_x_preferred":[
+        "Tel Aviv"
+    ],
+    "name:ron_x_preferred":[
+        "Tel Aviv"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043b\u044c-\u0410\u0432\u0438\u0432"
+    ],
+    "name:sah_x_preferred":[
+        "\u0422\u0435\u043b\u044c-\u0410\u0432\u0438\u0432"
+    ],
+    "name:scn_x_preferred":[
+        "Tel Aviv"
+    ],
+    "name:sgs_x_preferred":[
+        "Tel Av\u0117vs"
+    ],
+    "name:slk_x_preferred":[
+        "Tel Aviv-Jafo"
+    ],
+    "name:spa_x_preferred":[
+        "Tel Aviv"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0435\u043b \u0410\u0432\u0438\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Tel Aviv"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bc6\u0bb2\u0bcd \u0b85\u0bb5\u0bc0\u0bb5\u0bcd"
+    ],
+    "name:tgl_x_preferred":[
+        "Tel Aviv"
+    ],
+    "name:tgl_x_variant":[
+        "Lungsod ng Tel Aviv-Yafo"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e17\u0e25\u0e2d\u0e32\u0e27\u0e35\u0e1f"
+    ],
+    "name:tur_x_preferred":[
+        "Tel Aviv"
+    ],
+    "name:uig_x_preferred":[
+        "\u062a\u06d0\u0644\u0627\u06cb\u0649\u0641"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u043b\u044c-\u0410\u0432\u0456\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Tell Ab\u012bb",
+        "Tell Afif"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0644 \u0627\u0628\u06cc\u0628"
+    ],
+    "name:uzb_x_preferred":[
+        "Tel-aviv"
+    ],
+    "name:yid_x_preferred":[
+        "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1-\u05d9\u05e4\u05d5"
+    ],
+    "name:yue_x_preferred":[
+        "\u7279\u62c9\u7dad\u592b"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u62c9\u7ef4\u592b"
+    ],
+    "qs:gn_adm0_cc":"IL",
+    "qs:gn_id":0,
+    "qs:gn_local":293397,
+    "qs:gn_nam_loc":"Tel Aviv, Tel Aviv, IL",
+    "qs:gn_namadm1":"05",
+    "qs:id":0,
+    "qs:local_max":26418,
+    "qs:local_sum":66569,
+    "qs:localhoods":45,
+    "qs:name":"Tell Afif",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Tel Aviv",
+    "qs:name_local":"Tel Aviv",
+    "qs:photo_max":347,
+    "qs:photo_sum":2708,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":53,
+    "qs:woe_adm0":23424852,
+    "qs:woe_adm1":2345795,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1968212,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        1125955239,
+        1108720837,
+        85672549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11825f9c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":293397,
+        "gp:id":1968212,
+        "loc:id":"n79066414",
+        "qs:id":1146174,
+        "wd:id":"Q33935",
+        "wk:page":"Tel Aviv"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"2df10cf846decc2e8ec33eb99f7150a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720837,
+            "locality_id":1125955239,
+            "neighbourhood_id":85903139,
+            "region_id":85672549
+        }
+    ],
+    "wof:id":85903139,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549930540,
+    "wof:name":"Tell Afif",
+    "wof:parent_id":1125955239,
+    "wof:placetype":"neighbourhood",
+    "wof:population":250000,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.75936889650006,
+    32.06291148377554,
+    34.77035522460011,
+    32.07093815080009
+],
+  "geometry": {"coordinates":[[[34.76348876950004,32.07093815080009],[34.76393115885099,32.07093814833371],[34.76486206051578,32.0709381484879],[34.76486206051578,32.06977442617215],[34.76623535158467,32.06977442617215],[34.76623535159229,32.06895872883793],[34.76673132816421,32.06876363380091],[34.76726531982541,32.06888966305834],[34.76760864260024,32.0691327495427],[34.76782984248194,32.06887171867166],[34.76829528810009,32.06868863315931],[34.76829528810009,32.06861069130002],[34.76829528810009,32.06802881662199],[34.7689819336,32.06802881662199],[34.7689819336,32.06744693884598],[34.77035522460011,32.06744693940003],[34.77035522460011,32.0670988992667],[34.77035522460011,32.06663120867093],[34.77035522460011,32.06628317260004],[34.77006028619786,32.06628317152098],[34.76927687223093,32.06628317158848],[34.76911250185123,32.06570128275004],[34.7689819336,32.0657012831221],[34.76829528810009,32.06570128310629],[34.76829528810009,32.06511939100005],[34.76829528810009,32.06504143601047],[34.76760864260007,32.06477135236862],[34.76760864260007,32.0639555947001],[34.76760864260024,32.06379967414941],[34.76667776881862,32.06343353210899],[34.76623535157535,32.06291148377554],[34.76554870607515,32.06339762507555],[34.76448069929222,32.06364967273812],[34.76348876951266,32.06325951543769],[34.76211547850011,32.06379967414941],[34.7611846082587,32.0634335335013],[34.7607421875,32.06395559252726],[34.7607421875,32.06477135236862],[34.76044724624313,32.06511938946883],[34.75936889650006,32.06511938895839],[34.75936889650006,32.06593513319287],[34.75936889650006,32.06628317260004],[34.76005554200009,32.06628317260004],[34.76005554200009,32.06686505723775],[34.7607421875,32.06686505725267],[34.7607421875,32.06744693940003],[34.76103712431336,32.06744693722727],[34.76211547850011,32.06744693707211],[34.76211547850801,32.06808863204296],[34.76211547850011,32.06861069130002],[34.76348876950004,32.06861069130002],[34.76348876950004,32.06977442850005],[34.76348876950004,32.07093815080009]]],"type":"Polygon"}
+}

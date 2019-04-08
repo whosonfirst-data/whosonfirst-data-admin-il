@@ -1,0 +1,110 @@
+{
+  "id": 85907211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:area_square_m":692124.38241,
+    "geom:bbox":"35.2111816406,31.7630282691,35.2221679687,31.7725426547",
+    "geom:latitude":31.767937,
+    "geom:longitude":35.216421,
+    "gn:id":"",
+    "iso:country":"IL",
+    "lbl:latitude":31.76871,
+    "lbl:longitude":35.214635,
+    "mps:latitude":31.767872,
+    "mps:longitude":35.215322,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Emek Refa'im"
+    ],
+    "name:fra_x_preferred":[
+        "Emek Repha\u00efm"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05de\u05e7 \u05e8\u05e4\u05d0\u05d9\u05dd"
+    ],
+    "name:unk_x_variant":[
+        "Emek Refa'im"
+    ],
+    "qs:gn_adm0_cc":"PS",
+    "qs:gn_id":0,
+    "qs:gn_local":281184,
+    "qs:gn_nam_loc":"poriyya",
+    "qs:gn_namadm1":"06",
+    "qs:local_max":20606,
+    "qs:local_sum":72250,
+    "qs:localhoods":38,
+    "qs:name":"Emek Refa'im",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Jerusalem",
+    "qs:name_local":"Jerusalem",
+    "qs:photo_max":1010,
+    "qs:photo_sum":2070,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424852,
+    "qs:woe_adm1":2345796,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1968222,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":518,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168681,
+        1108720823,
+        85672551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724686,
+        "qs:id":237764,
+        "wd:id":"Q7884739"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"0b7ddc6f42dea9baa25762f6ec663f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421168681,
+            "neighbourhood_id":85907211,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":85907211,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549930543,
+    "wof:name":"Emek Refa'im",
+    "wof:parent_id":421168681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21118164061363,
+    31.7630282691409,
+    35.22216796871476,
+    31.77254265470005
+],
+  "geometry": {"coordinates":[[[35.21804809570011,31.77137514831895],[35.21804809570011,31.77020762958766],[35.21942138670016,31.77020762974185],[35.22187223520547,31.77020763175784],[35.22216796870003,31.77020763190004],[35.22216796871476,31.76916406252015],[35.2221679687147,31.76856825215546],[35.22216796870003,31.76787255010002],[35.22216796837023,31.7655374080046],[35.21942138670005,31.76553740950003],[35.21882989452524,31.76553740261683],[35.21667480470001,31.76553740089598],[35.21667480470001,31.7638979062681],[35.21667480470001,31.76320220990003],[35.2149003081106,31.76320220990003],[35.21445664145085,31.7630282691409],[35.21392822267535,31.76315256903901],[35.21392822268768,31.76320220990003],[35.2139282226866,31.76553740089598],[35.21118164061915,31.76553740388105],[35.21118164061397,31.76787254275017],[35.21118164061363,31.77020762329599],[35.2139282226812,31.77020762628106],[35.21392822268575,31.77184693366557],[35.21392822270013,31.77254265470005],[35.21530151370007,31.77254265470005],[35.21667480470001,31.77254265470005],[35.21667480470001,31.77137514837962],[35.21804809570011,31.77137514831895]]],"type":"Polygon"}
+}

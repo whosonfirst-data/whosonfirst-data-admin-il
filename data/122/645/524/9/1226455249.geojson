@@ -1,0 +1,79 @@
+{
+  "id": 1226455249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.98337,32.37802,34.98337,32.37802",
+    "geom:latitude":32.37802,
+    "geom:longitude":34.98337,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"HaMa`pil",
+    "gn:country_code":"IL",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294910,
+    "gn:latitude":32.37802,
+    "gn:longitude":34.98337,
+    "gn:modification_date":"2018-04-17",
+    "gn:name":"HaMa\u2018pil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "HaMa\u2018pil"
+    ],
+    "name:heb_x_variant":[
+        "\u05d4\u05de\u05e2\u05e4\u05d9\u05dc",
+        "HaMa\u2019pil"
+    ],
+    "name:und_x_variant":[
+        "Hama\u2018apil",
+        "HaMa\u2018pil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294910,
+        "wk:page":"HaMa%27apil"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"61c09de4f1f00195704284fe67d067ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":1226455249,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1226455249,
+    "wof:lastmodified":1549930476,
+    "wof:name":"HaMa`pil",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.98337,
+    32.37802,
+    34.98337,
+    32.37802
+],
+  "geometry": {"coordinates":[34.98337,32.37802],"type":"Point"}
+}

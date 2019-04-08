@@ -1,0 +1,75 @@
+{
+  "id": 421190687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.374603,31.041389,35.374603,31.041389",
+    "geom:latitude":31.041389,
+    "geom:longitude":35.374603,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Sedom",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Southern",
+    "qs:photos":192,
+    "qs:photos_1k":39,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":192,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1120131,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1968211,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1968211,
+        "qs:id":1120131
+    },
+    "wof:country":"IL",
+    "wof:created":1459009665,
+    "wof:geomhash":"98ee88ee22bd0dc1e44d453b04738dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":421190687,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":421190687,
+    "wof:lastmodified":1549930369,
+    "wof:name":"Sedom",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.374603,
+    31.041389,
+    35.374603,
+    31.041389
+],
+  "geometry": {"coordinates":[35.374603,31.041389],"type":"Point"}
+}

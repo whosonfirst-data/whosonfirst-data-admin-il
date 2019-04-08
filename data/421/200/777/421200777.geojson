@@ -1,0 +1,95 @@
+{
+  "id": 421200777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.96667,31.73333,34.96667,31.73333",
+    "geom:latitude":31.73333,
+    "geom:longitude":34.96667,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cze_x_preferred":[
+        "Ji\u0161'i"
+    ],
+    "name:eng_x_preferred":[
+        "Yish'i"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05e9\u05e2\u05d9"
+    ],
+    "name:nno_x_preferred":[
+        "Yish'i"
+    ],
+    "name:pol_x_preferred":[
+        "Jisz'i"
+    ],
+    "name:unk_x_variant":[
+        "Dayr Aban Bet"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293177,
+    "qs:gn_pop":0,
+    "qs:name":"Yishi",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Jerusalem",
+    "qs:photos":161,
+    "qs:photos_1k":33,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":161,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":894385,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1968101,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293177,
+        "gp:id":1968101,
+        "qs:id":894385,
+        "wd:id":"Q2889854"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010041,
+    "wof:geomhash":"f0de29f16144e93d421b47f00edd6adc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421200777,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":421200777,
+    "wof:lastmodified":1549930398,
+    "wof:name":"Yishi",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.96667,
+    31.73333,
+    34.96667,
+    31.73333
+],
+  "geometry": {"coordinates":[34.96667,31.73333],"type":"Point"}
+}

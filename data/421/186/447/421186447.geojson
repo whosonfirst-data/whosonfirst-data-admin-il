@@ -1,0 +1,103 @@
+{
+  "id": 421186447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.60334,31.62696,34.60334,31.62696",
+    "geom:latitude":31.62696,
+    "geom:longitude":34.60334,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Ge'a"
+    ],
+    "name:cze_x_preferred":[
+        "Ge'a"
+    ],
+    "name:eng_x_preferred":[
+        "Ge'a"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d9\u05d0\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "Ge\u2019a"
+    ],
+    "name:nno_x_preferred":[
+        "Ge'a"
+    ],
+    "name:pol_x_preferred":[
+        "Ge\u2019a"
+    ],
+    "name:unk_x_variant":[
+        "Al Jiya"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295066,
+    "qs:gn_pop":0,
+    "qs:name":"Ge'a",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Southern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1070637,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967352,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295066,
+        "gp:id":1967352,
+        "qs:id":1070637,
+        "wd:id":"Q2888554",
+        "wk:page":"Ge'a"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009481,
+    "wof:geomhash":"4bc5543c61a2684fcac2774f21532e84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720841,
+            "locality_id":421186447,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":421186447,
+    "wof:lastmodified":1549930360,
+    "wof:name":"Ge'a",
+    "wof:parent_id":1108720841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.60334,
+    31.62696,
+    34.60334,
+    31.62696
+],
+  "geometry": {"coordinates":[34.60334,31.62696],"type":"Point"}
+}

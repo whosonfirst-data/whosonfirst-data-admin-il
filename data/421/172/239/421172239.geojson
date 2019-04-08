@@ -1,0 +1,102 @@
+{
+  "id": 421172239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.93152,31.89032,34.93152,31.89032",
+    "geom:latitude":31.89032,
+    "geom:longitude":34.93152,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Kfar \u0160mu'el"
+    ],
+    "name:cze_x_preferred":[
+        "Kfar \u0160mu'el"
+    ],
+    "name:eng_x_preferred":[
+        "Kfar Shmuel"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05e9\u05de\u05d5\u05d0\u05dc"
+    ],
+    "name:heb_x_variant":[
+        "Kefar Shemu\u2019\u00e9l"
+    ],
+    "name:nno_x_preferred":[
+        "Kfar Shmuel"
+    ],
+    "name:pol_x_preferred":[
+        "Kfar Szmuel"
+    ],
+    "name:unk_x_variant":[
+        "Kefar Shmuel"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294507,
+    "qs:gn_pop":0,
+    "qs:name":"Kefar Shemu'el",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":40,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":40,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1301694,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967570,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":83,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294507,
+        "gp:id":1967570,
+        "qs:id":1301694,
+        "wd:id":"Q2890154"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008928,
+    "wof:geomhash":"84022f7d093a0a764c885596009c536d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720815,
+            "locality_id":421172239,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421172239,
+    "wof:lastmodified":1549930310,
+    "wof:name":"Kefar Shemu'el",
+    "wof:parent_id":1108720815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.93152,
+    31.89032,
+    34.93152,
+    31.89032
+],
+  "geometry": {"coordinates":[34.93152,31.89032],"type":"Point"}
+}

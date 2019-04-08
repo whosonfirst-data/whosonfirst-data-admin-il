@@ -1,0 +1,80 @@
+{
+  "id": 1343876075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.68388,31.77354,34.68388,31.77354",
+    "geom:latitude":31.77354,
+    "geom:longitude":34.68388,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Shetulim",
+    "gn:country_code":"IL",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293508,
+    "gn:latitude":31.77354,
+    "gn:longitude":34.68388,
+    "gn:modification_date":"2018-04-15",
+    "gn:name":"Shetulim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e9\u05ea\u05d5\u05dc\u05d9\u05dd"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05d9\u05ea\u05e0\u05d9\u05d4 \u05d4\u05d3\u05e8\u05d5\u05de\u05d9\u05ea"
+    ],
+    "name:und_x_variant":[
+        "Bitaniya Haderomit",
+        "Bitaniyah Hadromit",
+        "Bitanya Ha-Deromit",
+        "Shetulim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293508,
+        "wk:page":"Shtulim"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"841d053c3501d0bcf7a1a70922148170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720841,
+            "locality_id":1343876075,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1343876075,
+    "wof:lastmodified":1549930458,
+    "wof:name":"Shetulim",
+    "wof:parent_id":1108720841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.68388,
+    31.77354,
+    34.68388,
+    31.77354
+],
+  "geometry": {"coordinates":[34.68388,31.77354],"type":"Point"}
+}

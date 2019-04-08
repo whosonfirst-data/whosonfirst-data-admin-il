@@ -1,0 +1,114 @@
+{
+  "id": 421172237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.55528,32.45722,35.55528,32.45722",
+    "geom:latitude":32.45722,
+    "geom:longitude":35.55528,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Kfar Ruppin"
+    ],
+    "name:cze_x_preferred":[
+        "Kfar Ruppin"
+    ],
+    "name:deu_x_preferred":[
+        "Kfar Ruppin"
+    ],
+    "name:dut_x_preferred":[
+        "Kfar Ruppin"
+    ],
+    "name:eng_x_preferred":[
+        "Kfar Ruppin"
+    ],
+    "name:fre_x_preferred":[
+        "Kfar Ruppin"
+    ],
+    "name:ger_x_preferred":[
+        "Kfar Ruppin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05e8\u05d5\u05e4\u05d9\u05df"
+    ],
+    "name:nld_x_preferred":[
+        "Kfar Ruppin"
+    ],
+    "name:nno_x_preferred":[
+        "Kfar Ruppin"
+    ],
+    "name:pol_x_preferred":[
+        "Kefar Ruppin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0444\u0430\u0440-\u0420\u0443\u043f\u0438\u043d"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294516,
+    "qs:gn_pop":0,
+    "qs:name":"Kefar Ruppin",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":27,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":27,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1301693,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967563,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":336,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294516,
+        "gp:id":1967563,
+        "qs:id":1301693,
+        "wd:id":"Q591269"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008928,
+    "wof:geomhash":"1307be38f6866b03c241186700affa5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":421172237,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421172237,
+    "wof:lastmodified":1549930310,
+    "wof:name":"Kefar Ruppin",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.55528,
+    32.45722,
+    35.55528,
+    32.45722
+],
+  "geometry": {"coordinates":[35.55528,32.45722],"type":"Point"}
+}

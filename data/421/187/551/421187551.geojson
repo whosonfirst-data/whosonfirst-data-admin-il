@@ -1,0 +1,111 @@
+{
+  "id": 421187551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.609,33.24032,35.609,33.24032",
+    "geom:latitude":33.24032,
+    "geom:longitude":35.609,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u064a\u0627\u0646 \u0628\u0627\u0631\u0648\u062e"
+    ],
+    "name:ces_x_preferred":[
+        "Ma'ajan Baruch"
+    ],
+    "name:cze_x_preferred":[
+        "Ma'ajan Baruch"
+    ],
+    "name:eng_x_preferred":[
+        "Ma'ayan Baruch"
+    ],
+    "name:ger_x_preferred":[
+        "Ma'ayan Baruch"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e2\u05d9\u05d9\u05df \u05d1\u05e8\u05d5\u05da"
+    ],
+    "name:heb_x_variant":[
+        "Ma\u2018yan Barukh",
+        "\u05de\u05e2\u05d9\u05df \u05d1\u05e8\u05d5\u05da",
+        "Ma\u2019yan Barukh"
+    ],
+    "name:nno_x_preferred":[
+        "Ma'ayan Barukh"
+    ],
+    "name:pol_x_preferred":[
+        "Ma\u2019ejan Baruch"
+    ],
+    "name:unk_x_variant":[
+        "Mayan Baruch"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294307,
+    "qs:gn_pop":0,
+    "qs:name":"Mayan Barukh",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":233,
+    "qs:photos_1k":47,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":233,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083642,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967650,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":304,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294307,
+        "gp:id":1967650,
+        "qs:id":1083642,
+        "wd:id":"Q2889835",
+        "wk:page":"Ma'ayan Baruch"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009516,
+    "wof:geomhash":"1921f6abc0090ab9e519bf179b09a5d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720839,
+            "locality_id":421187551,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421187551,
+    "wof:lastmodified":1549930363,
+    "wof:name":"Mayan Barukh",
+    "wof:parent_id":1108720839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.609,
+    33.24032,
+    35.609,
+    33.24032
+],
+  "geometry": {"coordinates":[35.609,33.24032],"type":"Point"}
+}

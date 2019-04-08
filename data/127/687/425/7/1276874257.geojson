@@ -1,0 +1,72 @@
+{
+  "id": 1276874257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.20334,32.70732,35.20334,32.70732",
+    "geom:latitude":32.70732,
+    "geom:longitude":35.20334,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Shimron",
+    "gn:country_code":"IL",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293492,
+    "gn:latitude":32.70732,
+    "gn:longitude":35.20334,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Shimron",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Simuniyyah",
+        "Shimron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293492,
+        "wk:page":"Shimron"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"3ac10c1b468971e4c84d20f28ef1f737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":1276874257,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1276874257,
+    "wof:lastmodified":1549930482,
+    "wof:name":"Shimron",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.20334000000001,
+    32.70732,
+    35.20334000000001,
+    32.70732
+],
+  "geometry": {"coordinates":[35.20334000000001,32.70732],"type":"Point"}
+}

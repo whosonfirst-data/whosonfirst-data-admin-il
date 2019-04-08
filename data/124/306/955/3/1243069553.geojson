@@ -1,0 +1,70 @@
+{
+  "id": 1243069553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.35991,32.91366,35.35991,32.91366",
+    "geom:latitude":32.91366,
+    "geom:longitude":35.35991,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kammana",
+    "gn:country_code":"IL",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9618076,
+    "gn:latitude":32.91366,
+    "gn:longitude":35.35991,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Kammana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05db\u05de\u05d0\u05e0\u05d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9618076
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"9259d2315f4cfa980add2eaa1faeff8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":1243069553,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1243069553,
+    "wof:lastmodified":1549930470,
+    "wof:name":"Kammana",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.35991,
+    32.91366,
+    35.35991,
+    32.91366
+],
+  "geometry": {"coordinates":[35.35991,32.91366],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1360192117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.57828,33.23557,35.57828,33.23557",
+    "geom:latitude":33.23557,
+    "geom:longitude":35.57828,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tel Hay",
+    "gn:country_code":"IL",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293366,
+    "gn:latitude":33.23557,
+    "gn:longitude":35.57828,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tel H\u0331ay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Tel H\u0331ay"
+    ],
+    "name:heb_x_variant":[
+        "\u05ea\u05dc \u05d7\u05d9"
+    ],
+    "name:und_x_variant":[
+        "T\u0113l Hai",
+        "Talha",
+        "Tel H\u0331ay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293366,
+        "wk:page":"Tel_Hai"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"e6be14f4131af57fe7cfaf5c9682140c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720839,
+            "locality_id":1360192117,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1360192117,
+    "wof:lastmodified":1549930443,
+    "wof:name":"Tel Hay",
+    "wof:parent_id":1108720839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.57828,
+    33.23557,
+    35.57828,
+    33.23557
+],
+  "geometry": {"coordinates":[35.57828,33.23557],"type":"Point"}
+}

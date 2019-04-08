@@ -1,0 +1,84 @@
+{
+  "id": 1309815197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.49973,32.97832,35.49973,32.97832",
+    "geom:latitude":32.97832,
+    "geom:longitude":35.49973,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Biriyya",
+    "gn:country_code":"IL",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295402,
+    "gn:latitude":32.97832,
+    "gn:longitude":35.49973,
+    "gn:modification_date":"2018-04-16",
+    "gn:name":"Biriyya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05e8\u05d9\u05d4"
+    ],
+    "name:und_x_variant":[
+        "B\u012br\u012b",
+        "Biryah",
+        "Bir\u012bya Bet",
+        "\u2018Ain B\u012bry\u0101",
+        "Biriya",
+        "Biriyah",
+        "Biria",
+        "Beria",
+        "B\u012brya",
+        "Biryyah",
+        "Biriyya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295402,
+        "wk:page":"Birya"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"2b9b2328ad46c59bf87155f266d639af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720839,
+            "locality_id":1309815197,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1309815197,
+    "wof:lastmodified":1549930344,
+    "wof:name":"Biriyya",
+    "wof:parent_id":1108720839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.49973,
+    32.97832,
+    35.49973,
+    32.97832
+],
+  "geometry": {"coordinates":[35.49973,32.97832],"type":"Point"}
+}

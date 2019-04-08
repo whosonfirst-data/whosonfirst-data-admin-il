@@ -1,0 +1,103 @@
+{
+  "id": 1125841933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.98703,31.93345,34.98703,31.93345",
+    "geom:latitude":31.93345,
+    "geom:longitude":34.98703,
+    "gn:gn_country":"IL",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":256,
+    "gn:population":256,
+    "iso:country":"IL",
+    "lbl:latitude":31.93345,
+    "lbl:longitude":34.98703,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Mevo Modi'im"
+    ],
+    "name:dut_x_preferred":[
+        "Mevo Modi'im"
+    ],
+    "name:eng_x_preferred":[
+        "Mevo Modi'im"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d1\u05d5\u05d0 \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05dd"
+    ],
+    "name:nno_x_preferred":[
+        "Mevo Modi'im"
+    ],
+    "name:pol_x_preferred":[
+        "Mevo Modi'im"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0432\u043e-\u041c\u043e\u0434\u0438\u0438\u043c"
+    ],
+    "name:unk_x_variant":[
+        "Modi\u2018in"
+    ],
+    "qs_pg:aaroncc":"IL",
+    "qs_pg:gn_country":"IL",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":294243,
+    "qs_pg:gn_pop":256,
+    "qs_pg:name":"Mevo Modi\u2018im",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":203714,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294243,
+        "qs_pg:id":203714,
+        "wd:id":"Q2614828"
+    },
+    "wof:country":"IL",
+    "wof:created":1497292971,
+    "wof:geomhash":"6269e8a9b9ff70039d508c5a17d039fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720815,
+            "locality_id":1125841933,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1125841933,
+    "wof:lastmodified":1549930423,
+    "wof:name":"Mevo Modi\u2018im",
+    "wof:parent_id":1108720815,
+    "wof:placetype":"locality",
+    "wof:population":256,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.98703,
+    31.93345,
+    34.98703,
+    31.93345
+],
+  "geometry": {"coordinates":[34.98703,31.93345],"type":"Point"}
+}

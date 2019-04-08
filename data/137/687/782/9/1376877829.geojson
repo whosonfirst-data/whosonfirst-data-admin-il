@@ -1,0 +1,86 @@
+{
+  "id": 1376877829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.84603,32.03352,34.84603,32.03352",
+    "geom:latitude":32.03352,
+    "geom:longitude":34.84603,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:heb_x_preferred":[
+        "\u05e8\u05de\u05ea \u05e4\u05e0\u05e7\u05e1"
+    ],
+    "name:unk_x_variant":[
+        "Ramat Pinqas"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293778,
+    "qs:gn_pop":0,
+    "qs:name":"Ramat Pinkas",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":17,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":17,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":225794,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967878,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421196439,
+        1108720837,
+        85672549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293778,
+        "gp:id":1967878,
+        "qs:id":225794
+    },
+    "wof:country":"IL",
+    "wof:created":1459010126,
+    "wof:geomhash":"b0d18b33142ca0702e61e5e13c5f7eb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720837,
+            "locality_id":421196439,
+            "neighbourhood_id":1376877829,
+            "region_id":85672549
+        }
+    ],
+    "wof:id":1376877829,
+    "wof:lastmodified":1549930749,
+    "wof:name":"Ramat Pinkas",
+    "wof:parent_id":421196439,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421202693
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.84603,
+    32.03352,
+    34.84603,
+    32.03352
+],
+  "geometry": {"coordinates":[34.84603,32.03352],"type":"Point"}
+}

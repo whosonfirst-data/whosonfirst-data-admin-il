@@ -1,0 +1,72 @@
+{
+  "id": 1276666689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.0,32.31667,35.0,32.31667",
+    "geom:latitude":32.31667,
+    "geom:longitude":35.0,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Yad Hanna",
+    "gn:cc2":"IL",
+    "gn:country_code":"IL",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293260,
+    "gn:latitude":32.31667,
+    "gn:longitude":35.0,
+    "gn:modification_date":"2011-12-07",
+    "gn:name":"Yad H\u0331anna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yad Hanah",
+        "Yad H\u0331anna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293260
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"809801f2486df7b103a898d53cba3a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":1276666689,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1276666689,
+    "wof:lastmodified":1549930483,
+    "wof:name":"Yad Hanna",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0,
+    32.31667,
+    35.0,
+    32.31667
+],
+  "geometry": {"coordinates":[35.0,32.31667],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1276344169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.03133,32.3689,35.03133,32.3689",
+    "geom:latitude":32.3689,
+    "geom:longitude":35.03133,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Yamma",
+    "gn:country_code":"IL",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293238,
+    "gn:latitude":32.3689,
+    "gn:longitude":35.03133,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Yamma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Yamm\u0101"
+    ],
+    "name:heb_x_variant":[
+        "\u05d9\u05de\u05d4",
+        "Ya\u1e96am",
+        "\u05d9\u05d7\u05dd"
+    ],
+    "name:und_x_variant":[
+        "Khirbet Yamma",
+        "Yammah",
+        "Khirbat Yammah",
+        "Ya\u1e96am",
+        "Yamm\u0101",
+        "Yamma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293238
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"7b8a2c8581b918436a38385e8bedca89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":1276344169,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1276344169,
+    "wof:lastmodified":1549930434,
+    "wof:name":"Yamma",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.03133,
+    32.3689,
+    35.03133,
+    32.3689
+],
+  "geometry": {"coordinates":[35.03133,32.3689],"type":"Point"}
+}

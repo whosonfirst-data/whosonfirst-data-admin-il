@@ -1,0 +1,79 @@
+{
+  "id": 1209708161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.01095,31.802,35.01095,31.802",
+    "geom:latitude":31.802,
+    "geom:longitude":35.01095,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mesillat Ziyyon",
+    "gn:country_code":"IL",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294252,
+    "gn:latitude":31.802,
+    "gn:longitude":35.01095,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Mesillat \u1e94iyyon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05de\u05e1\u05dc\u05ea \u05e6\u05d9\u05d5\u05df"
+    ],
+    "name:und_x_variant":[
+        "Mesillat Zion",
+        "Mesillat Tsiyon",
+        "Mesilat Zion",
+        "Mesilat Tsiyon",
+        "Mesillat \u1e94iyyon",
+        "Mesillat Tsiyyon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294252,
+        "wk:page":"Mesilat_Zion"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"d7a145a7330c25cefc0784002b47c098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":1209708161,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":1209708161,
+    "wof:lastmodified":1549930499,
+    "wof:name":"Mesillat Ziyyon",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.01095,
+    31.802,
+    35.01095,
+    31.802
+],
+  "geometry": {"coordinates":[35.01095,31.802],"type":"Point"}
+}

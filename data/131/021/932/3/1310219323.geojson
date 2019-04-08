@@ -1,0 +1,79 @@
+{
+  "id": 1310219323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.79382,31.65883,34.79382,31.65883",
+    "geom:latitude":31.65883,
+    "geom:longitude":34.79382,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nahala",
+    "gn:country_code":"IL",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294128,
+    "gn:latitude":31.65883,
+    "gn:longitude":34.79382,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Na\u1e96ala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Na\u1e96ala"
+    ],
+    "name:heb_x_variant":[
+        "\u05e0\u05d7\u05dc\u05d4",
+        "\u05d2\u05ea \u05d1"
+    ],
+    "name:und_x_variant":[
+        "Gat B",
+        "Na\u1e96ala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294128,
+        "wk:page":"Nahala%2C_Israel"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"59d5bee988f547f452c2d37f33180c23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720841,
+            "locality_id":1310219323,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1310219323,
+    "wof:lastmodified":1549930368,
+    "wof:name":"Nahala",
+    "wof:parent_id":1108720841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.79382,
+    31.65883,
+    34.79382,
+    31.65883
+],
+  "geometry": {"coordinates":[34.79382,31.65883],"type":"Point"}
+}

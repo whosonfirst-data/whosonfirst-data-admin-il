@@ -1,0 +1,140 @@
+{
+  "id": 85903127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.017869,32.772967,35.017869,32.772967",
+    "geom:latitude":32.772967,
+    "geom:longitude":35.017869,
+    "gn:gn_country":"IL",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":32.77677,
+    "gn:longitude":35.03314,
+    "iso:country":"IL",
+    "lbl:latitude":32.772967,
+    "lbl:longitude":35.017869,
+    "mps:latitude":32.776772,
+    "mps:longitude":35.034352,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Qiryat HaTekhniyyon"
+    ],
+    "name:eng_x_variant":[
+        "Kiryat Hatechion"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d9\u05ea \u05d4\u05d8\u05db\u05e0\u05d9\u05d5\u05df"
+    ],
+    "name:unk_x_variant":[
+        "Kiryat Hatechion",
+        "Qiryat HaTekhniyyon"
+    ],
+    "qs:gn_adm0_cc":"IL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":294801,
+    "qs:gn_nam_loc":"Haifa, Haifa, IL",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Qiryat HaTekhniyyon",
+    "qs:local_max":13408,
+    "qs:local_sum":25534,
+    "qs:localhoods":8,
+    "qs:name":"Qiryat HaTekhniyyon",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Haifa",
+    "qs:name_local":"Haifa",
+    "qs:photo_max":227,
+    "qs:photo_sum":1439,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":61,
+    "qs:woe_adm0":23424852,
+    "qs:woe_adm1":2345794,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1967449,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"IL",
+    "qs_pg:gn_country":"IL",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":293839,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Qiryat HaTekhniyyon",
+    "qs_pg:name_adm0":"Israel",
+    "qs_pg:name_adm1":"Haifa",
+    "qs_pg:photos":1571,
+    "qs_pg:photos_1k":318,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1571,
+    "qs_pg:photos_sr":13,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":235164,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424852,
+    "qs_pg:woe_id":1967842,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168693,
+        1108720835,
+        85672535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293839,
+        "gp:id":1967842,
+        "qs:id":235164,
+        "qs_pg:id":235164
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"01db1a243b0302d44f75e72a56080df2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720835,
+            "locality_id":421168693,
+            "neighbourhood_id":85903127,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":85903127,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549930539,
+    "wof:name":"Qiryat HaTekhniyyon",
+    "wof:parent_id":421168693,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126099761
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.017869,
+    32.772967,
+    35.017869,
+    32.772967
+],
+  "geometry": {"coordinates":[35.017869,32.772967],"type":"Point"}
+}

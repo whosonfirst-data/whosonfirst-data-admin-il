@@ -1,0 +1,75 @@
+{
+  "id": 1293212001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.53333,32.98333,35.53333,32.98333",
+    "geom:latitude":32.98333,
+    "geom:longitude":35.53333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kefar Pir`am",
+    "gn:country_code":"IL",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294519,
+    "gn:latitude":32.98333,
+    "gn:longitude":35.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kefar Pir\u2018am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Peer \u2018Am",
+        "Kafr Far\u2018am",
+        "Kfar Pir\u2019am",
+        "Far\u2018am",
+        "Fir\u2018im",
+        "Kefar Pir\u2018am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294519
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"0f55679953e9496440c4485567c42e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720839,
+            "locality_id":1293212001,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1293212001,
+    "wof:lastmodified":1549930453,
+    "wof:name":"Kefar Pir`am",
+    "wof:parent_id":1108720839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.53333,
+    32.98333,
+    35.53333,
+    32.98333
+],
+  "geometry": {"coordinates":[35.53333,32.98333],"type":"Point"}
+}

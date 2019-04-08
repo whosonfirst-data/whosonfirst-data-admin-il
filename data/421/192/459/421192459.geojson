@@ -1,0 +1,100 @@
+{
+  "id": 421192459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.50145,32.8392,35.50145,32.8392",
+    "geom:latitude":32.8392,
+    "geom:longitude":35.50145,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Migdal"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d2\u05d3\u05dc"
+    ],
+    "name:lit_x_preferred":[
+        "Magdala"
+    ],
+    "name:nno_x_preferred":[
+        "Migdal i Israel"
+    ],
+    "name:pol_x_preferred":[
+        "Migdal"
+    ],
+    "name:ron_x_preferred":[
+        "Migdal"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0433\u0434\u0430\u043b\u044c"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294214,
+    "qs:gn_pop":0,
+    "qs:name":"Migdal",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":425,
+    "qs:photos_1k":86,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":425,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1168237,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967683,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":328,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294214,
+        "gp:id":1967683,
+        "qs:id":1168237,
+        "wd:id":"Q2916182",
+        "wk:page":"Migdal, Israel"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009737,
+    "wof:geomhash":"6f2f22f26320de85b2c3c05b867bd9e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720825,
+            "locality_id":421192459,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421192459,
+    "wof:lastmodified":1549930373,
+    "wof:name":"Migdal",
+    "wof:parent_id":1108720825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.50145,
+    32.8392,
+    35.50145,
+    32.8392
+],
+  "geometry": {"coordinates":[35.50145,32.8392],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 421171255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.70612,31.49743,34.70612,31.49743",
+    "geom:latitude":31.49743,
+    "geom:longitude":34.70612,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Ruchama"
+    ],
+    "name:cze_x_preferred":[
+        "Ruchama"
+    ],
+    "name:dut_x_preferred":[
+        "Ruhama"
+    ],
+    "name:eng_x_preferred":[
+        "Ruhama"
+    ],
+    "name:fra_x_preferred":[
+        "Rouhama"
+    ],
+    "name:fre_x_preferred":[
+        "Rouhama"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d7\u05de\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "Ru\u1e96ama",
+        "\u05e8\u05d7\u05de\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Ruhama"
+    ],
+    "name:pol_x_preferred":[
+        "Ruhama"
+    ],
+    "name:unk_x_variant":[
+        "Jammama"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293682,
+    "qs:gn_pop":0,
+    "qs:name":"Ruhama",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Southern",
+    "qs:photos":74,
+    "qs:photos_1k":15,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":74,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1221375,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967911,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":823,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293682,
+        "gp:id":1967911,
+        "qs:id":1221375,
+        "wd:id":"Q748670",
+        "wk:page":"Ruhama"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008887,
+    "wof:geomhash":"a86e2a51764ebbabd1aee6ba1dcd65d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720841,
+            "locality_id":421171255,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":421171255,
+    "wof:lastmodified":1549930312,
+    "wof:name":"Ruhama",
+    "wof:parent_id":1108720841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.70612,
+    31.49743,
+    34.70612,
+    31.49743
+],
+  "geometry": {"coordinates":[34.70612,31.49743],"type":"Point"}
+}

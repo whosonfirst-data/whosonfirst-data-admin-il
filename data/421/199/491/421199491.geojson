@@ -1,0 +1,127 @@
+{
+  "id": 421199491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.90359,32.35689,34.90359,32.35689",
+    "geom:latitude":32.35689,
+    "geom:longitude":34.90359,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Mi\u0161mar ha-\u0160aron"
+    ],
+    "name:chi_x_preferred":[
+        "\u7c73\u65af\u83ab"
+    ],
+    "name:cze_x_preferred":[
+        "Mi\u0161mar ha-\u0160aron"
+    ],
+    "name:deu_x_preferred":[
+        "Mischmar haScharon"
+    ],
+    "name:dut_x_preferred":[
+        "Mishmar HaSjaron"
+    ],
+    "name:eng_x_preferred":[
+        "Mishmar HaSharon"
+    ],
+    "name:ger_x_preferred":[
+        "Mischmar haScharon"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e9\u05de\u05e8 \u05d4\u05e9\u05e8\u05d5\u05df"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30b7\u30e5\u30de\u30eb\u30fb\u30cf\u30b7\u30e3\u30ed\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Misjmar Hasjaron"
+    ],
+    "name:nno_x_preferred":[
+        "Mishmar HaSharon"
+    ],
+    "name:pol_x_preferred":[
+        "Mishmar HaSharon"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0448\u043c\u0430\u0440-\u0445\u0430-\u0428\u0430\u0440\u043e\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Mishmar HaSharon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0448\u043c\u0430\u0440 \u0433\u0430-\u0428\u0430\u0440\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0634\u0645\u0627\u0631 \u06c1\u0634\u0627\u0631\u0648\u0646"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294183,
+    "qs:gn_pop":0,
+    "qs:name":"Mishmar HaSharon",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":193964,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967696,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":156,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294183,
+        "gp:id":1967696,
+        "qs:id":193964,
+        "wd:id":"Q595509",
+        "wk:page":"Mishmar HaSharon"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009991,
+    "wof:geomhash":"73b19943d85b1a49380a0a326e9192c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":421199491,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421199491,
+    "wof:lastmodified":1549930392,
+    "wof:name":"Mishmar HaSharon",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.90359,
+    32.35689,
+    34.90359,
+    32.35689
+],
+  "geometry": {"coordinates":[34.90359,32.35689],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343575013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.77035,30.99268,34.77035,30.99268",
+    "geom:latitude":30.99268,
+    "geom:longitude":34.77035,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Telalim",
+    "gn:country_code":"IL",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6413459,
+    "gn:latitude":30.99268,
+    "gn:longitude":34.77035,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Telalim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d8\u05dc\u05dc\u05d9\u05dd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6413459
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"16cc17b21629b13f3bd69c35f07e6d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1343575013,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1343575013,
+    "wof:lastmodified":1549930420,
+    "wof:name":"Telalim",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.77035,
+    30.99268,
+    34.77035,
+    30.99268
+],
+  "geometry": {"coordinates":[34.77035,30.99268],"type":"Point"}
+}

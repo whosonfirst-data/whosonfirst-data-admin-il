@@ -1,0 +1,106 @@
+{
+  "id": 421168057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.1477,32.76226,35.1477,32.76226",
+    "geom:latitude":32.76226,
+    "geom:longitude":35.1477,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Nofit"
+    ],
+    "name:cze_x_preferred":[
+        "Nofit"
+    ],
+    "name:dut_x_preferred":[
+        "Nofit"
+    ],
+    "name:eng_x_preferred":[
+        "Nofit"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05e4\u05d9\u05ea"
+    ],
+    "name:heb_x_variant":[
+        "\u05e4\u05d9 \u05e0\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Nofit"
+    ],
+    "name:pol_x_preferred":[
+        "Nofit"
+    ],
+    "name:unk_x_variant":[
+        "Pi Ner"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":8265522,
+    "qs:gn_pop":0,
+    "qs:name":"Nofit",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":89,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":89,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":962014,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":22722793,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":150,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8265522,
+        "gp:id":22722793,
+        "qs:id":962014,
+        "wd:id":"Q2890467",
+        "wk:page":"Nofit"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008752,
+    "wof:geomhash":"18a10b9d1daa1a9e0d67998667ecea06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720835,
+            "locality_id":421168057,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":421168057,
+    "wof:lastmodified":1549930303,
+    "wof:name":"Nofit",
+    "wof:parent_id":1108720835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1477,
+    32.76226,
+    35.1477,
+    32.76226
+],
+  "geometry": {"coordinates":[35.1477,32.76226],"type":"Point"}
+}

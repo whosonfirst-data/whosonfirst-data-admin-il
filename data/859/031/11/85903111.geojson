@@ -1,0 +1,113 @@
+{
+  "id": 85903111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.840832,32.18482,34.840832,32.18482",
+    "geom:latitude":32.18482,
+    "geom:longitude":34.840832,
+    "gn:latitude":32.2,
+    "gn:longitude":34.85,
+    "iso:country":"IL",
+    "lbl:latitude":32.18482,
+    "lbl:longitude":34.840832,
+    "mps:latitude":32.188755,
+    "mps:longitude":34.8456,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:eng_x_colloquial":[
+        "Kefar Nahaman"
+    ],
+    "name:eng_x_preferred":[
+        "Kefar Nah\u0331aman"
+    ],
+    "name:heb_x_preferred":[
+        "Kefar Na\u1e96aman"
+    ],
+    "name:unk_x_variant":[
+        "Kefar Nah\u0331aman"
+    ],
+    "qs:gn_adm0_cc":"IL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":294514,
+    "qs:gn_nam_loc":"Kfar Sava, Central, IL",
+    "qs:gn_namadm1":"02",
+    "qs:gn_name":"Kefar Na\u1e96aman",
+    "qs:local_max":2254,
+    "qs:local_sum":2254,
+    "qs:localhoods":1,
+    "qs:name":"Kefar Nah\u0331aman",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:name_local":"Kfar Sava",
+    "qs:photo_max":249,
+    "qs:photo_sum":2254,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":95,
+    "qs:woe_adm0":23424852,
+    "qs:woe_adm1":2345792,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1968183,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421174205,
+        1108720837,
+        85672549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294523,
+        "gp:id":1967557,
+        "qs:id":898577
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"fbb21e42d6ada154af435e5eb9c2d8b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720837,
+            "locality_id":421174205,
+            "neighbourhood_id":85903111,
+            "region_id":85672549
+        }
+    ],
+    "wof:id":85903111,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549930538,
+    "wof:name":"Kefar Nah\u0331aman",
+    "wof:parent_id":421174205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.840832,
+    32.18482,
+    34.840832,
+    32.18482
+],
+  "geometry": {"coordinates":[34.840832,32.18482],"type":"Point"}
+}

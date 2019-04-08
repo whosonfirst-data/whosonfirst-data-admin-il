@@ -1,0 +1,76 @@
+{
+  "id": 1193143145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.1054,32.48518,35.1054,32.48518",
+    "geom:latitude":32.48518,
+    "geom:longitude":35.1054,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Qazir",
+    "gn:country_code":"IL",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142245,
+    "gn:latitude":32.48518,
+    "gn:longitude":35.1054,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Qa\u1e95ir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Qa\u1e95ir"
+    ],
+    "name:heb_x_variant":[
+        "\u05e7\u05e6\u05d9\u05e8"
+    ],
+    "name:und_x_variant":[
+        "Qatsir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142245
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"14b0cadf199e3acabbd5f5ff59fc16c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":1193143145,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1193143145,
+    "wof:lastmodified":1549930334,
+    "wof:name":"Qazir",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1054,
+    32.48518,
+    35.1054,
+    32.48518
+],
+  "geometry": {"coordinates":[35.1054,32.48518],"type":"Point"}
+}

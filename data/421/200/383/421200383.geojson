@@ -1,0 +1,124 @@
+{
+  "id": 421200383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.95153,32.59812,34.95153,32.59812",
+    "geom:latitude":32.59812,
+    "geom:longitude":34.95153,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0631\u064a\u062f\u064a\u0633"
+    ],
+    "name:ces_x_preferred":[
+        "Furejdis"
+    ],
+    "name:cze_x_preferred":[
+        "Furejdis"
+    ],
+    "name:deu_x_preferred":[
+        "Furaidis"
+    ],
+    "name:eng_x_preferred":[
+        "Fureidis"
+    ],
+    "name:ger_x_preferred":[
+        "Furaidis"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8\u05d9\u05d9\u05d3\u05d9\u05e1"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05dc \u05e4\u05e8\u05d9\u05d3\u05d9\u05e1"
+    ],
+    "name:nno_x_preferred":[
+        "Fureidis"
+    ],
+    "name:pol_x_preferred":[
+        "Furajdis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0443\u0440\u0435\u0439\u0434\u0438\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Fureidis"
+    ],
+    "name:swe_x_preferred":[
+        "El Fureid\u012bs"
+    ],
+    "name:unk_x_variant":[
+        "Al Fureidis"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295269,
+    "qs:gn_pop":9999,
+    "qs:name":"El Fureidis",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Haifa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1301588,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967254,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":1124,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295269,
+        "gp:id":1967254,
+        "qs:id":1301588,
+        "wd:id":"Q1011538",
+        "wk:page":"Fureidis"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010020,
+    "wof:geomhash":"96e85abd87ff01365115866e96c7f8a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":421200383,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":421200383,
+    "wof:lastmodified":1549930396,
+    "wof:name":"El Fureidis",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:population":9999,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.95153,
+    32.59812,
+    34.95153,
+    32.59812
+],
+  "geometry": {"coordinates":[34.95153,32.59812],"type":"Point"}
+}

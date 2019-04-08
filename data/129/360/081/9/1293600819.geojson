@@ -1,0 +1,77 @@
+{
+  "id": 1293600819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.37158,32.5664,35.37158,32.5664",
+    "geom:latitude":32.5664,
+    "geom:longitude":35.37158,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Geva`",
+    "gn:country_code":"IL",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295038,
+    "gn:latitude":32.5664,
+    "gn:longitude":35.37158,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Geva\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Geva\u2018"
+    ],
+    "name:heb_x_variant":[
+        "\u05d2\u05d1\u05e2"
+    ],
+    "name:und_x_variant":[
+        "Geva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295038,
+        "wk:page":"Geva"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"a7929e494117a7641ea106572371e9b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":1293600819,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1293600819,
+    "wof:lastmodified":1549930473,
+    "wof:name":"Geva`",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.37158,
+    32.5664,
+    35.37158,
+    32.5664
+],
+  "geometry": {"coordinates":[35.37158,32.5664],"type":"Point"}
+}

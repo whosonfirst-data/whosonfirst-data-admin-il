@@ -1,0 +1,95 @@
+{
+  "id": 421187991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.24277,32.72394,35.24277,32.72394",
+    "geom:latitude":32.72394,
+    "geom:longitude":35.24277,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cze_x_preferred":[
+        "Giv'at Ela"
+    ],
+    "name:eng_x_preferred":[
+        "Givat Ela"
+    ],
+    "name:heb_x_preferred":[
+        "Giv\u2018at Ela"
+    ],
+    "name:heb_x_variant":[
+        "\u05d2\u05d1\u05e2\u05ea \u05d0\u05dc\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Givat Ela"
+    ],
+    "name:pol_x_preferred":[
+        "Giw'at Ela"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":8264692,
+    "qs:gn_pop":0,
+    "qs:name":"Giv'at Ella",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":29,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":29,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":9569,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":22528356,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8264692,
+        "gp:id":22528356,
+        "qs:id":9569,
+        "wd:id":"Q2890834"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009530,
+    "wof:geomhash":"f502c7b3c658139d1b4a9dc6dc6792de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":421187991,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421187991,
+    "wof:lastmodified":1549930366,
+    "wof:name":"Giv'at Ella",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24277,
+    32.72394,
+    35.24277,
+    32.72394
+],
+  "geometry": {"coordinates":[35.24277,32.72394],"type":"Point"}
+}

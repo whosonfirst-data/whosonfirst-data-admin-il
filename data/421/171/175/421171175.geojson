@@ -1,0 +1,106 @@
+{
+  "id": 421171175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.87737,32.38126,34.87737,32.38126",
+    "geom:latitude":32.38126,
+    "geom:longitude":34.87737,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Kfar Vitkin"
+    ],
+    "name:cze_x_preferred":[
+        "Kfar Vitkin"
+    ],
+    "name:eng_x_preferred":[
+        "Kfar Vitkin"
+    ],
+    "name:fre_x_preferred":[
+        "Kfar Vitkin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05d5\u05d9\u05ea\u05e7\u05d9\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Kfar Vitkin"
+    ],
+    "name:pol_x_preferred":[
+        "Kfar Vitkin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0444\u0430\u0440-\u0412\u0438\u0442\u043a\u0438\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Kefar Witkin"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294498,
+    "qs:gn_pop":0,
+    "qs:name":"Kefar Vitkin",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1211306,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967576,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":145,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294498,
+        "gp:id":1967576,
+        "qs:id":1211306,
+        "wd:id":"Q2495402",
+        "wk:page":"Kfar Vitkin"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008884,
+    "wof:geomhash":"32d12c49765b2383a005f2ecb31f251a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":421171175,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421171175,
+    "wof:lastmodified":1549930307,
+    "wof:name":"Kefar Vitkin",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.87737,
+    32.38126,
+    34.87737,
+    32.38126
+],
+  "geometry": {"coordinates":[34.87737,32.38126],"type":"Point"}
+}

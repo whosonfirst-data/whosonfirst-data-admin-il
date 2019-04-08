@@ -1,0 +1,105 @@
+{
+  "id": 85907291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:area_square_m":622618.709144,
+    "geom:bbox":"34.7552299698,32.0476608827,34.7662353516,32.0546446905",
+    "geom:latitude":32.051007,
+    "geom:longitude":34.76095,
+    "gn:id":"",
+    "iso:country":"IL",
+    "lbl:latitude":32.050634,
+    "lbl:longitude":34.759674,
+    "mps:latitude":32.050571,
+    "mps:longitude":34.760508,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:note":"???",
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Jaffa Center"
+    ],
+    "name:unk_x_variant":[
+        "Jaffa Center"
+    ],
+    "qs:gn_adm0_cc":"IL",
+    "qs:gn_id":0,
+    "qs:gn_local":293397,
+    "qs:gn_nam_loc":"Tel Aviv, Tel Aviv, IL",
+    "qs:gn_namadm1":"05",
+    "qs:local_max":26418,
+    "qs:local_sum":66569,
+    "qs:localhoods":45,
+    "qs:name":"Jaffa Center",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Tel Aviv",
+    "qs:name_local":"Tel Aviv",
+    "qs:photo_max":119,
+    "qs:photo_sum":620,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424852,
+    "qs:woe_adm1":2345795,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1968212,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":251,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        1125955239,
+        1108720837,
+        85672549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22725131,
+        "qs:id":249671
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"d71a20d4c89ba218de2721dc97aa111e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720837,
+            "locality_id":1125955239,
+            "neighbourhood_id":85907291,
+            "region_id":85672549
+        }
+    ],
+    "wof:id":85907291,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549930548,
+    "wof:name":"Jaffa Center",
+    "wof:parent_id":1125955239,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.75522996984051,
+    32.04766088270688,
+    34.76623535160013,
+    32.05464469050001
+],
+  "geometry": {"coordinates":[[[34.76623535160013,32.05464469050001],[34.76623535160013,32.05231681650005],[34.76623535158575,32.05162075176433],[34.7662353515812,32.04998887747166],[34.76348876951363,32.04998887448161],[34.76348876951397,32.04766088320017],[34.7607421875,32.04766088270688],[34.75799560548188,32.04766088270688],[34.75524902341675,32.04766088402236],[34.75524902341459,32.04926884307129],[34.75522996984051,32.04930031454703],[34.75524902340749,32.04941271471141],[34.75524902340004,32.04998888310004],[34.75544238752184,32.04998888311958],[34.75593566891479,32.05057087146075],[34.75593566891507,32.05115285720008],[34.75593566892547,32.05123083968597],[34.75662231448968,32.05150088381659],[34.75662231448536,32.05231681650005],[34.75662231447524,32.05247277095278],[34.75755314285573,32.05283885324259],[34.75773449092111,32.0534807572004],[34.75799560550013,32.05348075824837],[34.75936889650006,32.05348075843364],[34.7607421875,32.05348075867354],[34.7607421875,32.05464469050001],[34.76348876950004,32.05464469050001],[34.76407870487128,32.05464468861761],[34.76564541988836,32.05464469050001],[34.76623535160013,32.05464469050001]]],"type":"Polygon"}
+}

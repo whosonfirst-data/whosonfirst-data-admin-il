@@ -1,0 +1,80 @@
+{
+  "id": 1259786371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.92744,31.95972,34.92744,31.95972",
+    "geom:latitude":31.95972,
+    "geom:longitude":34.92744,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ben Shemen",
+    "gn:country_code":"IL",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295507,
+    "gn:latitude":31.95972,
+    "gn:longitude":34.92744,
+    "gn:modification_date":"2018-04-17",
+    "gn:name":"Ben Shemen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Ben Shemen-Kefar HaNo\u2018ar"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05df \u05e9\u05de\u05df-\u05db\u05e4\u05e8 \u05d4\u05e0\u05e2\u05e8",
+        "\u05d1\u05df \u05e9\u05de\u05df",
+        "\u05db\u05e4\u05e8 \u05d4\u05e0\u05d5\u05e2\u05e8"
+    ],
+    "name:und_x_variant":[
+        "Kefar Hano\u2018ar",
+        "Ben Shemen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295507,
+        "wk:page":"Ben_Shemen"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"c52e8108ac96a2a29e752c8f421015d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720815,
+            "locality_id":1259786371,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1259786371,
+    "wof:lastmodified":1549930467,
+    "wof:name":"Ben Shemen",
+    "wof:parent_id":1108720815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.92744,
+    31.95972,
+    34.92744,
+    31.95972
+],
+  "geometry": {"coordinates":[34.92744,31.95972],"type":"Point"}
+}

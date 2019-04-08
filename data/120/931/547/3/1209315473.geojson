@@ -1,0 +1,77 @@
+{
+  "id": 1209315473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.12226,32.79308,35.12226,32.79308",
+    "geom:latitude":32.79308,
+    "geom:longitude":35.12226,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ramat Yohanan",
+    "gn:country_code":"IL",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293774,
+    "gn:latitude":32.79308,
+    "gn:longitude":35.12226,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ramat Yo\u1e96anan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Ramat Yo\u1e96anan"
+    ],
+    "name:heb_x_variant":[
+        "\u05e8\u05de\u05ea \u05d9\u05d5\u05d7\u05e0\u05df"
+    ],
+    "name:und_x_variant":[
+        "Ramat Ya\u1e96anan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293774,
+        "wk:page":"Ramat_Yohanan"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"bc7692123f080e807e5c73ec88e4a258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720835,
+            "locality_id":1209315473,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1209315473,
+    "wof:lastmodified":1549930444,
+    "wof:name":"Ramat Yohanan",
+    "wof:parent_id":1108720835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.12226,
+    32.79308,
+    35.12226,
+    32.79308
+],
+  "geometry": {"coordinates":[35.12226,32.79308],"type":"Point"}
+}

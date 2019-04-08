@@ -1,0 +1,80 @@
+{
+  "id": 1260205699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.12595,31.80452,35.12595,31.80452",
+    "geom:latitude":31.80452,
+    "geom:longitude":35.12595,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bet Neqofa",
+    "gn:country_code":"IL",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295447,
+    "gn:latitude":31.80452,
+    "gn:longitude":35.12595,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Bet Neqofa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05e0\u05e7\u05d5\u05e4\u05d4"
+    ],
+    "name:und_x_variant":[
+        "Nakubah",
+        "Beit Neqofa",
+        "Beit Neqofah",
+        "Bayt Naqqubah",
+        "Beit Naqq\u016bba",
+        "Beit N\u012dq\u014dv\u0101",
+        "Bet Neqofa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295447,
+        "wk:page":"Beit_Nekofa"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"43086830841c4cc4694c992f697d0c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":1260205699,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":1260205699,
+    "wof:lastmodified":1549930347,
+    "wof:name":"Bet Neqofa",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.12595,
+    31.80452,
+    35.12595,
+    31.80452
+],
+  "geometry": {"coordinates":[35.12595,31.80452],"type":"Point"}
+}

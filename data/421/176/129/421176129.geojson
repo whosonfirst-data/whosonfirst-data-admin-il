@@ -1,0 +1,100 @@
+{
+  "id": 421176129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.09683,32.7433,35.09683,32.7433",
+    "geom:latitude":32.7433,
+    "geom:longitude":35.09683,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Kfar ha-No'ar ha-Dati"
+    ],
+    "name:cze_x_preferred":[
+        "Kfar ha-No'ar ha-Dati"
+    ],
+    "name:dut_x_preferred":[
+        "Kfar HaNoar HaDati"
+    ],
+    "name:eng_x_preferred":[
+        "Kfar HaNoar HaDati"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05d4\u05e0\u05d5\u05e2\u05e8 \u05d4\u05d3\u05ea\u05d9"
+    ],
+    "name:heb_x_variant":[
+        "Kefar HaNo\u2018ar HaDati",
+        "\u05db\u05e4\u05e8 \u05d4\u05e0\u05e2\u05e8 \u05d4\u05d3\u05ea\u05d9"
+    ],
+    "name:nno_x_preferred":[
+        "Kfar HaNoar HaDati"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294540,
+    "qs:gn_pop":0,
+    "qs:name":"Kefar HaNoar HaDati",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Haifa",
+    "qs:photos":497,
+    "qs:photos_1k":101,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":497,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1044619,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967538,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":91,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294540,
+        "gp:id":1967538,
+        "qs:id":1044619,
+        "wd:id":"Q2909337"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009096,
+    "wof:geomhash":"b456dbbc331adf8cd7d8fa4b9fdefdc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720835,
+            "locality_id":421176129,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":421176129,
+    "wof:lastmodified":1549930305,
+    "wof:name":"Kefar HaNoar HaDati",
+    "wof:parent_id":1108720835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.09683,
+    32.7433,
+    35.09683,
+    32.7433
+],
+  "geometry": {"coordinates":[35.09683,32.7433],"type":"Point"}
+}

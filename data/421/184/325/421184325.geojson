@@ -1,0 +1,75 @@
+{
+  "id": 421184325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.4340705,31.4139895,34.4340705,31.4139895",
+    "geom:latitude":31.413989,
+    "geom:longitude":34.43407,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Gan Aviv",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Southern",
+    "qs:photos":24,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":24,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":995377,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":22722795,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22722795,
+        "qs:id":995377
+    },
+    "wof:country":"IL",
+    "wof:created":1459009407,
+    "wof:geomhash":"d0ae033da5226930dcd3a7af46fd76bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":421184325,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":421184325,
+    "wof:lastmodified":1549930355,
+    "wof:name":"Gan Aviv",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.4340705,
+    31.4139895,
+    34.4340705,
+    31.4139895
+],
+  "geometry": {"coordinates":[34.4340705,31.4139895],"type":"Point"}
+}

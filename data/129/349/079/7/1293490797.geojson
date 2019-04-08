@@ -1,0 +1,78 @@
+{
+  "id": 1293490797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.91616,32.40136,34.91616,32.40136",
+    "geom:latitude":32.40136,
+    "geom:longitude":34.91616,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Herev Le'et",
+    "gn:country_code":"IL",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294782,
+    "gn:latitude":32.40136,
+    "gn:longitude":34.91616,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"H\u0331erev Le\u2019et",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "H\u0331erev Le\u2019et"
+    ],
+    "name:heb_x_variant":[
+        "\u05d7\u05e8\u05d1 \u05dc\u05d0\u05ea"
+    ],
+    "name:und_x_variant":[
+        "Herev Laet",
+        "H\u0331erev Le\u2019et"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294782,
+        "wk:page":"Herev_Le%27et"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"a9bf5dd27507eb9658ac9827f3e7f1b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":1293490797,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1293490797,
+    "wof:lastmodified":1549930460,
+    "wof:name":"Herev Le'et",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.91616,
+    32.40136,
+    34.91616,
+    32.40136
+],
+  "geometry": {"coordinates":[34.91616,32.40136],"type":"Point"}
+}

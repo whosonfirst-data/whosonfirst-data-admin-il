@@ -1,0 +1,70 @@
+{
+  "id": 1343460545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.24565,33.0358,35.24565,33.0358",
+    "geom:latitude":33.0358,
+    "geom:longitude":35.24565,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Hilla",
+    "gn:country_code":"IL",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8066377,
+    "gn:latitude":33.0358,
+    "gn:longitude":35.24565,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Hilla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d4\u05dc\u05d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066377
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"6dbac48f5cff11d46cf1bcc1e9b49328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":1343460545,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1343460545,
+    "wof:lastmodified":1549930376,
+    "wof:name":"Hilla",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24565,
+    33.0358,
+    35.24565,
+    33.0358
+],
+  "geometry": {"coordinates":[35.24565,33.0358],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 421166737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.93333,32.25,34.93333,32.25",
+    "geom:latitude":32.25,
+    "geom:longitude":34.93333,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Kfar Hess"
+    ],
+    "name:cze_x_preferred":[
+        "Kfar Hess"
+    ],
+    "name:deu_x_preferred":[
+        "Kfar Hess"
+    ],
+    "name:dut_x_preferred":[
+        "Kfar Hess"
+    ],
+    "name:eng_x_preferred":[
+        "Kfar Hess"
+    ],
+    "name:fre_x_preferred":[
+        "Kfar Hess"
+    ],
+    "name:ger_x_preferred":[
+        "Kfar Hess"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05d4\u05e1"
+    ],
+    "name:nno_x_preferred":[
+        "Kfar Hess"
+    ],
+    "name:pol_x_preferred":[
+        "Kfar Hess"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0444\u0430\u0440-\u0425\u0435\u0441\u0441"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294533,
+    "qs:gn_pop":0,
+    "qs:name":"Kefar Hess",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":69,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":69,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":270989,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967548,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":108,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294533,
+        "gp:id":1967548,
+        "qs:id":270989,
+        "wd:id":"Q2920307",
+        "wk:page":"Kfar Hess"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008701,
+    "wof:geomhash":"8773e240ea5bbab3d0c4e3c59e2ac565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":421166737,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421166737,
+    "wof:lastmodified":1549930314,
+    "wof:name":"Kefar Hess",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.93333,
+    32.25,
+    34.93333,
+    32.25
+],
+  "geometry": {"coordinates":[34.93333,32.25],"type":"Point"}
+}

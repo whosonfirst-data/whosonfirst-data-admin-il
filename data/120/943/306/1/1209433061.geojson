@@ -1,0 +1,85 @@
+{
+  "id": 1209433061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.39723,32.43072,35.39723,32.43072",
+    "geom:latitude":32.43072,
+    "geom:longitude":35.39723,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nahal Malkishua`",
+    "gn:country_code":"IL",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294121,
+    "gn:latitude":32.43072,
+    "gn:longitude":35.39723,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Na\u1e96al Malkishua\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nahal-Malkichoua",
+        "Na\u1e96al Malkishua\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912973,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294121
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"d2bb568526658f546a5a3cafa1ef4d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209433061,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912973,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1209433061,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1209433061,
+    "wof:lastmodified":1549929904,
+    "wof:name":"Nahal Malkishua`",
+    "wof:parent_id":1091912973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.39723,
+    32.43072,
+    35.39723,
+    32.43072
+],
+  "geometry": {"coordinates":[35.39723,32.43072],"type":"Point"}
+}

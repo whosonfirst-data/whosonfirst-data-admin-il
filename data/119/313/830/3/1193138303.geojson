@@ -1,0 +1,76 @@
+{
+  "id": 1193138303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.11511,32.79509,35.11511,32.79509",
+    "geom:latitude":32.79509,
+    "geom:longitude":35.11511,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Usha",
+    "gn:country_code":"IL",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293278,
+    "gn:latitude":32.79509,
+    "gn:longitude":35.11511,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Usha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e9\u05d4"
+    ],
+    "name:und_x_variant":[
+        "Husha",
+        "Ushah",
+        "Usha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293278,
+        "wk:page":"Usha%2C_Israel"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"68fe1c26d2a2f579974eefc615a51109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720835,
+            "locality_id":1193138303,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1193138303,
+    "wof:lastmodified":1549930351,
+    "wof:name":"Usha",
+    "wof:parent_id":1108720835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11510999999999,
+    32.79509,
+    35.11510999999999,
+    32.79509
+],
+  "geometry": {"coordinates":[35.11510999999999,32.79509],"type":"Point"}
+}

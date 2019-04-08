@@ -1,0 +1,105 @@
+{
+  "id": 421166719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.5516,32.5585,35.5516,32.5585",
+    "geom:latitude":32.5585,
+    "geom:longitude":35.5516,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cze_x_preferred":[
+        "Bejt Josef"
+    ],
+    "name:deu_x_preferred":[
+        "Bejit Josef"
+    ],
+    "name:dut_x_preferred":[
+        "Beit Yosef"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Yosef"
+    ],
+    "name:ger_x_preferred":[
+        "Bejit Josef"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05d9\u05d5\u05e1\u05e3"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Yosef i Israel"
+    ],
+    "name:pol_x_preferred":[
+        "Beit Josef"
+    ],
+    "name:unk_x_variant":[
+        "Beit Yosef"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295423,
+    "qs:gn_pop":0,
+    "qs:name":"Bet Yosef",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":270464,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967209,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":24,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295423,
+        "gp:id":1967209,
+        "qs:id":270464,
+        "wd:id":"Q2888667"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008700,
+    "wof:geomhash":"c951cf258901305580b0a69255e2cb0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":421166719,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421166719,
+    "wof:lastmodified":1549930314,
+    "wof:name":"Bet Yosef",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.5516,
+    32.5585,
+    35.5516,
+    32.5585
+],
+  "geometry": {"coordinates":[35.5516,32.5585],"type":"Point"}
+}

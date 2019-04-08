@@ -1,0 +1,100 @@
+{
+  "id": 421190771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.8955,31.61217,34.8955,31.61217",
+    "geom:latitude":31.61217,
+    "geom:longitude":34.8955,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Bejt Guvrin"
+    ],
+    "name:deu_x_preferred":[
+        "Bet Guvrin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05d2\u05d5\u05d1\u05e8\u05d9\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05d9\u05ea \u05d2\u05d1\u05e8\u05d9\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Guvrin kibbutz"
+    ],
+    "name:pol_x_preferred":[
+        "Bet Guwrin"
+    ],
+    "name:unk_x_variant":[
+        "Yatsivim"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295467,
+    "qs:gn_pop":0,
+    "qs:name":"Bet Guvrin",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Southern",
+    "qs:photos":707,
+    "qs:photos_1k":143,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":707,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1120450,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967177,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":368,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295467,
+        "gp:id":1967177,
+        "qs:id":1120450,
+        "wd:id":"Q830798",
+        "wk:page":"Beit Guvrin, Israel"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009668,
+    "wof:geomhash":"fc93e7aec2a675f6cc3d2ff437d8297c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720841,
+            "locality_id":421190771,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":421190771,
+    "wof:lastmodified":1549930370,
+    "wof:name":"Bet Guvrin",
+    "wof:parent_id":1108720841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.8955,
+    31.61217,
+    34.8955,
+    31.61217
+],
+  "geometry": {"coordinates":[34.8955,31.61217],"type":"Point"}
+}

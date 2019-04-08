@@ -1,0 +1,103 @@
+{
+  "id": 421172255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.23746,30.65817,35.23746,30.65817",
+    "geom:latitude":30.65817,
+    "geom:longitude":35.23746,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cze_x_preferred":[
+        "Ejn Jahav"
+    ],
+    "name:eng_x_preferred":[
+        "Ein Yahav"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d9\u05df \u05d9\u05d4\u05d1"
+    ],
+    "name:nno_x_preferred":[
+        "Ein Yahav"
+    ],
+    "name:pol_x_preferred":[
+        "En Yahav"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0439\u043d-\u042f\u0445\u0430\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "\u2018En Yahav"
+    ],
+    "name:unk_x_variant":[
+        "\u2018Ayn Waybah"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295180,
+    "qs:gn_pop":0,
+    "qs:name":"En Yahav",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Southern",
+    "qs:photos":10,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":10,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1301883,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1968173,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":294,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295180,
+        "gp:id":1968173,
+        "qs:id":1301883,
+        "wd:id":"Q279745",
+        "wk:page":"Ein Yahav"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008929,
+    "wof:geomhash":"860ba1820627167aa36411893bd01bcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":421172255,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":421172255,
+    "wof:lastmodified":1553816362,
+    "wof:name":"En Yahav",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23746,
+    30.65817,
+    35.23746,
+    30.65817
+],
+  "geometry": {"coordinates":[35.23746,30.65817],"type":"Point"}
+}

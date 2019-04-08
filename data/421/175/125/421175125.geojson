@@ -1,0 +1,99 @@
+{
+  "id": 421175125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.22089,32.75742,35.22089,32.75742",
+    "geom:latitude":32.75742,
+    "geom:longitude":35.22089,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Alon ha-Galil"
+    ],
+    "name:cze_x_preferred":[
+        "Alon ha-Galil"
+    ],
+    "name:eng_x_preferred":[
+        "Alon HaGalil"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05d5\u05df \u05d4\u05d2\u05dc\u05d9\u05dc"
+    ],
+    "name:nno_x_preferred":[
+        "Alon HaGalil"
+    ],
+    "name:pol_x_preferred":[
+        "Allon ha-Galil"
+    ],
+    "name:unk_x_variant":[
+        "Allon HaGalil"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":8265539,
+    "qs:gn_pop":0,
+    "qs:name":"Alon Hagalil",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":29,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":29,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":352852,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":22722721,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":75,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8265539,
+        "gp:id":22722721,
+        "qs:id":352852,
+        "wd:id":"Q2776865"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009056,
+    "wof:geomhash":"ac07428ef6eccdbce041424c37b6c1be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":421175125,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421175125,
+    "wof:lastmodified":1549930304,
+    "wof:name":"Alon Hagalil",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.22089,
+    32.75742,
+    35.22089,
+    32.75742
+],
+  "geometry": {"coordinates":[35.22089,32.75742],"type":"Point"}
+}

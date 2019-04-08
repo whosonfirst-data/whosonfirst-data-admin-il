@@ -1,0 +1,74 @@
+{
+  "id": 1360106957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.11528,31.7902,35.11528,31.7902",
+    "geom:latitude":31.7902,
+    "geom:longitude":35.11528,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"`Ein Rafa",
+    "gn:country_code":"IL",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295284,
+    "gn:latitude":31.7902,
+    "gn:longitude":35.11528,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"\u2018Ein R\u0101fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u2018Ein R\u0101fa"
+    ],
+    "name:heb_x_variant":[
+        "\u05e2\u05d9\u05df \u05e8\u05e4\u05d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295284,
+        "wk:page":"Ein_Rafa"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"c10da409e25ef38905ec6b1f9fe977d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":1360106957,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":1360106957,
+    "wof:lastmodified":1549930424,
+    "wof:name":"`Ein Rafa",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11528,
+    31.7902,
+    35.11528,
+    31.7902
+],
+  "geometry": {"coordinates":[35.11528,31.7902],"type":"Point"}
+}

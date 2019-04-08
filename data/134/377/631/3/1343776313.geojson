@@ -1,0 +1,77 @@
+{
+  "id": 1343776313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.93606,31.30084,34.93606,31.30084",
+    "geom:latitude":31.30084,
+    "geom:longitude":34.93606,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hura",
+    "gn:country_code":"IL",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8374209,
+    "gn:latitude":31.30084,
+    "gn:longitude":34.93606,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"H\u0331ura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "H\u0331ura"
+    ],
+    "name:heb_x_variant":[
+        "\u05d7\u05d5\u05e8\u05d4"
+    ],
+    "name:und_x_variant":[
+        "H\u0331\u016bra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8374209,
+        "wk:page":"Hura"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"23876c1ad8d4e96a8f207e6cef8713a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1343776313,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1343776313,
+    "wof:lastmodified":1549930452,
+    "wof:name":"Hura",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.93606,
+    31.30084,
+    34.93606,
+    31.30084
+],
+  "geometry": {"coordinates":[34.93606,31.30084],"type":"Point"}
+}

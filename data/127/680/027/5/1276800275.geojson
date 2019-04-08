@@ -1,0 +1,77 @@
+{
+  "id": 1276800275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.00977,32.39517,35.00977,32.39517",
+    "geom:latitude":32.39517,
+    "geom:longitude":35.00977,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lahavot Haviva",
+    "gn:country_code":"IL",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294435,
+    "gn:latitude":32.39517,
+    "gn:longitude":35.00977,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lahavot H\u0331aviva",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Lahavot H\u0331aviva"
+    ],
+    "name:heb_x_variant":[
+        "\u05dc\u05d4\u05d1\u05d5\u05ea \u05d7\u05d1\u05d9\u05d1\u05d4"
+    ],
+    "name:und_x_variant":[
+        "Lahavot Havivah",
+        "Lahavot H\u0331aviva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294435
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"8d1ae5e2278f96a449fbe3f9b7e45eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":1276800275,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1276800275,
+    "wof:lastmodified":1549930479,
+    "wof:name":"Lahavot Haviva",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.00977,
+    32.39517,
+    35.00977,
+    32.39517
+],
+  "geometry": {"coordinates":[35.00977,32.39517],"type":"Point"}
+}

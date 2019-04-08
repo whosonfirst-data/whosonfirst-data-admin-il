@@ -1,0 +1,84 @@
+{
+  "id": 1327143143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.97828,32.16384,34.97828,32.16384",
+    "geom:latitude":32.16384,
+    "geom:longitude":34.97828,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hable",
+    "gn:country_code":"IL",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7870599,
+    "gn:latitude":32.16384,
+    "gn:longitude":34.97828,
+    "gn:modification_date":"2011-06-16",
+    "gn:name":"Hable",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hableh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913123,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870599
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"c3f892cc4ebe8a2a056390bf1604ca40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1327143143,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913123,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1327143143,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1327143143,
+    "wof:lastmodified":1549929918,
+    "wof:name":"Hable",
+    "wof:parent_id":1091913123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.97828,
+    32.16384,
+    34.97828,
+    32.16384
+],
+  "geometry": {"coordinates":[34.97828,32.16384],"type":"Point"}
+}

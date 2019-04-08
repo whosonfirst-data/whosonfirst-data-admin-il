@@ -1,0 +1,71 @@
+{
+  "id": 1226360173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.70895,31.69874,34.70895,31.69874",
+    "geom:latitude":31.69874,
+    "geom:longitude":34.70895,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Merkaz Shapira",
+    "gn:country_code":"IL",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8072868,
+    "gn:latitude":31.69874,
+    "gn:longitude":34.70895,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Merkaz Shapira",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05db\u05d6 \u05e9\u05e4\u05d9\u05e8\u05d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8072868,
+        "wk:page":"Merkaz_Shapira"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"f42de74bdbfec2ab703047f596c17ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720841,
+            "locality_id":1226360173,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1226360173,
+    "wof:lastmodified":1549930460,
+    "wof:name":"Merkaz Shapira",
+    "wof:parent_id":1108720841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.70895,
+    31.69874,
+    34.70895,
+    31.69874
+],
+  "geometry": {"coordinates":[34.70895,31.69874],"type":"Point"}
+}

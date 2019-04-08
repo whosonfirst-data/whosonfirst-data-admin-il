@@ -1,0 +1,488 @@
+{
+  "id": 421202181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.010717,
+    "geom:area_square_m":113285685.998585,
+    "geom:bbox":"34.7343143326,31.192502645,34.8538034605,31.3232998922",
+    "geom:latitude":31.257565,
+    "geom:longitude":34.7864,
+    "iso:country":"IL",
+    "lbl:latitude":31.257023,
+    "lbl:longitude":34.785262,
+    "mps:latitude":31.257023,
+    "mps:longitude":34.785262,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:amh_x_preferred":[
+        "\u1264\u122d\u1233\u1264"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0626\u0631 \u0627\u0644\u0633\u0628\u0639"
+    ],
+    "name:arm_x_preferred":[
+        "\u0532\u0565\u0565\u0580 \u0547\u0587\u0561"
+    ],
+    "name:aze_x_preferred":[
+        "Beer-\u015eeva"
+    ],
+    "name:baq_x_preferred":[
+        "Beer-Xeva"
+    ],
+    "name:bar_x_preferred":[
+        "Be'er Scheva"
+    ],
+    "name:bar_x_variant":[
+        "Beer Scheva"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c0\u09b0\u09b8\u09c7\u09ac\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u0435\u0440 \u0428\u0435\u0432\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Beerxeba"
+    ],
+    "name:ces_x_preferred":[
+        "Beer\u0161eva"
+    ],
+    "name:chi_x_preferred":[
+        "\u8d1d\u5c14\u8c22\u5df4"
+    ],
+    "name:cym_x_preferred":[
+        "Beersheba"
+    ],
+    "name:cze_x_preferred":[
+        "Beer\u0161eva"
+    ],
+    "name:dan_x_preferred":[
+        "Beersheba"
+    ],
+    "name:deu_x_preferred":[
+        "Be\u2019er Scheva"
+    ],
+    "name:dut_x_preferred":[
+        "Be\u00ebr Sjeva"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03c1 \u03a3\u03b5\u03b2\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Beersheba"
+    ],
+    "name:epo_x_preferred":[
+        "Be'er \u015ceba"
+    ],
+    "name:epo_x_variant":[
+        "Beer \u015ceba"
+    ],
+    "name:est_x_preferred":[
+        "Be'er-Sheva"
+    ],
+    "name:est_x_variant":[
+        "Beer-Sheva"
+    ],
+    "name:eus_x_preferred":[
+        "Beer-Xeva"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0626\u0631\u0634\u0628\u0639"
+    ],
+    "name:fin_x_preferred":[
+        "Beerseba"
+    ],
+    "name:fra_x_preferred":[
+        "Beer-Sheva"
+    ],
+    "name:fre_x_preferred":[
+        "Beer-Sheva"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10d4\u10d4\u10e0-\u10e8\u10d4\u10d5\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Be\u2019er Scheva"
+    ],
+    "name:glg_x_preferred":[
+        "Berseb\u00e1"
+    ],
+    "name:glv_x_preferred":[
+        "Beersheba"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03b5\u03c1 \u03a3\u03b5\u03b2\u03ac"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0ac0\u0ab0\u0ab6\u0ac7\u0aac\u0abe"
+    ],
+    "name:hbs_x_preferred":[
+        "Beersheba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05e8 \u05e9\u05d1\u05e2"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0940\u0930\u0936\u0947\u092c\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Beer \u0160eva"
+    ],
+    "name:hrv_x_variant":[
+        "Be'er Sheva",
+        "Ber\u0161eba"
+    ],
+    "name:hun_x_preferred":[
+        "Be\u00e9r-Seva"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0565\u0580 \u0547\u0587\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Bersyeba"
+    ],
+    "name:ita_x_preferred":[
+        "Be'er Sheva"
+    ],
+    "name:jav_x_preferred":[
+        "Beersheba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30a8\u30eb\u30b7\u30a7\u30d0"
+    ],
+    "name:kal_x_preferred":[
+        "Beersheba"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cc0\u0cb0\u0ccd\u0cb7\u0cc6\u0cac\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10d4\u10e0-\u10e8\u10d4\u10d5\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\ub974\uc170\ubc14"
+    ],
+    "name:lad_x_preferred":[
+        "Be'er Sheva"
+    ],
+    "name:lad_x_variant":[
+        "Beer Sheva"
+    ],
+    "name:lav_x_preferred":[
+        "Beer\u0161eva"
+    ],
+    "name:lim_x_preferred":[
+        "Be'er Sjeva"
+    ],
+    "name:lim_x_variant":[
+        "Beer Sjeva"
+    ],
+    "name:lit_x_preferred":[
+        "Beer \u0160eva"
+    ],
+    "name:ltz_x_preferred":[
+        "Beersheba"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u0435\u0440\u0448\u0435\u0432\u0430"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0947\u0930\u0936\u0947\u092c\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Beersheba"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u0440\u0448\u0435\u0432\u0430"
+    ],
+    "name:nah_x_preferred":[
+        "Beersheba"
+    ],
+    "name:nld_x_preferred":[
+        "Be\u00ebr Sjeva"
+    ],
+    "name:nno_x_preferred":[
+        "Beersheba"
+    ],
+    "name:nob_x_preferred":[
+        "Beer Sheva"
+    ],
+    "name:nor_x_preferred":[
+        "Beersheba"
+    ],
+    "name:oci_x_preferred":[
+        "Beersheb\u00e0"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0626\u0631\u0634\u0628\u0639"
+    ],
+    "name:pol_x_preferred":[
+        "Beer Szewa"
+    ],
+    "name:por_x_preferred":[
+        "Berseb\u00e1"
+    ],
+    "name:ron_x_preferred":[
+        "Beer \u0218eva"
+    ],
+    "name:rum_x_preferred":[
+        "Beer \u0218eva"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u044d\u0440-\u0428\u0435\u0432\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Beersheba"
+    ],
+    "name:sgs_x_preferred":[
+        "Be\u0117r\u0161\u0117va"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dd2\u0dba\u0dbb\u0dca\u0dc1\u0dda\u0db6\u0dcf"
+    ],
+    "name:slk_x_preferred":[
+        "Beer \u0160eva"
+    ],
+    "name:slo_x_preferred":[
+        "Beer \u0160eva"
+    ],
+    "name:spa_x_preferred":[
+        "Beerseba"
+    ],
+    "name:spa_x_variant":[
+        "Be'er Sheva"
+    ],
+    "name:srd_x_preferred":[
+        "Beersheba"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0440\u0448\u0435\u0431\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Be'er Sheva"
+    ],
+    "name:swe_x_variant":[
+        "Beer Sheba"
+    ],
+    "name:szl_x_preferred":[
+        "Beer Szewa"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc0\u0bb0\u0bcd\u0b9a\u0bc7\u0baa\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c46\u0c2f\u0c47\u0c30\u0c4d\u0c37\u0c46\u0c2c\u0c3e"
+    ],
+    "name:tgl_x_preferred":[
+        "Berseba"
+    ],
+    "name:tgl_x_variant":[
+        "B\u2019er Sheva\u2018"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1a\u0e35\u0e22\u0e23\u0e4c\u0e0a\u0e35\u0e1a\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Beer\u015feba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0435\u0440-\u0428\u0435\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Be'er Sheva`"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0626\u0631 \u0627\u0644\u0633\u0628\u0639"
+    ],
+    "name:uzb_x_preferred":[
+        "Bir as-saba"
+    ],
+    "name:vie_x_preferred":[
+        "Beersheba"
+    ],
+    "name:war_x_preferred":[
+        "Beersheba"
+    ],
+    "name:wel_x_preferred":[
+        "Beersheba"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d1\u05d0\u05e8 \u05e9\u05d1\u05e2"
+    ],
+    "name:zea_x_preferred":[
+        "Be\u00ebr Sjeva"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u5c14\u8c22\u5df4"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Israel",
+    "ne:ADM0_A3":"ISR",
+    "ne:ADM1NAME":"HaDarom",
+    "ne:ADMIN1_COD":1,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":295530,
+    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII":"Beersheba",
+    "ne:GN_POP":186600,
+    "ne:GTOPO30":259.0,
+    "ne:ISO_A2":"IL",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":31.250016,
+    "ne:LONGITUDE":34.830008,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Beer Sheva",
+    "ne:MAX_AREAKM":50.0,
+    "ne:MAX_AREAMI":19.0,
+    "ne:MAX_BBXMAX":34.866667,
+    "ne:MAX_BBXMIN":34.741667,
+    "ne:MAX_BBYMAX":31.291667,
+    "ne:MAX_BBYMIN":31.208333,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":55.0,
+    "ne:MAX_PERMI":34.0,
+    "ne:MAX_POP10":206408,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":34.793015,
+    "ne:MEAN_BBYC":31.251348,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":50.0,
+    "ne:MIN_AREAMI":19.0,
+    "ne:MIN_BBXMAX":34.866667,
+    "ne:MIN_BBXMIN":34.741667,
+    "ne:MIN_BBYMAX":31.291667,
+    "ne:MIN_BBYMIN":31.208333,
+    "ne:MIN_PERKM":55.0,
+    "ne:MIN_PERMI":34.0,
+    "ne:NAME":"Beer Sheva",
+    "ne:NAMEALT":"Beersheba",
+    "ne:NAMEASCII":"Beer Sheva",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":206408,
+    "ne:POP_MIN":186600,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":10,
+    "ne:RANK_MIN":9,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Israel",
+    "ne:SOV_A3":"IS1",
+    "ne:TIMEZONE":"Asia/Jerusalem",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":295530,
+    "qs:gn_pop":186600,
+    "qs:name":"Beersheba",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Southern",
+    "qs:photos":2759,
+    "qs:photos_1k":559,
+    "qs:photos_9k":12,
+    "qs:photos_9r":10,
+    "qs:photos_all":2759,
+    "qs:photos_sr":19,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"10",
+    "qs:qs_id":8064,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967144,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:elevation":260.0,
+    "wd:latitude":31.258889,
+    "wd:longitude":34.797778,
+    "wd:population":197270,
+    "wd:wordcount":7615,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295530,
+        "gp:id":1967144,
+        "qs:id":8064,
+        "wd:id":"Q41843",
+        "wk:page":"Beersheba"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010108,
+    "wof:geomhash":"58e3dc5e02f4c4a0da5e680f21288cf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":421202181,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":421202181,
+    "wof:lastmodified":1549931481,
+    "wof:name":"Beersheba",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:population":197270,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.73431433259977,
+    31.19250264498147,
+    34.85380346046455,
+    31.32329989220254
+],
+  "geometry": {"coordinates":[[[34.74260695346106,31.29239103262869],[34.7625846309905,31.30068365348996],[34.7625846309905,31.30369915198497],[34.7561766966886,31.30897627435124],[34.75881525787173,31.31425339671751],[34.7720080637874,31.31839970714815],[34.7784159980893,31.32028439370753],[34.78783943088621,31.31990745639565],[34.78821636819809,31.31199177284625],[34.80291692336126,31.31463033402938],[34.8213868516432,31.32329989220254],[34.85380346046455,31.3033222146731],[34.84136452917264,31.2905063460693],[34.83684128143013,31.29314490725244],[34.82704091132134,31.2905063460693],[34.82553316207383,31.28749084757429],[34.82477928745008,31.28334453714366],[34.82628703669759,31.27806741477739],[34.82817172325697,31.27392110434675],[34.83005640981635,31.26939785660423],[34.83005640981635,31.26525154617359],[34.82967947250447,31.26110523574295],[34.82854866056884,31.25507423875293],[34.82854866056884,31.24678161789166],[34.82967947250447,31.24225837014914],[34.83231803368761,31.23848899703038],[34.83194109637573,31.23509656122349],[34.83005640981635,31.23170412541661],[34.82779478594509,31.2237884418672],[34.82591009938571,31.21662663294155],[34.82364847551445,31.21134951057529],[34.8149789173413,31.21134951057529],[34.81422504271755,31.20230301509025],[34.81196341884629,31.19891057928337],[34.80781710841565,31.19589508078836],[34.8021630487375,31.19514120616461],[34.79763980099499,31.1936334569171],[34.79311655325247,31.19250264498147],[34.7863316816387,31.1936334569171],[34.78331618314369,31.19476426885273],[34.7784159980893,31.19514120616461],[34.77313887572303,31.19514120616461],[34.76183075636674,31.19476426885273],[34.74147614152542,31.20607238820902],[34.73808370571854,31.20908788670403],[34.73657595647104,31.21474194638217],[34.73619901915916,31.21851131950093],[34.73506820722353,31.22529619111471],[34.73695289378291,31.23735818509475],[34.73431433259977,31.24112755821351],[34.73695289378291,31.26713623273297],[34.74260695346106,31.29239103262869]]],"type":"Polygon"}
+}

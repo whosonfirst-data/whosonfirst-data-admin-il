@@ -1,0 +1,99 @@
+{
+  "id": 421192537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.4367,32.69706,35.4367,32.69706",
+    "geom:latitude":32.69706,
+    "geom:longitude":35.4367,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "\u0160admot Dvora"
+    ],
+    "name:cze_x_preferred":[
+        "\u0160admot Dvora"
+    ],
+    "name:eng_x_preferred":[
+        "Shadmot Dvora"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d3\u05de\u05d5\u05ea \u05d3\u05d1\u05d5\u05e8\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Shadmot Dvora"
+    ],
+    "name:pol_x_preferred":[
+        "Szadmot Dvora"
+    ],
+    "name:unk_x_variant":[
+        "\u2018Omer"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293577,
+    "qs:gn_pop":0,
+    "qs:name":"Shadmot Devora",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1168370,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967957,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":535,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293577,
+        "gp:id":1967957,
+        "qs:id":1168370,
+        "wd:id":"Q2888594"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009740,
+    "wof:geomhash":"3fc2529c61f32ecdb84aa1cb6f3d5c6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720825,
+            "locality_id":421192537,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421192537,
+    "wof:lastmodified":1549930375,
+    "wof:name":"Shadmot Devora",
+    "wof:parent_id":1108720825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.4367,
+    32.69706,
+    35.4367,
+    32.69706
+],
+  "geometry": {"coordinates":[35.4367,32.69706],"type":"Point"}
+}

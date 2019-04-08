@@ -1,0 +1,92 @@
+{
+  "id": 421184993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.21841,31.79711,35.21841,31.79711",
+    "geom:latitude":31.79711,
+    "geom:longitude":35.21841,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Sanhedrija"
+    ],
+    "name:fra_x_preferred":[
+        "Sanh\u00e9driah"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d4\u05d3\u05e8\u05d9\u05d4"
+    ],
+    "name:unk_x_variant":[
+        "Sanhedriyya"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":293647,
+    "qs:gn_pop":0,
+    "qs:name":"Sanhedria",
+    "qs:name_adm0":"Palestine",
+    "qs:name_adm1":"West Bank",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1016925,
+    "qs:woe_adm0":28289408,
+    "qs:woe_id":22724649,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":320,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168681,
+        1108720823,
+        85672551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293647,
+        "gp:id":22724649,
+        "qs:id":1016925,
+        "wd:id":"Q2749900"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009429,
+    "wof:geomhash":"fee88e6a1571149cd8e117d0b7a05456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421168681,
+            "neighbourhood_id":421184993,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":421184993,
+    "wof:lastmodified":1549930541,
+    "wof:name":"Sanhedria",
+    "wof:parent_id":421168681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21841,
+    31.79711,
+    35.21841,
+    31.79711
+],
+  "geometry": {"coordinates":[35.21841,31.79711],"type":"Point"}
+}

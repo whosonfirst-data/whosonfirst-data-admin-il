@@ -1,0 +1,115 @@
+{
+  "id": 421202783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.11402,32.7615,35.11402,32.7615",
+    "geom:latitude":32.7615,
+    "geom:longitude":35.11402,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0625\u0628\u0637\u0646\u060c \u062d\u064a\u0641\u0627"
+    ],
+    "name:ces_x_preferred":[
+        "Ibtin"
+    ],
+    "name:cze_x_preferred":[
+        "Ibtin"
+    ],
+    "name:dut_x_preferred":[
+        "Ibtin"
+    ],
+    "name:eng_x_preferred":[
+        "Ibtin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05d8\u05d9\u05df"
+    ],
+    "name:heb_x_variant":[
+        "Ib\u1e6d\u012bn"
+    ],
+    "name:nno_x_preferred":[
+        "Ibtin"
+    ],
+    "name:pol_x_preferred":[
+        "Ibtin"
+    ],
+    "name:swe_x_preferred":[
+        "Ib\u1e6d\u012bn"
+    ],
+    "name:unk_x_variant":[
+        "Beten"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294661,
+    "qs:gn_pop":2020,
+    "qs:name":"Ibtin",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Haifa",
+    "qs:photos":146,
+    "qs:photos_1k":30,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":146,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":227497,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967474,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":205,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294661,
+        "gp:id":1967474,
+        "qs:id":227497,
+        "wd:id":"Q2889270",
+        "wk:page":"Ibtin"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010129,
+    "wof:geomhash":"7d1161881ac61b0d95f11c5fe35326b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720835,
+            "locality_id":421202783,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":421202783,
+    "wof:lastmodified":1549930402,
+    "wof:name":"Ibtin",
+    "wof:parent_id":1108720835,
+    "wof:placetype":"locality",
+    "wof:population":2020,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11402,
+    32.7615,
+    35.11402,
+    32.7615
+],
+  "geometry": {"coordinates":[35.11402,32.7615],"type":"Point"}
+}

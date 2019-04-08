@@ -1,0 +1,115 @@
+{
+  "id": 421172249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.05656,32.59784,35.05656,32.59784",
+    "geom:latitude":32.59784,
+    "geom:longitude":35.05656,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0631\u0645\u0648\u062a \u0645\u0646\u0634\u064a\u0647"
+    ],
+    "name:ces_x_preferred":[
+        "Ramot Mena\u0161e"
+    ],
+    "name:cze_x_preferred":[
+        "Ramot Mena\u0161e"
+    ],
+    "name:dut_x_preferred":[
+        "Ramot Menashe"
+    ],
+    "name:eng_x_preferred":[
+        "Ramot Menashe"
+    ],
+    "name:fra_x_preferred":[
+        "Ramot Menashe"
+    ],
+    "name:fre_x_preferred":[
+        "Ramot Menashe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05de\u05d5\u05ea \u05de\u05e0\u05e9\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Ramot Menashe"
+    ],
+    "name:pol_x_preferred":[
+        "Ramot Menasze"
+    ],
+    "name:swe_x_preferred":[
+        "Ramot Menashe"
+    ],
+    "name:unk_x_variant":[
+        "Ramot Menasheh"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293755,
+    "qs:gn_pop":0,
+    "qs:name":"Ramot Menashe",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":127,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":127,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1301811,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967889,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":381,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293755,
+        "gp:id":1967889,
+        "qs:id":1301811,
+        "wd:id":"Q2916818",
+        "wk:page":"Ramot Menashe"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008928,
+    "wof:geomhash":"078a492a760c4269d10bdec8dbcf5d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":421172249,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421172249,
+    "wof:lastmodified":1553816362,
+    "wof:name":"Ramot Menashe",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.05656,
+    32.59784,
+    35.05656,
+    32.59784
+],
+  "geometry": {"coordinates":[35.05656,32.59784],"type":"Point"}
+}

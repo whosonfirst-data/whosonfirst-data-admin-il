@@ -1,0 +1,139 @@
+{
+  "id": 85903117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":3446409.778923,
+    "geom:bbox":"35.013463,32.785401,35.013463,32.785401",
+    "geom:latitude":32.785401,
+    "geom:longitude":35.013463,
+    "gn:latitude":32.78571,
+    "gn:longitude":35.01448,
+    "iso:country":"IL",
+    "lbl:latitude":32.785401,
+    "lbl:longitude":35.013463,
+    "mps:latitude":32.788803,
+    "mps:longitude":35.012294,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:cze_x_preferred":[
+        "Neve \u0160a'anan"
+    ],
+    "name:dut_x_preferred":[
+        "Neve Sha'anan"
+    ],
+    "name:eng_x_preferred":[
+        "Newe Sha'anan"
+    ],
+    "name:eng_x_variant":[
+        "Neve Shaanan",
+        "Neve Sha'anan"
+    ],
+    "name:heb_x_preferred":[
+        "New\u00e9 Sha\u2019anan"
+    ],
+    "name:heb_x_variant":[
+        "\u05e0\u05d5\u05d4 \u05e9\u05d0\u05e0\u05df",
+        "Nev\u00e9 Sha\u2019anan",
+        "\u05e0\u05d5\u05d5\u05d4 \u05e9\u05d0\u05e0\u05df"
+    ],
+    "name:spa_x_preferred":[
+        "Neve Sha'anan"
+    ],
+    "name:unk_x_variant":[
+        "Neve Shaanan",
+        "Newe Sha'anan"
+    ],
+    "qs:gn_adm0_cc":"IL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":294801,
+    "qs:gn_nam_loc":"Haifa, Haifa, IL",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"New\u00e9 Sha\u2019anan",
+    "qs:local_max":13408,
+    "qs:local_sum":25534,
+    "qs:localhoods":8,
+    "qs:name":"Newe Sha'anan",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Haifa",
+    "qs:name_local":"Haifa",
+    "qs:photo_max":94,
+    "qs:photo_sum":449,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424852,
+    "qs:woe_adm1":2345794,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1967449,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:latitude":32.790278,
+    "wd:longitude":35.015833,
+    "wd:wordcount":183,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        136253049,
+        1108720835,
+        85672535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294049,
+        "gp:id":1967763,
+        "qs:id":1301770,
+        "wd:id":"Q2919842",
+        "wk:page":"Neve Sha'anan, Haifa"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"fb8d230c2c609303a0fe7482fa016c70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720835,
+            "empire_id":136253049,
+            "locality_id":-1,
+            "neighbourhood_id":85903117,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":85903117,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379344,
+    "wof:name":"Newe Sha'anan",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[
+        1126082143
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.013463,
+    32.785401,
+    35.013463,
+    32.785401
+],
+  "geometry": {"coordinates":[35.013463,32.785401],"type":"Point"}
+}

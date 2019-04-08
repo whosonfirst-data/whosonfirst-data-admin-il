@@ -1,0 +1,75 @@
+{
+  "id": 1326643775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.61189,31.32714,34.61189,31.32714",
+    "geom:latitude":31.32714,
+    "geom:longitude":34.61189,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Peduyim",
+    "gn:country_code":"IL",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293933,
+    "gn:latitude":31.32714,
+    "gn:longitude":34.61189,
+    "gn:modification_date":"2018-04-15",
+    "gn:name":"Peduyim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e4\u05d3\u05d5\u05d9\u05d9\u05dd"
+    ],
+    "name:und_x_variant":[
+        "Peduyyim",
+        "Peduyim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293933,
+        "wk:page":"Peduim"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"a0d0be7d9c05fb29de8164a6ead4b555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1326643775,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1326643775,
+    "wof:lastmodified":1549930432,
+    "wof:name":"Peduyim",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.61189,
+    31.32714,
+    34.61189,
+    31.32714
+],
+  "geometry": {"coordinates":[34.61189,31.32714],"type":"Point"}
+}

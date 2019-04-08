@@ -1,0 +1,76 @@
+{
+  "id": 890455649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.09837,32.98338,35.09837,32.98338",
+    "geom:latitude":32.98338,
+    "geom:longitude":35.09837,
+    "gn:country":"IL",
+    "gn:fcode":"PPL",
+    "gn:pop":3900,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "El Mazra\u2018a"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05dc \u05de\u05d6\u05e8\u05e2\u05d4",
+        "El Mazra\u2019a"
+    ],
+    "name:unk_x_variant":[
+        "Al Mazra\u2018a"
+    ],
+    "qs:name":"El Mazra\u2018a",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295249,
+        "gp:id":1968192,
+        "qs:id":547142
+    },
+    "wof:country":"IL",
+    "wof:created":1469052970,
+    "wof:geomhash":"a80f084b8fe7c963e41dbfb9181b0904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":890455649,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":890455649,
+    "wof:lastmodified":1549930372,
+    "wof:name":"El Mazra\u2018a",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:population":3900,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.09837,
+    32.98338,
+    35.09837,
+    32.98338
+],
+  "geometry": {"coordinates":[35.09837,32.98338],"type":"Point"}
+}

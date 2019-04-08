@@ -1,0 +1,75 @@
+{
+  "id": 1293403899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.65477,31.44965,34.65477,31.44965",
+    "geom:latitude":31.44965,
+    "geom:longitude":34.65477,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mabbu`im",
+    "gn:country_code":"IL",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294395,
+    "gn:latitude":31.44965,
+    "gn:longitude":34.65477,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Mabbu\u2018im",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05de\u05d1\u05d5\u05e2\u05d9\u05dd"
+    ],
+    "name:und_x_variant":[
+        "Mabuim",
+        "Mabbu\u2018im"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294395,
+        "wk:page":"Mabu%27im"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"ef5b9abed842dd68693fce167e4725b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1293403899,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1293403899,
+    "wof:lastmodified":1549930462,
+    "wof:name":"Mabbu`im",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.65477,
+    31.44965,
+    34.65477,
+    31.44965
+],
+  "geometry": {"coordinates":[34.65477,31.44965],"type":"Point"}
+}

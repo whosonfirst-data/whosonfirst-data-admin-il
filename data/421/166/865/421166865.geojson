@@ -1,0 +1,105 @@
+{
+  "id": 421166865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.09549,31.71794,35.09549,31.71794",
+    "geom:latitude":31.71794,
+    "geom:longitude":35.09549,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Cur Hadasa"
+    ],
+    "name:cze_x_preferred":[
+        "Cur Hadasa"
+    ],
+    "name:eng_x_preferred":[
+        "Tzur Hadassah"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6\u05d5\u05e8 \u05d4\u05d3\u05e1\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u1e94ur Hadassa"
+    ],
+    "name:nno_x_preferred":[
+        "Tzur Hadassah"
+    ],
+    "name:pol_x_preferred":[
+        "Cur Hadassa"
+    ],
+    "name:unk_x_variant":[
+        "Tsur Hadassa"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293020,
+    "qs:gn_pop":4700,
+    "qs:name":"Zur Hadassa",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Jerusalem",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":185,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1210225,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1968141,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":234,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293020,
+        "gp:id":1968141,
+        "qs:id":1210225,
+        "wd:id":"Q2890554"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008705,
+    "wof:geomhash":"c728a5c4da37c0f7c9269998c9b9a53c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421166865,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":421166865,
+    "wof:lastmodified":1549930318,
+    "wof:name":"Zur Hadassa",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:population":4700,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.09549,
+    31.71794,
+    35.09549,
+    31.71794
+],
+  "geometry": {"coordinates":[35.09549,31.71794],"type":"Point"}
+}

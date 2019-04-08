@@ -1,0 +1,71 @@
+{
+  "id": 1327143201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.03312,32.36658,35.03312,32.36658",
+    "geom:latitude":32.36658,
+    "geom:longitude":35.03312,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zemer",
+    "gn:country_code":"IL",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142386,
+    "gn:latitude":32.36658,
+    "gn:longitude":35.03312,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Zemer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d6\u05de\u05e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142386,
+        "wk:page":"Zemer"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"e683e7019abedd9c11035f660c1bffb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":1327143201,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1327143201,
+    "wof:lastmodified":1549930491,
+    "wof:name":"Zemer",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.03312,
+    32.36658,
+    35.03312,
+    32.36658
+],
+  "geometry": {"coordinates":[35.03312,32.36658],"type":"Point"}
+}

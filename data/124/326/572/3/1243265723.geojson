@@ -1,0 +1,80 @@
+{
+  "id": 1243265723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.54635,32.7319,35.54635,32.7319",
+    "geom:latitude":32.7319,
+    "geom:longitude":35.54635,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Poriyya `Illit",
+    "gn:country_code":"IL",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293905,
+    "gn:latitude":32.7319,
+    "gn:longitude":35.54635,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Poriyya \u2018Illit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Poriyya \u2018Illit"
+    ],
+    "name:heb_x_variant":[
+        "\u05e4\u05d5\u05e8\u05d9\u05d4 \u05e2\u05dc\u05d9\u05ea"
+    ],
+    "name:und_x_variant":[
+        "Poriah",
+        "Poriyah",
+        "Poriya",
+        "Poriyya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293905,
+        "wk:page":"Poria_Illit"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"8fc74914e96f71640b3811100eafa08e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720825,
+            "locality_id":1243265723,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1243265723,
+    "wof:lastmodified":1549930468,
+    "wof:name":"Poriyya `Illit",
+    "wof:parent_id":1108720825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.54635,
+    32.7319,
+    35.54635,
+    32.7319
+],
+  "geometry": {"coordinates":[35.54635,32.7319],"type":"Point"}
+}

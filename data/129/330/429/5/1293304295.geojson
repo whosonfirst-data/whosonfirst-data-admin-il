@@ -1,0 +1,67 @@
+{
+  "id": 1293304295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.55141,32.90942,35.55141,32.90942",
+    "geom:latitude":32.90942,
+    "geom:longitude":35.55141,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Chorazim",
+    "gn:country_code":"IL",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629734,
+    "gn:latitude":32.90942,
+    "gn:longitude":35.55141,
+    "gn:modification_date":"2013-11-04",
+    "gn:name":"Chorazim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629734
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"e0e3a6f09e2f6fee562a2a1d837ba188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720839,
+            "locality_id":1293304295,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1293304295,
+    "wof:lastmodified":1549930459,
+    "wof:name":"Chorazim",
+    "wof:parent_id":1108720839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.55141,
+    32.90942,
+    35.55141,
+    32.90942
+],
+  "geometry": {"coordinates":[35.55141,32.90942],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 421202195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.97717,32.44566,34.97717,32.44566",
+    "geom:latitude":32.44566,
+    "geom:longitude":34.97717,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Talmej El'azar"
+    ],
+    "name:cze_x_preferred":[
+        "Talmej El'azar"
+    ],
+    "name:eng_x_preferred":[
+        "Talmei Elazar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05dc\u05de\u05d9 \u05d0\u05dc\u05e2\u05d6\u05e8"
+    ],
+    "name:heb_x_variant":[
+        "Talm\u00e9 El\u2018azar",
+        "Talm\u00e9 El\u2019azar"
+    ],
+    "name:nno_x_preferred":[
+        "Talmei Elazar"
+    ],
+    "name:pol_x_preferred":[
+        "Talme Elazar"
+    ],
+    "name:unk_x_variant":[
+        "Talmei El\u2019azar"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293437,
+    "qs:gn_pop":0,
+    "qs:name":"Talme Elazar",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Haifa",
+    "qs:photos":235,
+    "qs:photos_1k":48,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":235,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":8144,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1968004,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":83,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293437,
+        "gp:id":1968004,
+        "qs:id":8144,
+        "wd:id":"Q2777311"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010108,
+    "wof:geomhash":"fe855c946cd9d3bc255f1f913a5cfd45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":421202195,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":421202195,
+    "wof:lastmodified":1549930399,
+    "wof:name":"Talme Elazar",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.97717,
+    32.44566,
+    34.97717,
+    32.44566
+],
+  "geometry": {"coordinates":[34.97717,32.44566],"type":"Point"}
+}

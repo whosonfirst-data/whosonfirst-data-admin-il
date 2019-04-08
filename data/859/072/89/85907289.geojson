@@ -1,0 +1,119 @@
+{
+  "id": 85907289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000201,
+    "geom:area_square_m":2101919.922472,
+    "geom:bbox":"34.7744243146,32.0391710624,34.788576421,32.0593002611",
+    "geom:latitude":32.049868,
+    "geom:longitude":34.782676,
+    "gn:id":"",
+    "iso:country":"IL",
+    "lbl:latitude":32.050852,
+    "lbl:longitude":34.779557,
+    "mps:latitude":32.049998,
+    "mps:longitude":34.782674,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:ces_x_preferred":[
+        "\u0160apira"
+    ],
+    "name:deu_x_preferred":[
+        "Shapira"
+    ],
+    "name:eng_x_preferred":[
+        "Shapira"
+    ],
+    "name:fin_x_preferred":[
+        "Shapira"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05e4\u05d9\u05e8\u05d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043f\u0438\u0440\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Shapira"
+    ],
+    "qs:gn_adm0_cc":"IL",
+    "qs:gn_id":0,
+    "qs:gn_local":293397,
+    "qs:gn_nam_loc":"Tel Aviv, Tel Aviv, IL",
+    "qs:gn_namadm1":"05",
+    "qs:local_max":26418,
+    "qs:local_sum":66569,
+    "qs:localhoods":45,
+    "qs:name":"Shapira",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Tel Aviv",
+    "qs:name_local":"Tel Aviv",
+    "qs:photo_max":104,
+    "qs:photo_sum":181,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424852,
+    "qs:woe_adm1":2345795,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1968212,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":71,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        1125955239,
+        1108720837,
+        85672549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22725130,
+        "qs:id":249669
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"cfa11308ea7bff48f9232eda4684730c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720837,
+            "locality_id":1125955239,
+            "neighbourhood_id":85907289,
+            "region_id":85672549
+        }
+    ],
+    "wof:id":85907289,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549930547,
+    "wof:name":"Shapira",
+    "wof:parent_id":1125955239,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.77442431456581,
+    32.039171062401,
+    34.78857642099211,
+    32.05930026110006
+],
+  "geometry": {"coordinates":[[[34.78820800780022,32.05790810087555],[34.78820800780016,32.05464469050001],[34.78820800780016,32.05464463130043],[34.78820800780016,32.04998888310004],[34.78820800780034,32.04350786764925],[34.78857642099211,32.04263854361054],[34.78856922481725,32.04264072654605],[34.78828295782324,32.04210515867005],[34.78703932951214,32.04058979318816],[34.78552396403035,32.03934616487716],[34.78545096107439,32.03930714398406],[34.78372064270474,32.039171062401],[34.78116847653291,32.04067649850033],[34.77722167968358,32.04533277964295],[34.77722167968551,32.04533283890008],[34.77722167968551,32.04859674616996],[34.77722167970001,32.04998888310004],[34.77722167970018,32.05231680592567],[34.77506504550604,32.05231681105516],[34.77447509770013,32.05231681650005],[34.77447509770013,32.05440500444377],[34.77442431456581,32.05458475764276],[34.77447509768359,32.05464468434387],[34.77447509768638,32.05697249800019],[34.77722167970001,32.05697249750691],[34.77996826170016,32.05697249750691],[34.78271484370003,32.05697250540005],[34.78271484370003,32.05930026110006],[34.78546142578722,32.05930026110006],[34.78820800780005,32.05930026110006],[34.78820800780022,32.05790810087555]]],"type":"Polygon"}
+}

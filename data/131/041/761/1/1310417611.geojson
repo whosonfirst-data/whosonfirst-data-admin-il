@@ -1,0 +1,79 @@
+{
+  "id": 1310417611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.24093,32.88943,35.24093,32.88943",
+    "geom:latitude":32.88943,
+    "geom:longitude":35.24093,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sha`av",
+    "gn:country_code":"IL",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293595,
+    "gn:latitude":32.88943,
+    "gn:longitude":35.24093,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Sha\u2018av",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Sha\u2018av"
+    ],
+    "name:heb_x_variant":[
+        "\u05e9\u05e2\u05d1",
+        "\u05e9\u05d0\u05d1"
+    ],
+    "name:und_x_variant":[
+        "Shaav",
+        "Sha\u2018b",
+        "Sha\u2018ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293595
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"9744ee64b7098d83a70203eb9c65ee7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":1310417611,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1310417611,
+    "wof:lastmodified":1549930428,
+    "wof:name":"Sha`av",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24093,
+    32.88943,
+    35.24093,
+    32.88943
+],
+  "geometry": {"coordinates":[35.24093,32.88943],"type":"Point"}
+}

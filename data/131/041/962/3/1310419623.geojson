@@ -1,0 +1,77 @@
+{
+  "id": 1310419623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.36683,30.94308,35.36683,30.94308",
+    "geom:latitude":30.94308,
+    "geom:longitude":35.36683,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`En Tamar",
+    "gn:country_code":"IL",
+    "gn:dem":-335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8430172,
+    "gn:latitude":30.94308,
+    "gn:longitude":35.36683,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"\u2018En Tamar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u2018En Tamar"
+    ],
+    "name:heb_x_variant":[
+        "\u05e2\u05d9\u05df \u05ea\u05de\u05e8"
+    ],
+    "name:und_x_variant":[
+        "En Tamar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8430172,
+        "wk:page":"Ein_Tamar"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"6372332d54e841753ae4993b06a11467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1310419623,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1310419623,
+    "wof:lastmodified":1549930429,
+    "wof:name":"`En Tamar",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.36683,
+    30.94308,
+    35.36683,
+    30.94308
+],
+  "geometry": {"coordinates":[35.36683,30.94308],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 102542691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.183325,32.6666027778,35.183325,32.6666027778",
+    "geom:latitude":32.666603,
+    "geom:longitude":35.183325,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0627\u0639\u062f\u0629 \u0631\u0645\u0627\u062a \u062f\u064a\u0641\u064a\u062f \u0627\u0644\u062c\u0648\u064a\u0629"
+    ],
+    "name:ces_x_preferred":[
+        "Leteck\u00e1 z\u00e1kladna Ramat David"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0631\u0627\u0645\u062a\u0627 \u062f\u06cc\u0648\u06cc\u062f"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e1\u05d9\u05e1 \u05e8\u05de\u05ea \u05d3\u05d5\u05d3"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30de\u30c8\u30fb\u30c0\u30f4\u30a3\u30c9\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Ramat David"
+    ],
+    "name:pol_x_preferred":[
+        "Baza lotnicza Ramat Dawid"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043c\u0430\u0442-\u0414\u0430\u0432\u0438\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Base A\u00e9rea Ramat David"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u0420\u0430\u043c\u0430\u0442 \u0414\u0435\u0432\u0438\u0434"
+    ],
+    "oa:elevation_ft":"185",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":563,
+    "woe:hierarchy":{
+        "country_id":23424852,
+        "planet_id":1,
+        "state_id":2345793
+    },
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        1108720829,
+        85672545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513790,
+        "icao:code":"LLRD",
+        "oa:id":"4424",
+        "wd:id":"Q2629816"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"c47fe243d880562ead2b82d0c2b4ad8d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542691,
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":102542691,
+    "wof:lastmodified":1549930532,
+    "wof:name":"Ramat David Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    35.183325,
+    32.666602777778,
+    35.183325,
+    32.666602777778
+],
+  "geometry": {"coordinates":[35.183325,32.666602777778],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1344163341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.02889,32.45617,35.02889,32.45617",
+    "geom:latitude":32.45617,
+    "geom:longitude":35.02889,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ma`anit",
+    "gn:country_code":"IL",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294404,
+    "gn:latitude":32.45617,
+    "gn:longitude":35.02889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ma\u2018anit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Ma\u2018anit"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05e2\u05e0\u05d9\u05ea",
+        "Ma\u2019anit"
+    ],
+    "name:und_x_variant":[
+        "Narbatah",
+        "Ma\u2018anit Narbatah",
+        "Narbata",
+        "Ma\u2018anit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294404,
+        "wk:page":"Ma%27anit"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"46b99de9e62a1a0e6c9b026a4122464e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":1344163341,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1344163341,
+    "wof:lastmodified":1549930501,
+    "wof:name":"Ma`anit",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.02889,
+    32.45617,
+    35.02889,
+    32.45617
+],
+  "geometry": {"coordinates":[35.02889,32.45617],"type":"Point"}
+}

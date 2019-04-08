@@ -1,0 +1,115 @@
+{
+  "id": 421200617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.29651,32.63035,35.29651,32.63035",
+    "geom:latitude":32.63035,
+    "geom:longitude":35.29651,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043b\u0444\u043e\u0443\u0440\u0438\u0439\u044f"
+    ],
+    "name:ces_x_preferred":[
+        "Balfourija"
+    ],
+    "name:cze_x_preferred":[
+        "Balfourija"
+    ],
+    "name:dut_x_preferred":[
+        "Balfouria"
+    ],
+    "name:eng_x_preferred":[
+        "Balfouria"
+    ],
+    "name:fre_x_preferred":[
+        "Balfouria"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05e4\u05d5\u05e8\u05d9\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Balfouria"
+    ],
+    "name:nno_x_preferred":[
+        "Balfouria"
+    ],
+    "name:pol_x_preferred":[
+        "Balfurja"
+    ],
+    "name:swe_x_preferred":[
+        "Balfouriyya"
+    ],
+    "name:unk_x_variant":[
+        "Balfouriya"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295573,
+    "qs:gn_pop":0,
+    "qs:name":"Balfouriyya",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":180,
+    "qs:photos_1k":36,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":180,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":889544,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967128,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":401,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295573,
+        "gp:id":1967128,
+        "qs:id":889544,
+        "wd:id":"Q2479614",
+        "wk:page":"Balfouria"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010032,
+    "wof:geomhash":"eba9a06d3fab64bb5acd3a5aedf13f91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":421200617,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421200617,
+    "wof:lastmodified":1549930397,
+    "wof:name":"Balfouriyya",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.29651,
+    32.63035,
+    35.29651,
+    32.63035
+],
+  "geometry": {"coordinates":[35.29651,32.63035],"type":"Point"}
+}

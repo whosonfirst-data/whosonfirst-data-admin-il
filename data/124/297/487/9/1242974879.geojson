@@ -1,0 +1,74 @@
+{
+  "id": 1242974879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.62409,31.45929,34.62409,31.45929",
+    "geom:latitude":31.45929,
+    "geom:longitude":34.62409,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zeru`a",
+    "gn:country_code":"IL",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293081,
+    "gn:latitude":31.45929,
+    "gn:longitude":34.62409,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Zeru\u2018a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d6\u05e8\u05d5\u05e2\u05d4"
+    ],
+    "name:und_x_variant":[
+        "Shoval 11",
+        "Zeru\u2018a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293081
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"c1b2a4315912e4ebf588415ebd620b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1242974879,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1242974879,
+    "wof:lastmodified":1549930456,
+    "wof:name":"Zeru`a",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.62409,
+    31.45929000000001,
+    34.62409,
+    31.45929000000001
+],
+  "geometry": {"coordinates":[34.62409,31.45929000000001],"type":"Point"}
+}

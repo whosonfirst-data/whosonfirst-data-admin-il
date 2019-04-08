@@ -1,0 +1,74 @@
+{
+  "id": 1276119749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.42402,32.86791,35.42402,32.86791",
+    "geom:latitude":32.86791,
+    "geom:longitude":35.42402,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tefahot",
+    "gn:country_code":"IL",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386247,
+    "gn:latitude":32.86791,
+    "gn:longitude":35.42402,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Tefa\u1e96ot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Tefa\u1e96ot"
+    ],
+    "name:heb_x_variant":[
+        "\u05d8\u05e4\u05d7\u05d5\u05ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386247,
+        "wk:page":"Tefahot"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"8211503bce54c03835e5be9b7b78f919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720825,
+            "locality_id":1276119749,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1276119749,
+    "wof:lastmodified":1549930333,
+    "wof:name":"Tefahot",
+    "wof:parent_id":1108720825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.42402,
+    32.86790999999999,
+    35.42402,
+    32.86790999999999
+],
+  "geometry": {"coordinates":[35.42402,32.86790999999999],"type":"Point"}
+}

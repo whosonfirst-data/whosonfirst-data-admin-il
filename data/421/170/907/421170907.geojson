@@ -1,0 +1,99 @@
+{
+  "id": 421170907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.34932,32.83619,35.34932,32.83619",
+    "geom:latitude":32.83619,
+    "geom:longitude":35.34932,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cze_x_preferred":[
+        "Avtaljon"
+    ],
+    "name:eng_x_preferred":[
+        "Avtalion"
+    ],
+    "name:fra_x_preferred":[
+        "Abtalion"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05d8\u05dc\u05d9\u05d5\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Avtalion"
+    ],
+    "name:pol_x_preferred":[
+        "Avtalion"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d0\u05d1\u05d8\u05dc\u05d9\u05d5\u05df"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":386219,
+    "qs:gn_pop":0,
+    "qs:name":"Avtalyon",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":270744,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967119,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":941,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386219,
+        "gp:id":1967119,
+        "qs:id":270744,
+        "wd:id":"Q2890163"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008873,
+    "wof:geomhash":"aa95008abfe7a838b3a38726dad97abf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":421170907,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421170907,
+    "wof:lastmodified":1549930329,
+    "wof:name":"Avtalyon",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.34932,
+    32.83619,
+    35.34932,
+    32.83619
+],
+  "geometry": {"coordinates":[35.34932,32.83619],"type":"Point"}
+}

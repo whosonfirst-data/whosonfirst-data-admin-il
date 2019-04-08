@@ -1,0 +1,79 @@
+{
+  "id": 1343966925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.87357,32.37623,34.87357,32.37623",
+    "geom:latitude":32.37623,
+    "geom:longitude":34.87357,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Beit Herut",
+    "gn:country_code":"IL",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295457,
+    "gn:latitude":32.37623,
+    "gn:longitude":34.87357,
+    "gn:modification_date":"2018-04-17",
+    "gn:name":"Beit H\u0331erut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Bet H\u0331erut"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05d9\u05ea \u05d7\u05e8\u05d5\u05ea"
+    ],
+    "name:und_x_variant":[
+        "H\u0331erut America Bet",
+        "Herut Bet",
+        "Bet H\u0331erut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295457,
+        "wk:page":"Beit_Herut"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"2456dc85cd7baa5530194e2011ff614b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":1343966925,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1343966925,
+    "wof:lastmodified":1549930473,
+    "wof:name":"Beit Herut",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.87357,
+    32.37623,
+    34.87357,
+    32.37623
+],
+  "geometry": {"coordinates":[34.87357,32.37623],"type":"Point"}
+}

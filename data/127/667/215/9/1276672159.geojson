@@ -1,0 +1,67 @@
+{
+  "id": 1276672159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.80108,30.61566,34.80108,30.61566",
+    "geom:latitude":30.61566,
+    "geom:longitude":34.80108,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mitzpe Ramon",
+    "gn:country_code":"IL",
+    "gn:dem":844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8335140,
+    "gn:latitude":30.61566,
+    "gn:longitude":34.80108,
+    "gn:modification_date":"2012-06-18",
+    "gn:name":"Mitzpe Ramon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8335140
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"6fe3e6848590cb5b7cdfc40d34fba5a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1276672159,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1276672159,
+    "wof:lastmodified":1549930481,
+    "wof:name":"Mitzpe Ramon",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.80108,
+    30.61566,
+    34.80108,
+    30.61566
+],
+  "geometry": {"coordinates":[34.80108,30.61566],"type":"Point"}
+}

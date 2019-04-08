@@ -1,0 +1,112 @@
+{
+  "id": 421175537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.77603,31.73309,34.77603,31.73309",
+    "geom:latitude":31.73309,
+    "geom:longitude":34.77603,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0648\u063a\u0648\u062a"
+    ],
+    "name:ces_x_preferred":[
+        "Arugot"
+    ],
+    "name:cze_x_preferred":[
+        "Arugot"
+    ],
+    "name:dut_x_preferred":[
+        "Arugot"
+    ],
+    "name:eng_x_preferred":[
+        "Arugot"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05e8\u05d5\u05d2\u05d5\u05ea"
+    ],
+    "name:heb_x_variant":[
+        "\u2018Arugot"
+    ],
+    "name:nld_x_preferred":[
+        "Arugot"
+    ],
+    "name:nno_x_preferred":[
+        "Arugot"
+    ],
+    "name:pol_x_preferred":[
+        "Arugot"
+    ],
+    "name:unk_x_variant":[
+        "Qastinah Alef"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295635,
+    "qs:gn_pop":0,
+    "qs:name":"Arugot",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Southern",
+    "qs:photos":38,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":38,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":979701,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967106,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":127,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295635,
+        "gp:id":1967106,
+        "qs:id":979701,
+        "wd:id":"Q2449546",
+        "wk:page":"Arugot"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009071,
+    "wof:geomhash":"af14919305c16cb63a3322f2e5e07fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720841,
+            "locality_id":421175537,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":421175537,
+    "wof:lastmodified":1549930320,
+    "wof:name":"Arugot",
+    "wof:parent_id":1108720841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.77603,
+    31.73309,
+    34.77603,
+    31.73309
+],
+  "geometry": {"coordinates":[34.77603,31.73309],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1193139041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.35321,32.93338,35.35321,32.93338",
+    "geom:latitude":32.93338,
+    "geom:longitude":35.35321,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Shezor",
+    "gn:country_code":"IL",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293501,
+    "gn:latitude":32.93338,
+    "gn:longitude":35.35321,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Shezor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e9\u05d6\u05d5\u05e8"
+    ],
+    "name:und_x_variant":[
+        "Shezur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293501,
+        "wk:page":"Shezor"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"0ea00334e20d4bb3b845824b7053a280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":1193139041,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1193139041,
+    "wof:lastmodified":1549930352,
+    "wof:name":"Shezor",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.35321,
+    32.93338,
+    35.35321,
+    32.93338
+],
+  "geometry": {"coordinates":[35.35321,32.93338],"type":"Point"}
+}

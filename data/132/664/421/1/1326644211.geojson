@@ -1,0 +1,75 @@
+{
+  "id": 1326644211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.5995,31.39688,34.5995,31.39688",
+    "geom:latitude":31.39688,
+    "geom:longitude":34.5995,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ma`galim",
+    "gn:country_code":"IL",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294392,
+    "gn:latitude":31.39688,
+    "gn:longitude":34.5995,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Ma\u2018galim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Ma\u2018galim"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05e2\u05d2\u05dc\u05d9\u05dd",
+        "Ma\u2019galim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294392,
+        "wk:page":"Ma%27agalim"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"b0dd42d988c24325ab16a738cc00270b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1326644211,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1326644211,
+    "wof:lastmodified":1549930432,
+    "wof:name":"Ma`galim",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.5995,
+    31.39688,
+    34.5995,
+    31.39688
+],
+  "geometry": {"coordinates":[34.5995,31.39688],"type":"Point"}
+}

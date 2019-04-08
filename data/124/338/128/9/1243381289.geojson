@@ -1,0 +1,78 @@
+{
+  "id": 1243381289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.79246,30.87382,34.79246,30.87382",
+    "geom:latitude":30.87382,
+    "geom:longitude":34.79246,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sde Boker",
+    "gn:country_code":"IL",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293628,
+    "gn:latitude":30.87382,
+    "gn:longitude":34.79246,
+    "gn:modification_date":"2018-02-14",
+    "gn:name":"Sde Boker",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e9\u05d3\u05d4 \u05d1\u05d5\u05e7\u05e8"
+    ],
+    "name:und_x_variant":[
+        "Sdeh Boker",
+        "Sde Boker",
+        "Sedeh Boker",
+        "Sed Boquer",
+        "Sede Boqer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293628,
+        "wk:page":"Sde_Boker"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"e233d399ca540298201f6b98c06e5a64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1243381289,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1243381289,
+    "wof:lastmodified":1549930474,
+    "wof:name":"Sde Boker",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.79246,
+    30.87382,
+    34.79246,
+    30.87382
+],
+  "geometry": {"coordinates":[34.79246,30.87382],"type":"Point"}
+}

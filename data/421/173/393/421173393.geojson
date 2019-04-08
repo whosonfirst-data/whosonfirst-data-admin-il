@@ -1,0 +1,117 @@
+{
+  "id": 421173393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.93294,32.68121,34.93294,32.68121",
+    "geom:latitude":32.68121,
+    "geom:longitude":34.93294,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Neve Jam"
+    ],
+    "name:cze_x_preferred":[
+        "Neve Jam"
+    ],
+    "name:dut_x_preferred":[
+        "Neve Yam"
+    ],
+    "name:eng_x_preferred":[
+        "Neve Yam"
+    ],
+    "name:fra_x_preferred":[
+        "Neve Yam"
+    ],
+    "name:fre_x_preferred":[
+        "Neve Yam"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d5\u05d4 \u05d9\u05dd"
+    ],
+    "name:heb_x_variant":[
+        "Nev\u00e9 Yam",
+        "New\u00e9 Yam",
+        "\u05e0\u05d5\u05d4 \u05d9\u05dd"
+    ],
+    "name:nno_x_preferred":[
+        "Neve Yam"
+    ],
+    "name:pol_x_preferred":[
+        "Newe Jam"
+    ],
+    "name:swe_x_preferred":[
+        "New\u00e9 Yam"
+    ],
+    "name:unk_x_variant":[
+        "Ma\u2018apilim"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294045,
+    "qs:gn_pop":0,
+    "qs:name":"Newe Yam",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Haifa",
+    "qs:photos":207,
+    "qs:photos_1k":42,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":207,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":288049,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967767,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":187,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294045,
+        "gp:id":1967767,
+        "qs:id":288049,
+        "wd:id":"Q2889950",
+        "wk:page":"Neve Yam"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008981,
+    "wof:geomhash":"a07d93d877f837125c7fa2ff20a343ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":421173393,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":421173393,
+    "wof:lastmodified":1549930316,
+    "wof:name":"Newe Yam",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.93294,
+    32.68121,
+    34.93294,
+    32.68121
+],
+  "geometry": {"coordinates":[34.93294,32.68121],"type":"Point"}
+}

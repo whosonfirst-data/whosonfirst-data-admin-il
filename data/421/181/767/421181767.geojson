@@ -1,0 +1,100 @@
+{
+  "id": 421181767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.46389,32.85208,35.46389,32.85208",
+    "geom:latitude":32.85208,
+    "geom:longitude":35.46389,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Ravid"
+    ],
+    "name:cze_x_preferred":[
+        "Ravid"
+    ],
+    "name:dut_x_preferred":[
+        "Ravid"
+    ],
+    "name:eng_x_preferred":[
+        "Ravid"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d1\u05d9\u05d3"
+    ],
+    "name:nno_x_preferred":[
+        "Ravid"
+    ],
+    "name:pol_x_preferred":[
+        "Ravid"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":8309913,
+    "qs:gn_pop":0,
+    "qs:name":"Ravid",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":19,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":19,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":502068,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":22528340,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":97,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309913,
+        "gp:id":22528340,
+        "qs:id":502068,
+        "wd:id":"Q2889811",
+        "wk:page":"Ravid"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009306,
+    "wof:geomhash":"f81ee4e4eb95ba87ebc28672750b5837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720825,
+            "locality_id":421181767,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421181767,
+    "wof:lastmodified":1549930345,
+    "wof:name":"Ravid",
+    "wof:parent_id":1108720825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.46389,
+    32.85208,
+    35.46389,
+    32.85208
+],
+  "geometry": {"coordinates":[35.46389,32.85208],"type":"Point"}
+}

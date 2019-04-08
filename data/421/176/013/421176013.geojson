@@ -1,0 +1,112 @@
+{
+  "id": 421176013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.93866,32.08318,34.93866,32.08318",
+    "geom:latitude":32.08318,
+    "geom:longitude":34.93866,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Ejnat"
+    ],
+    "name:cze_x_preferred":[
+        "Ejnat"
+    ],
+    "name:dut_x_preferred":[
+        "Einat"
+    ],
+    "name:eng_x_preferred":[
+        "Einat"
+    ],
+    "name:fre_x_preferred":[
+        "Einat"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d9\u05e0\u05ea"
+    ],
+    "name:nno_x_preferred":[
+        "Einat"
+    ],
+    "name:nob_x_preferred":[
+        "Einat"
+    ],
+    "name:nor_x_preferred":[
+        "Einat"
+    ],
+    "name:pol_x_preferred":[
+        "Einat"
+    ],
+    "name:unk_x_variant":[
+        "Einat"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295226,
+    "qs:gn_pop":0,
+    "qs:name":"Enat",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":62,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":62,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":386069,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967301,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":240,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295226,
+        "gp:id":1967301,
+        "qs:id":386069,
+        "wd:id":"Q2920136",
+        "wk:page":"Einat"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009087,
+    "wof:geomhash":"607b03b6dcbd03f7d06bef354d2d3a75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720821,
+            "locality_id":421176013,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421176013,
+    "wof:lastmodified":1549930337,
+    "wof:name":"Enat",
+    "wof:parent_id":1108720821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.93866,
+    32.08318,
+    34.93866,
+    32.08318
+],
+  "geometry": {"coordinates":[34.93866,32.08318],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 421205033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.36184,32.56833,35.36184,32.56833",
+    "geom:latitude":32.56833,
+    "geom:longitude":35.36184,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Kfar Jechezkel"
+    ],
+    "name:cze_x_preferred":[
+        "Kfar Jechezkel"
+    ],
+    "name:eng_x_preferred":[
+        "Kfar Yehezkel"
+    ],
+    "name:fre_x_preferred":[
+        "Kfar Yehezkel"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05d9\u05d7\u05d6\u05e7\u05d0\u05dc"
+    ],
+    "name:nno_x_preferred":[
+        "Kfar Yehezkel"
+    ],
+    "name:pol_x_preferred":[
+        "Kefar Jechezkel"
+    ],
+    "name:unk_x_variant":[
+        "Tiv\u2018on"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294495,
+    "qs:gn_pop":0,
+    "qs:name":"Kefar Yehezqel",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":61,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":61,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1353670,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967580,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":312,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294495,
+        "gp:id":1967580,
+        "qs:id":1353670,
+        "wd:id":"Q2890846"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010210,
+    "wof:geomhash":"51140e8f77521a295566104addfe1c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":421205033,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421205033,
+    "wof:lastmodified":1549930402,
+    "wof:name":"Kefar Yehezqel",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.36184,
+    32.56833,
+    35.36184,
+    32.56833
+],
+  "geometry": {"coordinates":[35.36184,32.56833],"type":"Point"}
+}

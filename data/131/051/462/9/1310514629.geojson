@@ -1,0 +1,78 @@
+{
+  "id": 1310514629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.7741,31.92206,34.7741,31.92206",
+    "geom:latitude":31.92206,
+    "geom:longitude":34.7741,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bet `Oved",
+    "gn:country_code":"IL",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295440,
+    "gn:latitude":31.92206,
+    "gn:longitude":34.7741,
+    "gn:modification_date":"2018-04-17",
+    "gn:name":"Bet \u2018Ov\u00e9d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Bet \u2018Ov\u00e9d"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05d9\u05ea \u05e2\u05d5\u05d1\u05d3",
+        "Bet Ov\u00e9d"
+    ],
+    "name:und_x_variant":[
+        "Beit \u2018Oved"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295440,
+        "wk:page":"Beit_Oved"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"8bab39e136704f08a31d749157208ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720813,
+            "locality_id":1310514629,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1310514629,
+    "wof:lastmodified":1549930426,
+    "wof:name":"Bet `Oved",
+    "wof:parent_id":1108720813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.7741,
+    31.92206,
+    34.7741,
+    31.92206
+],
+  "geometry": {"coordinates":[34.7741,31.92206],"type":"Point"}
+}

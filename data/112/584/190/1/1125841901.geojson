@@ -1,0 +1,168 @@
+{
+  "id": 1125841901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.26667,33.01667,35.26667,33.01667",
+    "geom:latitude":33.01667,
+    "geom:longitude":35.26667,
+    "gn:gn_country":"IL",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":21400,
+    "gn:population":21400,
+    "iso:country":"IL",
+    "lbl:latitude":33.01667,
+    "lbl:longitude":35.26667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0627\u0644\u0648\u062a \u062a\u0631\u0634\u064a\u062d\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Maalot-Tarxiha"
+    ],
+    "name:chi_x_preferred":[
+        "\u99ac\u963f\u6d1b\u7279\u5854\u5e0c\u54c8"
+    ],
+    "name:cze_x_preferred":[
+        "Ma'alot-Tar\u0161icha"
+    ],
+    "name:dut_x_preferred":[
+        "Ma'alot-Tarshicha"
+    ],
+    "name:eng_x_preferred":[
+        "Tarchiha"
+    ],
+    "name:eng_x_variant":[
+        "Tarshihah",
+        "Ma'alot-Tarshiha",
+        "Maalot Tarshiha"
+    ],
+    "name:fin_x_preferred":[
+        "Ma'alot-Tarshiha"
+    ],
+    "name:fre_x_preferred":[
+        "Ma'alot-Tarshiha"
+    ],
+    "name:geo_x_preferred":[
+        "\u10db\u10d0\u10d0\u10da\u10dd\u10d7-\u10d7\u10d0\u10e0\u10e8\u10d8\u10ee\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Ma\u2019alot"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e2\u05dc\u05d5\u05ea \u05ea\u05e8\u05e9\u05d9\u05d7\u05d0"
+    ],
+    "name:hun_x_preferred":[
+        "Ma\u2019alot"
+    ],
+    "name:ind_x_preferred":[
+        "Ma'alot-Tarshiha"
+    ],
+    "name:ita_x_preferred":[
+        "Ma'alot-Tarshiha"
+    ],
+    "name:nno_x_preferred":[
+        "Ma'alot-Tarshiha"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0639\u0627\u0644\u0648\u062a \u062a\u0631\u0634\u06cc\u062d\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Ma'alot-Tarszicha"
+    ],
+    "name:por_x_preferred":[
+        "Ma'alot-Tarshiha"
+    ],
+    "name:rum_x_preferred":[
+        "Ma'alot-Tar\u0219iha"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0430\u043b\u043e\u0442-\u0422\u0430\u0440\u0448\u0438\u0445\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Ma'alot-Tarshiha"
+    ],
+    "name:spa_x_preferred":[
+        "Ma'alot-Tarshiha"
+    ],
+    "name:swe_x_preferred":[
+        "Maalot Tarsh\u012bh\u0101"
+    ],
+    "name:tgl_x_preferred":[
+        "Ma'alot-Tarshiha"
+    ],
+    "name:unk_x_variant":[
+        "Teir Shiha"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0639\u0627\u0644\u0648\u062a \u062a\u0631\u0634\u06cc\u062d\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Ma'alot-Tarshiha"
+    ],
+    "name:yid_x_preferred":[
+        "\u05de\u05e2\u05dc\u05d5\u05ea-\u05ea\u05e8\u05e9\u05d9\u05d7\u05d0"
+    ],
+    "qs_pg:aaroncc":"IL",
+    "qs_pg:gn_country":"IL",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":293420,
+    "qs_pg:gn_pop":21400,
+    "qs_pg:name":"maalot Tarsh\u012bh\u0101",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":203694,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293420,
+        "qs_pg:id":203694,
+        "wd:id":"Q152385"
+    },
+    "wof:country":"IL",
+    "wof:created":1497292970,
+    "wof:geomhash":"4fc811bbb181425125caeaaa06c2a114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":1125841901,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1125841901,
+    "wof:lastmodified":1549930423,
+    "wof:name":"maalot Tarsh\u012bh\u0101",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:population":21400,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.26667,
+    33.01667,
+    35.26667,
+    33.01667
+],
+  "geometry": {"coordinates":[35.26667,33.01667],"type":"Point"}
+}

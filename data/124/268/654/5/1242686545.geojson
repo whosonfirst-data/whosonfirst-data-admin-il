@@ -1,0 +1,78 @@
+{
+  "id": 1242686545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.87119,32.3504,34.87119,32.3504",
+    "geom:latitude":32.3504,
+    "geom:longitude":34.87119,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Avihayil",
+    "gn:country_code":"IL",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295604,
+    "gn:latitude":32.3504,
+    "gn:longitude":34.87119,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Avi\u1e96ayil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Avi\u1e96ayil"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05d1\u05d9\u05d7\u05d9\u05dc"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ein Ha\u2018oved",
+        "Avi\u1e96ayil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295604,
+        "wk:page":"Avihayil"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"d28118a7051a465c831fac0827bebd4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":1242686545,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1242686545,
+    "wof:lastmodified":1549930410,
+    "wof:name":"Avihayil",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.87119000000001,
+    32.3504,
+    34.87119000000001,
+    32.3504
+],
+  "geometry": {"coordinates":[34.87119000000001,32.3504],"type":"Point"}
+}

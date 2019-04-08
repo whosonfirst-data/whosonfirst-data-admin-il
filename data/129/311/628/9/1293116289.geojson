@@ -1,0 +1,71 @@
+{
+  "id": 1293116289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.72405,31.71945,34.72405,31.71945",
+    "geom:latitude":31.71945,
+    "geom:longitude":34.72405,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kefar Warburg",
+    "gn:country_code":"IL",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294497,
+    "gn:latitude":31.71945,
+    "gn:longitude":34.72405,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kefar Warburg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05d5\u05e8\u05d1\u05d5\u05e8\u05d2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294497,
+        "wk:page":"Kfar_Warburg"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"c7b3f76910c316c074262d16a2714b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720841,
+            "locality_id":1293116289,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1293116289,
+    "wof:lastmodified":1549930414,
+    "wof:name":"Kefar Warburg",
+    "wof:parent_id":1108720841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.72405,
+    31.71945,
+    34.72405,
+    31.71945
+],
+  "geometry": {"coordinates":[34.72405,31.71945],"type":"Point"}
+}

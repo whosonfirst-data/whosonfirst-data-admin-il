@@ -1,0 +1,106 @@
+{
+  "id": 421172241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.92261,32.07804,34.92261,32.07804",
+    "geom:latitude":32.07804,
+    "geom:longitude":34.92261,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Kfar Sirkin"
+    ],
+    "name:cze_x_preferred":[
+        "Kfar Sirkin"
+    ],
+    "name:eng_x_preferred":[
+        "Kfar Sirkin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05e1\u05d9\u05e8\u05e7\u05d9\u05df"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30d5\u30a1\u30eb\u30fb\u30b7\u30eb\u30ad\u30f3"
+    ],
+    "name:nno_x_preferred":[
+        "Kfar Sirkin"
+    ],
+    "name:pol_x_preferred":[
+        "Kfar Sirkin"
+    ],
+    "name:unk_x_variant":[
+        "Kfar Syrkin"
+    ],
+    "name:vie_x_preferred":[
+        "Kfar Sirkin"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294505,
+    "qs:gn_pop":0,
+    "qs:name":"Kefar Sirkin",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":43,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":43,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1301695,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967571,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":110,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294505,
+        "gp:id":1967571,
+        "qs:id":1301695,
+        "wd:id":"Q2920122",
+        "wk:page":"Kfar Sirkin"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008928,
+    "wof:geomhash":"1ea2d4c92a8cbbfee068bd57ea33d1b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720821,
+            "locality_id":421172241,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421172241,
+    "wof:lastmodified":1549930310,
+    "wof:name":"Kefar Sirkin",
+    "wof:parent_id":1108720821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.92261,
+    32.07804,
+    34.92261,
+    32.07804
+],
+  "geometry": {"coordinates":[34.92261,32.07804],"type":"Point"}
+}

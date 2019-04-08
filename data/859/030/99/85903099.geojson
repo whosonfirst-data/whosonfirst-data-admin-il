@@ -1,0 +1,117 @@
+{
+  "id": 85903099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000368,
+    "geom:area_square_m":3862483.159184,
+    "geom:bbox":"35.1699829102,31.7888861049,35.1947021484,31.8141379373",
+    "geom:latitude":31.800822,
+    "geom:longitude":35.181272,
+    "gn:latitude":31.79033,
+    "gn:longitude":35.1935,
+    "iso:country":"IL",
+    "lbl:latitude":31.794098,
+    "lbl:longitude":35.187064,
+    "mps:latitude":31.800743,
+    "mps:longitude":35.181507,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:eng_x_colloquial":[
+        "Givat Sha'ul"
+    ],
+    "name:eng_x_preferred":[
+        "Giv\u2019at Sha'ul"
+    ],
+    "name:heb_x_preferred":[
+        "Giv\u2018at Sha\u2019ul"
+    ],
+    "name:heb_x_variant":[
+        "\u05d2\u05d1\u05e2\u05ea \u05e9\u05d0\u05d5\u05dc"
+    ],
+    "name:unk_x_variant":[
+        "Giv\u2019at Sha'ul"
+    ],
+    "qs:gn_adm0_cc":"IL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":281184,
+    "qs:gn_nam_loc":"poriyya",
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"Giv\u2018at Sha\u2019ul",
+    "qs:local_max":20606,
+    "qs:local_sum":72250,
+    "qs:localhoods":38,
+    "qs:name":"Giv\u2019at Sha'ul",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Jerusalem",
+    "qs:name_local":"Jerusalem",
+    "qs:photo_max":28,
+    "qs:photo_sum":70,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424852,
+    "qs:woe_adm1":2345796,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1968222,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168681,
+        1108720823,
+        85672551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294983,
+        "gp:id":1967392,
+        "qs:id":1028721,
+        "qs_pg:id":1028721
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"27520d90cac462649621a71a44f5d249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421168681,
+            "neighbourhood_id":85903099,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":85903099,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549930558,
+    "wof:name":"Giv\u2019at Sha'ul",
+    "wof:parent_id":421168681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16998291015022,
+    31.78888610485033,
+    35.19470214841664,
+    31.81413793729442
+],
+  "geometry": {"coordinates":[[[35.18920898438574,31.80289252772511],[35.18920898438466,31.79822401490007],[35.19470214840004,31.79822401490007],[35.19470214841567,31.79822395595006],[35.19470214841664,31.79494666022175],[35.19470214840004,31.79355520730007],[35.1919555664,31.79355520730007],[35.1919555664,31.79122070763761],[35.18920898440012,31.79122070464639],[35.18920898440012,31.78888616380007],[35.18802627115036,31.78888615839195],[35.18802623093455,31.78888610485033],[35.18371582029999,31.78888610485033],[35.18096923827534,31.78888610485033],[35.18096923827534,31.79032369269039],[35.17822265620003,31.79355514835487],[35.1782226060995,31.79355520730007],[35.17623857524495,31.79588949317515],[35.17471357315537,31.79588949317515],[35.17272949220012,31.79822395592093],[35.17272944207326,31.79822401490007],[35.16998291015022,31.80145557480054],[35.16998291015022,31.80890642433043],[35.17164923987644,31.80979709612515],[35.1722101045022,31.80996723254921],[35.17222047748919,31.80997037916053],[35.17265454212713,31.81078245698036],[35.17389817043829,31.812297822462],[35.17541353592003,31.81354145077326],[35.17650552424618,31.81412513069365],[35.17650426290618,31.81413793729442],[35.18646240232511,31.80827884109279],[35.18646240232511,31.80612430986611],[35.18920893425684,31.8028925867021],[35.18920898440012,31.80289258670005],[35.18920898438574,31.80289252772511]]],"type":"Polygon"}
+}

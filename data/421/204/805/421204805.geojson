@@ -1,0 +1,130 @@
+{
+  "id": 421204805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.91737,32.24995,34.91737,32.24995",
+    "geom:latitude":32.24995,
+    "geom:longitude":34.91737,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Tel Mond"
+    ],
+    "name:chi_x_preferred":[
+        "\u7279\u62c9\u8499\u5fb7"
+    ],
+    "name:cze_x_preferred":[
+        "Tel Mond"
+    ],
+    "name:deu_x_preferred":[
+        "Tel Mond"
+    ],
+    "name:dut_x_preferred":[
+        "Tel Mond"
+    ],
+    "name:eng_x_preferred":[
+        "Tel Mond"
+    ],
+    "name:fra_x_preferred":[
+        "Tel Mond"
+    ],
+    "name:fre_x_preferred":[
+        "Tel Mond"
+    ],
+    "name:ger_x_preferred":[
+        "Tel Mond"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05dc \u05de\u05d5\u05e0\u05d3"
+    ],
+    "name:nno_x_preferred":[
+        "Tel Mond"
+    ],
+    "name:pol_x_preferred":[
+        "Tel Mond"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043b\u044c-\u041c\u043e\u043d\u0434"
+    ],
+    "name:sco_x_preferred":[
+        "Tel Mond"
+    ],
+    "name:spa_x_preferred":[
+        "Tel Mond"
+    ],
+    "name:swe_x_preferred":[
+        "Tel Mond"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293354,
+    "qs:gn_pop":8725,
+    "qs:name":"Tel Mond",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":249039,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1968024,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":371,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293354,
+        "gp:id":1968024,
+        "qs:id":249039,
+        "wd:id":"Q2304754",
+        "wk:page":"Tel Mond"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010198,
+    "wof:geomhash":"894e5db6796cb0db0be1b861f640f9a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":421204805,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421204805,
+    "wof:lastmodified":1549930407,
+    "wof:name":"Tel Mond",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:population":8725,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.91737,
+    32.24995,
+    34.91737,
+    32.24995
+],
+  "geometry": {"coordinates":[34.91737,32.24995],"type":"Point"}
+}

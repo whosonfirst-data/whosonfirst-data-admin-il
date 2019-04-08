@@ -1,0 +1,100 @@
+{
+  "id": 421180169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.88928,31.97534,34.88928,31.97534",
+    "geom:latitude":31.97534,
+    "geom:longitude":34.88928,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Zejtan"
+    ],
+    "name:cze_x_preferred":[
+        "Zejtan"
+    ],
+    "name:eng_x_preferred":[
+        "Zeitan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05d9\u05ea\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Zeitan"
+    ],
+    "name:pol_x_preferred":[
+        "Zejtan"
+    ],
+    "name:unk_x_variant":[
+        "Lydda Alef"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293078,
+    "qs:gn_pop":0,
+    "qs:name":"Zetan",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":65,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":65,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":408749,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1968128,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":177,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293078,
+        "gp:id":1968128,
+        "qs:id":408749,
+        "wd:id":"Q2889834",
+        "wk:page":"Zeitan"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009247,
+    "wof:geomhash":"67bf3b5143e73cb7e86b474f89df8741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720815,
+            "locality_id":421180169,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421180169,
+    "wof:lastmodified":1549930337,
+    "wof:name":"Zetan",
+    "wof:parent_id":1108720815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.88928,
+    31.97534,
+    34.88928,
+    31.97534
+],
+  "geometry": {"coordinates":[34.88928,31.97534],"type":"Point"}
+}

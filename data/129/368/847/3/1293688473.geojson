@@ -1,0 +1,81 @@
+{
+  "id": 1293688473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.44483,32.60415,35.44483,32.60415",
+    "geom:latitude":32.60415,
+    "geom:longitude":35.44483,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Taiyiba",
+    "gn:country_code":"IL",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295131,
+    "gn:latitude":32.60415,
+    "gn:longitude":35.44483,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Taiyiba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "E\u1e6d \u1e6caiyiba"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0 \u05d8\u05d9\u05d1\u05d4",
+        "\u05d8\u05d9\u05d1\u05d4"
+    ],
+    "name:und_x_variant":[
+        "Taybah",
+        "Taiyiba",
+        "Taiyibah",
+        "Et Ta\u012byba",
+        "E\u1e6d \u1e6caiyiba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295131
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"82f418c32c36d11e54003a6215c305d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":1293688473,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1293688473,
+    "wof:lastmodified":1549930490,
+    "wof:name":"Taiyiba",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.44483,
+    32.60415,
+    35.44483,
+    32.60415
+],
+  "geometry": {"coordinates":[35.44483,32.60415],"type":"Point"}
+}

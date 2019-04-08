@@ -1,0 +1,75 @@
+{
+  "id": 1309807653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.8828,29.5843,34.8828,29.5843",
+    "geom:latitude":29.5843,
+    "geom:longitude":34.8828,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`En Netafim",
+    "gn:country_code":"IL",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":295189,
+    "gn:latitude":29.5843,
+    "gn:longitude":34.8828,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u2018En Netafim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Bir Qattar",
+        "\u2018Ein Netafim",
+        "\u2018En Netafim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672531,
+        102191569,
+        85632315,
+        136253049,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295189,
+        "wk:page":"Ein_Netafim"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"394da8299df9baead521b9c7d703a402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "empire_id":136253049,
+            "locality_id":1309807653,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1309807653,
+    "wof:lastmodified":1537636852,
+    "wof:name":"`En Netafim",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.8828,
+    29.5843,
+    34.8828,
+    29.5843
+],
+  "geometry": {"coordinates":[34.8828,29.5843],"type":"Point"}
+}

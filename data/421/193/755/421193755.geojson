@@ -1,0 +1,75 @@
+{
+  "id": 421193755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.550405,32.765944,35.550405,32.765944",
+    "geom:latitude":32.765944,
+    "geom:longitude":35.550405,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Bet Yerah",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":169,
+    "qs:photos_1k":34,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":169,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1187399,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":22722715,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22722715,
+        "qs:id":1187399
+    },
+    "wof:country":"IL",
+    "wof:created":1459009782,
+    "wof:geomhash":"cbcd02ab441a8cbb0c6672198056e690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720825,
+            "locality_id":421193755,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421193755,
+    "wof:lastmodified":1549930384,
+    "wof:name":"Bet Yerah",
+    "wof:parent_id":1108720825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.550405,
+    32.765944,
+    35.550405,
+    32.765944
+],
+  "geometry": {"coordinates":[35.550405,32.765944],"type":"Point"}
+}

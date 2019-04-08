@@ -1,0 +1,123 @@
+{
+  "id": 421182793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.24848,32.83155,35.24848,32.83155",
+    "geom:latitude":32.83155,
+    "geom:longitude":35.24848,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0643\u0628 \u0623\u0628\u0648 \u0627\u0644\u0647\u064a\u062c\u0627\u0621"
+    ],
+    "name:ces_x_preferred":[
+        "Kaukab Abu al-Hid\u017ea"
+    ],
+    "name:cze_x_preferred":[
+        "Kaukab Abu al-Hid\u017ea"
+    ],
+    "name:dut_x_preferred":[
+        "Kaukab Abu al-Hija"
+    ],
+    "name:eng_x_preferred":[
+        "Kaukab Abu al-Hija"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05d0\u05d5\u05db\u05d1 \u05d0\u05d1\u05d5 \u05d0\u05dc-\u05d4\u05d9\u05d2'\u05d0"
+    ],
+    "name:heb_x_variant":[
+        "\u05db\u05d5\u05db\u05d1 \u05d0\u05e0\u05d5 \u05d0\u05dc \u05d4\u05d9\u05d2\u2019\u05d0",
+        "Kaukab Ab\u016b el H\u012bj\u0101",
+        "Kawkab Ab\u016b el H\u012bj\u0101"
+    ],
+    "name:nno_x_preferred":[
+        "Kaukab Abu al-Hija"
+    ],
+    "name:pol_x_preferred":[
+        "Kaukab Abu al-Hid\u017ca"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0443\u043a\u0430\u0431-\u0430\u0431\u0443-\u0430\u043b\u044c-\u0425\u0438\u0434\u0436\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Kaukab Abu al-Hija"
+    ],
+    "name:swe_x_preferred":[
+        "Kaukab Ab\u016b el H\u012bj\u0101"
+    ],
+    "name:unk_x_variant":[
+        "Kawkab"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294571,
+    "qs:gn_pop":2800,
+    "qs:name":"Kaukab Abu el Hija",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":945425,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967514,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":1584,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294571,
+        "gp:id":1967514,
+        "qs:id":945425,
+        "wd:id":"Q2604424",
+        "wk:page":"Kaukab Abu al-Hija"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009347,
+    "wof:geomhash":"e081fce1bb92b738a5a9e7c6db8e1961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":421182793,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421182793,
+    "wof:lastmodified":1549930350,
+    "wof:name":"Kaukab Abu el Hija",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:population":2800,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24848,
+    32.83155,
+    35.24848,
+    32.83155
+],
+  "geometry": {"coordinates":[35.24848,32.83155],"type":"Point"}
+}

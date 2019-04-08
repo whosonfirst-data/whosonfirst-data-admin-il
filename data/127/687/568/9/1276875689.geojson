@@ -1,0 +1,79 @@
+{
+  "id": 1276875689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.94514,32.29962,34.94514,32.29962",
+    "geom:latitude":32.29962,
+    "geom:longitude":34.94514,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ge'ullim",
+    "gn:country_code":"IL",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295040,
+    "gn:latitude":32.29962,
+    "gn:longitude":34.94514,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ge\u2019ullim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Ge\u2019ullim"
+    ],
+    "name:heb_x_variant":[
+        "\u05d2\u05d0\u05dc\u05d9\u05dd"
+    ],
+    "name:und_x_variant":[
+        "Benei Geulim",
+        "Geulim",
+        "Ge\u2019ullim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295040,
+        "wk:page":"Geulim"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"08812ab4dc92cbf8f41952f14c609c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":1276875689,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1276875689,
+    "wof:lastmodified":1549930482,
+    "wof:name":"Ge'ullim",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.94514,
+    32.29962,
+    34.94514,
+    32.29962
+],
+  "geometry": {"coordinates":[34.94514,32.29962],"type":"Point"}
+}

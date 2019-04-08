@@ -1,0 +1,102 @@
+{
+  "id": 421182647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.6378,31.6881,34.6378,31.6881",
+    "geom:latitude":31.6881,
+    "geom:longitude":34.6378,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Nir Jisra'el"
+    ],
+    "name:cze_x_preferred":[
+        "Nir Jisra'el"
+    ],
+    "name:eng_x_preferred":[
+        "Nir Yisrael"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05e8 \u05d9\u05e9\u05e8\u05d0\u05dc"
+    ],
+    "name:heb_x_variant":[
+        "Nir Yisra\u2019el"
+    ],
+    "name:nno_x_preferred":[
+        "Nir Yisrael"
+    ],
+    "name:pol_x_preferred":[
+        "Nir Jisra\u2019el"
+    ],
+    "name:unk_x_variant":[
+        "Gealya"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294023,
+    "qs:gn_pop":0,
+    "qs:name":"Nir Israel",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Southern",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1263390,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":22528376,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294023,
+        "gp:id":22528376,
+        "qs:id":1263390,
+        "wd:id":"Q2778071"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009337,
+    "wof:geomhash":"d18bdea968f32f4f420eee76cedd351b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720841,
+            "locality_id":421182647,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":421182647,
+    "wof:lastmodified":1549930349,
+    "wof:name":"Nir Israel",
+    "wof:parent_id":1108720841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.6378,
+    31.6881,
+    34.6378,
+    31.6881
+],
+  "geometry": {"coordinates":[34.6378,31.6881],"type":"Point"}
+}

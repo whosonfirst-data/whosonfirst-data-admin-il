@@ -1,0 +1,107 @@
+{
+  "id": 421175711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.86486,32.22759,34.86486,32.22759",
+    "geom:latitude":32.22759,
+    "geom:longitude":34.86486,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Charucim"
+    ],
+    "name:cze_x_preferred":[
+        "Charucim"
+    ],
+    "name:dut_x_preferred":[
+        "Harutzim"
+    ],
+    "name:eng_x_preferred":[
+        "Harutzim"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05e8\u05d5\u05e6\u05d9\u05dd"
+    ],
+    "name:heb_x_variant":[
+        "H\u0331aru\u1e95im",
+        "H\u0331arutsim"
+    ],
+    "name:nno_x_preferred":[
+        "Harutzim"
+    ],
+    "name:pol_x_preferred":[
+        "Harutsim"
+    ],
+    "name:spa_x_preferred":[
+        "Harutzim"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294854,
+    "qs:gn_pop":0,
+    "qs:name":"Haruzim",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":27,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":27,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1028726,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967435,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":91,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294854,
+        "gp:id":1967435,
+        "qs:id":1028726,
+        "wd:id":"Q2916531",
+        "wk:page":"Harutzim"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009076,
+    "wof:geomhash":"b4ef34dea8224ef6a1407e1b9daa8725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":421175711,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421175711,
+    "wof:lastmodified":1549930323,
+    "wof:name":"Haruzim",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.86486,
+    32.22759,
+    34.86486,
+    32.22759
+],
+  "geometry": {"coordinates":[34.86486,32.22759],"type":"Point"}
+}

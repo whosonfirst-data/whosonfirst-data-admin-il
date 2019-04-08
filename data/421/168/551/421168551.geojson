@@ -1,0 +1,123 @@
+{
+  "id": 421168551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.80097,31.86684,34.80097,31.86684",
+    "geom:latitude":31.86684,
+    "geom:longitude":34.80097,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u063a\u0641\u0639\u0627\u062a \u0628\u0631\u064a\u0646\u0631"
+    ],
+    "name:ces_x_preferred":[
+        "Giv'at Brenner"
+    ],
+    "name:cze_x_preferred":[
+        "Giv'at Brenner"
+    ],
+    "name:deu_x_preferred":[
+        "Givat Brenner"
+    ],
+    "name:dut_x_preferred":[
+        "Givat Brenner"
+    ],
+    "name:eng_x_preferred":[
+        "Givat Brenner"
+    ],
+    "name:epo_x_preferred":[
+        "Givat Brenner"
+    ],
+    "name:fra_x_preferred":[
+        "Guivat-Brener"
+    ],
+    "name:fre_x_preferred":[
+        "Guivat-Brener"
+    ],
+    "name:ger_x_preferred":[
+        "Givat Brenner"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d1\u05e2\u05ea \u05d1\u05e8\u05e0\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Givat Brenner"
+    ],
+    "name:pol_x_preferred":[
+        "Givat Brenner"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u0432\u0430\u0442-\u0411\u0440\u0435\u043d\u0435\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Giv\u2018at-Brener"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294998,
+    "qs:gn_pop":0,
+    "qs:name":"Givat Brenner",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":102,
+    "qs:photos_1k":21,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":102,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1028719,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967379,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":362,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294998,
+        "gp:id":1967379,
+        "qs:id":1028719,
+        "wd:id":"Q476835"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008769,
+    "wof:geomhash":"848b3406cc4c861a58c9e5fff899e9c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720813,
+            "locality_id":421168551,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421168551,
+    "wof:lastmodified":1549930320,
+    "wof:name":"Givat Brenner",
+    "wof:parent_id":1108720813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.80097,
+    31.86684,
+    34.80097,
+    31.86684
+],
+  "geometry": {"coordinates":[34.80097,31.86684],"type":"Point"}
+}

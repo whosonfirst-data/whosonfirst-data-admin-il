@@ -1,0 +1,75 @@
+{
+  "id": 1259592187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.77304,31.93432,34.77304,31.93432",
+    "geom:latitude":31.93432,
+    "geom:longitude":34.77304,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bet Hanan",
+    "gn:country_code":"IL",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295460,
+    "gn:latitude":31.93432,
+    "gn:longitude":34.77304,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Bet H\u0331anan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05d7\u05e0\u05df"
+    ],
+    "name:und_x_variant":[
+        "Beit \u1e24anan",
+        "Bet H\u0331anan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295460,
+        "wk:page":"Beit_Hanan"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"e3d87b6bdce3175e4875010db6817ff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720813,
+            "locality_id":1259592187,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1259592187,
+    "wof:lastmodified":1549930429,
+    "wof:name":"Bet Hanan",
+    "wof:parent_id":1108720813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.77304,
+    31.93432,
+    34.77304,
+    31.93432
+],
+  "geometry": {"coordinates":[34.77304,31.93432],"type":"Point"}
+}

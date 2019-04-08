@@ -1,0 +1,77 @@
+{
+  "id": 1193148669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.30776,32.52174,35.30776,32.52174",
+    "geom:latitude":32.52174,
+    "geom:longitude":35.30776,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Magen Sha'ul",
+    "gn:country_code":"IL",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385959,
+    "gn:latitude":32.52174,
+    "gn:longitude":35.30776,
+    "gn:modification_date":"2018-04-15",
+    "gn:name":"Mag\u00e9n Sha\u2019ul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Mag\u00e9n Sha\u2019ul"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d2\u05df \u05e9\u05d0\u05d5\u05dc"
+    ],
+    "name:und_x_variant":[
+        "Magen Sha\u2019ul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385959,
+        "wk:page":"Magen_Shaul"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"f40dd84986d3e4b4cdd597c3c3c4ad31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":1193148669,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1193148669,
+    "wof:lastmodified":1549930351,
+    "wof:name":"Magen Sha'ul",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.30775999999999,
+    32.52174,
+    35.30775999999999,
+    32.52174
+],
+  "geometry": {"coordinates":[35.30775999999999,32.52174],"type":"Point"}
+}

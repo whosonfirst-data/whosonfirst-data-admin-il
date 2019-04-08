@@ -1,0 +1,100 @@
+{
+  "id": 421192653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.5662,32.72264,35.5662,32.72264",
+    "geom:latitude":32.72264,
+    "geom:longitude":35.5662,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Kineret"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e0\u05e8\u05ea"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d5\u05e9\u05d1\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Kinneret i Israel"
+    ],
+    "name:por_x_preferred":[
+        "Kinneret"
+    ],
+    "name:spa_x_preferred":[
+        "Kinneret"
+    ],
+    "name:unk_x_variant":[
+        "Mall\u0101ha"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294461,
+    "qs:gn_pop":0,
+    "qs:name":"Kinneret",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":272,
+    "qs:photos_1k":55,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":272,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1170477,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967591,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1193,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294461,
+        "gp:id":1967591,
+        "qs:id":1170477,
+        "wd:id":"Q2891213",
+        "wk:page":"Kinneret, Israel"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009744,
+    "wof:geomhash":"512d96ba58fa8408bfc4b4e1dc411078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720825,
+            "locality_id":421192653,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421192653,
+    "wof:lastmodified":1549930376,
+    "wof:name":"Kinneret",
+    "wof:parent_id":1108720825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.5662,
+    32.72264,
+    35.5662,
+    32.72264
+],
+  "geometry": {"coordinates":[35.5662,32.72264],"type":"Point"}
+}

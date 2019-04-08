@@ -1,0 +1,81 @@
+{
+  "id": 421199511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.70452,31.65397,34.70452,31.65397",
+    "geom:latitude":31.65397,
+    "geom:longitude":34.70452,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "O\u1e95em"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293257,
+    "qs:gn_pop":0,
+    "qs:name":"Yad Natan",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Southern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":193975,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1968064,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293257,
+        "gp:id":1968064,
+        "qs:id":193975,
+        "wd:id":"Q2889057",
+        "wk:page":"Otzem"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009991,
+    "wof:geomhash":"63b94bab3cf181468b1a3b80a83151c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720841,
+            "locality_id":421199511,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":421199511,
+    "wof:lastmodified":1549930392,
+    "wof:name":"Yad Natan",
+    "wof:parent_id":1108720841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.70452,
+    31.65397,
+    34.70452,
+    31.65397
+],
+  "geometry": {"coordinates":[34.70452,31.65397],"type":"Point"}
+}

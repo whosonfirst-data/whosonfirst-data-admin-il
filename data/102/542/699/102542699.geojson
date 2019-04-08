@@ -1,0 +1,85 @@
+{
+  "id": 102542699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.0005972222,32.4369166667,35.0005972222,32.4369166667",
+    "geom:latitude":32.436917,
+    "geom:longitude":35.000597,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0635\u062d\u0631\u0627\u06cc\u06cc \u0627\u06cc\u0646 \u0634\u0645\u0631"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e0\u05d7\u05ea \u05e2\u05d9\u05df \u05e9\u05de\u05e8"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Eyn-Shemer"
+    ],
+    "name:pol_x_preferred":[
+        "Baza lotnicza Ein Shemer"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0430\u04b3\u0440\u043e \u043e\u0438\u043d \u0448\u043c\u0440"
+    ],
+    "oa:elevation_ft":"95",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":358,
+    "woe:hierarchy":{
+        "country_id":23424852,
+        "planet_id":1,
+        "state_id":2345794
+    },
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        1108720819,
+        85672535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513777,
+        "icao:code":"LLES",
+        "oa:id":"4414",
+        "wd:id":"Q2916266"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"4746bedf3bd724c00d0ac673ee6e6094",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542699,
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":102542699,
+    "wof:lastmodified":1549930533,
+    "wof:name":"Eyn Shemer Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    35.000597222222,
+    32.436916666667,
+    35.000597222222,
+    32.436916666667
+],
+  "geometry": {"coordinates":[35.000597222222,32.436916666667],"type":"Point"}
+}

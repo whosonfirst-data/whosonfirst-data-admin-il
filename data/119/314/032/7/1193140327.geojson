@@ -1,0 +1,98 @@
+{
+  "id": 1193140327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.88747,32.08707,34.88747,32.08707",
+    "geom:latitude":32.08707,
+    "geom:longitude":34.88747,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Petah Tiqwa",
+    "gn:country_code":"IL",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293918,
+    "gn:latitude":32.08707,
+    "gn:longitude":34.88747,
+    "gn:modification_date":"2017-07-02",
+    "gn:name":"Peta\u1e96 Tiqwa",
+    "gn:population":200000,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_colloquial":[
+        "Petach Tikva"
+    ],
+    "name:eng_x_preferred":[
+        "Petah Tikva"
+    ],
+    "name:eng_x_variant":[
+        "Mulebbis",
+        "Petah Tikwah",
+        "Pethah Tiqv\u0101",
+        "Peta\u1e96 Tikva",
+        "Peta\u1e96 Tiqwa",
+        "Petach Tikva"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05ea\u05d7 \u05ea\u05e7\u05d5\u05d5\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05e4\u05ea\u05d7 \u05ea\u05e7\u05d5\u05d4",
+        "\u05e4\u05ea\u05d7 \u05ea\u05d9\u05e7\u05d5\u05d5\u05d4",
+        "\u05e4\u05ea\u05d7 \u05ea\u05d9\u05e7\u05d5\u05d4"
+    ],
+    "name:und_x_variant":[
+        "Tigrah"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293918,
+        "wk:page":"Petah_Tikva"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"51f763f846278daa16f195319a533288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720821,
+            "locality_id":1193140327,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1193140327,
+    "wof:lastmodified":1549931382,
+    "wof:name":"Petah Tiqwa",
+    "wof:parent_id":1108720821,
+    "wof:placetype":"locality",
+    "wof:population":200000,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[
+        421202049
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.88747,
+    32.08707,
+    34.88747,
+    32.08707
+],
+  "geometry": {"coordinates":[34.88747,32.08707],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 421180775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.17138,32.73016,35.17138,32.73016",
+    "geom:latitude":32.73016,
+    "geom:longitude":35.17138,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Alonej Abba"
+    ],
+    "name:cze_x_preferred":[
+        "Alonej Abba"
+    ],
+    "name:dut_x_preferred":[
+        "Alonei Abba"
+    ],
+    "name:eng_x_preferred":[
+        "Alonei Abba"
+    ],
+    "name:fra_x_preferred":[
+        "Alonei Abba"
+    ],
+    "name:fre_x_preferred":[
+        "Alonei Abba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05d5\u05e0\u05d9 \u05d0\u05d1\u05d0"
+    ],
+    "name:heb_x_variant":[
+        "Allon\u00e9 Abba",
+        "\u05d0\u05dc\u05d5\u05df \u05d0\u05d1\u05d0"
+    ],
+    "name:nno_x_preferred":[
+        "Alonei Abba"
+    ],
+    "name:pol_x_preferred":[
+        "Allone Abba"
+    ],
+    "name:unk_x_variant":[
+        "Waldheim"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295716,
+    "qs:gn_pop":0,
+    "qs:name":"Allone Abba",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":57,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":57,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":460335,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967086,
+    "src:geom":"quattroshapes",
+    "wd:latitude":32.7295,
+    "wd:longitude":35.171797,
+    "wd:wordcount":2410,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295716,
+        "gp:id":1967086,
+        "qs:id":460335,
+        "wd:id":"Q2839248",
+        "wk:page":"Alonei Abba"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009270,
+    "wof:geomhash":"7533d28cb768afc5db778c5f0247070f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":421180775,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421180775,
+    "wof:lastmodified":1549930339,
+    "wof:name":"Allone Abba",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.17138,
+    32.73016,
+    35.17138,
+    32.73016
+],
+  "geometry": {"coordinates":[35.17138,32.73016],"type":"Point"}
+}

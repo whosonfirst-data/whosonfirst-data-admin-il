@@ -1,0 +1,75 @@
+{
+  "id": 1259693383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.67177,31.56471,34.67177,31.56471",
+    "geom:latitude":31.56471,
+    "geom:longitude":34.67177,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Telamim",
+    "gn:country_code":"IL",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293406,
+    "gn:latitude":31.56471,
+    "gn:longitude":34.67177,
+    "gn:modification_date":"2018-04-15",
+    "gn:name":"Telamim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05ea\u05dc\u05de\u05d9\u05dd"
+    ],
+    "name:und_x_variant":[
+        "T\u2019lamim",
+        "Telamim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293406,
+        "wk:page":"Tlamim"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"398a86ebee9c105e67f6a089890d16a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720841,
+            "locality_id":1259693383,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1259693383,
+    "wof:lastmodified":1549930448,
+    "wof:name":"Telamim",
+    "wof:parent_id":1108720841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.67177,
+    31.56471,
+    34.67177,
+    31.56471
+],
+  "geometry": {"coordinates":[34.67177,31.56471],"type":"Point"}
+}

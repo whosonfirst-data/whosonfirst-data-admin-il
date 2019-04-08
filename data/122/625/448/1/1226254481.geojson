@@ -1,0 +1,76 @@
+{
+  "id": 1226254481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.33196,32.89017,35.33196,32.89017",
+    "geom:latitude":32.89017,
+    "geom:longitude":35.33196,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Zeviyya",
+    "gn:country_code":"IL",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386313,
+    "gn:latitude":32.89017,
+    "gn:longitude":35.33196,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e94eviyya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u1e94eviyya"
+    ],
+    "name:heb_x_variant":[
+        "\u05e6\u05d1\u05d9\u05d4"
+    ],
+    "name:und_x_variant":[
+        "Tseviyya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386313
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"f9973ffabcc3c25416d85f43076fde29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":1226254481,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1226254481,
+    "wof:lastmodified":1549930447,
+    "wof:name":"Zeviyya",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.33195999999999,
+    32.89017,
+    35.33195999999999,
+    32.89017
+],
+  "geometry": {"coordinates":[35.33195999999999,32.89017],"type":"Point"}
+}

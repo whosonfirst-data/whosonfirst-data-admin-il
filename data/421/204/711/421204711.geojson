@@ -1,0 +1,106 @@
+{
+  "id": 421204711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.27932,30.76895,35.27932,30.76895",
+    "geom:latitude":30.76895,
+    "geom:longitude":35.27932,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Chaceva"
+    ],
+    "name:cze_x_preferred":[
+        "Chaceva"
+    ],
+    "name:eng_x_preferred":[
+        "Hatzeva"
+    ],
+    "name:ger_x_preferred":[
+        "Hatzeva"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05e6\u05d1\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "H\u0331atseva"
+    ],
+    "name:nno_x_preferred":[
+        "Hatzeva"
+    ],
+    "name:pol_x_preferred":[
+        "Hazeva"
+    ],
+    "name:unk_x_variant":[
+        "Hatzeva"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294814,
+    "qs:gn_pop":0,
+    "qs:name":"Hazeva",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Southern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":185,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":245272,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967445,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":126,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294814,
+        "gp:id":1967445,
+        "qs:id":245272,
+        "wd:id":"Q747107",
+        "wk:page":"Hatzeva"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010195,
+    "wof:geomhash":"2c117b04275a309750f84f91c3b61a64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":421204711,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":421204711,
+    "wof:lastmodified":1549930405,
+    "wof:name":"Hazeva",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.27932,
+    30.76895,
+    35.27932,
+    30.76895
+],
+  "geometry": {"coordinates":[35.27932,30.76895],"type":"Point"}
+}

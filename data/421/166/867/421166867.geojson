@@ -1,0 +1,109 @@
+{
+  "id": 421166867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.36075,32.90891,35.36075,32.90891",
+    "geom:latitude":32.90891,
+    "geom:longitude":35.36075,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Kamon"
+    ],
+    "name:ces_x_preferred":[
+        "Kamon"
+    ],
+    "name:cze_x_preferred":[
+        "Kamon"
+    ],
+    "name:dut_x_preferred":[
+        "Kamon"
+    ],
+    "name:eng_x_preferred":[
+        "Kamon"
+    ],
+    "name:ger_x_preferred":[
+        "Kamon"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05de\u05d5\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Kamon i Israel"
+    ],
+    "name:pol_x_preferred":[
+        "Kamon"
+    ],
+    "name:spa_x_preferred":[
+        "Kamon"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":386301,
+    "qs:gn_pop":0,
+    "qs:name":"Kammon",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":739,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1210451,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967505,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":56,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386301,
+        "gp:id":1967505,
+        "qs:id":1210451,
+        "wd:id":"Q2889604",
+        "wk:page":"Kamon, Israel"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008705,
+    "wof:geomhash":"12de8ec0a1e5646bc4ed2c85a9519cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":421166867,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421166867,
+    "wof:lastmodified":1549930318,
+    "wof:name":"Kammon",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.36075,
+    32.90891,
+    35.36075,
+    32.90891
+],
+  "geometry": {"coordinates":[35.36075,32.90891],"type":"Point"}
+}

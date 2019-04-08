@@ -1,0 +1,106 @@
+{
+  "id": 421179421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.95051,32.33306,34.95051,32.33306",
+    "geom:latitude":32.33306,
+    "geom:longitude":34.95051,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Chani'el"
+    ],
+    "name:cze_x_preferred":[
+        "Chani'el"
+    ],
+    "name:eng_x_preferred":[
+        "Haniel"
+    ],
+    "name:geo_x_preferred":[
+        "\u10ee\u10d0\u10dc\u10d8\u10d4\u10da"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05e0\u05d9\u05d0\u05dc"
+    ],
+    "name:heb_x_variant":[
+        "H\u0331anni\u2019el"
+    ],
+    "name:nno_x_preferred":[
+        "Haniel i Israel"
+    ],
+    "name:pol_x_preferred":[
+        "Haniel"
+    ],
+    "name:unk_x_variant":[
+        "Hanieyl"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294881,
+    "qs:gn_pop":0,
+    "qs:name":"Hanni'el",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":383937,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967429,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":130,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294881,
+        "gp:id":1967429,
+        "qs:id":383937,
+        "wd:id":"Q2920131",
+        "wk:page":"Haniel, Israel"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009220,
+    "wof:geomhash":"5712afe20f7399f2f53c6f155548427e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":421179421,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421179421,
+    "wof:lastmodified":1549930335,
+    "wof:name":"Hanni'el",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.95051,
+    32.33306,
+    34.95051,
+    32.33306
+],
+  "geometry": {"coordinates":[34.95051,32.33306],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 1259496235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.01504,31.89385,35.01504,31.89385",
+    "geom:latitude":31.89385,
+    "geom:longitude":35.01504,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Modi'in Makkabbim Re'ut",
+    "gn:country_code":"IL",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":282926,
+    "gn:latitude":31.89385,
+    "gn:longitude":35.01504,
+    "gn:modification_date":"2017-07-03",
+    "gn:name":"Modi\u2018in Makkabbim Re\u2018ut",
+    "gn:population":88749,
+    "gn:timezone":"Asia/Hebron",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Modiin"
+    ],
+    "name:eng_x_variant":[
+        "Makkabim",
+        "Makkabbim",
+        "Modi\u2018in Makkabbim Re\u2018ut",
+        "Ramot Modi\u2018in",
+        "Na\u1e96al Modi\u2018im",
+        "Gane Modi\u2018in",
+        "Modi\u2018in"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df \u05de\u05db\u05d1\u05d9\u05dd \u05e8\u05e2\u05d5\u05ea",
+        "Makkabbim Re\u2018ut",
+        "Re\u2018ut",
+        "\u05de\u05db\u05d1\u05d9\u05dd \u05e8\u05e2\u05d5\u05ea",
+        "\u05e8\u05e2\u05d5\u05ea"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":282926
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"584365304500c7cffdb00fa9def543a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720815,
+            "locality_id":1259496235,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1259496235,
+    "wof:lastmodified":1549930386,
+    "wof:name":"Modi'in Makkabbim Re'ut",
+    "wof:parent_id":1108720815,
+    "wof:placetype":"locality",
+    "wof:population":88749,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.01504,
+    31.89385,
+    35.01504,
+    31.89385
+],
+  "geometry": {"coordinates":[35.01504,31.89385],"type":"Point"}
+}

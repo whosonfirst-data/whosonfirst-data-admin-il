@@ -1,0 +1,79 @@
+{
+  "id": 421169511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.0,32.46667,35.0,32.46667",
+    "geom:latitude":32.46667,
+    "geom:longitude":35.0,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Kerk\u016br"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294581,
+    "qs:gn_pop":0,
+    "qs:name":"Karkur",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Haifa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":193960,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967510,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294581,
+        "gp:id":1967510,
+        "qs:id":193960
+    },
+    "wof:country":"IL",
+    "wof:created":1459008813,
+    "wof:geomhash":"26cf615a85120130827159407466aba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":421169511,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":421169511,
+    "wof:lastmodified":1549930318,
+    "wof:name":"Karkur",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0,
+    32.46667,
+    35.0,
+    32.46667
+],
+  "geometry": {"coordinates":[35.0,32.46667],"type":"Point"}
+}

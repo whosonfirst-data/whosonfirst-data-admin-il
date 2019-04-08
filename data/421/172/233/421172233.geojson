@@ -1,0 +1,118 @@
+{
+  "id": 421172233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.65836,33.19591,35.65836,33.19591",
+    "geom:latitude":33.19591,
+    "geom:longitude":35.65836,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0627\u0631 \u0632\u0648\u0644\u062f"
+    ],
+    "name:cat_x_preferred":[
+        "Kfar Szold"
+    ],
+    "name:ces_x_preferred":[
+        "Kfar Szold"
+    ],
+    "name:cze_x_preferred":[
+        "Kfar Szold"
+    ],
+    "name:deu_x_preferred":[
+        "Kfar Szold"
+    ],
+    "name:dut_x_preferred":[
+        "Kfar Szold"
+    ],
+    "name:eng_x_preferred":[
+        "Kfar Szold"
+    ],
+    "name:fre_x_preferred":[
+        "Kfar Szold"
+    ],
+    "name:ger_x_preferred":[
+        "Kfar Szold"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05e1\u05d0\u05dc\u05d3"
+    ],
+    "name:nno_x_preferred":[
+        "Kfar Szold"
+    ],
+    "name:pol_x_preferred":[
+        "Kefar Sold"
+    ],
+    "name:unk_x_variant":[
+        "Kefar Sold"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294503,
+    "qs:gn_pop":0,
+    "qs:name":"Kefar Szold",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":127,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":127,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1301692,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967572,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":276,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294503,
+        "gp:id":1967572,
+        "qs:id":1301692,
+        "wd:id":"Q1001622",
+        "wk:page":"Kfar Szold"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008927,
+    "wof:geomhash":"c18dda773eba2839ec58f809649c62df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720839,
+            "locality_id":421172233,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421172233,
+    "wof:lastmodified":1549930310,
+    "wof:name":"Kefar Szold",
+    "wof:parent_id":1108720839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.65836,
+    33.19591,
+    35.65836,
+    33.19591
+],
+  "geometry": {"coordinates":[35.65836,33.19591],"type":"Point"}
+}

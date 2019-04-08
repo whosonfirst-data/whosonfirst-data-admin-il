@@ -1,0 +1,79 @@
+{
+  "id": 1209628115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.82083,31.7974,34.82083,31.7974",
+    "geom:latitude":31.7974,
+    "geom:longitude":34.82083,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Yad Binyamin",
+    "gn:country_code":"IL",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293262,
+    "gn:latitude":31.7974,
+    "gn:longitude":34.82083,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yad Binyamin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d9\u05d3 \u05d1\u05e0\u05d9\u05de\u05d9\u05df"
+    ],
+    "name:heb_x_variant":[
+        "Merkaz H\u0331anukhi",
+        "\u05de\u05e8\u05db\u05d6 \u05d7\u05e0\u05d5\u05db\u05d9"
+    ],
+    "name:und_x_variant":[
+        "Netiva",
+        "Yad Binyamin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293262,
+        "wk:page":"Yad_Binyamin"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"fd12234469e20b7d68d2044f0f8b257e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720813,
+            "locality_id":1209628115,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1209628115,
+    "wof:lastmodified":1549930500,
+    "wof:name":"Yad Binyamin",
+    "wof:parent_id":1108720813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.82083,
+    31.7974,
+    34.82083,
+    31.7974
+],
+  "geometry": {"coordinates":[34.82083,31.7974],"type":"Point"}
+}

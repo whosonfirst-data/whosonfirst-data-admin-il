@@ -1,0 +1,100 @@
+{
+  "id": 421199489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.75293,31.81614,34.75293,31.81614",
+    "geom:latitude":31.81614,
+    "geom:longitude":34.75293,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Mej\u0161ar"
+    ],
+    "name:cze_x_preferred":[
+        "Mej\u0161ar"
+    ],
+    "name:eng_x_preferred":[
+        "Meishar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05e9\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Meishar"
+    ],
+    "name:pol_x_preferred":[
+        "Meishar"
+    ],
+    "name:unk_x_variant":[
+        "Kefar Mordekhai"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294256,
+    "qs:gn_pop":0,
+    "qs:name":"Meshar",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":193963,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967670,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294256,
+        "gp:id":1967670,
+        "qs:id":193963,
+        "wd:id":"Q2920034",
+        "wk:page":"Meishar"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009991,
+    "wof:geomhash":"1631124db28f8322fd7e705c4fbdced9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720813,
+            "locality_id":421199489,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421199489,
+    "wof:lastmodified":1549930392,
+    "wof:name":"Meshar",
+    "wof:parent_id":1108720813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.75293,
+    31.81614,
+    34.75293,
+    31.81614
+],
+  "geometry": {"coordinates":[34.75293,31.81614],"type":"Point"}
+}

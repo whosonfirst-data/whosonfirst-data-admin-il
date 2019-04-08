@@ -1,0 +1,77 @@
+{
+  "id": 1259490751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.46773,33.00511,35.46773,33.00511",
+    "geom:latitude":33.00511,
+    "geom:longitude":35.46773,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qaddita",
+    "gn:country_code":"IL",
+    "gn:dem":781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9196975,
+    "gn:latitude":33.00511,
+    "gn:longitude":35.46773,
+    "gn:modification_date":"2014-07-10",
+    "gn:name":"Qaddita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e7\u05d3\u05d9\u05ea\u05d0"
+    ],
+    "name:heb_x_variant":[
+        "\u05db\u05d3\u05d9\u05ea\u05d4"
+    ],
+    "name:und_x_variant":[
+        "Kaddita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9196975,
+        "wk:page":"Qaddita"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"562f3397690d7b0071ab927878ba5c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720839,
+            "locality_id":1259490751,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1259490751,
+    "wof:lastmodified":1549930377,
+    "wof:name":"Qaddita",
+    "wof:parent_id":1108720839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.46773,
+    33.00510999999999,
+    35.46773,
+    33.00510999999999
+],
+  "geometry": {"coordinates":[35.46773,33.00510999999999],"type":"Point"}
+}

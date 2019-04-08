@@ -1,0 +1,109 @@
+{
+  "id": 421170513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.51384,31.45232,34.51384,31.45232",
+    "geom:latitude":31.45232,
+    "geom:longitude":34.51384,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Alumim"
+    ],
+    "name:cze_x_preferred":[
+        "Alumim"
+    ],
+    "name:dut_x_preferred":[
+        "Alumim"
+    ],
+    "name:eng_x_preferred":[
+        "Alumim"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0648\u0645\u06cc\u0645"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05dc\u05d5\u05de\u05d9\u05dd"
+    ],
+    "name:heb_x_variant":[
+        "\u2018Alumim"
+    ],
+    "name:nno_x_preferred":[
+        "Alumim"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0648\u0645\u06cc\u0645"
+    ],
+    "name:pol_x_preferred":[
+        "Alumim"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295709,
+    "qs:gn_pop":0,
+    "qs:name":"Alumim",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Southern",
+    "qs:photos":47,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":47,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1191361,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":22722797,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":303,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295709,
+        "gp:id":22722797,
+        "qs:id":1191361,
+        "wd:id":"Q2890889",
+        "wk:page":"Alumim"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008856,
+    "wof:geomhash":"51d08f8476799586c5e80cd395992793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":421170513,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":421170513,
+    "wof:lastmodified":1549930320,
+    "wof:name":"Alumim",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.51384,
+    31.45232,
+    34.51384,
+    31.45232
+],
+  "geometry": {"coordinates":[34.51384,31.45232],"type":"Point"}
+}

@@ -1,0 +1,124 @@
+{
+  "id": 421197325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.8516,31.98792,34.8516,31.98792",
+    "geom:latitude":31.98792,
+    "geom:longitude":34.8516,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Kfar Chabad"
+    ],
+    "name:cze_x_preferred":[
+        "Kfar Chabad"
+    ],
+    "name:dut_x_preferred":[
+        "Kfar Chabad"
+    ],
+    "name:eng_x_preferred":[
+        "Kfar Chabad"
+    ],
+    "name:fra_x_preferred":[
+        "Kfar-Habad"
+    ],
+    "name:fre_x_preferred":[
+        "Kfar-Habad"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05d7\u05d1\"\u05d3"
+    ],
+    "name:heb_x_variant":[
+        "\u05db\u05e4\u05e8 \u05d7\u05d1\u2019\u2019\u05d3"
+    ],
+    "name:ita_x_preferred":[
+        "Kfar Chabad"
+    ],
+    "name:nno_x_preferred":[
+        "Kfar Chabad"
+    ],
+    "name:pol_x_preferred":[
+        "Kfar Chabad"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0444\u0430\u0440-\u0425\u0430\u0431\u0430\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Kefar H\u0331abad"
+    ],
+    "name:unk_x_variant":[
+        "Kefar H\u0331abbad"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294545,
+    "qs:gn_pop":4771,
+    "qs:name":"Kefar Habad",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":14,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":14,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":124067,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967543,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":580,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294545,
+        "gp:id":1967543,
+        "qs:id":124067,
+        "wd:id":"Q2570492",
+        "wk:page":"Kfar Chabad"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009910,
+    "wof:geomhash":"b5d31e2d35b8aa6808ae91377dd89d20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720815,
+            "locality_id":421197325,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421197325,
+    "wof:lastmodified":1549930388,
+    "wof:name":"Kefar Habad",
+    "wof:parent_id":1108720815,
+    "wof:placetype":"locality",
+    "wof:population":4771,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.8516,
+    31.98792,
+    34.8516,
+    31.98792
+],
+  "geometry": {"coordinates":[34.8516,31.98792],"type":"Point"}
+}

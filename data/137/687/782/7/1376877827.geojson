@@ -1,0 +1,74 @@
+{
+  "id": 1376877827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.95922,32.79872,34.95922,32.79872",
+    "geom:latitude":32.79872,
+    "geom:longitude":34.95922,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kefar Shamir",
+    "gn:country_code":"IL",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294511,
+    "gn:latitude":32.79872,
+    "gn:longitude":34.95922,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kefar Shamir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05e9\u05de\u05d9\u05e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168693,
+        1108720835,
+        85672535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294511
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"35cd12b572ebe8950f455b3e97d314cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720835,
+            "locality_id":421168693,
+            "neighbourhood_id":1376877827,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1376877827,
+    "wof:lastmodified":1549930748,
+    "wof:name":"Kefar Shamir",
+    "wof:parent_id":421168693,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1193050889
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.95922,
+    32.79872,
+    34.95922,
+    32.79872
+],
+  "geometry": {"coordinates":[34.95922,32.79872],"type":"Point"}
+}

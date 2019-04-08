@@ -1,0 +1,113 @@
+{
+  "id": 421203901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.35303,32.72304,35.35303,32.72304",
+    "geom:latitude":32.72304,
+    "geom:longitude":35.35303,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0645\u0627\u0647\u0644"
+    ],
+    "name:ces_x_preferred":[
+        "Ejn Mahil"
+    ],
+    "name:cze_x_preferred":[
+        "Ejn Mahil"
+    ],
+    "name:dut_x_preferred":[
+        "Ein Mahil"
+    ],
+    "name:eng_x_preferred":[
+        "Ein Mahil"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d9\u05df \u05de\u05d0\u05d4\u05dc"
+    ],
+    "name:heb_x_variant":[
+        "\u2018Ein M\u0101hil",
+        "\u05e2\u05d9\u05df \u05de\u05d4\u05dc"
+    ],
+    "name:nno_x_preferred":[
+        "Ein Mahil"
+    ],
+    "name:pol_x_preferred":[
+        "Ein Mahil"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0439\u043d-\u041c\u0430\u0445\u0435\u043b\u044c"
+    ],
+    "name:unk_x_variant":[
+        "\u2018Ayn Mahil"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295285,
+    "qs:gn_pop":0,
+    "qs:name":"Ein Mahil",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":64,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":64,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":235484,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967250,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":594,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295285,
+        "gp:id":1967250,
+        "qs:id":235484,
+        "wd:id":"Q730195",
+        "wk:page":"Ein Mahil"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010167,
+    "wof:geomhash":"356c83bbe84b9231b434400de0e80dc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":421203901,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421203901,
+    "wof:lastmodified":1549930405,
+    "wof:name":"Ein Mahil",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.35303,
+    32.72304,
+    35.35303,
+    32.72304
+],
+  "geometry": {"coordinates":[35.35303,32.72304],"type":"Point"}
+}

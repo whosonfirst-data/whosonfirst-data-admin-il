@@ -1,0 +1,102 @@
+{
+  "id": 421192661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.54306,33.19583,35.54306,33.19583",
+    "geom:latitude":33.19583,
+    "geom:longitude":35.54306,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0646\u0627\u0631\u0627"
+    ],
+    "name:cze_x_preferred":[
+        "Manara"
+    ],
+    "name:dut_x_preferred":[
+        "Manara"
+    ],
+    "name:eng_x_preferred":[
+        "Manara"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e0\u05e8\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Manara i Israel"
+    ],
+    "name:pol_x_preferred":[
+        "Manara"
+    ],
+    "name:unk_x_variant":[
+        "Al Manara"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293771,
+    "qs:gn_pop":0,
+    "qs:name":"Ramim",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":109,
+    "qs:photos_1k":22,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":109,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1170492,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967885,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293771,
+        "gp:id":1967885,
+        "qs:id":1170492,
+        "wd:id":"Q2890256",
+        "wk:page":"Manara, Israel"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009744,
+    "wof:geomhash":"fcac899e18e9c0444de7548dba8debf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720839,
+            "locality_id":421192661,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421192661,
+    "wof:lastmodified":1549930377,
+    "wof:name":"Ramim",
+    "wof:parent_id":1108720839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.54306,
+    33.19583,
+    35.54306,
+    33.19583
+],
+  "geometry": {"coordinates":[35.54306,33.19583],"type":"Point"}
+}

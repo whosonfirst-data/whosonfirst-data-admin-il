@@ -1,0 +1,104 @@
+{
+  "id": 421189613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.97126,32.59108,34.97126,32.59108",
+    "geom:latitude":32.59108,
+    "geom:longitude":34.97126,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Me'ir \u0160feja"
+    ],
+    "name:cze_x_preferred":[
+        "Me'ir \u0160feja"
+    ],
+    "name:dut_x_preferred":[
+        "Meir Shfeya"
+    ],
+    "name:eng_x_preferred":[
+        "Meir Shfeya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05d9\u05e8 \u05e9\u05e4\u05d9\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Meir Shfeya"
+    ],
+    "name:pol_x_preferred":[
+        "Me\u2019ir Szefeja"
+    ],
+    "name:unk_x_variant":[
+        "Shefeyah"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294282,
+    "qs:gn_pop":0,
+    "qs:name":"Me'ir Shefeya",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Haifa",
+    "qs:photos":781,
+    "qs:photos_1k":158,
+    "qs:photos_9k":3,
+    "qs:photos_9r":6,
+    "qs:photos_all":781,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1114910,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967659,
+    "src:geom":"quattroshapes",
+    "wd:latitude":32.590339,
+    "wd:longitude":34.970639,
+    "wd:wordcount":268,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294282,
+        "gp:id":1967659,
+        "qs:id":1114910,
+        "wd:id":"Q2777355"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009630,
+    "wof:geomhash":"8c8705bf0c0fe32c2d75f368378940c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":421189613,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":421189613,
+    "wof:lastmodified":1549930370,
+    "wof:name":"Me'ir Shefeya",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.97126,
+    32.59108,
+    34.97126,
+    32.59108
+],
+  "geometry": {"coordinates":[34.97126,32.59108],"type":"Point"}
+}

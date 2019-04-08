@@ -1,0 +1,81 @@
+{
+  "id": 1243377669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.66667,31.68333,34.66667,31.68333",
+    "geom:latitude":31.68333,
+    "geom:longitude":34.66667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Karmon",
+    "gn:cc2":"IL",
+    "gn:country_code":"IL",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294574,
+    "gn:latitude":31.68333,
+    "gn:longitude":34.66667,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Karmon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05db\u05e8\u05de\u05d5\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05e9\u05db\u05d5\u05dc\u05d5\u05ea",
+        "\u05d4\u05db\u05d5\u05e8\u05de\u05d9\u05dd"
+    ],
+    "name:und_x_variant":[
+        "Julis B",
+        "Eshkolot",
+        "Kefar Hakoremim",
+        "Karmon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294574
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"aeb3b103b4cf9f4402cdea2d447b2cb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720841,
+            "locality_id":1243377669,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1243377669,
+    "wof:lastmodified":1549930477,
+    "wof:name":"Karmon",
+    "wof:parent_id":1108720841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.66667,
+    31.68333,
+    34.66667,
+    31.68333
+],
+  "geometry": {"coordinates":[34.66667,31.68333],"type":"Point"}
+}

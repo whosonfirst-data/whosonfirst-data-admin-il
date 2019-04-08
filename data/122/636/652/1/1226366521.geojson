@@ -1,0 +1,77 @@
+{
+  "id": 1226366521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.15619,32.54358,35.15619,32.54358",
+    "geom:latitude":32.54358,
+    "geom:longitude":35.15619,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Musmus",
+    "gn:country_code":"IL",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294140,
+    "gn:latitude":32.54358,
+    "gn:longitude":35.15619,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mu\u1e63mu\u1e63",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Mu\u1e63mu\u1e63"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05e6\u05de\u05e5"
+    ],
+    "name:und_x_variant":[
+        "Mu\u1e63mu\u1e63"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294140,
+        "wk:page":"Musmus"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"1a4388ec8816a1e5eb01d9cbcdd46a0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":1226366521,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1226366521,
+    "wof:lastmodified":1549930462,
+    "wof:name":"Musmus",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.15619,
+    32.54358,
+    35.15619,
+    32.54358
+],
+  "geometry": {"coordinates":[35.15619,32.54358],"type":"Point"}
+}

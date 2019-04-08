@@ -1,0 +1,118 @@
+{
+  "id": 421168429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.93176,30.98822,34.93176,30.98822",
+    "geom:latitude":30.98822,
+    "geom:longitude":34.93176,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Jeroham"
+    ],
+    "name:ces_x_preferred":[
+        "Jerucham"
+    ],
+    "name:deu_x_preferred":[
+        "Jerocham"
+    ],
+    "name:eng_x_preferred":[
+        "Yeruham"
+    ],
+    "name:eng_x_variant":[
+        "Yeroham"
+    ],
+    "name:epo_x_preferred":[
+        "Jeru\u0125am"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05e8\u05d5\u05d7\u05dd"
+    ],
+    "name:heb_x_variant":[
+        "\u05d9\u05e8\u05d7\u05dd"
+    ],
+    "name:nno_x_preferred":[
+        "Yeruham"
+    ],
+    "name:pol_x_preferred":[
+        "Yeruham"
+    ],
+    "name:rus_x_preferred":[
+        "\u0419\u0435\u0440\u0443\u0445\u0430\u043c"
+    ],
+    "name:unk_x_variant":[
+        "Kfar Yeroham"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293203,
+    "qs:gn_pop":8631,
+    "qs:name":"Yeroham",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Southern",
+    "qs:photos":181,
+    "qs:photos_1k":37,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":181,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1206198,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1968218,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":1392,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293203,
+        "gp:id":1968218,
+        "qs:id":1206198,
+        "wd:id":"Q1687708",
+        "wk:page":"Yeruham"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008764,
+    "wof:geomhash":"d6f576daacfe42f71bd3dc7f9dd3a8a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":421168429,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":421168429,
+    "wof:lastmodified":1549930316,
+    "wof:name":"Yeroham",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:population":8631,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.93176,
+    30.98822,
+    34.93176,
+    30.98822
+],
+  "geometry": {"coordinates":[34.93176,30.98822],"type":"Point"}
+}

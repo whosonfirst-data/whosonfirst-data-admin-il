@@ -1,0 +1,96 @@
+{
+  "id": 85907303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000054,
+    "geom:area_square_m":562353.307251,
+    "geom:bbox":"34.7656454289,32.0544706602,34.7744750977,32.0616279575",
+    "geom:latitude":32.057892,
+    "geom:longitude":34.77056,
+    "gn:id":"",
+    "iso:country":"IL",
+    "lbl:latitude":32.05587,
+    "lbl:longitude":34.769621,
+    "mps:latitude":32.057783,
+    "mps:longitude":34.77062,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:cze_x_preferred":[
+        "Florentin"
+    ],
+    "name:dan_x_preferred":[
+        "Florentine"
+    ],
+    "name:deu_x_preferred":[
+        "Florentine"
+    ],
+    "name:eng_x_preferred":[
+        "Florentine"
+    ],
+    "name:fra_x_preferred":[
+        "Florentine"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05d5\u05e8\u05e0\u05d8\u05d9\u05df"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":112,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        1125955239,
+        1108720837,
+        85672549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22725142,
+        "qs:id":366829,
+        "wd:id":"Q2891017"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"8fb8f93d45b0167eb48586af057a69ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720837,
+            "locality_id":1125955239,
+            "neighbourhood_id":85907303,
+            "region_id":85672549
+        }
+    ],
+    "wof:id":85907303,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549930542,
+    "wof:name":"Florentine",
+    "wof:parent_id":1125955239,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.76564542885285,
+    32.0544706602046,
+    34.77447509770013,
+    32.06162795750005
+],
+  "geometry": {"coordinates":[[[34.77447509768638,32.05697249800019],[34.77447509768359,32.05464468434387],[34.77442431456581,32.05458475764276],[34.77394080192255,32.0544706602046],[34.77349831063975,32.05464469050001],[34.77172851560005,32.05464469050001],[34.7689819336,32.05464469050001],[34.76623535160013,32.05464469050001],[34.76623535158359,32.05534074477512],[34.76623535158575,32.05627643487466],[34.76564542885285,32.0569725001304],[34.76583097969643,32.0576293136926],[34.76564638572307,32.05871832677516],[34.76623535160013,32.05871832702377],[34.76692199710033,32.05871832712199],[34.76692199710033,32.05930026110006],[34.7669219971005,32.05937822460746],[34.76760864260007,32.05964829277856],[34.76760864260007,32.06046411438768],[34.7689819336,32.06046411444905],[34.7689819336,32.06162795750005],[34.77172851560005,32.06162795750005],[34.77310180661334,32.06162795750005],[34.77447509770013,32.06162795750005],[34.77447509770013,32.05930026110006],[34.77447509768575,32.0586041876721],[34.77447509768638,32.05697249800019]]],"type":"Polygon"}
+}

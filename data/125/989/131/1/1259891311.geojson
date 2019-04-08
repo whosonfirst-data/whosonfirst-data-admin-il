@@ -1,0 +1,70 @@
+{
+  "id": 1259891311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.15513,32.97245,35.15513,32.97245",
+    "geom:latitude":32.97245,
+    "geom:longitude":35.15513,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Asherat",
+    "gn:country_code":"IL",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309028,
+    "gn:latitude":32.97245,
+    "gn:longitude":35.15513,
+    "gn:modification_date":"2014-07-09",
+    "gn:name":"Asherat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d0\u05e9\u05e8\u05ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309028
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"b9c838b991cb405234d2ee4528f227da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":1259891311,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1259891311,
+    "wof:lastmodified":1549930501,
+    "wof:name":"Asherat",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.15513,
+    32.97245,
+    35.15513,
+    32.97245
+],
+  "geometry": {"coordinates":[35.15513,32.97245],"type":"Point"}
+}

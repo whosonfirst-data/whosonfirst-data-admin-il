@@ -1,0 +1,115 @@
+{
+  "id": 421169487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.27393,32.70185,35.27393,32.70185",
+    "geom:latitude":32.70185,
+    "geom:longitude":35.27393,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Kfar ha-Chore\u0161"
+    ],
+    "name:cze_x_preferred":[
+        "Kfar ha-Chore\u0161"
+    ],
+    "name:deu_x_preferred":[
+        "Kfar HaHoresh"
+    ],
+    "name:dut_x_preferred":[
+        "Kfar HaHoresh"
+    ],
+    "name:eng_x_preferred":[
+        "Kfar HaHoresh"
+    ],
+    "name:fra_x_preferred":[
+        "Kfar-Hahoresh"
+    ],
+    "name:fre_x_preferred":[
+        "Kfar-Hahoresh"
+    ],
+    "name:ger_x_preferred":[
+        "Kfar HaHoresh"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05d4\u05d7\u05d5\u05e8\u05e9"
+    ],
+    "name:heb_x_variant":[
+        "Kefar HaH\u0331oresh",
+        "\u05db\u05e4\u05e8 \u05d4\u05d7\u05e8\u05e9"
+    ],
+    "name:nno_x_preferred":[
+        "Kfar HaHoresh"
+    ],
+    "name:pol_x_preferred":[
+        "Kefar ha-Choresz"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294544,
+    "qs:gn_pop":0,
+    "qs:name":"Kefar HaHoresh",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":176,
+    "qs:photos_1k":36,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":176,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":189561,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967534,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":218,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294544,
+        "gp:id":1967534,
+        "qs:id":189561,
+        "wd:id":"Q2777455"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008812,
+    "wof:geomhash":"ba58ce011f454bd69cc76c6f2ee1c76a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":421169487,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421169487,
+    "wof:lastmodified":1549930317,
+    "wof:name":"Kefar HaHoresh",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.27393,
+    32.70185,
+    35.27393,
+    32.70185
+],
+  "geometry": {"coordinates":[35.27393,32.70185],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293110317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.31186,32.99049,35.31186,32.99049",
+    "geom:latitude":32.99049,
+    "geom:longitude":35.31186,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Intisar",
+    "gn:country_code":"IL",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386451,
+    "gn:latitude":32.99049,
+    "gn:longitude":35.31186,
+    "gn:modification_date":"2014-07-09",
+    "gn:name":"Inti\u1e63\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Inti\u1e63\u0101r"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05e0\u05ea\u05e6\u05e8",
+        "Inti\u1e95ar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386451
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"250fda628b4975c56e20430ed77b1eea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":1293110317,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1293110317,
+    "wof:lastmodified":1549930413,
+    "wof:name":"Intisar",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.31186,
+    32.99049,
+    35.31186,
+    32.99049
+],
+  "geometry": {"coordinates":[35.31186,32.99049],"type":"Point"}
+}

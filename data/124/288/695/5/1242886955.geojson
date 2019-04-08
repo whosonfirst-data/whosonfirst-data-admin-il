@@ -1,0 +1,79 @@
+{
+  "id": 1242886955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.97079,32.13136,34.97079,32.13136",
+    "geom:latitude":32.13136,
+    "geom:longitude":34.97079,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kafr Bara",
+    "gn:country_code":"IL",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294613,
+    "gn:latitude":32.13136,
+    "gn:longitude":34.97079,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Kafr Bar\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05d1\u05e8\u05d0"
+    ],
+    "name:heb_x_variant":[
+        "Kafr Bar\u0101"
+    ],
+    "name:und_x_variant":[
+        "Kafr Barah",
+        "Kafr B\u0101r\u0101",
+        "Kefar Bara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294613,
+        "wk:page":"Kafr_Bara"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"c3d2ab6a8e85ab3598a38e41ee5f6cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720821,
+            "locality_id":1242886955,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1242886955,
+    "wof:lastmodified":1549930456,
+    "wof:name":"Kafr Bara",
+    "wof:parent_id":1108720821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.97079,
+    32.13136,
+    34.97079,
+    32.13136
+],
+  "geometry": {"coordinates":[34.97079,32.13136],"type":"Point"}
+}

@@ -1,0 +1,124 @@
+{
+  "id": 421171117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.07514,32.58982,35.07514,32.58982",
+    "geom:latitude":32.58982,
+    "geom:longitude":35.07514,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0644\u064a\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0430\u043b\u0438\u0439\u044f"
+    ],
+    "name:ces_x_preferred":[
+        "Dalija"
+    ],
+    "name:cze_x_preferred":[
+        "Dalija"
+    ],
+    "name:deu_x_preferred":[
+        "Dalja"
+    ],
+    "name:dut_x_preferred":[
+        "Dalia"
+    ],
+    "name:eng_x_preferred":[
+        "Dalia"
+    ],
+    "name:fra_x_preferred":[
+        "Dalia"
+    ],
+    "name:fre_x_preferred":[
+        "Dalia"
+    ],
+    "name:ger_x_preferred":[
+        "Dalja"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05dc\u05d9\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Dalia kibbutz"
+    ],
+    "name:pol_x_preferred":[
+        "Dalijja"
+    ],
+    "name:swe_x_preferred":[
+        "Daliyya"
+    ],
+    "name:unk_x_variant":[
+        "Daliya"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295363,
+    "qs:gn_pop":0,
+    "qs:name":"Daliyya",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":256,
+    "qs:photos_1k":52,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":256,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1207476,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967231,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":901,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295363,
+        "gp:id":1967231,
+        "qs:id":1207476,
+        "wd:id":"Q1000997",
+        "wk:page":"Dalia, Israel"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008882,
+    "wof:geomhash":"fce1acd442ece22aa66c84a5dd4c966b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":421171117,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421171117,
+    "wof:lastmodified":1549930304,
+    "wof:name":"Daliyya",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.07514,
+    32.58982,
+    35.07514,
+    32.58982
+],
+  "geometry": {"coordinates":[35.07514,32.58982],"type":"Point"}
+}

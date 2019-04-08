@@ -1,0 +1,124 @@
+{
+  "id": 421173203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.92433,32.40793,34.92433,32.40793",
+    "geom:latitude":32.40793,
+    "geom:longitude":34.92433,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0415\u043b\u044f\u043a\u0445\u0438\u043d"
+    ],
+    "name:ces_x_preferred":[
+        "Eljachin"
+    ],
+    "name:cze_x_preferred":[
+        "Eljachin"
+    ],
+    "name:deu_x_preferred":[
+        "Eljachin"
+    ],
+    "name:dut_x_preferred":[
+        "Elyakhin"
+    ],
+    "name:eng_x_preferred":[
+        "Elyakhin"
+    ],
+    "name:ger_x_preferred":[
+        "Eljachin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05d9\u05db\u05d9\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Elyakhin"
+    ],
+    "name:pol_x_preferred":[
+        "Elyakhin"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c\u044f\u0445\u0438\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Elyakhin"
+    ],
+    "name:swe_x_preferred":[
+        "Elyakhin"
+    ],
+    "name:unk_x_variant":[
+        "Khirbat Zalafa"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295232,
+    "qs:gn_pop":2728,
+    "qs:name":"Elyakhin",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":481,
+    "qs:photos_1k":97,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":481,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":493132,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967270,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":265,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295232,
+        "gp:id":1967270,
+        "qs:id":493132,
+        "wd:id":"Q2920239",
+        "wk:page":"Elyakhin"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008974,
+    "wof:geomhash":"406f75757468edf472efde378f0f7f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":421173203,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421173203,
+    "wof:lastmodified":1549930307,
+    "wof:name":"Elyakhin",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:population":2728,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.92433,
+    32.40793,
+    34.92433,
+    32.40793
+],
+  "geometry": {"coordinates":[34.92433,32.40793],"type":"Point"}
+}

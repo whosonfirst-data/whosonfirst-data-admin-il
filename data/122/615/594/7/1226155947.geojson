@@ -1,0 +1,78 @@
+{
+  "id": 1226155947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-02-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.80788,31.98057,34.80788,31.98057",
+    "geom:latitude":31.98057,
+    "geom:longitude":34.80788,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nahalat Yehuda",
+    "gn:country_code":"IL",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294125,
+    "gn:latitude":31.98057,
+    "gn:longitude":34.80788,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Na\u1e96alat Yehuda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:heb_x_preferred":[
+        "\u05e0\u05d7\u05dc\u05ea \u05d9\u05d4\u05d5\u05d3\u05d4"
+    ],
+    "name:und_x_variant":[
+        "Nahalath Yeh\u016bd\u0101",
+        "Nahalat Yehudah",
+        "Na\u1e96alat Yehuda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294125
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"4055ca2895751d8dbc81f93a862a1f9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720813,
+            "locality_id":1226155947,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1226155947,
+    "wof:lastmodified":1549930721,
+    "wof:name":"Nahalat Yehuda",
+    "wof:parent_id":1108720813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[
+        1376877785
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.80788,
+    31.98057,
+    34.80788,
+    31.98057
+],
+  "geometry": {"coordinates":[34.80788,31.98057],"type":"Point"}
+}

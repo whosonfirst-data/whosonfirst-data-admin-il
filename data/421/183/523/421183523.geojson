@@ -1,0 +1,103 @@
+{
+  "id": 421183523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.88026,31.98775,34.88026,31.98775",
+    "geom:latitude":31.98775,
+    "geom:longitude":34.88026,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Jagel"
+    ],
+    "name:cze_x_preferred":[
+        "Jagel"
+    ],
+    "name:dut_x_preferred":[
+        "Yagel"
+    ],
+    "name:eng_x_preferred":[
+        "Yagel"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d2\u05dc"
+    ],
+    "name:nno_x_preferred":[
+        "Yagel"
+    ],
+    "name:pol_x_preferred":[
+        "Yagel"
+    ],
+    "name:unk_x_variant":[
+        "Lydda Bet"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293249,
+    "qs:gn_pop":0,
+    "qs:name":"Yagel",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":106,
+    "qs:photos_1k":21,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":106,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":979707,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1968069,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":101,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293249,
+        "gp:id":1968069,
+        "qs:id":979707,
+        "wd:id":"Q2778126",
+        "wk:page":"Yagel"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009372,
+    "wof:geomhash":"dbe1abdcf5b207ea8e6e25e362282333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720815,
+            "locality_id":421183523,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421183523,
+    "wof:lastmodified":1549930352,
+    "wof:name":"Yagel",
+    "wof:parent_id":1108720815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.88026,
+    31.98775,
+    34.88026,
+    31.98775
+],
+  "geometry": {"coordinates":[34.88026,31.98775],"type":"Point"}
+}

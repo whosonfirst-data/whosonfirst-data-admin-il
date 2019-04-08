@@ -1,0 +1,74 @@
+{
+  "id": 1309714041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.49195,32.82955,35.49195,32.82955",
+    "geom:latitude":32.82955,
+    "geom:longitude":35.49195,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Hamam",
+    "gn:country_code":"IL",
+    "gn:dem":-123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309927,
+    "gn:latitude":32.82955,
+    "gn:longitude":35.49195,
+    "gn:modification_date":"2018-04-16",
+    "gn:name":"H\u0331amam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "H\u0331amam"
+    ],
+    "name:heb_x_variant":[
+        "\u05d7\u05de\u05dd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309927,
+        "wk:page":"Hamaam,_Israel"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"41941a94fc1f634fd5160e8339f7472c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720825,
+            "locality_id":1309714041,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1309714041,
+    "wof:lastmodified":1549930337,
+    "wof:name":"Hamam",
+    "wof:parent_id":1108720825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.49195,
+    32.82955,
+    35.49195,
+    32.82955
+],
+  "geometry": {"coordinates":[35.49195,32.82955],"type":"Point"}
+}

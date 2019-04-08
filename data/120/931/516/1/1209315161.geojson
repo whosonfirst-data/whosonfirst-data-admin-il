@@ -1,0 +1,75 @@
+{
+  "id": 1209315161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.1852,32.54805,35.1852,32.54805",
+    "geom:latitude":32.54805,
+    "geom:longitude":35.1852,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Zalafa",
+    "gn:country_code":"IL",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293126,
+    "gn:latitude":32.54805,
+    "gn:longitude":35.1852,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zalafa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d6\u05dc\u05e4\u05d4"
+    ],
+    "name:und_x_variant":[
+        "Zalafe",
+        "Zalafah",
+        "Zalafa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293126
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"7a809b19731165c88f39ec64405a6985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":1209315161,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1209315161,
+    "wof:lastmodified":1549930444,
+    "wof:name":"Zalafa",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1852,
+    32.54805,
+    35.1852,
+    32.54805
+],
+  "geometry": {"coordinates":[35.1852,32.54805],"type":"Point"}
+}

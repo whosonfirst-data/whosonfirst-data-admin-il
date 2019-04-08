@@ -1,0 +1,76 @@
+{
+  "id": 1226355355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.75398,31.84341,34.75398,31.84341",
+    "geom:latitude":31.84341,
+    "geom:longitude":34.75398,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Benaya",
+    "gn:country_code":"IL",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295517,
+    "gn:latitude":31.84341,
+    "gn:longitude":34.75398,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Benaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d1\u05e0\u05d9\u05d4"
+    ],
+    "name:und_x_variant":[
+        "Yavneh",
+        "Benayah",
+        "Yavneh Hadromit",
+        "Benaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295517
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"3953f152877b4f14ad24c364a4c82966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720813,
+            "locality_id":1226355355,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1226355355,
+    "wof:lastmodified":1549930461,
+    "wof:name":"Benaya",
+    "wof:parent_id":1108720813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.75398,
+    31.84341,
+    34.75398,
+    31.84341
+],
+  "geometry": {"coordinates":[34.75398,31.84341],"type":"Point"}
+}

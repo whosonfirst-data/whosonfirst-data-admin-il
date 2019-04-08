@@ -1,0 +1,82 @@
+{
+  "id": 1309720647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.93213,32.39775,34.93213,32.39775",
+    "geom:latitude":32.39775,
+    "geom:longitude":34.93213,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Giv`at Hayyim Ihud",
+    "gn:country_code":"IL",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294995,
+    "gn:latitude":32.39775,
+    "gn:longitude":34.93213,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Giv\u2018at H\u0331ayyim I\u1e96ud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Giv\u2018at H\u0331ayyim"
+    ],
+    "name:heb_x_variant":[
+        "\u05d2\u05d1\u05e2\u05ea \u05d7\u05d9\u05d9\u05dd",
+        "Giv\u2018at H\u0331ayyim I\u1e96ud",
+        "\u05d2\u05d1\u05e2\u05ea \u05d7\u05d9\u05d9\u05dd \u05d0\u05d7\u05d5\u05d3"
+    ],
+    "name:und_x_variant":[
+        "Givat Haim",
+        "Givat Hayim",
+        "Giv\u2018at \u1e24aiyim",
+        "Giv\u2018at H\u0331ayyim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294995,
+        "wk:page":"Givat_Haim_%28Ihud%29"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"50ada7900de2a4245432c85bada5bf5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":1309720647,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1309720647,
+    "wof:lastmodified":1549930330,
+    "wof:name":"Giv`at Hayyim Ihud",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.93213,
+    32.39775,
+    34.93213,
+    32.39775
+],
+  "geometry": {"coordinates":[34.93213,32.39775],"type":"Point"}
+}

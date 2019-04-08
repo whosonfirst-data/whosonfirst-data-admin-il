@@ -1,0 +1,74 @@
+{
+  "id": 1226449895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.2652,32.54277,35.2652,32.54277",
+    "geom:latitude":32.54277,
+    "geom:longitude":35.2652,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Baraq",
+    "gn:country_code":"IL",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295568,
+    "gn:latitude":32.54277,
+    "gn:longitude":35.2652,
+    "gn:modification_date":"2018-04-16",
+    "gn:name":"Baraq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05e7"
+    ],
+    "name:und_x_variant":[
+        "Barak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295568,
+        "wk:page":"Barak,_Israel"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"8f07fe9e57a86ac6f4a82fef043c1c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":1226449895,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1226449895,
+    "wof:lastmodified":1549930478,
+    "wof:name":"Baraq",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.2652,
+    32.54277,
+    35.2652,
+    32.54277
+],
+  "geometry": {"coordinates":[35.2652,32.54277],"type":"Point"}
+}

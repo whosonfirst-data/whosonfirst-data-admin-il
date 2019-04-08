@@ -1,0 +1,85 @@
+{
+  "id": 421200659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.208263,31.7848,35.208263,31.7848",
+    "geom:latitude":31.7848,
+    "geom:longitude":35.208263,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Zichron Josef"
+    ],
+    "name:slk_x_preferred":[
+        "Zichron Josef"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Zikhron Yosef",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Jerusalem",
+    "qs:photos":256,
+    "qs:photos_1k":52,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":256,
+    "qs:photos_sr":5,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":890604,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":22724664,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":159,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168681,
+        1108720823,
+        85672551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724664,
+        "qs:id":890604,
+        "wd:id":"Q8071863"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010034,
+    "wof:geomhash":"fcde3d45bafaefb14edea774d862c77f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421168681,
+            "neighbourhood_id":421200659,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":421200659,
+    "wof:lastmodified":1549930550,
+    "wof:name":"Zikhron Yosef",
+    "wof:parent_id":421168681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.208263,
+    31.7848,
+    35.208263,
+    31.7848
+],
+  "geometry": {"coordinates":[35.208263,31.7848],"type":"Point"}
+}

@@ -1,0 +1,16 @@
+{
+  "id": 421193759,
+  "type": "Feature",
+  "properties": {"wof:repo":"whosonfirst-data-admin-il",
+    "src:geom":"quattroshapes_pg",
+    "wof:geomhash":"7bde419c0dbf7313bc26586fc010ce51",
+    "wof:id":421193759
+},
+  "bbox": [
+    35.01051,
+    31.89825,
+    35.01051,
+    31.89825
+],
+  "geometry": {"coordinates":[35.01051,31.89825],"type":"Point"}
+}

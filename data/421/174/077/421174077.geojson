@@ -1,0 +1,165 @@
+{
+  "id": 421174077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.95628,32.56645,34.95628,32.56645",
+    "geom:latitude":32.56645,
+    "geom:longitude":34.95628,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:als_x_preferred":[
+        "Zichron Ja'akow"
+    ],
+    "name:ara_x_preferred":[
+        "\u0632\u062e\u0631\u0648\u0646 \u064a\u0639\u0643\u0648\u0641"
+    ],
+    "name:arm_x_preferred":[
+        "\u0536\u056b\u056d\u0580\u0578\u0576 \u0545\u0561\u0561\u056f\u0578\u057e"
+    ],
+    "name:ces_x_preferred":[
+        "Zichron Ja'akov"
+    ],
+    "name:cze_x_preferred":[
+        "Zichron Ja'akov"
+    ],
+    "name:deu_x_preferred":[
+        "Zichron Ja\u2019akow"
+    ],
+    "name:dut_x_preferred":[
+        "Zikhron Ya'akov"
+    ],
+    "name:eng_x_preferred":[
+        "Zikhron Ya'akov"
+    ],
+    "name:fra_x_preferred":[
+        "Zikhron Yaakov"
+    ],
+    "name:fre_x_preferred":[
+        "Zikhron Yaakov"
+    ],
+    "name:ger_x_preferred":[
+        "Zichron Ja\u2019akow"
+    ],
+    "name:gsw_x_preferred":[
+        "Sichron Jaakow"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05db\u05e8\u05d5\u05df \u05d9\u05e2\u05e7\u05d1"
+    ],
+    "name:heb_x_variant":[
+        "Zikhron Ya\u2018aqov"
+    ],
+    "name:hun_x_preferred":[
+        "Zichron Ja\u2019akow"
+    ],
+    "name:ita_x_preferred":[
+        "Zikhron Ya'aqov"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30d5\u30ed\u30f3\u30fb\u30e4\u30a2\u30b3\u30f4"
+    ],
+    "name:nno_x_preferred":[
+        "Zikhron Ya'akov"
+    ],
+    "name:pol_x_preferred":[
+        "Zichron Ja\u2019akow"
+    ],
+    "name:por_x_preferred":[
+        "Zihron Yaakov"
+    ],
+    "name:ron_x_preferred":[
+        "Zihron Iacov"
+    ],
+    "name:rum_x_preferred":[
+        "Zihron Iacov"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0438\u0445\u0440\u043e\u043d-\u042f\u0430\u043a\u043e\u0432"
+    ],
+    "name:sco_x_preferred":[
+        "Zikhron Ya'akov"
+    ],
+    "name:slv_x_preferred":[
+        "Zikhron Ya'akov"
+    ],
+    "name:spa_x_preferred":[
+        "Zikhron Ya'aqov"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0456\u0445\u0440\u043e\u043d-\u042f\u0430\u043a\u043e\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Zikeron Ya\u2018akob"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d6\u05db\u05e8\u05d5\u05df \u05d9\u05e2\u05e7\u05d1"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293067,
+    "qs:gn_pop":0,
+    "qs:name":"Zikhron Yaaqov",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Haifa",
+    "qs:photos":119,
+    "qs:photos_1k":24,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":119,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":316905,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1968130,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1154,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293067,
+        "gp:id":1968130,
+        "qs:id":316905,
+        "wd:id":"Q198399"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009019,
+    "wof:geomhash":"78de940d3bc6e60713bf803c9c69d3bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":421174077,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":421174077,
+    "wof:lastmodified":1549930304,
+    "wof:name":"Zikhron Yaaqov",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.95628,
+    32.56645,
+    34.95628,
+    32.56645
+],
+  "geometry": {"coordinates":[34.95628,32.56645],"type":"Point"}
+}

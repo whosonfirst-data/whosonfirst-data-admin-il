@@ -1,0 +1,77 @@
+{
+  "id": 1277006037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.99448,32.69861,34.99448,32.69861",
+    "geom:latitude":32.69861,
+    "geom:longitude":34.99448,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nir `Ezyon",
+    "gn:country_code":"IL",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294030,
+    "gn:latitude":32.69861,
+    "gn:longitude":34.99448,
+    "gn:modification_date":"2018-04-17",
+    "gn:name":"Nir \u2018E\u1e95yon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05e8 \u05e2\u05e6\u05d9\u05d5\u05df"
+    ],
+    "name:und_x_variant":[
+        "Nir-\u2019Esyon",
+        "Nir \u2018Etsyon",
+        "Nir \u2018E\u1e95yon",
+        "Nir Etsyon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294030,
+        "wk:page":"Nir_Etzion"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"62328349ca57dedde8526c0059c84b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":1277006037,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1277006037,
+    "wof:lastmodified":1549930482,
+    "wof:name":"Nir `Ezyon",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.99448,
+    32.69861,
+    34.99448,
+    32.69861
+],
+  "geometry": {"coordinates":[34.99448,32.69861],"type":"Point"}
+}

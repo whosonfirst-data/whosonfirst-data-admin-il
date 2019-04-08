@@ -1,0 +1,125 @@
+{
+  "id": 421187739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.54242,32.98049,35.54242,32.98049",
+    "geom:latitude":32.98049,
+    "geom:longitude":35.54242,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Hassor"
+    ],
+    "name:ces_x_preferred":[
+        "Chacor"
+    ],
+    "name:cze_x_preferred":[
+        "Chacor ha-Glilit"
+    ],
+    "name:dut_x_preferred":[
+        "Hatzor HaGlilit"
+    ],
+    "name:eng_x_preferred":[
+        "Hatzor HaGlilit"
+    ],
+    "name:fre_x_preferred":[
+        "Hatzor-Haglilit"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05e6\u05d5\u05e8"
+    ],
+    "name:heb_x_variant":[
+        "H\u0331a\u1e95or HaGelilit",
+        "\u05d7\u05e6\u05d5\u05e8 \u05d4\u05d2\u05dc\u05d9\u05dc\u05d9\u05ea",
+        "H\u0331atsor HaGelilit"
+    ],
+    "name:ind_x_preferred":[
+        "Hazor"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30c4\u30a9\u30eb\u30fb\u30cf\u30b0\u30ea\u30ea\u30fc\u30c8"
+    ],
+    "name:nno_x_preferred":[
+        "Hatzor HaGlilit"
+    ],
+    "name:pol_x_preferred":[
+        "Chacor HaGlilit"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0446\u043e\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Hatzor HaGlilit"
+    ],
+    "name:unk_x_variant":[
+        "Hatzor"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294809,
+    "qs:gn_pop":0,
+    "qs:name":"Hazor",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":240,
+    "qs:photos_1k":49,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":240,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":8091,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967447,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":322,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294809,
+        "gp:id":1967447,
+        "qs:id":8091,
+        "wd:id":"Q2588837"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009522,
+    "wof:geomhash":"1e29edb045b4a2999b1752345f81ccd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720839,
+            "locality_id":421187739,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421187739,
+    "wof:lastmodified":1549930364,
+    "wof:name":"Hazor",
+    "wof:parent_id":1108720839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.54242,
+    32.98049,
+    35.54242,
+    32.98049
+],
+  "geometry": {"coordinates":[35.54242,32.98049],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 421200391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.10669,31.72177,35.10669,31.72177",
+    "geom:latitude":31.72177,
+    "geom:longitude":35.10669,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Mevo Bejtar"
+    ],
+    "name:cze_x_preferred":[
+        "Mevo Bejtar"
+    ],
+    "name:eng_x_preferred":[
+        "Mevoot Beitar"
+    ],
+    "name:eng_x_variant":[
+        "Mevo Beiter",
+        "Mevoot Betar",
+        "Mevoot Beiter",
+        "Mevo Betar",
+        "Mevo Beitar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d1\u05d5\u05d0 \u05d1\u05d9\u05ea\u05e8"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d1\u05d5\u05d0 \u05e0\u05d9\u05ea\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Mevo Beitar"
+    ],
+    "name:pol_x_preferred":[
+        "Mewo Betar"
+    ],
+    "name:swe_x_preferred":[
+        "Mevo Betar"
+    ],
+    "name:unk_x_variant":[
+        "Mevo Beter"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294244,
+    "qs:gn_pop":27267,
+    "qs:name":"Mevo Betar",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Jerusalem",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1301735,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967678,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":147,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294244,
+        "gp:id":1967678,
+        "qs:id":1301735,
+        "wd:id":"Q2919983",
+        "wk:page":"Mevo Beitar"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010021,
+    "wof:geomhash":"5bb28eb5816863e35706d1528737697a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421200391,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":421200391,
+    "wof:lastmodified":1549930396,
+    "wof:name":"Mevo Betar",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:population":27267,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.10669,
+    31.72177,
+    35.10669,
+    31.72177
+],
+  "geometry": {"coordinates":[35.10669,31.72177],"type":"Point"}
+}

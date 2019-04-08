@@ -1,0 +1,75 @@
+{
+  "id": 1276338975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.64359,31.37194,34.64359,31.37194",
+    "geom:latitude":31.37194,
+    "geom:longitude":34.64359,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Te'ashur",
+    "gn:country_code":"IL",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293414,
+    "gn:latitude":31.37194,
+    "gn:longitude":34.64359,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Te\u2019ashur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05ea\u05d0\u05e9\u05d5\u05e8"
+    ],
+    "name:und_x_variant":[
+        "Kfar Ro\u2019im",
+        "Wadi Shaari C",
+        "Te\u2019ashur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293414
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"0a54ebdf34d09246995e558acb24c713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1276338975,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1276338975,
+    "wof:lastmodified":1549930442,
+    "wof:name":"Te'ashur",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.64359,
+    31.37194,
+    34.64359,
+    31.37194
+],
+  "geometry": {"coordinates":[34.64359,31.37194],"type":"Point"}
+}

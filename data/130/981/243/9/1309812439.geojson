@@ -1,0 +1,74 @@
+{
+  "id": 1309812439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.9918,32.36008,34.9918,32.36008",
+    "geom:latitude":32.36008,
+    "geom:longitude":34.9918,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Yikkon",
+    "gn:country_code":"IL",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293184,
+    "gn:latitude":32.36008,
+    "gn:longitude":34.9918,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Yikkon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d9\u05db\u05d5\u05df"
+    ],
+    "name:und_x_variant":[
+        "Yikon",
+        "Yikkon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293184
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"d98c2d772fadca527e3cdaaea63f09b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":1309812439,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1309812439,
+    "wof:lastmodified":1549930335,
+    "wof:name":"Yikkon",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.9918,
+    32.36008,
+    34.9918,
+    32.36008
+],
+  "geometry": {"coordinates":[34.9918,32.36008],"type":"Point"}
+}

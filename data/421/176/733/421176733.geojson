@@ -1,0 +1,84 @@
+{
+  "id": 421176733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.42277,30.88536,34.42277,30.88536",
+    "geom:latitude":30.88536,
+    "geom:longitude":34.42277,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:heb_x_preferred":[
+        "\u05e0\u05e6\u05e0\u05d4"
+    ],
+    "name:unk_x_variant":[
+        "Al \u2018Awj\u0101\u2019"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294016,
+    "qs:gn_pop":0,
+    "qs:name":"Nizzana",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Southern",
+    "qs:photos":98,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":98,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":394101,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1968197,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294016,
+        "gp:id":1968197,
+        "qs:id":394101,
+        "wd:id":"Q4821629",
+        "wk:page":"Auja al-Hafir"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009117,
+    "wof:geomhash":"192089d68ae89a59db259181bd1e47f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":421176733,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":421176733,
+    "wof:lastmodified":1549930325,
+    "wof:name":"Nizzana",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.42277,
+    30.88536,
+    34.42277,
+    30.88536
+],
+  "geometry": {"coordinates":[34.42277,30.88536],"type":"Point"}
+}

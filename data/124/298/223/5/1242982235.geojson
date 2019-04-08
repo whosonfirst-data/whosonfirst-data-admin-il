@@ -1,0 +1,74 @@
+{
+  "id": 1242982235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.36032,32.84516,35.36032,32.84516",
+    "geom:latitude":32.84516,
+    "geom:longitude":35.36032,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yahad",
+    "gn:country_code":"IL",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9618528,
+    "gn:latitude":32.84516,
+    "gn:longitude":35.36032,
+    "gn:modification_date":"2018-04-16",
+    "gn:name":"Ya\u1e96ad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Ya\u1e96ad"
+    ],
+    "name:heb_x_variant":[
+        "\u05d9\u05d7\u05d3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9618528,
+        "wk:page":"Yahad,_Israel"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"aeea7dbf4ee336c173468237e2720d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":1242982235,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1242982235,
+    "wof:lastmodified":1549930459,
+    "wof:name":"Yahad",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.36032,
+    32.84516,
+    35.36032,
+    32.84516
+],
+  "geometry": {"coordinates":[35.36032,32.84516],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1327239151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.27832,32.68923,35.27832,32.68923",
+    "geom:latitude":32.68923,
+    "geom:longitude":35.27832,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yafa an-Nasirah",
+    "gn:country_code":"IL",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293254,
+    "gn:latitude":32.68923,
+    "gn:longitude":35.27832,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Yafa an-Nasirah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d9\u05e4\u05d0"
+    ],
+    "name:heb_x_variant":[
+        "\u05d9\u05e4\u05d9\u05e2"
+    ],
+    "name:und_x_variant":[
+        "Yafi\u2018a",
+        "Y\u0101f\u0101",
+        "Yafi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293254
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"8349e8c2c5f8559884be0c3c0556974b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":1327239151,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1327239151,
+    "wof:lastmodified":1549930494,
+    "wof:name":"Yafa an-Nasirah",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.27832,
+    32.68923,
+    35.27832,
+    32.68923
+],
+  "geometry": {"coordinates":[35.27832,32.68923],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 421190563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.581455,33.276833,35.581455,33.276833",
+    "geom:latitude":33.276833,
+    "geom:longitude":35.581455,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u0639\u0645\u0627\u0631\u0629",
+    "qs:name_adm0":"\u0644\u0628\u0646\u0627\u0646",
+    "qs:name_adm1":"\u0627\u0644\u0646\u0628\u0637\u064a\u0629",
+    "qs:photos":349,
+    "qs:photos_1k":71,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":349,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1119724,
+    "qs:woe_adm0":23424873,
+    "qs:woe_id":1959258,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1959258,
+        "qs:id":1119724
+    },
+    "wof:country":"IL",
+    "wof:created":1459009662,
+    "wof:geomhash":"af247df3faa600d11d170900706dfa06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720839,
+            "locality_id":421190563,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421190563,
+    "wof:lastmodified":1549930369,
+    "wof:name":"\u0639\u0645\u0627\u0631\u0629",
+    "wof:parent_id":1108720839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.581455,
+    33.276833,
+    35.581455,
+    33.276833
+],
+  "geometry": {"coordinates":[35.581455,33.276833],"type":"Point"}
+}

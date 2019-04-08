@@ -1,0 +1,75 @@
+{
+  "id": 421187735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.357437,31.233059,35.357437,31.233059",
+    "geom:latitude":31.233059,
+    "geom:longitude":35.357437,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Mezada",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Southern",
+    "qs:photos":623,
+    "qs:photos_1k":126,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":623,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1085664,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":22722802,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22722802,
+        "qs:id":1085664
+    },
+    "wof:country":"IL",
+    "wof:created":1459009522,
+    "wof:geomhash":"0252885cf874060dba4c54ee1a85083d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":421187735,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":421187735,
+    "wof:lastmodified":1549930364,
+    "wof:name":"Mezada",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.357437,
+    31.233059,
+    35.357437,
+    31.233059
+],
+  "geometry": {"coordinates":[35.357437,31.233059],"type":"Point"}
+}

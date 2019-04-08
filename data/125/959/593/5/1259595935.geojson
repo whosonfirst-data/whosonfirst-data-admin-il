@@ -1,0 +1,83 @@
+{
+  "id": 1259595935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.81048,31.79281,34.81048,31.79281",
+    "geom:latitude":31.79281,
+    "geom:longitude":34.81048,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bet Hilqiyya",
+    "gn:country_code":"IL",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295455,
+    "gn:latitude":31.79281,
+    "gn:longitude":34.81048,
+    "gn:modification_date":"2018-04-17",
+    "gn:name":"Bet H\u0331ilqiyya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Bet H\u0331ilqiyya"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05d9\u05ea \u05d7\u05dc\u05e7\u05d9\u05d4",
+        "Bet H\u0331ilkiyya"
+    ],
+    "name:und_x_variant":[
+        "Na\u1e96al Soreq C",
+        "Beit Hilqiya",
+        "Nahal Sorek 3",
+        "Beit Hilkiya",
+        "Bet H\u0331ilqiya",
+        "Bet H\u0331ilqiyya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295455,
+        "wk:page":"Beit_Hilkia"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"681dbadeb1f8584d06455fe8855d3fe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720813,
+            "locality_id":1259595935,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1259595935,
+    "wof:lastmodified":1549930429,
+    "wof:name":"Bet Hilqiyya",
+    "wof:parent_id":1108720813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.81048,
+    31.79281,
+    34.81048,
+    31.79281
+],
+  "geometry": {"coordinates":[34.81048,31.79281],"type":"Point"}
+}

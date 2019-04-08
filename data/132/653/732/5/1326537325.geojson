@@ -1,0 +1,74 @@
+{
+  "id": 1326537325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.13263,32.63168,35.13263,32.63168",
+    "geom:latitude":32.63168,
+    "geom:longitude":35.13263,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Nahala'ot",
+    "gn:country_code":"IL",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294126,
+    "gn:latitude":32.63168,
+    "gn:longitude":35.13263,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Na\u1e96ala\u2019ot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e0\u05d7\u05dc\u05d0\u05d5\u05ea"
+    ],
+    "name:und_x_variant":[
+        "Nahla\u2019ot",
+        "Na\u1e96ala\u2019ot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294126
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"58174e917d8c132fc18f272327d27b04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":1326537325,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1326537325,
+    "wof:lastmodified":1549930414,
+    "wof:name":"Nahala'ot",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.13263,
+    32.63168,
+    35.13263,
+    32.63168
+],
+  "geometry": {"coordinates":[35.13263,32.63168],"type":"Point"}
+}

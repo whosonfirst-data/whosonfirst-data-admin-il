@@ -1,0 +1,77 @@
+{
+  "id": 1209519663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.0121,31.34813,35.0121,31.34813",
+    "geom:latitude":31.34813,
+    "geom:longitude":35.0121,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Yittar",
+    "gn:country_code":"IL",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8374229,
+    "gn:latitude":31.34813,
+    "gn:longitude":35.0121,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Yittar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d9\u05ea\u05d9\u05e8"
+    ],
+    "name:heb_x_variant":[
+        "Na\u1e96al Yittar",
+        "\u05e0\u05d7\u201d\u05dc \u05d9\u05ea\u05d9\u05e8"
+    ],
+    "name:und_x_variant":[
+        "Yatir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8374229
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"5c8c865209822cf0bc8f433627943ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1209519663,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1209519663,
+    "wof:lastmodified":1549930472,
+    "wof:name":"Yittar",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0121,
+    31.34813,
+    35.0121,
+    31.34813
+],
+  "geometry": {"coordinates":[35.0121,31.34813],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 421193659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.98622,32.14677,34.98622,32.14677",
+    "geom:latitude":32.14677,
+    "geom:longitude":34.98622,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041d\u0438\u0440\u0438\u0442"
+    ],
+    "name:ces_x_preferred":[
+        "Nirit"
+    ],
+    "name:cze_x_preferred":[
+        "Nirit"
+    ],
+    "name:dut_x_preferred":[
+        "Nirit"
+    ],
+    "name:eng_x_preferred":[
+        "Nirit"
+    ],
+    "name:heb_x_colloquial":[
+        "\u05e0\u05d9\u05e8\u05d9\u05ea"
+    ],
+    "name:heb_x_historical":[
+        "\u05e0\u05d9\u05e8\u05d9\u05ea"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05e8\u05d9\u05ea"
+    ],
+    "name:nno_x_preferred":[
+        "Nirit"
+    ],
+    "name:pol_x_preferred":[
+        "Nirit"
+    ],
+    "name:swe_x_preferred":[
+        "Nirit"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":8199421,
+    "qs:gn_pop":1132,
+    "qs:name":"Mirit",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Southern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":55970,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":22722753,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":169,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8199421,
+        "gp:id":22722753,
+        "qs:id":55970,
+        "wd:id":"Q2889321",
+        "wk:page":"Nirit"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009779,
+    "wof:geomhash":"daae83c352fc6b95e835618d9066cb1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720821,
+            "locality_id":421193659,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421193659,
+    "wof:lastmodified":1549930384,
+    "wof:name":"Mirit",
+    "wof:parent_id":1108720821,
+    "wof:placetype":"locality",
+    "wof:population":1132,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.98622,
+    32.14677,
+    34.98622,
+    32.14677
+],
+  "geometry": {"coordinates":[34.98622,32.14677],"type":"Point"}
+}

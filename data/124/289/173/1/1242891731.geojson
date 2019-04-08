@@ -1,0 +1,81 @@
+{
+  "id": 1242891731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.79446,31.76213,34.79446,31.76213",
+    "geom:latitude":31.76213,
+    "geom:longitude":34.79446,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sha`are Avraham",
+    "gn:country_code":"IL",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293586,
+    "gn:latitude":31.76213,
+    "gn:longitude":34.79446,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sha\u2018are Avraham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Sha\u2018are Avraham"
+    ],
+    "name:heb_x_variant":[
+        "\u05e9\u05e2\u05e8\u05d9 \u05d0\u05d1\u05e8\u05d4\u05dd",
+        "Sha\u2019are Avraham"
+    ],
+    "name:und_x_variant":[
+        "Agudat Israel",
+        "Netivah",
+        "Ntiva",
+        "Netiva",
+        "Sha\u2018are Avraham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293586
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"dd5625cd2565c623565015398cab55a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720813,
+            "locality_id":1242891731,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1242891731,
+    "wof:lastmodified":1549930454,
+    "wof:name":"Sha`are Avraham",
+    "wof:parent_id":1108720813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.79446,
+    31.76213,
+    34.79446,
+    31.76213
+],
+  "geometry": {"coordinates":[34.79446,31.76213],"type":"Point"}
+}

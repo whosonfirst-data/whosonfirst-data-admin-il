@@ -1,0 +1,108 @@
+{
+  "id": 421181207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.56667,32.66667,35.56667,32.66667",
+    "geom:latitude":32.66667,
+    "geom:longitude":35.56667,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "A\u0161dot Ja'akov"
+    ],
+    "name:cze_x_preferred":[
+        "A\u0161dot Ja'akov"
+    ],
+    "name:deu_x_preferred":[
+        "Aschdot Ja\u2019akov"
+    ],
+    "name:eng_x_preferred":[
+        "Ashdot Ya'akov"
+    ],
+    "name:ger_x_preferred":[
+        "Aschdot Ja\u2019akov"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e9\u05d3\u05d5\u05ea \u05d9\u05e2\u05e7\u05d1"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05e9\u05d3\u05d5\u05ea \u05d9\u05e2\u05e7\u05d1 \u05d0\u05d7\u05d5\u05d3"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30b7\u30e5\u30c9\u30c3\u30c8\u30fb\u30e4\u30fc\u30b3\u30d6"
+    ],
+    "name:unk_x_variant":[
+        "Ashdot Ya\u2018aqov Alef"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d0\u05e9\u05d3\u05d5\u05ea \u05d9\u05e2\u05e7\u05d1"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":295625,
+    "qs:gn_pop":0,
+    "qs:name":"Ashdot Yaaqov Ihud",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":116,
+    "qs:photos_1k":24,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":116,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":479246,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967109,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":217,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295625,
+        "gp:id":1967109,
+        "qs:id":479246,
+        "wd:id":"Q2891543"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009288,
+    "wof:geomhash":"ebbc487a25054bbe9e8ef3e1e0550b9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720825,
+            "locality_id":421181207,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421181207,
+    "wof:lastmodified":1549930341,
+    "wof:name":"Ashdot Yaaqov Ihud",
+    "wof:parent_id":1108720825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.56667,
+    32.66667,
+    35.56667,
+    32.66667
+],
+  "geometry": {"coordinates":[35.56667,32.66667],"type":"Point"}
+}

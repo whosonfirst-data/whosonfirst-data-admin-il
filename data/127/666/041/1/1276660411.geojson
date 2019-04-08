@@ -1,0 +1,81 @@
+{
+  "id": 1276660411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.89052,32.33462,34.89052,32.33462",
+    "geom:latitude":32.33462,
+    "geom:longitude":34.89052,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bet Yizhaq Sha`ar Hefer",
+    "gn:country_code":"IL",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293580,
+    "gn:latitude":32.33462,
+    "gn:longitude":34.89052,
+    "gn:modification_date":"2018-04-17",
+    "gn:name":"Bet Yi\u1e95\u1e96aq Sha\u2018ar H\u0331\u00e9fer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Bet Yi\u1e95\u1e96aq Sha\u2018ar H\u0331\u00e9fer"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05d9\u05ea \u05d9\u05e6\u05d7\u05e7 \u05e9\u05e2\u05e8 \u05d7\u05e4\u05e8",
+        "Bet Yits\u1e96ak Sha\u2019ar H\u0331\u00e9fer"
+    ],
+    "name:und_x_variant":[
+        "Gan \u1e24efer",
+        "Nira",
+        "Nirah",
+        "Sha\u2018ar H\u0331efer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293580,
+        "wk:page":"Beit_Yitzhak-Sha%27ar_Hefer"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"c0c48577ae77be19d3826a14999eb8da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":1276660411,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1276660411,
+    "wof:lastmodified":1549930479,
+    "wof:name":"Bet Yizhaq Sha`ar Hefer",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.89052,
+    32.33462,
+    34.89052,
+    32.33462
+],
+  "geometry": {"coordinates":[34.89052,32.33462],"type":"Point"}
+}

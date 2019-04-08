@@ -1,0 +1,100 @@
+{
+  "id": 421191895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.94874,32.66002,34.94874,32.66002",
+    "geom:latitude":32.66002,
+    "geom:longitude":34.94874,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Geva Karmel"
+    ],
+    "name:cze_x_preferred":[
+        "Geva Karmel"
+    ],
+    "name:eng_x_preferred":[
+        "Geva Carmel"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d1\u05e2 \u05db\u05e8\u05de\u05dc"
+    ],
+    "name:nno_x_preferred":[
+        "Geva Karmel"
+    ],
+    "name:pol_x_preferred":[
+        "Gewa Karmel"
+    ],
+    "name:unk_x_variant":[
+        "Geva\u2018 Carmel"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295037,
+    "qs:gn_pop":0,
+    "qs:name":"Geva Karmel",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Haifa",
+    "qs:photos":24,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":24,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1159679,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967363,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":150,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295037,
+        "gp:id":1967363,
+        "qs:id":1159679,
+        "wd:id":"Q2776856",
+        "wk:page":"Geva Carmel"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009713,
+    "wof:geomhash":"b801cc14490fcc8211df06e65339b64b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":421191895,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":421191895,
+    "wof:lastmodified":1549930379,
+    "wof:name":"Geva Karmel",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.94874,
+    32.66002,
+    34.94874,
+    32.66002
+],
+  "geometry": {"coordinates":[34.94874,32.66002],"type":"Point"}
+}

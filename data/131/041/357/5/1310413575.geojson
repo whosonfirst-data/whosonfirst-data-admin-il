@@ -1,0 +1,71 @@
+{
+  "id": 1310413575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.24921,32.94699,35.24921,32.94699",
+    "geom:latitude":32.94699,
+    "geom:longitude":35.24921,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kishor",
+    "gn:country_code":"IL",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309022,
+    "gn:latitude":32.94699,
+    "gn:longitude":35.24921,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Kishor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05db\u05d9\u05e9\u05d5\u05e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309022,
+        "wk:page":"Kishor"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"aa7b33a1c5c097d5f14e90f3362dca19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":1310413575,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1310413575,
+    "wof:lastmodified":1549930426,
+    "wof:name":"Kishor",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24921,
+    32.94699,
+    35.24921,
+    32.94699
+],
+  "geometry": {"coordinates":[35.24921,32.94699],"type":"Point"}
+}

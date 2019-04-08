@@ -1,0 +1,125 @@
+{
+  "id": 421201025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.19146,32.73568,35.19146,32.73568",
+    "geom:latitude":32.73568,
+    "geom:longitude":35.19146,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Betlem de Galilea"
+    ],
+    "name:cze_x_preferred":[
+        "Bejt Lechem ha-Glilit"
+    ],
+    "name:dut_x_preferred":[
+        "Bethlehem"
+    ],
+    "name:eng_x_preferred":[
+        "Bethlehem of Galilee"
+    ],
+    "name:fre_x_preferred":[
+        "Bethl\u00e9em de Galil\u00e9e"
+    ],
+    "name:ger_x_preferred":[
+        "Bethlehem"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05dc\u05d7\u05dd \u05d4\u05d2\u05dc\u05d9\u05dc\u05d9\u05ea"
+    ],
+    "name:ita_x_preferred":[
+        "Betlemme di Galilea"
+    ],
+    "name:nno_x_preferred":[
+        "Betlehem i Galilea"
+    ],
+    "name:nob_x_preferred":[
+        "Betlehem i Galilea"
+    ],
+    "name:pol_x_preferred":[
+        "Beit Lechem HaGlilit"
+    ],
+    "name:por_x_preferred":[
+        "Bel\u00e9m"
+    ],
+    "name:rum_x_preferred":[
+        "Betleem de Galileea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0444\u043b\u0435\u0435\u043c"
+    ],
+    "name:slo_x_preferred":[
+        "Bejt Lechem ha-Glilit"
+    ],
+    "name:unk_x_variant":[
+        "Irgun Hahoresh"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295453,
+    "qs:gn_pop":0,
+    "qs:name":"Bet Lehem HaGelilit",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":39,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":39,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":909178,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967189,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295453,
+        "gp:id":1967189,
+        "qs:id":909178,
+        "wd:id":"Q604557"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010049,
+    "wof:geomhash":"7e1a4c06806d5d8141420674d1fc2561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":421201025,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421201025,
+    "wof:lastmodified":1553816387,
+    "wof:name":"Bet Lehem HaGelilit",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.19146,
+    32.73568,
+    35.19146,
+    32.73568
+],
+  "geometry": {"coordinates":[35.19146,32.73568],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209217967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.92046,31.87658,34.92046,31.87658",
+    "geom:latitude":31.87658,
+    "geom:longitude":34.92046,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gezer",
+    "gn:country_code":"IL",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295025,
+    "gn:latitude":31.87658,
+    "gn:longitude":34.92046,
+    "gn:modification_date":"2018-04-17",
+    "gn:name":"Gezer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d2\u05d6\u05e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295025,
+        "wk:page":"Gezer_(kibbutz)"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"a53d52c7b21577b9129859198ca6d40c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720815,
+            "locality_id":1209217967,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1209217967,
+    "wof:lastmodified":1549930421,
+    "wof:name":"Gezer",
+    "wof:parent_id":1108720815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.92046,
+    31.87658,
+    34.92046,
+    31.87658
+],
+  "geometry": {"coordinates":[34.92046,31.87658],"type":"Point"}
+}

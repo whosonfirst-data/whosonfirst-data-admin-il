@@ -1,0 +1,101 @@
+{
+  "id": 890428687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.8732,32.05971,34.8732,32.05971",
+    "geom:latitude":32.05971,
+    "geom:longitude":34.8732,
+    "gn:country":"IL",
+    "gn:fcode":"PPL",
+    "gn:pop":12213,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5e0c\u671b\u82b1\u5712"
+    ],
+    "name:cze_x_preferred":[
+        "Ganej Tikva"
+    ],
+    "name:dut_x_preferred":[
+        "Ganei Tikva"
+    ],
+    "name:eng_x_preferred":[
+        "Ganei Tikva"
+    ],
+    "name:eng_x_variant":[
+        "Gane Tikva"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05e0\u05d9 \u05ea\u05e7\u05d5\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05d2\u05e0\u05d9 \u05ea\u05d9\u05e7\u05d5\u05d5\u05d4",
+        "\u05d2\u05e0\u05d9 \u05ea\u05e7\u05d5\u05d5\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Ganei Tikva"
+    ],
+    "name:pol_x_preferred":[
+        "Ganei Tikva"
+    ],
+    "name:sco_x_preferred":[
+        "Ganei Tikva"
+    ],
+    "name:unk_x_variant":[
+        "Gann\u00e9 Tikva"
+    ],
+    "qs:name":"Gann\u00e9 Tiqwa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295089,
+        "gp:id":1968201,
+        "qs:id":547145,
+        "wd:id":"Q2920123"
+    },
+    "wof:country":"IL",
+    "wof:created":1469051765,
+    "wof:geomhash":"c4a562dd184bbac7ffd0b0e13b1640c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720821,
+            "locality_id":890428687,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":890428687,
+    "wof:lastmodified":1549930331,
+    "wof:name":"Gann\u00e9 Tiqwa",
+    "wof:parent_id":1108720821,
+    "wof:placetype":"locality",
+    "wof:population":12213,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.8732,
+    32.05971,
+    34.8732,
+    32.05971
+],
+  "geometry": {"coordinates":[34.8732,32.05971],"type":"Point"}
+}

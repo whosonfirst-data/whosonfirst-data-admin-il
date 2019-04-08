@@ -1,0 +1,123 @@
+{
+  "id": 1125771815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.03583,31.84876,35.03583,31.84876",
+    "geom:latitude":31.84876,
+    "geom:longitude":35.03583,
+    "gn:gn_country":"IL",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1771,
+    "gn:population":1771,
+    "iso:country":"IL",
+    "lbl:latitude":31.84876,
+    "lbl:longitude":35.03583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Mevo Choron"
+    ],
+    "name:dut_x_preferred":[
+        "Mevo Horon"
+    ],
+    "name:eng_x_preferred":[
+        "Mevo Horon"
+    ],
+    "name:fre_x_preferred":[
+        "Mevo Horon"
+    ],
+    "name:heb_x_colloquial":[
+        "\u05de\u05d1\u05d5\u05d0 \u05d7\u05d5\u05e8\u05d5\u05df"
+    ],
+    "name:heb_x_historical":[
+        "\u05de\u05d1\u05d5\u05d0 \u05d7\u05d5\u05e8\u05d5\u05df"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d1\u05d5\u05d0 \u05d7\u05d5\u05e8\u05d5\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Mevo Horon"
+    ],
+    "name:pol_x_preferred":[
+        "Mevo Choron"
+    ],
+    "name:swe_x_preferred":[
+        "Mevo horon"
+    ],
+    "qs_pg:aaroncc":"IL",
+    "qs_pg:gn_country":"IL",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":8199385,
+    "qs_pg:gn_pop":1771,
+    "qs_pg:name":"Mevo horon",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":759671,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8199385,
+        "qs_pg:id":759671,
+        "wd:id":"Q2708817"
+    },
+    "wof:country":"IL",
+    "wof:created":1497290091,
+    "wof:geomhash":"6f82c7c5f17f19fbb2e67668c6647b79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125771815,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1125771815,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1125771815,
+    "wof:lastmodified":1549929577,
+    "wof:name":"Mevo horon",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":1771,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.03583,
+    31.84876,
+    35.03583,
+    31.84876
+],
+  "geometry": {"coordinates":[35.03583,31.84876],"type":"Point"}
+}

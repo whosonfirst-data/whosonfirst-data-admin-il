@@ -1,0 +1,106 @@
+{
+  "id": 421177223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.91583,32.24018,34.91583,32.24018",
+    "geom:latitude":32.24018,
+    "geom:longitude":34.91583,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Moixav Herut"
+    ],
+    "name:ces_x_preferred":[
+        "Cherut"
+    ],
+    "name:cze_x_preferred":[
+        "Cherut"
+    ],
+    "name:eng_x_preferred":[
+        "Herut"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05e8\u05d5\u05ea"
+    ],
+    "name:heb_x_variant":[
+        "H\u0331erut"
+    ],
+    "name:nno_x_preferred":[
+        "Herut i Israel"
+    ],
+    "name:pol_x_preferred":[
+        "Herut"
+    ],
+    "name:spa_x_preferred":[
+        "Moshav Herut"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294781,
+    "qs:gn_pop":0,
+    "qs:name":"Herut",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":120,
+    "qs:photos_1k":24,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":120,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":408712,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967457,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":91,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294781,
+        "gp:id":1967457,
+        "qs:id":408712,
+        "wd:id":"Q2920470",
+        "wk:page":"Herut, Israel"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009137,
+    "wof:geomhash":"a6729c725ae1542531a50759b7abf46b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":421177223,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421177223,
+    "wof:lastmodified":1549930330,
+    "wof:name":"Herut",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.91583,
+    32.24018,
+    34.91583,
+    32.24018
+],
+  "geometry": {"coordinates":[34.91583,32.24018],"type":"Point"}
+}

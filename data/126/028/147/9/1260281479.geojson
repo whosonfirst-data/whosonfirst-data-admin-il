@@ -1,0 +1,68 @@
+{
+  "id": 1260281479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.87902,31.74058,34.87902,31.74058",
+    "geom:latitude":31.74058,
+    "geom:longitude":34.87902,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Gefen",
+    "gn:country_code":"IL",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295059,
+    "gn:latitude":31.74058,
+    "gn:longitude":34.87902,
+    "gn:modification_date":"2010-05-13",
+    "gn:name":"Gefen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295059,
+        "wk:page":"Gefen"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"09557289732a7e7b84e5c14f172906b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":1260281479,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":1260281479,
+    "wof:lastmodified":1549930415,
+    "wof:name":"Gefen",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.87902,
+    31.74058,
+    34.87902,
+    31.74058
+],
+  "geometry": {"coordinates":[34.87902,31.74058],"type":"Point"}
+}

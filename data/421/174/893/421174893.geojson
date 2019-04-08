@@ -1,0 +1,246 @@
+{
+  "id": 421174893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.49632,32.49728,35.49632,32.49728",
+    "geom:latitude":32.49728,
+    "geom:longitude":35.49632,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:als_x_preferred":[
+        "Bet Sche'an"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0633\u0627\u0646"
+    ],
+    "name:arm_x_preferred":[
+        "\u0532\u0565\u0575\u0569-\u0547\u0565\u0561\u0576"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u0439\u0442 \u0428\u0435\u0430\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Bet-Xean"
+    ],
+    "name:ces_x_preferred":[
+        "Bejt \u0160e'an"
+    ],
+    "name:chi_x_preferred":[
+        "\u8c9d\u7279\u8b1d\u5b89"
+    ],
+    "name:cze_x_preferred":[
+        "Bejt \u0160e'an"
+    ],
+    "name:deu_x_preferred":[
+        "Bet Sche\u2019an"
+    ],
+    "name:dut_x_preferred":[
+        "Beet She'an"
+    ],
+    "name:eng_x_colloquial":[
+        "Beth Shean"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Shean"
+    ],
+    "name:eng_x_variant":[
+        "Beth Shan",
+        "Besan",
+        "Bet She'an",
+        "Bet She\u2019an",
+        "Beth Shean",
+        "Bet Shean",
+        "Beit She'an"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062a\u200c\u0634\u0626\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Beit She'an"
+    ],
+    "name:fra_x_preferred":[
+        "Be\u00eft Sh\u00e9an"
+    ],
+    "name:fra_x_variant":[
+        "Be\u00eft-Sh\u00e9an"
+    ],
+    "name:fre_x_preferred":[
+        "Be\u00eft Sh\u00e9an"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10d4\u10d7-\u10e8\u10d4\u10d0\u10dc\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Bet Sche\u2019an"
+    ],
+    "name:gsw_x_preferred":[
+        "Bet Sche'an"
+    ],
+    "name:hbs_x_preferred":[
+        "Beit \u0160e'an"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05e9\u05d0\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e9t-Se\u00e1n"
+    ],
+    "name:ind_x_preferred":[
+        "Beit She'an"
+    ],
+    "name:ita_x_preferred":[
+        "Beit She'an"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30c8\u30fb\u30b7\u30a7\u30a2\u30f3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10d7-\u10e8\u10d4\u10d0\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\ud2b8\uc170\uc548"
+    ],
+    "name:lit_x_preferred":[
+        "Beit \u0160eanas"
+    ],
+    "name:nld_x_preferred":[
+        "Beet She'an"
+    ],
+    "name:nno_x_preferred":[
+        "Beit She'an"
+    ],
+    "name:nob_x_preferred":[
+        "Bet-Sjean"
+    ],
+    "name:nor_x_preferred":[
+        "Bet-Sjean"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u062a \u0634\u0646\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Bet Sze\u2019an"
+    ],
+    "name:por_x_preferred":[
+        "Bete-Se\u00e3"
+    ],
+    "name:ron_x_preferred":[
+        "Beit \u0218e'an"
+    ],
+    "name:rum_x_preferred":[
+        "Beit \u0218e'an"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0439\u0442-\u0428\u0435\u0430\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Beit She'an"
+    ],
+    "name:spa_x_preferred":[
+        "Beit She'an"
+    ],
+    "name:swe_x_preferred":[
+        "Bet She'an"
+    ],
+    "name:tgl_x_preferred":[
+        "Beit She'an"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1a\u0e15\u0e0a\u0e34\u0e2d\u0e31\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Bet \u015eean"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0439\u0442-\u0428\u0435\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Scythopolis"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0633\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Beit She'an"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05e9\u05d0\u05df"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u7279\u8b1d\u5b89"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295435,
+    "qs:gn_pop":16800,
+    "qs:name":"Bet She'an",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":1797,
+    "qs:photos_1k":364,
+    "qs:photos_9k":8,
+    "qs:photos_9r":8,
+    "qs:photos_all":1797,
+    "qs:photos_sr":14,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":906480,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1968164,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":32.496111,
+    "wd:longitude":35.498889,
+    "wd:wordcount":5523,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295435,
+        "gp:id":1968164,
+        "qs:id":906480,
+        "wd:id":"Q152368",
+        "wk:page":"Beit She'an"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009047,
+    "wof:geomhash":"7e8491bf9c9eb1212e09aa50d6140eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":421174893,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421174893,
+    "wof:lastmodified":1549930327,
+    "wof:name":"Bet She'an",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:population":16800,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.49632,
+    32.49728,
+    35.49632,
+    32.49728
+],
+  "geometry": {"coordinates":[35.49632,32.49728],"type":"Point"}
+}

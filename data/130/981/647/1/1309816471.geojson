@@ -1,0 +1,78 @@
+{
+  "id": 1309816471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.87213,31.98133,34.87213,31.98133",
+    "geom:latitude":31.98133,
+    "geom:longitude":34.87213,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ahi`ezer",
+    "gn:country_code":"IL",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295730,
+    "gn:latitude":31.98133,
+    "gn:longitude":34.87213,
+    "gn:modification_date":"2018-04-18",
+    "gn:name":"A\u1e96i\u2018ezer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d0\u05d7\u05d9\u05e2\u05d6\u05e8"
+    ],
+    "name:und_x_variant":[
+        "Lydda C",
+        "Lydda Gimel",
+        "Lod Gimel",
+        "Lod C",
+        "A\u1e96i\u2018ezer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295730,
+        "wk:page":"Ahi%27ezer"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"eb5c8d8a124eeae165ea31832cd37776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720815,
+            "locality_id":1309816471,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1309816471,
+    "wof:lastmodified":1549930349,
+    "wof:name":"Ahi`ezer",
+    "wof:parent_id":1108720815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.87213,
+    31.98133,
+    34.87213,
+    31.98133
+],
+  "geometry": {"coordinates":[34.87213,31.98133],"type":"Point"}
+}

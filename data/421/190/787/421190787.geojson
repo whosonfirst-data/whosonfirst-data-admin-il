@@ -1,0 +1,110 @@
+{
+  "id": 421190787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.591926,32.708227,35.591926,32.708227",
+    "geom:latitude":32.708227,
+    "geom:longitude":35.591926,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0643\u062a\u0633\u064a\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "Bayt Kats\u012br"
+    ],
+    "name:ces_x_preferred":[
+        "Tel Kacir"
+    ],
+    "name:cze_x_preferred":[
+        "Tel Kacir"
+    ],
+    "name:dut_x_preferred":[
+        "Tel Katzir"
+    ],
+    "name:eng_x_preferred":[
+        "Tel Katzir"
+    ],
+    "name:fra_x_preferred":[
+        "Tel-Qatzir"
+    ],
+    "name:fre_x_preferred":[
+        "Tel-Qatzir"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05dc \u05e7\u05e6\u05d9\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Tel Katzir"
+    ],
+    "name:pol_x_preferred":[
+        "Tel Katzir"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Tel Qazir",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":367,
+    "qs:photos_1k":74,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":367,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1121045,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":22528341,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":246,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22528341,
+        "qs:id":1121045,
+        "wd:id":"Q2916661"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009669,
+    "wof:geomhash":"086eba0980bc1644762e5f63b1fa4c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720803,
+            "locality_id":421190787,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421190787,
+    "wof:lastmodified":1549930371,
+    "wof:name":"Tel Qazir",
+    "wof:parent_id":1108720803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.591926,
+    32.708227,
+    35.591926,
+    32.708227
+],
+  "geometry": {"coordinates":[35.591926,32.708227],"type":"Point"}
+}

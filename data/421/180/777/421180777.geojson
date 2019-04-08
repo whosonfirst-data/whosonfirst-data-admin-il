@@ -1,0 +1,106 @@
+{
+  "id": 421180777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.82322,32.20254,34.82322,32.20254",
+    "geom:latitude":32.20254,
+    "geom:longitude":34.82322,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Ri\u0161pon"
+    ],
+    "name:cze_x_preferred":[
+        "Ri\u0161pon"
+    ],
+    "name:dut_x_preferred":[
+        "Rishpon"
+    ],
+    "name:eng_x_preferred":[
+        "Rishpon"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05e9\u05e4\u05d5\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Rishpon"
+    ],
+    "name:pol_x_preferred":[
+        "Rishpon"
+    ],
+    "name:spa_x_preferred":[
+        "Rishpon"
+    ],
+    "name:swe_x_preferred":[
+        "Rishpon"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293701,
+    "qs:gn_pop":0,
+    "qs:name":"Rishpon",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":142,
+    "qs:photos_1k":29,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":142,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":460377,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967907,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293701,
+        "gp:id":1967907,
+        "qs:id":460377,
+        "wd:id":"Q2916585",
+        "wk:page":"Rishpon"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009271,
+    "wof:geomhash":"07232c01636bf9e3535f85be902a1b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":421180777,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421180777,
+    "wof:lastmodified":1549930339,
+    "wof:name":"Rishpon",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.82322,
+    32.20254,
+    34.82322,
+    32.20254
+],
+  "geometry": {"coordinates":[34.82322,32.20254],"type":"Point"}
+}

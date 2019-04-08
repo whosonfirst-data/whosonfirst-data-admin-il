@@ -1,0 +1,115 @@
+{
+  "id": 421204637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.38152,32.96464,35.38152,32.96464",
+    "geom:latitude":32.96464,
+    "geom:longitude":35.38152,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u062c\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Bet Jan"
+    ],
+    "name:ces_x_preferred":[
+        "Bejt D\u017ean"
+    ],
+    "name:deu_x_preferred":[
+        "Beit Jann"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05d2'\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05d9\u05ea \u05d2\u2019\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Jann"
+    ],
+    "name:pol_x_preferred":[
+        "Bet D\u017can"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0439\u0442-\u0414\u0436\u0430\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Beit Jann"
+    ],
+    "name:unk_x_variant":[
+        "Bayt Jann"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295523,
+    "qs:gn_pop":10002,
+    "qs:name":"Beit Jann",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":242927,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967151,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":1336,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295523,
+        "gp:id":1967151,
+        "qs:id":242927,
+        "wd:id":"Q814900",
+        "wk:page":"Beit Jann"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010193,
+    "wof:geomhash":"888cca8b99d39a9a2a8e7153a539f81e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":421204637,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421204637,
+    "wof:lastmodified":1549930405,
+    "wof:name":"Beit Jann",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:population":10002,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.38152,
+    32.96464,
+    35.38152,
+    32.96464
+],
+  "geometry": {"coordinates":[35.38152,32.96464],"type":"Point"}
+}

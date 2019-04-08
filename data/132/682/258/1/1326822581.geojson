@@ -1,0 +1,75 @@
+{
+  "id": 1326822581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.95548,31.83117,34.95548,31.83117",
+    "geom:latitude":31.83117,
+    "geom:longitude":34.95548,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Nahshon",
+    "gn:country_code":"IL",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294111,
+    "gn:latitude":31.83117,
+    "gn:longitude":34.95548,
+    "gn:modification_date":"2018-04-17",
+    "gn:name":"Na\u1e96shon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e0\u05d7\u05e9\u05d5\u05df"
+    ],
+    "name:und_x_variant":[
+        "Nahashon",
+        "Na\u1e96shon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294111,
+        "wk:page":"Nahshon,_Israel"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"81e8750111ee1b84874eb8e95caae63a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":1326822581,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":1326822581,
+    "wof:lastmodified":1549930464,
+    "wof:name":"Nahshon",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.95548,
+    31.83117,
+    34.95548,
+    31.83117
+],
+  "geometry": {"coordinates":[34.95548,31.83117],"type":"Point"}
+}

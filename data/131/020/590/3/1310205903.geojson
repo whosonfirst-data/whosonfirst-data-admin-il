@@ -1,0 +1,74 @@
+{
+  "id": 1310205903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.008,32.63781,35.008,32.63781",
+    "geom:latitude":32.63781,
+    "geom:longitude":35.008,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Maqura",
+    "gn:country_code":"IL",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294344,
+    "gn:latitude":32.63781,
+    "gn:longitude":35.008,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"M\u0101q\u016bra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05de\u05e7\u05d5\u05e8\u05d4"
+    ],
+    "name:und_x_variant":[
+        "Makura",
+        "M\u0101q\u016bra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294344
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"d38519f3f7e1e74fe8c529f5d22256ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":1310205903,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1310205903,
+    "wof:lastmodified":1549930341,
+    "wof:name":"Maqura",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.008,
+    32.63780999999999,
+    35.008,
+    32.63780999999999
+],
+  "geometry": {"coordinates":[35.008,32.63780999999999],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260084125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.55401,31.44784,34.55401,31.44784",
+    "geom:latitude":31.44784,
+    "geom:longitude":34.55401,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zimrat",
+    "gn:country_code":"IL",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293066,
+    "gn:latitude":31.44784,
+    "gn:longitude":34.55401,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Zimrat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d6\u05de\u05e8\u05ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293066,
+        "wk:page":"Zimrat"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"6e34e71ffb65878ab225bdae5036840e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1260084125,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1260084125,
+    "wof:lastmodified":1549930342,
+    "wof:name":"Zimrat",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.55401,
+    31.44784000000001,
+    34.55401,
+    31.44784000000001
+],
+  "geometry": {"coordinates":[34.55401,31.44784000000001],"type":"Point"}
+}

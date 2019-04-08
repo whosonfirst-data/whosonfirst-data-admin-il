@@ -1,0 +1,82 @@
+{
+  "id": 1327449125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.50079,31.46126,34.50079,31.46126",
+    "geom:latitude":31.46126,
+    "geom:longitude":34.50079,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Be'erot Yizhaq",
+    "gn:country_code":"IL",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":295532,
+    "gn:latitude":31.46126,
+    "gn:longitude":34.50079,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Be\u2019erot Yi\u1e95\u1e96aq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05e8\u05d5\u05ea \u05d9\u05e6\u05d7\u05e7"
+    ],
+    "name:heb_x_variant":[
+        "Be\u2019erot Yits\u1e96ak"
+    ],
+    "name:und_x_variant":[
+        "Beerot Yitshak",
+        "Beerot Yitshaq",
+        "Beerot Yitzhak",
+        "B\u2019eyrot Yish",
+        "Be\u2019erot Yi\u1e95\u1e96aq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672531,
+        102191569,
+        85632315,
+        136253049,
+        1108720841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295532
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"8412453688051a2745384a16679d9926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720841,
+            "empire_id":136253049,
+            "locality_id":1327449125,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1327449125,
+    "wof:lastmodified":1537636864,
+    "wof:name":"Be'erot Yizhaq",
+    "wof:parent_id":1108720841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.50079,
+    31.46126,
+    34.50079,
+    31.46126
+],
+  "geometry": {"coordinates":[34.50079,31.46126],"type":"Point"}
+}

@@ -1,0 +1,110 @@
+{
+  "id": 421203895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.57716,33.02224,35.57716,33.02224",
+    "geom:latitude":33.02224,
+    "geom:longitude":35.57716,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Ajelet ha-\u0160achar"
+    ],
+    "name:cze_x_preferred":[
+        "Ajelet ha-\u0160achar"
+    ],
+    "name:eng_x_preferred":[
+        "Ayelet HaShahar"
+    ],
+    "name:fra_x_preferred":[
+        "Ayelet-Hashahar"
+    ],
+    "name:fre_x_preferred":[
+        "Ayelet-Hashahar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d9\u05dc\u05ea \u05d4\u05e9\u05d7\u05e8"
+    ],
+    "name:heb_x_variant":[
+        "Ayyelet HaSha\u1e96ar",
+        "\u05d0\u05d9\u05dc\u05ea \u05d4\u05e9\u05d7\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Ayelet HaShahar"
+    ],
+    "name:pol_x_preferred":[
+        "Ajjelet ha-Szachar"
+    ],
+    "name:unk_x_variant":[
+        "Aiyelet Hasha\u1e25ar"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295587,
+    "qs:gn_pop":0,
+    "qs:name":"Ayyelet HaShahar",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":332,
+    "qs:photos_1k":67,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":332,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":235481,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967122,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":257,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295587,
+        "gp:id":1967122,
+        "qs:id":235481,
+        "wd:id":"Q567912",
+        "wk:page":"Ayelet HaShahar"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010167,
+    "wof:geomhash":"f5d60c72bb9d3e65da89e7549cd7b0fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720839,
+            "locality_id":421203895,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421203895,
+    "wof:lastmodified":1549930407,
+    "wof:name":"Ayyelet HaShahar",
+    "wof:parent_id":1108720839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.57716,
+    33.02224,
+    35.57716,
+    33.02224
+],
+  "geometry": {"coordinates":[35.57716,33.02224],"type":"Point"}
+}

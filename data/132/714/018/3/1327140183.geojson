@@ -1,0 +1,73 @@
+{
+  "id": 1327140183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.93608,32.63428,34.93608,32.63428",
+    "geom:latitude":32.63428,
+    "geom:longitude":34.93608,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kafr Lam",
+    "gn:country_code":"IL",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":294609,
+    "gn:latitude":32.63428,
+    "gn:longitude":34.93608,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kafr L\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Kafr L\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672535,
+        102191569,
+        85632315,
+        136253049,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294609,
+        "wk:page":"Kafr_Lam"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"e71bc852146ae906aa9fa9d547c8c47c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "empire_id":136253049,
+            "locality_id":1327140183,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1327140183,
+    "wof:lastmodified":1537636839,
+    "wof:name":"Kafr Lam",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.93608,
+    32.63428,
+    34.93608,
+    32.63428
+],
+  "geometry": {"coordinates":[34.93608,32.63428],"type":"Point"}
+}

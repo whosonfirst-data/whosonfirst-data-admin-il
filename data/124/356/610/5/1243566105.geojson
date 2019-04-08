@@ -1,0 +1,80 @@
+{
+  "id": 1243566105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.56566,32.70501,35.56566,32.70501",
+    "geom:latitude":32.70501,
+    "geom:longitude":35.56566,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bitanya",
+    "gn:country_code":"IL",
+    "gn:dem":-201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295399,
+    "gn:latitude":32.70501,
+    "gn:longitude":35.56566,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Bitanya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea\u05e0\u05d9\u05d4"
+    ],
+    "name:und_x_variant":[
+        "Bitanyah",
+        "Betanya",
+        "Bitaniyah",
+        "Beithan\u012by\u0101",
+        "Bitaniya",
+        "Bethanyah",
+        "Beitany\u0101",
+        "Bitanya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295399
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"5549faa586a5684b483959b512e23300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720825,
+            "locality_id":1243566105,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1243566105,
+    "wof:lastmodified":1549930491,
+    "wof:name":"Bitanya",
+    "wof:parent_id":1108720825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.56566,
+    32.70500999999999,
+    35.56566,
+    32.70500999999999
+],
+  "geometry": {"coordinates":[35.56566,32.70500999999999],"type":"Point"}
+}

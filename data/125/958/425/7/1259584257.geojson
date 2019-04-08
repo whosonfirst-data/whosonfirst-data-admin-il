@@ -1,0 +1,79 @@
+{
+  "id": 1259584257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.01561,32.4498,35.01561,32.4498",
+    "geom:latitude":32.4498,
+    "geom:longitude":35.01561,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sha`ar Menashe",
+    "gn:country_code":"IL",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293579,
+    "gn:latitude":32.4498,
+    "gn:longitude":35.01561,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sha\u2018ar Menashe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Sha\u2018ar Menashe"
+    ],
+    "name:heb_x_variant":[
+        "\u05e9\u05e2\u05e8 \u05de\u05e0\u05e9\u05d4",
+        "Sha\u2019ar Menashe"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e96ane En Shemer",
+        "Sha\u2018ar Menashe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293579,
+        "wk:page":"Sha%27ar_Menashe"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"726b835daeed705c6a8485f6b2d2c4d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":1259584257,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1259584257,
+    "wof:lastmodified":1549930425,
+    "wof:name":"Sha`ar Menashe",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.01561,
+    32.4498,
+    35.01561,
+    32.4498
+],
+  "geometry": {"coordinates":[35.01561,32.4498],"type":"Point"}
+}

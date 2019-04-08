@@ -1,0 +1,73 @@
+{
+  "id": 1293489289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.55622,33.09475,35.55622,33.09475",
+    "geom:latitude":33.09475,
+    "geom:longitude":35.55622,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qeren",
+    "gn:country_code":"IL",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309511,
+    "gn:latitude":33.09475,
+    "gn:longitude":35.55622,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Qeren",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05df"
+    ],
+    "name:und_x_variant":[
+        "Keren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309511
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"e58b2b730b92f712ac6a58edfc8d45c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720839,
+            "locality_id":1293489289,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1293489289,
+    "wof:lastmodified":1549930466,
+    "wof:name":"Qeren",
+    "wof:parent_id":1108720839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.55622,
+    33.09475,
+    35.55622,
+    33.09475
+],
+  "geometry": {"coordinates":[35.55622,33.09475],"type":"Point"}
+}

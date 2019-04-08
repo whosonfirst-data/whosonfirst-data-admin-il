@@ -1,0 +1,78 @@
+{
+  "id": 1310017611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.23747,32.56331,35.23747,32.56331",
+    "geom:latitude":32.56331,
+    "geom:longitude":35.23747,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mele'a",
+    "gn:country_code":"IL",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294279,
+    "gn:latitude":32.56331,
+    "gn:longitude":35.23747,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mele\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Mele\u2019a"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05dc\u05d0\u05d4"
+    ],
+    "name:und_x_variant":[
+        "M\u2019lia",
+        "Mele\u2019a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294279,
+        "wk:page":"Mle%27a"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"0fd469d66717309059d48f8cfa832ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":1310017611,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1310017611,
+    "wof:lastmodified":1549930349,
+    "wof:name":"Mele'a",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23747,
+    32.56330999999999,
+    35.23747,
+    32.56330999999999
+],
+  "geometry": {"coordinates":[35.23747,32.56330999999999],"type":"Point"}
+}

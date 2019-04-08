@@ -1,0 +1,76 @@
+{
+  "id": 1226639269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.91235,31.69772,34.91235,31.69772",
+    "geom:latitude":31.69772,
+    "geom:longitude":34.91235,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"`Agur",
+    "gn:country_code":"IL",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295733,
+    "gn:latitude":31.69772,
+    "gn:longitude":34.91235,
+    "gn:modification_date":"2018-04-17",
+    "gn:name":"\u2018Agur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e2\u05d2\u05d5\u05e8"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ajj\u016br",
+        "\u2018Agur",
+        "Agur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295733,
+        "wk:page":"Agur,_Israel"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"60194919ca5c7b3f9619ca0fc0daa5b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":1226639269,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":1226639269,
+    "wof:lastmodified":1549930491,
+    "wof:name":"`Agur",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.91235,
+    31.69772,
+    34.91235,
+    31.69772
+],
+  "geometry": {"coordinates":[34.91235,31.69772],"type":"Point"}
+}

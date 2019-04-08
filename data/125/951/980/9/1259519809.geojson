@@ -1,0 +1,81 @@
+{
+  "id": 1259519809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.14316,31.65977,35.14316,31.65977",
+    "geom:latitude":31.65977,
+    "geom:longitude":35.14316,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El'azar",
+    "gn:country_code":"IL",
+    "gn:dem":899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":283989,
+    "gn:latitude":31.65977,
+    "gn:longitude":35.14316,
+    "gn:modification_date":"2017-12-04",
+    "gn:name":"El\u2018azar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091912933,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":283989
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"b9993a67e355fb09f06dc632191f6018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1259519809,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091912933,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":1259519809,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":1259519809,
+    "wof:lastmodified":1549929715,
+    "wof:name":"El'azar",
+    "wof:parent_id":1091912933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.14315999999999,
+    31.65977,
+    35.14315999999999,
+    31.65977
+],
+  "geometry": {"coordinates":[35.14315999999999,31.65977],"type":"Point"}
+}

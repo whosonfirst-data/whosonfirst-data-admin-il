@@ -1,0 +1,78 @@
+{
+  "id": 1276756885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.94705,31.77643,34.94705,31.77643",
+    "geom:latitude":31.77643,
+    "geom:longitude":34.94705,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Deir Rafat",
+    "gn:country_code":"IL",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":295338,
+    "gn:latitude":31.77643,
+    "gn:longitude":34.94705,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Deir R\u0101f\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:heb_x_preferred":[
+        "\u05d3\u05d9\u05e8 \u05e8\u05e4\u05ea"
+    ],
+    "name:und_x_variant":[
+        "Rafat",
+        "Dayr Rafat",
+        "Deir R\u0101f\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672551,
+        102191569,
+        85632315,
+        136253049,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295338,
+        "wk:page":"Deir_Rafat"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"cbb85f121df074a239f4ec5088fb1079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "empire_id":136253049,
+            "locality_id":1276756885,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":1276756885,
+    "wof:lastmodified":1537636856,
+    "wof:name":"Deir Rafat",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.94705,
+    31.77643,
+    34.94705,
+    31.77643
+],
+  "geometry": {"coordinates":[34.94705,31.77643],"type":"Point"}
+}

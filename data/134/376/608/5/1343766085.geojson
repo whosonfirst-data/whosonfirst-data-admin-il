@@ -1,0 +1,77 @@
+{
+  "id": 1343766085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.67768,31.45077,34.67768,31.45077",
+    "geom:latitude":31.45077,
+    "geom:longitude":34.67768,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Qelahim",
+    "gn:country_code":"IL",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293868,
+    "gn:latitude":31.45077,
+    "gn:longitude":34.67768,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Qela\u1e96im",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e7\u05dc\u05d7\u05d9\u05dd"
+    ],
+    "name:heb_x_variant":[
+        "Kela\u1e96im"
+    ],
+    "name:und_x_variant":[
+        "Shoval Mizra\u1e96i 4",
+        "Qela\u1e96im"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293868
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"6e35a0506bc144f41e75ec83e1616cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1343766085,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1343766085,
+    "wof:lastmodified":1549930446,
+    "wof:name":"Qelahim",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.67768,
+    31.45077,
+    34.67768,
+    31.45077
+],
+  "geometry": {"coordinates":[34.67768,31.45077],"type":"Point"}
+}

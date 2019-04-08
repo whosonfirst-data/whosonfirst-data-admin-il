@@ -1,0 +1,81 @@
+{
+  "id": 1209626947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.46872,33.03833,35.46872,33.03833",
+    "geom:latitude":33.03833,
+    "geom:longitude":35.46872,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kerem Ben Zimra",
+    "gn:country_code":"IL",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294483,
+    "gn:latitude":33.03833,
+    "gn:longitude":35.46872,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kerem Ben Zimra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05db\u05e8\u05dd \u05d1\u05df \u05d6\u05de\u05e8\u05d4"
+    ],
+    "name:und_x_variant":[
+        "Ras al Ahmar",
+        "El Ras el Ahmar",
+        "Rosh Haadom",
+        "Karm Iben Zamra",
+        "Ras el Ahmar",
+        "Harosh Ha\u2019adom",
+        "Hahar Haadom",
+        "Kerem Ben Zimra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294483,
+        "wk:page":"Kerem_Ben_Zimra"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"c830a300ac6d88fd5818cf8f8ea45238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720839,
+            "locality_id":1209626947,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1209626947,
+    "wof:lastmodified":1549930498,
+    "wof:name":"Kerem Ben Zimra",
+    "wof:parent_id":1108720839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.46872000000001,
+    33.03833,
+    35.46872000000001,
+    33.03833
+],
+  "geometry": {"coordinates":[35.46872000000001,33.03833],"type":"Point"}
+}

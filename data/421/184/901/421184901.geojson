@@ -1,0 +1,103 @@
+{
+  "id": 421184901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.5105,32.89231,35.5105,32.89231",
+    "geom:latitude":32.89231,
+    "geom:longitude":35.5105,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u062d\u0644"
+    ],
+    "name:ces_x_preferred":[
+        "Kachal"
+    ],
+    "name:cze_x_preferred":[
+        "Kachal"
+    ],
+    "name:eng_x_preferred":[
+        "Kahal"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05d7\u05dc"
+    ],
+    "name:heb_x_variant":[
+        "Ka\u1e96al"
+    ],
+    "name:nno_x_preferred":[
+        "Kahal"
+    ],
+    "name:pol_x_preferred":[
+        "Kachal"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":8140375,
+    "qs:gn_pop":0,
+    "qs:name":"Kahal",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1014367,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":22528334,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":86,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140375,
+        "gp:id":22528334,
+        "qs:id":1014367,
+        "wd:id":"Q2890717",
+        "wk:page":"Kahal"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009426,
+    "wof:geomhash":"42d764aeaa31672379f0ef68294cef39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720839,
+            "locality_id":421184901,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421184901,
+    "wof:lastmodified":1549930358,
+    "wof:name":"Kahal",
+    "wof:parent_id":1108720839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.5105,
+    32.89231,
+    35.5105,
+    32.89231
+],
+  "geometry": {"coordinates":[35.5105,32.89231],"type":"Point"}
+}

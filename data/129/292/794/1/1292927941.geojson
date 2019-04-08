@@ -1,0 +1,77 @@
+{
+  "id": 1292927941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.92579,31.82902,34.92579,31.82902",
+    "geom:latitude":31.82902,
+    "geom:longitude":34.92579,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Beqoa`",
+    "gn:country_code":"IL",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295501,
+    "gn:latitude":31.82902,
+    "gn:longitude":34.92579,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Beqoa\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Beqoa\u2018"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05e7\u05d5\u05e2"
+    ],
+    "name:und_x_variant":[
+        "Bekoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295501,
+        "wk:page":"Beko%27a"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"652c6e2f03ba873f1f13cb610c9596db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":1292927941,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":1292927941,
+    "wof:lastmodified":1549930376,
+    "wof:name":"Beqoa`",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.92579,
+    31.82902,
+    34.92579,
+    31.82902
+],
+  "geometry": {"coordinates":[34.92579,31.82902],"type":"Point"}
+}

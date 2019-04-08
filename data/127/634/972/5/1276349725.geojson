@@ -1,0 +1,78 @@
+{
+  "id": 1276349725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.64487,31.43807,34.64487,31.43807",
+    "geom:latitude":31.43807,
+    "geom:longitude":34.64487,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Talme Bilu",
+    "gn:country_code":"IL",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293438,
+    "gn:latitude":31.43807,
+    "gn:longitude":34.64487,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Talm\u00e9 Bilu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Talm\u00e9 Bilu"
+    ],
+    "name:heb_x_variant":[
+        "\u05ea\u05dc\u05de\u05d9 \u05d1\u05d9\u05dc\u05d5"
+    ],
+    "name:und_x_variant":[
+        "Talmei Bilu",
+        "Shoval 8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293438,
+        "wk:page":"Talmei_Bilu"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"fc46edd290065174fbeec602e2fc2550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1276349725,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1276349725,
+    "wof:lastmodified":1549930442,
+    "wof:name":"Talme Bilu",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.64487,
+    31.43807,
+    34.64487,
+    31.43807
+],
+  "geometry": {"coordinates":[34.64487,31.43807],"type":"Point"}
+}

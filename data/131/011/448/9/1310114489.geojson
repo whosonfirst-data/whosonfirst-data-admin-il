@@ -1,0 +1,80 @@
+{
+  "id": 1310114489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.02818,32.36265,35.02818,32.36265",
+    "geom:latitude":32.36265,
+    "geom:longitude":35.02818,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bir es Sikka",
+    "gn:country_code":"IL",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295403,
+    "gn:latitude":32.36265,
+    "gn:longitude":35.02818,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u012br es Sikka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "B\u012br es Sikka"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05d9\u05e8 \u05d0 \u05e1\u05db\u05d4"
+    ],
+    "name:und_x_variant":[
+        "Khirbet Bir es Sikka",
+        "B\u012br as-Sikke",
+        "Bir as-Sikkah",
+        "B\u012br es Sikke",
+        "B\u012br es Sikka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295403
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"d47324e9395418adc079a374443c432c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":1310114489,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1310114489,
+    "wof:lastmodified":1549930337,
+    "wof:name":"Bir es Sikka",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.02818,
+    32.36265,
+    35.02818,
+    32.36265
+],
+  "geometry": {"coordinates":[35.02818,32.36265],"type":"Point"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 421199245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.87349,32.273,34.87349,32.273",
+    "geom:latitude":32.273,
+    "geom:longitude":34.87349,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Kfar Netter"
+    ],
+    "name:cze_x_preferred":[
+        "Kfar Netter"
+    ],
+    "name:eng_x_preferred":[
+        "Kfar Netter"
+    ],
+    "name:fra_x_preferred":[
+        "Kfar-Netter"
+    ],
+    "name:fre_x_preferred":[
+        "Kfar-Netter"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05e0\u05d8\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Kfar Netter"
+    ],
+    "name:pol_x_preferred":[
+        "Kfar Netter"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0444\u0430\u0440-\u041d\u0435\u0442\u0442\u0435\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Kefar Neter"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294521,
+    "qs:gn_pop":0,
+    "qs:name":"Kefar Netter",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":60,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":60,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":460343,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967558,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":110,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294521,
+        "gp:id":1967558,
+        "qs:id":460343,
+        "wd:id":"Q2915737"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009983,
+    "wof:geomhash":"6d3bb22acf4657f1cc942860640f33a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":421199245,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421199245,
+    "wof:lastmodified":1549930391,
+    "wof:name":"Kefar Netter",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.87349,
+    32.273,
+    34.87349,
+    32.273
+],
+  "geometry": {"coordinates":[34.87349,32.273],"type":"Point"}
+}

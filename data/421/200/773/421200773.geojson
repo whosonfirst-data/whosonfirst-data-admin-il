@@ -1,0 +1,135 @@
+{
+  "id": 421200773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.10055,31.80362,35.10055,31.80362",
+    "geom:latitude":31.80362,
+    "geom:longitude":35.10055,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Quiriat-Jearim"
+    ],
+    "name:ces_x_preferred":[
+        "Kirjat Je'arim"
+    ],
+    "name:cze_x_preferred":[
+        "Kirjat Je'arim"
+    ],
+    "name:dut_x_preferred":[
+        "Kiryat Ye'arim"
+    ],
+    "name:eng_x_preferred":[
+        "Kiryat Ye'arim"
+    ],
+    "name:fra_x_preferred":[
+        "Kiryat-Y\u00e9arim"
+    ],
+    "name:fre_x_preferred":[
+        "Kiryat-Y\u00e9arim"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d9\u05d9\u05ea \u05d9\u05e2\u05e8\u05d9\u05dd"
+    ],
+    "name:heb_x_variant":[
+        "\u05e7\u05e8\u05d9\u05ea \u05d9\u05e2\u05e8\u05d9\u05dd",
+        "Kiryat Ye\u2019arim",
+        "Qiryat Ye\u2018arim Mosad",
+        "Kefar HaNo\u2018ar Qiryat Ye\u2018arim",
+        "\u05e7\u05e8\u05d9\u05ea \u05d9\u05e2\u05e8\u05d9\u05dd-\u05de\u05d5\u05e1\u05d3",
+        "\u05db\u05e4\u05e8 \u05d4\u05e0\u05d5\u05e2\u05e8 \u05e7\u05e8\u05d9\u05ea \u05d9\u05e2\u05e8\u05d9\u05dd"
+    ],
+    "name:nno_x_preferred":[
+        "Kiryat Ye'arim"
+    ],
+    "name:pol_x_preferred":[
+        "Kirjat Je\u2019arim"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u044c\u044f\u0442-\u0419\u0435\u0430\u0440\u0438\u043c"
+    ],
+    "name:sco_x_preferred":[
+        "Kiryat Ye'arim"
+    ],
+    "name:spa_x_preferred":[
+        "Quiriat-Jearim"
+    ],
+    "name:swe_x_preferred":[
+        "Qiryat Ye\u2018arim"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0440'\u044f\u0442-\u0404\u0430\u0440\u0456\u043c"
+    ],
+    "name:unk_x_variant":[
+        "Kiryat-Yearim"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":293821,
+    "qs:gn_pop":0,
+    "qs:name":"Qiryat Yearim",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Jerusalem",
+    "qs:photos":259,
+    "qs:photos_1k":52,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":259,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":894383,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967858,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":421,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293821,
+        "gp:id":1967858,
+        "qs:id":894383,
+        "wd:id":"Q2366487",
+        "wk:page":"Kiryat Ye'arim"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010041,
+    "wof:geomhash":"317722d1f4110cf1296c538b08b196bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421200773,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":421200773,
+    "wof:lastmodified":1549930398,
+    "wof:name":"Qiryat Yearim",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.10055,
+    31.80362,
+    35.10055,
+    31.80362
+],
+  "geometry": {"coordinates":[35.10055,31.80362],"type":"Point"}
+}

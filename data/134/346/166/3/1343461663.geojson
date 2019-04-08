@@ -1,0 +1,79 @@
+{
+  "id": 1343461663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.79961,31.87864,34.79961,31.87864",
+    "geom:latitude":31.87864,
+    "geom:longitude":34.79961,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gan Shelomo",
+    "gn:country_code":"IL",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295084,
+    "gn:latitude":31.87864,
+    "gn:longitude":34.79961,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Gan Shelomo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d2\u05df \u05e9\u05dc\u05de\u05d4"
+    ],
+    "name:und_x_variant":[
+        "Gan Shelom",
+        "Gan Shelomoh",
+        "Kvutsat Shiller",
+        "Kvutsat Schiller",
+        "Gan Shlomoh",
+        "Gan Shelomo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295084,
+        "wk:page":"Kvutzat_Shiller"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"fe7c0483304a8b3b67a93de659778158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720813,
+            "locality_id":1343461663,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1343461663,
+    "wof:lastmodified":1549930381,
+    "wof:name":"Gan Shelomo",
+    "wof:parent_id":1108720813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.79960999999999,
+    31.87864,
+    34.79960999999999,
+    31.87864
+],
+  "geometry": {"coordinates":[34.79960999999999,31.87864],"type":"Point"}
+}

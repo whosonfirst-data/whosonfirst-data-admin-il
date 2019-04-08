@@ -1,0 +1,78 @@
+{
+  "id": 1226460259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.6714,31.737,34.6714,31.737",
+    "geom:latitude":31.737,
+    "geom:longitude":34.6714,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Ezer",
+    "gn:country_code":"IL",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8072917,
+    "gn:latitude":31.737,
+    "gn:longitude":34.6714,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"\u2018\u00c9zer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u2018\u00c9zer"
+    ],
+    "name:heb_x_variant":[
+        "\u05e2\u05d6\u05e8",
+        "\u00c9zer"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8072917,
+        "wk:page":"Ezer"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"24d94df6e7e037e5b2516eee303c3d38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720841,
+            "locality_id":1226460259,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1226460259,
+    "wof:lastmodified":1549930475,
+    "wof:name":"`Ezer",
+    "wof:parent_id":1108720841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.6714,
+    31.737,
+    34.6714,
+    31.737
+],
+  "geometry": {"coordinates":[34.6714,31.737],"type":"Point"}
+}

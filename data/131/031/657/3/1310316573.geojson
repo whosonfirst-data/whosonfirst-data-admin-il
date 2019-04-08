@@ -1,0 +1,77 @@
+{
+  "id": 1310316573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.35749,32.54149,35.35749,32.54149",
+    "geom:latitude":32.54149,
+    "geom:longitude":35.35749,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Nurit",
+    "gn:country_code":"IL",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":293997,
+    "gn:latitude":32.54149,
+    "gn:longitude":35.35749,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Nurit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05e8\u05d9\u05ea"
+    ],
+    "name:und_x_variant":[
+        "Nuris",
+        "Nurit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672545,
+        102191569,
+        85632315,
+        136253049,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293997,
+        "wk:page":"Nurit"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"ce6080710e0afbb2ffccbcc7ec13027b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "empire_id":136253049,
+            "locality_id":1310316573,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1310316573,
+    "wof:lastmodified":1537636821,
+    "wof:name":"Nurit",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.35749000000001,
+    32.54149,
+    35.35749000000001,
+    32.54149
+],
+  "geometry": {"coordinates":[35.35749000000001,32.54149],"type":"Point"}
+}

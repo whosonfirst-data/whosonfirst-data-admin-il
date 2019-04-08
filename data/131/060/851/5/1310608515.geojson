@@ -1,0 +1,76 @@
+{
+  "id": 1310608515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.48141,32.47152,35.48141,32.47152",
+    "geom:latitude":32.47152,
+    "geom:longitude":35.48141,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sheluhot",
+    "gn:country_code":"IL",
+    "gn:dem":-117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293519,
+    "gn:latitude":32.47152,
+    "gn:longitude":35.48141,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Shelu\u1e96ot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e9\u05dc\u05d5\u05d7\u05d5\u05ea"
+    ],
+    "name:und_x_variant":[
+        "Shluhot",
+        "Shelu\u1e96ot",
+        "Sheluhot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293519,
+        "wk:page":"Shluhot"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"cd39f52dce75d917b39135d3b3f3ef11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":1310608515,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1310608515,
+    "wof:lastmodified":1549930452,
+    "wof:name":"Sheluhot",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.48141,
+    32.47152,
+    35.48141,
+    32.47152
+],
+  "geometry": {"coordinates":[35.48141,32.47152],"type":"Point"}
+}

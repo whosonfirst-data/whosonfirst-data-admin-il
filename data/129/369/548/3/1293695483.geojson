@@ -1,0 +1,71 @@
+{
+  "id": 1293695483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.81573,32.21324,34.81573,32.21324",
+    "geom:latitude":32.21324,
+    "geom:longitude":34.81573,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Arsuf",
+    "gn:country_code":"IL",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309973,
+    "gn:latitude":32.21324,
+    "gn:longitude":34.81573,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Arsuf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05e1\u05d5\u05e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309973,
+        "wk:page":"Arsuf%2C_Hof_HaSharon"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"a212a20d87f8ecdd84b2323c074c9912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":1293695483,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1293695483,
+    "wof:lastmodified":1549930489,
+    "wof:name":"Arsuf",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.81573,
+    32.21324,
+    34.81573,
+    32.21324
+],
+  "geometry": {"coordinates":[34.81573,32.21324],"type":"Point"}
+}

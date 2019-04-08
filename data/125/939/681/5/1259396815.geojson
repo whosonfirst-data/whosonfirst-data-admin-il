@@ -1,0 +1,76 @@
+{
+  "id": 1259396815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.7688,31.74328,34.7688,31.74328",
+    "geom:latitude":31.74328,
+    "geom:longitude":34.7688,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ahawa",
+    "gn:country_code":"IL",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8072922,
+    "gn:latitude":31.74328,
+    "gn:longitude":34.7688,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"A\u1e96awa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "A\u1e96awa"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05d7\u05d5\u05d4",
+        "A\u1e96ava",
+        "A\u1e96va"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8072922,
+        "wk:page":"Ahva%2C_Israel"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"3e624342755343bef8c6e46bbaac2c96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720841,
+            "locality_id":1259396815,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1259396815,
+    "wof:lastmodified":1549930351,
+    "wof:name":"Ahawa",
+    "wof:parent_id":1108720841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.7688,
+    31.74328,
+    34.7688,
+    31.74328
+],
+  "geometry": {"coordinates":[34.7688,31.74328],"type":"Point"}
+}

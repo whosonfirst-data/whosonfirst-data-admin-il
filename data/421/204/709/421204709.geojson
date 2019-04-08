@@ -1,0 +1,103 @@
+{
+  "id": 421204709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.93012,32.35285,34.93012,32.35285",
+    "geom:latitude":32.35285,
+    "geom:longitude":34.93012,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Bejt ha-Levi"
+    ],
+    "name:cze_x_preferred":[
+        "Bejt ha-Levi"
+    ],
+    "name:dut_x_preferred":[
+        "Beit HaLevi"
+    ],
+    "name:eng_x_preferred":[
+        "Beit HaLevi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05d4\u05dc\u05d5\u05d9"
+    ],
+    "name:nno_x_preferred":[
+        "Beit HaLevi"
+    ],
+    "name:pol_x_preferred":[
+        "Beit HaLevi"
+    ],
+    "name:unk_x_variant":[
+        "Beit Halevi"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295461,
+    "qs:gn_pop":0,
+    "qs:name":"Bet HaLewi",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":179,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":245241,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967181,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":65,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295461,
+        "gp:id":1967181,
+        "qs:id":245241,
+        "wd:id":"Q2920110",
+        "wk:page":"Beit HaLevi"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010195,
+    "wof:geomhash":"46ca3806a95811843c6c24db633f2c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":421204709,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421204709,
+    "wof:lastmodified":1549930406,
+    "wof:name":"Bet HaLewi",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.93012,
+    32.35285,
+    34.93012,
+    32.35285
+],
+  "geometry": {"coordinates":[34.93012,32.35285],"type":"Point"}
+}

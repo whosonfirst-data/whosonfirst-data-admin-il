@@ -1,0 +1,88 @@
+{
+  "id": 421189609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.56301,32.7138,35.56301,32.7138",
+    "geom:latitude":32.7138,
+    "geom:longitude":35.56301,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:heb_x_preferred":[
+        "\u05db\u05e0\u05e8\u05ea"
+    ],
+    "name:heb_x_variant":[
+        "Qevu\u1e95a",
+        "\u05e7\u05d1\u05d5\u05e6\u05d4"
+    ],
+    "name:unk_x_variant":[
+        "Kineret"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294462,
+    "qs:gn_pop":0,
+    "qs:name":"Kinneret Qevuza",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":642,
+    "qs:photos_1k":130,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":642,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1114908,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967592,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294462,
+        "gp:id":1967592,
+        "qs:id":1114908,
+        "wd:id":"Q2296107",
+        "wk:page":"Kvutzat Kinneret"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009630,
+    "wof:geomhash":"e445881e0ca85ff879a8ad0bb04412a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720825,
+            "locality_id":421189609,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421189609,
+    "wof:lastmodified":1549930370,
+    "wof:name":"Kinneret Qevuza",
+    "wof:parent_id":1108720825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.56301,
+    32.7138,
+    35.56301,
+    32.7138
+],
+  "geometry": {"coordinates":[35.56301,32.7138],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259383733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.9391,32.67101,34.9391,32.67101",
+    "geom:latitude":32.67101,
+    "geom:longitude":34.9391,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sheikh Bureik",
+    "gn:country_code":"IL",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295158,
+    "gn:latitude":32.67101,
+    "gn:longitude":34.9391,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Sheikh Bureik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e9\u05d9\u05d7\u2019 \u05d1\u05e8\u05d9\u05da"
+    ],
+    "name:und_x_variant":[
+        "Esh Sheikh Bureik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295158
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"0852345aaf8ba909dff82cf8052ba72e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":1259383733,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1259383733,
+    "wof:lastmodified":1549930340,
+    "wof:name":"Sheikh Bureik",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.9391,
+    32.67101,
+    34.9391,
+    32.67101
+],
+  "geometry": {"coordinates":[34.9391,32.67101],"type":"Point"}
+}

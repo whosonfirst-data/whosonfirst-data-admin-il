@@ -1,0 +1,78 @@
+{
+  "id": 1259475879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.15776,31.79357,35.15776,31.79357",
+    "geom:latitude":31.79357,
+    "geom:longitude":35.15776,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Moza `Illit",
+    "gn:country_code":"IL",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294147,
+    "gn:latitude":31.79357,
+    "gn:longitude":35.15776,
+    "gn:modification_date":"2018-04-17",
+    "gn:name":"Mo\u1e95a \u2018Illit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e6\u05d0 \u05e2\u05dc\u05d9\u05ea"
+    ],
+    "name:und_x_variant":[
+        "Motsa \u2018Ilit",
+        "Motsa \u2018Illit",
+        "Upper Motsa",
+        "Mo\u1e95a \u2018Illit",
+        "Motsa Illit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294147,
+        "wk:page":"Motza_Illit"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"3aa14f4f55fe114d20d89a2dfbc35b3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":1259475879,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":1259475879,
+    "wof:lastmodified":1549930341,
+    "wof:name":"Moza `Illit",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.15776,
+    31.79357000000001,
+    35.15776,
+    31.79357000000001
+],
+  "geometry": {"coordinates":[35.15776,31.79357000000001],"type":"Point"}
+}

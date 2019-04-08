@@ -1,0 +1,75 @@
+{
+  "id": 421204249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.672551,31.239664,34.672551,31.239664",
+    "geom:latitude":31.239664,
+    "geom:longitude":34.672551,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Mahane Yafa",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Southern",
+    "qs:photos":24,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":24,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1187403,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":22722775,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22722775,
+        "qs:id":1187403
+    },
+    "wof:country":"IL",
+    "wof:created":1459010178,
+    "wof:geomhash":"fd2a19cf2f6409c7cb040b50994ebe9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":421204249,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":421204249,
+    "wof:lastmodified":1549930404,
+    "wof:name":"Mahane Yafa",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.672551,
+    31.239664,
+    34.672551,
+    31.239664
+],
+  "geometry": {"coordinates":[34.672551,31.239664],"type":"Point"}
+}

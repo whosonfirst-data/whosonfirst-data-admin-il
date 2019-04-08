@@ -1,0 +1,106 @@
+{
+  "id": 85903125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.876072,32.083305,34.876072,32.083305",
+    "geom:latitude":32.083305,
+    "geom:longitude":34.876072,
+    "iso:country":"IL",
+    "lbl:latitude":32.083305,
+    "lbl:longitude":34.876072,
+    "mps:latitude":32.101496,
+    "mps:longitude":34.895317,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Qiryat Arye"
+    ],
+    "name:eng_x_variant":[
+        "Kiriat Arieh"
+    ],
+    "name:unk_x_variant":[
+        "Qiryat Arye"
+    ],
+    "qs:gn_adm0_cc":"IL",
+    "qs:gn_id":0,
+    "qs:gn_local":6693674,
+    "qs:gn_nam_loc":"Petah Tikva, Central, IL",
+    "qs:gn_namadm1":"02",
+    "qs:id":0,
+    "qs:local_max":1647,
+    "qs:local_sum":1647,
+    "qs:localhoods":1,
+    "qs:name":"Qiryat Arye",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:name_local":"Petah Tikva",
+    "qs:photo_max":234,
+    "qs:photo_sum":1647,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":106,
+    "qs:woe_adm0":23424852,
+    "qs:woe_adm1":2345792,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1968201,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421202049,
+        1108720821,
+        85672541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1967837
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"cc8308cae77150fa701b427fb13886e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720821,
+            "locality_id":421202049,
+            "neighbourhood_id":85903125,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":85903125,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549930539,
+    "wof:name":"Qiryat Arye",
+    "wof:parent_id":421202049,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.876072,
+    32.083305,
+    34.876072,
+    32.083305
+],
+  "geometry": {"coordinates":[34.876072,32.083305],"type":"Point"}
+}

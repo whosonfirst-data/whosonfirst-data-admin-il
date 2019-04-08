@@ -1,0 +1,115 @@
+{
+  "id": 421177207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.86007,31.24864,34.86007,31.24864",
+    "geom:latitude":31.24864,
+    "geom:longitude":34.86007,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0644\u0633\u0628\u0639"
+    ],
+    "name:cat_x_preferred":[
+        "Tel Xeva"
+    ],
+    "name:cze_x_preferred":[
+        "Tel \u0160eva"
+    ],
+    "name:dut_x_preferred":[
+        "Tel as-Sabi"
+    ],
+    "name:eng_x_preferred":[
+        "Tel as-Sabi"
+    ],
+    "name:ger_x_preferred":[
+        "Tel Scheva"
+    ],
+    "name:heb_x_preferred":[
+        "Tel Sheva\u2018"
+    ],
+    "name:heb_x_variant":[
+        "\u05ea\u05dc \u05e9\u05d1\u05e2",
+        "Tel es Sab\u2018",
+        "\u05ea\u05dc \u05d0 \u05e1\u05d1\u05e2"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30eb\u30fb\u30b7\u30a7\u30d0"
+    ],
+    "name:nno_x_preferred":[
+        "Tel as-Sabi"
+    ],
+    "name:pol_x_preferred":[
+        "Tel Szeva"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043b\u044c-\u0428\u0435\u0432\u0430"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":8310136,
+    "qs:gn_pop":0,
+    "qs:name":"Tel Sheva",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Southern",
+    "qs:photos":62,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":62,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1337326,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":22528380,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8310136,
+        "gp:id":22528380,
+        "qs:id":1337326,
+        "wd:id":"Q2298534"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009136,
+    "wof:geomhash":"e2f6205a2076690b7167c0125791ff10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":421177207,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":421177207,
+    "wof:lastmodified":1549930330,
+    "wof:name":"Tel Sheva",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.86007,
+    31.24864,
+    34.86007,
+    31.24864
+],
+  "geometry": {"coordinates":[34.86007,31.24864],"type":"Point"}
+}

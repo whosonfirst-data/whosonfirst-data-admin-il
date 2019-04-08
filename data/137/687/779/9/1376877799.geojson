@@ -1,0 +1,79 @@
+{
+  "id": 1376877799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.823226,32.122999,34.823226,32.122999",
+    "geom:latitude":32.122999,
+    "geom:longitude":34.823226,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Ne'ot Afeka Bet",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Tel Aviv",
+    "qs:photos":70,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":70,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":43496,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":22725165,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        1125955239,
+        1108720837,
+        85672549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22725165,
+        "qs:id":43496
+    },
+    "wof:country":"IL",
+    "wof:created":1459009171,
+    "wof:geomhash":"ca1cf27424ecd48deb1963879257447b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720837,
+            "locality_id":1125955239,
+            "neighbourhood_id":1376877799,
+            "region_id":85672549
+        }
+    ],
+    "wof:id":1376877799,
+    "wof:lastmodified":1549930737,
+    "wof:name":"Ne'ot Afeka Bet",
+    "wof:parent_id":1125955239,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421178127
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.823226,
+    32.122999,
+    34.823226,
+    32.122999
+],
+  "geometry": {"coordinates":[34.823226,32.122999],"type":"Point"}
+}

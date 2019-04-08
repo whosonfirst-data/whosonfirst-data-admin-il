@@ -1,0 +1,130 @@
+{
+  "id": 421180501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.75,31.78333,34.75,31.78333",
+    "geom:latitude":31.78333,
+    "geom:longitude":34.75,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Bnej Aji\u0161"
+    ],
+    "name:cze_x_preferred":[
+        "Bnej Aji\u0161"
+    ],
+    "name:deu_x_preferred":[
+        "Bnei Aisch"
+    ],
+    "name:dut_x_preferred":[
+        "Bnei Ayish"
+    ],
+    "name:eng_x_preferred":[
+        "Bnei Ayish"
+    ],
+    "name:fra_x_preferred":[
+        "Bnei Ayish"
+    ],
+    "name:fre_x_preferred":[
+        "Bnei Ayish"
+    ],
+    "name:ger_x_preferred":[
+        "Bnei Aisch"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e0\u05d9 \u05e2\u05d9\"\u05e9"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05e0\u05d9 \u05e2\u05d9\u05d9\u05e9",
+        "\u05d1\u05e0\u05d9 \u05e2\u05d9\u05e9"
+    ],
+    "name:lav_x_preferred":[
+        "Bnei Ai\u0161a"
+    ],
+    "name:nno_x_preferred":[
+        "Bnei Ayish"
+    ],
+    "name:pol_x_preferred":[
+        "Bnei Ajisz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043d\u0435\u0439-\u0410\u0438\u0448"
+    ],
+    "name:sco_x_preferred":[
+        "Bnei Aish"
+    ],
+    "name:unk_x_variant":[
+        "Na\u1e96al Soreq"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295515,
+    "qs:gn_pop":7763,
+    "qs:name":"Bene Ayish",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Southern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":433565,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967159,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":169,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295515,
+        "gp:id":1967159,
+        "qs:id":433565,
+        "wd:id":"Q2915758"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009261,
+    "wof:geomhash":"170079eb1653d29fc28d54b9ff8e004f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720841,
+            "locality_id":421180501,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":421180501,
+    "wof:lastmodified":1549930339,
+    "wof:name":"Bene Ayish",
+    "wof:parent_id":1108720841,
+    "wof:placetype":"locality",
+    "wof:population":7763,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.75,
+    31.78333,
+    34.75,
+    31.78333
+],
+  "geometry": {"coordinates":[34.75,31.78333],"type":"Point"}
+}

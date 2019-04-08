@@ -1,0 +1,115 @@
+{
+  "id": 421176131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.17364,33.08746,35.17364,33.08746",
+    "geom:latitude":33.08746,
+    "geom:longitude":35.17364,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Chanita"
+    ],
+    "name:cze_x_preferred":[
+        "Chanita"
+    ],
+    "name:dut_x_preferred":[
+        "Hanita"
+    ],
+    "name:eng_x_preferred":[
+        "Hanita"
+    ],
+    "name:fra_x_preferred":[
+        "Hanita"
+    ],
+    "name:fre_x_preferred":[
+        "Hanita"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05e0\u05d9\u05ea\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "H\u0331anita"
+    ],
+    "name:nno_x_preferred":[
+        "Hanita"
+    ],
+    "name:pol_x_preferred":[
+        "Hanita"
+    ],
+    "name:swe_x_preferred":[
+        "H\u0331anita"
+    ],
+    "name:unk_x_variant":[
+        "Han\u016bta"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294884,
+    "qs:gn_pop":0,
+    "qs:name":"Hanita",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":31,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":31,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1044620,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967428,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":468,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294884,
+        "gp:id":1967428,
+        "qs:id":1044620,
+        "wd:id":"Q2890402",
+        "wk:page":"Hanita"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009096,
+    "wof:geomhash":"003c3677a6381e65486fc4e45e60ba4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":421176131,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421176131,
+    "wof:lastmodified":1549930305,
+    "wof:name":"Hanita",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.17364,
+    33.08746,
+    35.17364,
+    33.08746
+],
+  "geometry": {"coordinates":[35.17364,33.08746],"type":"Point"}
+}

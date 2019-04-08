@@ -1,0 +1,70 @@
+{
+  "id": 1343472961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.06044,31.34727,35.06044,31.34727",
+    "geom:latitude":31.34727,
+    "geom:longitude":35.06044,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lev Yattir",
+    "gn:country_code":"IL",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8540960,
+    "gn:latitude":31.34727,
+    "gn:longitude":35.06044,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Lev Yattir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05dc\u05d1 \u05d9\u05ea\u05d9\u05e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8540960
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"03c4b7065b6e76859181651df2e652de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1343472961,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1343472961,
+    "wof:lastmodified":1549930397,
+    "wof:name":"Lev Yattir",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.06044,
+    31.34727,
+    35.06044,
+    31.34727
+],
+  "geometry": {"coordinates":[35.06044,31.34727],"type":"Point"}
+}

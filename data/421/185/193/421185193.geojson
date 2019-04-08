@@ -1,0 +1,103 @@
+{
+  "id": 421185193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.80368,31.84429,34.80368,31.84429",
+    "geom:latitude":31.84429,
+    "geom:longitude":34.80368,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Bejt El'azari"
+    ],
+    "name:cze_x_preferred":[
+        "Bejt El'azari"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Elazari"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05d0\u05dc\u05e2\u05d6\u05e8\u05d9"
+    ],
+    "name:heb_x_variant":[
+        "Bet El\u2018azari",
+        "Bet El\u2019azari"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Elazari"
+    ],
+    "name:pol_x_preferred":[
+        "Beit Elazari"
+    ],
+    "name:unk_x_variant":[
+        "Beit El\u2018azari"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295473,
+    "qs:gn_pop":0,
+    "qs:name":"Bet Elazari",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":886349,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967173,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":178,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295473,
+        "gp:id":1967173,
+        "qs:id":886349,
+        "wd:id":"Q2776841"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009435,
+    "wof:geomhash":"91ec7ddeb85747eb34da5b9f0f066382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720813,
+            "locality_id":421185193,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421185193,
+    "wof:lastmodified":1549930358,
+    "wof:name":"Bet Elazari",
+    "wof:parent_id":1108720813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.80368,
+    31.84429,
+    34.80368,
+    31.84429
+],
+  "geometry": {"coordinates":[34.80368,31.84429],"type":"Point"}
+}

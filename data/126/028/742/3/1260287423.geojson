@@ -1,0 +1,72 @@
+{
+  "id": 1260287423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.91667,32.0,34.91667,32.0",
+    "geom:latitude":32.0,
+    "geom:longitude":34.91667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mahane Yisra'el",
+    "gn:country_code":"IL",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294383,
+    "gn:latitude":32.0,
+    "gn:longitude":34.91667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ma\u1e96ane Yisra\u2019el",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahaneh Yisrael",
+        "Mahne Israel",
+        "Ma\u1e96ane Yisra\u2019el"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294383
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"23454c80b378a0822edfed633db84f99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720815,
+            "locality_id":1260287423,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1260287423,
+    "wof:lastmodified":1549930419,
+    "wof:name":"Mahane Yisra'el",
+    "wof:parent_id":1108720815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.91667,
+    32.0,
+    34.91667,
+    32.0
+],
+  "geometry": {"coordinates":[34.91667,32.0],"type":"Point"}
+}

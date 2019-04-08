@@ -1,0 +1,71 @@
+{
+  "id": 1226450195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.24997,32.96701,35.24997,32.96701",
+    "geom:latitude":32.96701,
+    "geom:longitude":35.24997,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Gitta",
+    "gn:country_code":"IL",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8066327,
+    "gn:latitude":32.96701,
+    "gn:longitude":35.24997,
+    "gn:modification_date":"2018-04-16",
+    "gn:name":"Gitta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d2\u05ea\u05d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066327,
+        "wk:page":"Gita,_Israel"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"cb711dc132ea0d8cf93e5c896f7cb73d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":1226450195,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1226450195,
+    "wof:lastmodified":1549930475,
+    "wof:name":"Gitta",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24997000000001,
+    32.96700999999999,
+    35.24997000000001,
+    32.96700999999999
+],
+  "geometry": {"coordinates":[35.24997000000001,32.96700999999999],"type":"Point"}
+}

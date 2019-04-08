@@ -1,0 +1,207 @@
+{
+  "id": 421192657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.79868,31.92933,34.79868,31.92933",
+    "geom:latitude":31.92933,
+    "geom:longitude":34.79868,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0633 \u0632\u064a\u0648\u0646\u0627"
+    ],
+    "name:arm_x_preferred":[
+        "\u0546\u0565\u057d \u0551\u056b\u0578\u0576\u0561"
+    ],
+    "name:cat_x_preferred":[
+        "Ness Tsiona"
+    ],
+    "name:ces_x_preferred":[
+        "Nes Cijona"
+    ],
+    "name:chi_x_preferred":[
+        "\u8010\u65af\u8328\u5967\u7d0d"
+    ],
+    "name:cze_x_preferred":[
+        "Nes Cijona"
+    ],
+    "name:deu_x_preferred":[
+        "Nes Ziona"
+    ],
+    "name:dut_x_preferred":[
+        "Ness Ziona"
+    ],
+    "name:eng_x_preferred":[
+        "Ness Ziona"
+    ],
+    "name:eng_x_variant":[
+        "Nes Ziona"
+    ],
+    "name:epo_x_preferred":[
+        "Nes Ciona"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0633 \u0632\u06cc\u0648\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Ness Ziona"
+    ],
+    "name:fre_x_preferred":[
+        "Ness Ziona"
+    ],
+    "name:ger_x_preferred":[
+        "Nes Ziona"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05e1 \u05e6\u05d9\u05d5\u05e0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Ness Ziona"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0565\u057d \u0551\u056b\u0578\u0576\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Ness Ziona"
+    ],
+    "name:ita_x_preferred":[
+        "Ness Ziona"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cd\u30b9\u30b8\u30aa\u30ca"
+    ],
+    "name:kor_x_preferred":[
+        "\ub124\uc2a4\uce58\uc624\ub098"
+    ],
+    "name:nld_x_preferred":[
+        "Ness Ziona"
+    ],
+    "name:nno_x_preferred":[
+        "Ness Ziona"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u0633 \u0632\u06cc\u0648\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Nes Cijjona"
+    ],
+    "name:por_x_preferred":[
+        "Ness Ziona"
+    ],
+    "name:ron_x_preferred":[
+        "Nes \u021aiona"
+    ],
+    "name:rum_x_preferred":[
+        "Nes \u021aiona"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0441-\u0426\u0438\u043e\u043d\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Ness Ziona"
+    ],
+    "name:slv_x_preferred":[
+        "Ness Ziona"
+    ],
+    "name:spa_x_preferred":[
+        "Ness Tziona"
+    ],
+    "name:swe_x_preferred":[
+        "Ness Ziona"
+    ],
+    "name:tgl_x_preferred":[
+        "Nes Tziyona"
+    ],
+    "name:tur_x_preferred":[
+        "Nes Ziona"
+    ],
+    "name:unk_x_variant":[
+        "W\u0101di Hunein"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u0633 \u0636\u06cc\u0648\u0646\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Ness Ziona"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e0\u05e1 \u05e6\u05d9\u05d5\u05e0\u05d4"
+    ],
+    "name:zho_x_preferred":[
+        "\u8010\u65af\u8328\u5967\u7d0d"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294074,
+    "qs:gn_pop":38700,
+    "qs:name":"Nes Ziyyona",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":362,
+    "qs:photos_1k":73,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":362,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1170485,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967746,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":31.933333,
+    "wd:longitude":34.8,
+    "wd:wordcount":1876,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294074,
+        "gp:id":1967746,
+        "qs:id":1170485,
+        "wd:id":"Q168162",
+        "wk:page":"Ness Ziona"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009744,
+    "wof:geomhash":"01c3b1fcaed1c7de7bb9c18dfd43708d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720813,
+            "locality_id":421192657,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421192657,
+    "wof:lastmodified":1549930377,
+    "wof:name":"Nes Ziyyona",
+    "wof:parent_id":1108720813,
+    "wof:placetype":"locality",
+    "wof:population":38700,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.79868,
+    31.92933,
+    34.79868,
+    31.92933
+],
+  "geometry": {"coordinates":[34.79868,31.92933],"type":"Point"}
+}

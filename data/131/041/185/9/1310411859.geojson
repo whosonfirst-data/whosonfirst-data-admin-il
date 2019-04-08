@@ -1,0 +1,71 @@
+{
+  "id": 1310411859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.98324,32.48718,34.98324,32.48718",
+    "geom:latitude":32.48718,
+    "geom:longitude":34.98324,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mishmarot",
+    "gn:country_code":"IL",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294178,
+    "gn:latitude":32.48718,
+    "gn:longitude":34.98324,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mishmarot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05de\u05e9\u05de\u05e8\u05d5\u05ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294178,
+        "wk:page":"Mishmarot"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"5f21a6d60e153b89892cb6f9cfe6d539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":1310411859,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1310411859,
+    "wof:lastmodified":1549930425,
+    "wof:name":"Mishmarot",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.98324,
+    32.48718,
+    34.98324,
+    32.48718
+],
+  "geometry": {"coordinates":[34.98324,32.48718],"type":"Point"}
+}

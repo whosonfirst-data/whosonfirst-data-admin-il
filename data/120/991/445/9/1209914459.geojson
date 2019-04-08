@@ -1,0 +1,88 @@
+{
+  "id": 1209914459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.04312,32.41806,35.04312,32.41806",
+    "geom:latitude":32.41806,
+    "geom:longitude":35.04312,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Baqa el Gharbiya",
+    "gn:country_code":"IL",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295571,
+    "gn:latitude":32.41806,
+    "gn:longitude":35.04312,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"B\u0101qa el Gharb\u012bya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "B\u0101qa el Gharbiyya"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05e7\u05d4 \u05d0\u05dc \u05e2\u2019\u05e8\u05d1\u05d9\u05d4",
+        "B\u0101qa el Gharb\u012bya"
+    ],
+    "name:und_x_variant":[
+        "Gharbiya",
+        "Baqa al-Gharbiyah",
+        "B\u0101qa Al-Gharbiyye",
+        "B\u0101qa el Gharbiya",
+        "B\u0101qa",
+        "Baqa el Garbiyya",
+        "Baka-el-Garbiya",
+        "Baq\u2019a el Gharbia",
+        "Baqa al Gharbiya",
+        "Baqa el Garbiyye",
+        "B\u0101qa el Gharbiyya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295571,
+        "wk:page":"Baqa_al-Gharbiyye"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"d5759c6dd8eb1e7951c7ee431f8bf101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":1209914459,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1209914459,
+    "wof:lastmodified":1549930496,
+    "wof:name":"Baqa el Gharbiya",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.04312,
+    32.41806,
+    35.04312,
+    32.41806
+],
+  "geometry": {"coordinates":[35.04312,32.41806],"type":"Point"}
+}

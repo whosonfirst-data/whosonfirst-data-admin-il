@@ -1,0 +1,106 @@
+{
+  "id": 421171843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.4,32.55833,35.4,32.55833",
+    "geom:latitude":32.55833,
+    "geom:longitude":35.4,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Tel Josef"
+    ],
+    "name:cze_x_preferred":[
+        "Tel Josef"
+    ],
+    "name:dut_x_preferred":[
+        "Tel Yosef"
+    ],
+    "name:eng_x_preferred":[
+        "Tel Yosef"
+    ],
+    "name:fra_x_preferred":[
+        "Tel-Yossef"
+    ],
+    "name:fre_x_preferred":[
+        "Tel-Yossef"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05dc \u05d9\u05d5\u05e1\u05e3"
+    ],
+    "name:nno_x_preferred":[
+        "Tel Yosef"
+    ],
+    "name:pol_x_preferred":[
+        "Tel Josef"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293334,
+    "qs:gn_pop":0,
+    "qs:name":"Tel Yosef",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":86,
+    "qs:photos_1k":17,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":86,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1269164,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1968026,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":209,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293334,
+        "gp:id":1968026,
+        "qs:id":1269164,
+        "wd:id":"Q2917286",
+        "wk:page":"Tel Yosef"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008909,
+    "wof:geomhash":"165f9c6dce336468737a3ae3d40d2d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":421171843,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421171843,
+    "wof:lastmodified":1549930328,
+    "wof:name":"Tel Yosef",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.4,
+    32.55833,
+    35.4,
+    32.55833
+],
+  "geometry": {"coordinates":[35.4,32.55833],"type":"Point"}
+}

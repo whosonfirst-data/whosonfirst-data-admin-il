@@ -1,0 +1,76 @@
+{
+  "id": 1209316553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.45742,32.95741,35.45742,32.95741",
+    "geom:latitude":32.95741,
+    "geom:longitude":35.45742,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kefar Shammay",
+    "gn:country_code":"IL",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294510,
+    "gn:latitude":32.95741,
+    "gn:longitude":35.45742,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kefar Shammay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05e9\u05de\u05d0\u05d9"
+    ],
+    "name:und_x_variant":[
+        "Sammu\u2018i",
+        "Kefar Shamai",
+        "Kefar Shammai",
+        "Kefar Shammay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294510
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"2d6662fcb8fa334429f43b4d86557043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720839,
+            "locality_id":1209316553,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1209316553,
+    "wof:lastmodified":1549930444,
+    "wof:name":"Kefar Shammay",
+    "wof:parent_id":1108720839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.45742,
+    32.95741,
+    35.45742,
+    32.95741
+],
+  "geometry": {"coordinates":[35.45742,32.95741],"type":"Point"}
+}

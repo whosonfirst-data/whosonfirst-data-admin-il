@@ -1,0 +1,72 @@
+{
+  "id": 1293591185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.61412,32.97052,35.61412,32.97052",
+    "geom:latitude":32.97052,
+    "geom:longitude":35.61412,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mantur",
+    "gn:country_code":"IL",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8137737,
+    "gn:latitude":32.97052,
+    "gn:longitude":35.61412,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Mantur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:heb_x_preferred":[
+        "\u05de\u05e0\u05ea\u05d5\u05e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672545,
+        102191569,
+        85632315,
+        136253049,
+        1108720839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8137737
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"e367414348cf5bc6e3690e15f1f993e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720839,
+            "empire_id":136253049,
+            "locality_id":1293591185,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1293591185,
+    "wof:lastmodified":1537636876,
+    "wof:name":"Mantur",
+    "wof:parent_id":1108720839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.61412,
+    32.97052,
+    35.61412,
+    32.97052
+],
+  "geometry": {"coordinates":[35.61412,32.97052],"type":"Point"}
+}

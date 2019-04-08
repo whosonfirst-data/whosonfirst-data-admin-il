@@ -1,0 +1,81 @@
+{
+  "id": 1277091813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.76316,31.7521,34.76316,31.7521",
+    "geom:latitude":31.7521,
+    "geom:longitude":34.76316,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Talme Yehi'el",
+    "gn:country_code":"IL",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293434,
+    "gn:latitude":31.7521,
+    "gn:longitude":34.76316,
+    "gn:modification_date":"2018-04-15",
+    "gn:name":"Talm\u00e9 Ye\u1e96i\u2019\u00e9l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Talm\u00e9 Ye\u1e96i\u2019\u00e9l"
+    ],
+    "name:heb_x_variant":[
+        "\u05ea\u05dc\u05de\u05d9 \u05d9\u05d7\u05d9\u05d0\u05dc"
+    ],
+    "name:und_x_variant":[
+        "Masmiya Bet",
+        "Masmiya B",
+        "Masmiyah Bet",
+        "Talme Ye\u1e96i\u2019el",
+        "\u05de\u05e1\u05de\u05d9\u05d4 \u05d1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293434,
+        "wk:page":"Talmei_Yehiel"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"0941a47606ef23dd0f999484e4fa728d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720841,
+            "locality_id":1277091813,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1277091813,
+    "wof:lastmodified":1549930480,
+    "wof:name":"Talme Yehi'el",
+    "wof:parent_id":1108720841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.76316,
+    31.7521,
+    34.76316,
+    31.7521
+],
+  "geometry": {"coordinates":[34.76316,31.7521],"type":"Point"}
+}

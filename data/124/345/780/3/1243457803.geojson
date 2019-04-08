@@ -1,0 +1,78 @@
+{
+  "id": 1243457803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.04677,32.36572,35.04677,32.36572",
+    "geom:latitude":32.36572,
+    "geom:longitude":35.04677,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ibthan",
+    "gn:country_code":"IL",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294662,
+    "gn:latitude":32.36572,
+    "gn:longitude":35.04677,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ibth\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Ibth\u0101n"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05d1\u05ea\u2019\u05df"
+    ],
+    "name:und_x_variant":[
+        "Ibtan",
+        "Khirbat Ibthan",
+        "Ibth\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294662
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"b2f151893770608e4590f9dae1c48212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":1243457803,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1243457803,
+    "wof:lastmodified":1549930477,
+    "wof:name":"Ibthan",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.04677,
+    32.36572,
+    35.04677,
+    32.36572
+],
+  "geometry": {"coordinates":[35.04677,32.36572],"type":"Point"}
+}

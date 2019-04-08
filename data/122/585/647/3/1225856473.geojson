@@ -1,0 +1,81 @@
+{
+  "id": 1225856473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.08331,32.98098,35.08331,32.98098",
+    "geom:latitude":32.98098,
+    "geom:longitude":35.08331,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Shave Ziyyon",
+    "gn:country_code":"IL",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293543,
+    "gn:latitude":32.98098,
+    "gn:longitude":35.08331,
+    "gn:modification_date":"2018-04-16",
+    "gn:name":"Shav\u00e9 \u1e94iyyon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Shav\u00e9 \u1e94iyyon"
+    ],
+    "name:heb_x_variant":[
+        "\u05e9\u05d1\u05d9 \u05e6\u05d9\u05d5\u05df"
+    ],
+    "name:und_x_variant":[
+        "Shave Zion",
+        "Shavei Zion",
+        "Shavei Tsiyon",
+        "Shave Tsiyon",
+        "Shave Tsiyyon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293543,
+        "wk:page":"Shavei_Tzion"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"a69e8f6dd349270130a3ba2daa9bff53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":1225856473,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1225856473,
+    "wof:lastmodified":1549930410,
+    "wof:name":"Shave Ziyyon",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.08331,
+    32.98098,
+    35.08331,
+    32.98098
+],
+  "geometry": {"coordinates":[35.08331,32.98098],"type":"Point"}
+}

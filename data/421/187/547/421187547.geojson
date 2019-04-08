@@ -1,0 +1,124 @@
+{
+  "id": 421187547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.91638,32.55549,34.91638,32.55549",
+    "geom:latitude":32.55549,
+    "geom:longitude":34.91638,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Ma'agan Micha'el"
+    ],
+    "name:cze_x_preferred":[
+        "Ma'agan Micha'el"
+    ],
+    "name:deu_x_preferred":[
+        "Ma\u2019agan Micha\u2019el"
+    ],
+    "name:dut_x_preferred":[
+        "Ma'agan Michael"
+    ],
+    "name:eng_x_preferred":[
+        "Ma'agan Michael"
+    ],
+    "name:ger_x_preferred":[
+        "Ma\u2019agan Micha\u2019el"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e2\u05d2\u05df \u05de\u05d9\u05db\u05d0\u05dc"
+    ],
+    "name:heb_x_variant":[
+        "Ma\u2018agan Mikha\u2019el"
+    ],
+    "name:nno_x_preferred":[
+        "Ma'agan Michael"
+    ],
+    "name:nob_x_preferred":[
+        "Ma'agan Michael"
+    ],
+    "name:nor_x_preferred":[
+        "Ma'agan Michael"
+    ],
+    "name:pol_x_preferred":[
+        "Ma\u2019agan Micha\u2019el"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0430\u0433\u0430\u043d-\u041c\u0438\u0445\u0430\u044d\u043b\u044c"
+    ],
+    "name:tur_x_preferred":[
+        "Ma'agan Michael"
+    ],
+    "name:unk_x_variant":[
+        "Hatsofim Alef"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294410,
+    "qs:gn_pop":0,
+    "qs:name":"Maagan Mikha'el",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Haifa",
+    "qs:photos":449,
+    "qs:photos_1k":91,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":449,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083640,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967606,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1326,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294410,
+        "gp:id":1967606,
+        "qs:id":1083640,
+        "wd:id":"Q1882183",
+        "wk:page":"Ma'agan Michael"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009516,
+    "wof:geomhash":"db2d42c8d2cb547cad096f5030f02ca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":421187547,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":421187547,
+    "wof:lastmodified":1549930363,
+    "wof:name":"Maagan Mikha'el",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.91638,
+    32.55549,
+    34.91638,
+    32.55549
+],
+  "geometry": {"coordinates":[34.91638,32.55549],"type":"Point"}
+}

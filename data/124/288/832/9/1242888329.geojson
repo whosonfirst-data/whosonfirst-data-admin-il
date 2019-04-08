@@ -1,0 +1,75 @@
+{
+  "id": 1242888329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.42042,31.23936,34.42042,31.23936",
+    "geom:latitude":31.23936,
+    "geom:longitude":34.42042,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zohar",
+    "gn:country_code":"IL",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8068393,
+    "gn:latitude":31.23936,
+    "gn:longitude":34.42042,
+    "gn:modification_date":"2018-04-15",
+    "gn:name":"\u1e94o\u1e96ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u1e94o\u1e96ar"
+    ],
+    "name:heb_x_variant":[
+        "\u05e6\u05d5\u05d7\u05e8",
+        "Tso\u1e96ar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8068393,
+        "wk:page":"Zohar,_Israel"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"6b25f1c2c85eac43fad47d21abcebec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1242888329,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1242888329,
+    "wof:lastmodified":1549930456,
+    "wof:name":"Zohar",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.42042,
+    31.23936,
+    34.42042,
+    31.23936
+],
+  "geometry": {"coordinates":[34.42042,31.23936],"type":"Point"}
+}

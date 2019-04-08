@@ -1,0 +1,106 @@
+{
+  "id": 421192471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66035,33.16587,35.66035,33.16587",
+    "geom:latitude":33.16587,
+    "geom:longitude":35.66035,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Xamir"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160amir"
+    ],
+    "name:cze_x_preferred":[
+        "\u0160amir"
+    ],
+    "name:dut_x_preferred":[
+        "Shamir"
+    ],
+    "name:eng_x_preferred":[
+        "Shamir"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05de\u05d9\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Shamir i Israel"
+    ],
+    "name:pol_x_preferred":[
+        "Szamir"
+    ],
+    "name:spa_x_preferred":[
+        "Kibutz Shamir"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293558,
+    "qs:gn_pop":0,
+    "qs:name":"Shamir",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":508,
+    "qs:photos_1k":103,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":508,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1168243,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967963,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":500,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293558,
+        "gp:id":1967963,
+        "qs:id":1168243,
+        "wd:id":"Q2889024",
+        "wk:page":"Shamir, Israel"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009738,
+    "wof:geomhash":"8cdce81f19fa1b66d796b6cd24e80992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720839,
+            "locality_id":421192471,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421192471,
+    "wof:lastmodified":1549930373,
+    "wof:name":"Shamir",
+    "wof:parent_id":1108720839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66035,
+    33.16587,
+    35.66035,
+    33.16587
+],
+  "geometry": {"coordinates":[35.66035,33.16587],"type":"Point"}
+}

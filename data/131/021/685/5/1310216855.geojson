@@ -1,0 +1,71 @@
+{
+  "id": 1310216855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.35882,32.88179,35.35882,32.88179",
+    "geom:latitude":32.88179,
+    "geom:longitude":35.35882,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Lotem",
+    "gn:country_code":"IL",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386251,
+    "gn:latitude":32.88179,
+    "gn:longitude":35.35882,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lotem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05dc\u05d8\u05dd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386251,
+        "wk:page":"Lotem"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"9c180660cf0be0d4b43ffcef7d690420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":1310216855,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1310216855,
+    "wof:lastmodified":1549930361,
+    "wof:name":"Lotem",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.35882,
+    32.88179,
+    35.35882,
+    32.88179
+],
+  "geometry": {"coordinates":[35.35882,32.88179],"type":"Point"}
+}

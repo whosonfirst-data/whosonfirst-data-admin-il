@@ -1,0 +1,73 @@
+{
+  "id": 1193019081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.85011,31.9932,34.85011,31.9932",
+    "geom:latitude":31.9932,
+    "geom:longitude":34.85011,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tohelet",
+    "gn:country_code":"IL",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293302,
+    "gn:latitude":31.9932,
+    "gn:longitude":34.85011,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"To\u1e96elet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "To\u1e96elet"
+    ],
+    "name:heb_x_variant":[
+        "\u05ea\u05d5\u05d7\u05dc\u05ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293302
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"8395219ab7fea45805487961e6a6f29c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720815,
+            "locality_id":1193019081,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1193019081,
+    "wof:lastmodified":1549930353,
+    "wof:name":"Tohelet",
+    "wof:parent_id":1108720815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.85011,
+    31.9932,
+    34.85011,
+    31.9932
+],
+  "geometry": {"coordinates":[34.85011,31.9932],"type":"Point"}
+}

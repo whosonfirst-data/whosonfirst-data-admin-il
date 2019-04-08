@@ -1,0 +1,77 @@
+{
+  "id": 1376877817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.96616,32.78631,34.96616,32.78631",
+    "geom:latitude":32.78631,
+    "geom:longitude":34.96616,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Hazrot Karmel",
+    "gn:country_code":"IL",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8266186,
+    "gn:latitude":32.78631,
+    "gn:longitude":34.96616,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"H\u0331a\u1e95rot Karmel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:heb_x_preferred":[
+        "H\u0331a\u1e95rot Karmel"
+    ],
+    "name:heb_x_variant":[
+        "\u05d7\u05e6\u05e8\u05d5\u05ea \u05db\u05e8\u05de\u05dc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168693,
+        1108720835,
+        85672535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8266186
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"44c599276b13f238a2e82725b97eb53e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720835,
+            "locality_id":421168693,
+            "neighbourhood_id":1376877817,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1376877817,
+    "wof:lastmodified":1549930745,
+    "wof:name":"Hazrot Karmel",
+    "wof:parent_id":421168693,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276980613
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.96616,
+    32.78631,
+    34.96616,
+    32.78631
+],
+  "geometry": {"coordinates":[34.96616,32.78631],"type":"Point"}
+}

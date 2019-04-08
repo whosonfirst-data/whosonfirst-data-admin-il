@@ -1,0 +1,77 @@
+{
+  "id": 1209207355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.97578,31.72486,34.97578,31.72486",
+    "geom:latitude":31.72486,
+    "geom:longitude":34.97578,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Beit Jimal",
+    "gn:country_code":"IL",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295522,
+    "gn:latitude":31.72486,
+    "gn:longitude":34.97578,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Beit Jim\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05d2\u2019\u05de\u05dc"
+    ],
+    "name:und_x_variant":[
+        "Beit Jemal",
+        "Beit-Jamal",
+        "Beit Gemal",
+        "Beit Jim\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295522,
+        "wk:page":"Beit_Jimal"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"a34edad24d8f40cc7b13ee3f2da86d8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":1209207355,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":1209207355,
+    "wof:lastmodified":1549930421,
+    "wof:name":"Beit Jimal",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.97578,
+    31.72486,
+    34.97578,
+    31.72486
+],
+  "geometry": {"coordinates":[34.97578,31.72486],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1360089129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.66904,31.62804,34.66904,31.62804",
+    "geom:latitude":31.62804,
+    "geom:longitude":34.66904,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kokhav Michael Sobell",
+    "gn:country_code":"IL",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294449,
+    "gn:latitude":31.62804,
+    "gn:longitude":34.66904,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Kokhav Michael Sobell",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Kokhav Mikha\u2019\u00e9l Sobell"
+    ],
+    "name:heb_x_variant":[
+        "\u05db\u05d5\u05db\u05d1 \u05de\u05d9\u05db\u05d0\u05dc \u05e9\u05d1\u05dc",
+        "Kokhav Mikha\u2018\u00e9l",
+        "\u05db\u05d5\u05db\u05d1 \u05de\u05d9\u05db\u05d0\u05dc"
+    ],
+    "name:und_x_variant":[
+        "Kawkabah\u2018",
+        "Kokho",
+        "Kokhav",
+        "Kokhav Michael Sobell"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294449,
+        "wk:page":"Kokhav"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"358cd732e9a3085b11f10428a2899433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720841,
+            "locality_id":1360089129,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1360089129,
+    "wof:lastmodified":1549930418,
+    "wof:name":"Kokhav Michael Sobell",
+    "wof:parent_id":1108720841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.66904,
+    31.62804,
+    34.66904,
+    31.62804
+],
+  "geometry": {"coordinates":[34.66904,31.62804],"type":"Point"}
+}

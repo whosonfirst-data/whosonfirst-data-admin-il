@@ -1,0 +1,77 @@
+{
+  "id": 1343769555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.27157,32.83808,35.27157,32.83808",
+    "geom:latitude":32.83808,
+    "geom:longitude":35.27157,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yodefat",
+    "gn:country_code":"IL",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293162,
+    "gn:latitude":32.83808,
+    "gn:longitude":35.27157,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Yodefat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d9\u05d5\u05d3\u05e4\u05ea"
+    ],
+    "name:und_x_variant":[
+        "Mi\u1e95pe Yodefat",
+        "Mitsp\u00e9-Yodfat",
+        "Mi\u1e95pe Yodfat",
+        "Yodefat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293162,
+        "wk:page":"Yodfat"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"1f5af9324599f11ae1158cf998977861",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":1343769555,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1343769555,
+    "wof:lastmodified":1549930446,
+    "wof:name":"Yodefat",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.27157000000001,
+    32.83808,
+    35.27157000000001,
+    32.83808
+],
+  "geometry": {"coordinates":[35.27157000000001,32.83808],"type":"Point"}
+}

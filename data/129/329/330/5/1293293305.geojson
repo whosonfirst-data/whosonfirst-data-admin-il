@@ -1,0 +1,78 @@
+{
+  "id": 1293293305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.0,32.4,35.0,32.4",
+    "geom:latitude":32.4,
+    "geom:longitude":35.0,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sde Yizhaq",
+    "gn:cc2":"IL",
+    "gn:country_code":"IL",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293614,
+    "gn:latitude":32.4,
+    "gn:longitude":35.0,
+    "gn:modification_date":"2018-02-14",
+    "gn:name":"Sde Yi\u1e95\u1e96aq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e9\u05d3\u05d4 \u05d9\u05e6\u05d7\u05e7"
+    ],
+    "name:und_x_variant":[
+        "Damon",
+        "Khirbet\u2019 Aziya",
+        "Sedeh Yitzhak",
+        "Sede Yi\u1e95\u1e96aq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293614,
+        "wk:page":"Sde_Yitzhak"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"f740a9f87819e61cde1fb7438c22804e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":1293293305,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1293293305,
+    "wof:lastmodified":1549930458,
+    "wof:name":"Sde Yizhaq",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0,
+    32.4,
+    35.0,
+    32.4
+],
+  "geometry": {"coordinates":[35.0,32.4],"type":"Point"}
+}

@@ -1,0 +1,138 @@
+{
+  "id": 85907285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000401,
+    "geom:area_square_m":4203250.804558,
+    "geom:bbox":"34.8156738281,32.0492448023,34.8458862305,32.0693545542",
+    "geom:latitude":32.059884,
+    "geom:longitude":34.82954,
+    "gn:gn_country":"IL",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:latitude":32.05622,
+    "gn:longitude":34.82017,
+    "iso:country":"IL",
+    "lbl:latitude":32.05642,
+    "lbl:longitude":34.82077,
+    "mps:latitude":32.060171,
+    "mps:longitude":34.829836,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Ramat Khen"
+    ],
+    "name:heb_x_preferred":[
+        "Ramat H\u0331en"
+    ],
+    "name:heb_x_variant":[
+        "\u05e8\u05de\u05ea \u05d7\u05df"
+    ],
+    "name:unk_x_variant":[
+        "Ramat Khen"
+    ],
+    "qs:gn_adm0_cc":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":293397,
+    "qs:gn_nam_loc":"Tel Aviv, Tel Aviv, IL",
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"Ramat H\u0331en",
+    "qs:local_max":26418,
+    "qs:local_sum":66569,
+    "qs:localhoods":45,
+    "qs:name":"Ramat Khen",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Tel Aviv",
+    "qs:name_local":"Tel Aviv",
+    "qs:photo_max":20,
+    "qs:photo_sum":147,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424852,
+    "qs:woe_adm1":2345795,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1968212,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"IL",
+    "qs_pg:gn_country":"IL",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":293779,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ramat Khen",
+    "qs_pg:name_adm0":"Israel",
+    "qs_pg:name_adm1":"Tel Aviv",
+    "qs_pg:photos":133,
+    "qs_pg:photos_1k":27,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":133,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":219937,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424852,
+    "qs_pg:woe_id":22725122,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421183425,
+        1108720837,
+        85672549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293779,
+        "gp:id":22725122,
+        "qs:id":219937,
+        "qs_pg:id":219937
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"a958045ecf02c979988cc789f1746007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720837,
+            "locality_id":421183425,
+            "neighbourhood_id":85907285,
+            "region_id":85672549
+        }
+    ],
+    "wof:id":85907285,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549930546,
+    "wof:name":"Ramat Khen",
+    "wof:parent_id":421183425,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126069093
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.81567382810005,
+    32.04924480228486,
+    34.84588623047512,
+    32.06935455424932
+],
+  "geometry": {"coordinates":[[[34.83205195593541,32.06873024836649],[34.83215327013733,32.06861069130002],[34.83215332030005,32.06861069130002],[34.83764648440007,32.06861069130002],[34.83764648438455,32.06861063207522],[34.83764648438552,32.0639555947001],[34.83764648437932,32.06395553545052],[34.83961912989582,32.06162780940039],[34.84313964842534,32.06162780940039],[34.84588623047512,32.06000736422136],[34.84588623047512,32.05464463130043],[34.8431396484001,32.05464463130043],[34.83764648438131,32.05464463130043],[34.83567343729936,32.05231666840021],[34.83412636740104,32.05231666840021],[34.83215337050228,32.04998888310004],[34.83215332030005,32.04998882387036],[34.83205168679524,32.04986891441759],[34.82940673830035,32.04924480228486],[34.82823671368413,32.04952088575473],[34.82784006213046,32.04998887325033],[34.82666015630002,32.04998888310004],[34.82666015630002,32.05231680593357],[34.82391357152903,32.05231680878347],[34.82223556888925,32.05429659975623],[34.82116699220035,32.05454875802232],[34.82009841551115,32.05429659975623],[34.81921336186088,32.05464469050001],[34.81567383069722,32.05464468829875],[34.81567382810005,32.05930026110006],[34.81567382810954,32.06395558942903],[34.81842041018535,32.0639555947001],[34.81842041231772,32.06628316339948],[34.82009785076735,32.06826259179125],[34.82106560966128,32.06849099436597],[34.82116699220023,32.06861063207522],[34.82116699220018,32.06861069130002],[34.82666015630002,32.06861069130002],[34.82666020646309,32.06861069130002],[34.826761520665,32.06873024836649],[34.82940673830035,32.06935455424932],[34.83205195593541,32.06873024836649]]],"type":"Polygon"}
+}

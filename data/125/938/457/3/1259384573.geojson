@@ -1,0 +1,73 @@
+{
+  "id": 1259384573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.42476,32.94895,35.42476,32.94895",
+    "geom:latitude":32.94895,
+    "geom:longitude":35.42476,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Hemdat Yamim",
+    "gn:country_code":"IL",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386422,
+    "gn:latitude":32.94895,
+    "gn:longitude":35.42476,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"H\u0331emdat Yamim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "H\u0331emdat Yamim"
+    ],
+    "name:heb_x_variant":[
+        "\u05d7\u05de\u05d3\u05ea \u05d9\u05de\u05d9\u05dd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386422
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"e186e075803ba4f0c06d0ea928c3f459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720839,
+            "locality_id":1259384573,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1259384573,
+    "wof:lastmodified":1549930343,
+    "wof:name":"Hemdat Yamim",
+    "wof:parent_id":1108720839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.42476,
+    32.94895,
+    35.42476,
+    32.94895
+],
+  "geometry": {"coordinates":[35.42476,32.94895],"type":"Point"}
+}

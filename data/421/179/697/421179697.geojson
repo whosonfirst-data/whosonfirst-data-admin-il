@@ -1,0 +1,113 @@
+{
+  "id": 421179697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.55357,32.5888,35.55357,32.5888",
+    "geom:latitude":32.5888,
+    "geom:longitude":35.55357,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Neve Ur"
+    ],
+    "name:cze_x_preferred":[
+        "Neve Ur"
+    ],
+    "name:eng_x_preferred":[
+        "Neve Ur"
+    ],
+    "name:fra_x_preferred":[
+        "Neve Ur"
+    ],
+    "name:fre_x_preferred":[
+        "Neve Ur"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d5\u05d4 \u05d0\u05d5\u05e8"
+    ],
+    "name:heb_x_variant":[
+        "New\u00e9 Ur",
+        "\u05e0\u05d5\u05d4 \u05d0\u05d5\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Neve Ur"
+    ],
+    "name:pol_x_preferred":[
+        "Newe Ur"
+    ],
+    "name:swe_x_preferred":[
+        "New\u00e9 Ur"
+    ],
+    "name:unk_x_variant":[
+        "Hagar\u2018in Habavli"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294048,
+    "qs:gn_pop":0,
+    "qs:name":"Newe Ur",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":239,
+    "qs:photos_1k":48,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":239,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":433613,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967765,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":639,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294048,
+        "gp:id":1967765,
+        "qs:id":433613,
+        "wd:id":"Q2890030",
+        "wk:page":"Neve Ur"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009230,
+    "wof:geomhash":"8db303d23d2b44284b643df587fb1c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":421179697,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421179697,
+    "wof:lastmodified":1549930337,
+    "wof:name":"Newe Ur",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.55357,
+    32.5888,
+    35.55357,
+    32.5888
+],
+  "geometry": {"coordinates":[35.55357,32.5888],"type":"Point"}
+}

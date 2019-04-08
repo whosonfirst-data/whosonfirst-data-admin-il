@@ -1,0 +1,74 @@
+{
+  "id": 1209226105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.39531,32.90659,35.39531,32.90659",
+    "geom:latitude":32.90659,
+    "geom:longitude":35.39531,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Hazon",
+    "gn:country_code":"IL",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386289,
+    "gn:latitude":32.90659,
+    "gn:longitude":35.39531,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"H\u0331azon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "H\u0331azon"
+    ],
+    "name:heb_x_variant":[
+        "\u05d7\u05d6\u05d5\u05df"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386289,
+        "wk:page":"Hazon%2C_Israel"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"b10beba52f18d8bbc4586cd8d5a1fb07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720825,
+            "locality_id":1209226105,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1209226105,
+    "wof:lastmodified":1549930419,
+    "wof:name":"Hazon",
+    "wof:parent_id":1108720825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.39530999999999,
+    32.90659,
+    35.39530999999999,
+    32.90659
+],
+  "geometry": {"coordinates":[35.39530999999999,32.90659],"type":"Point"}
+}

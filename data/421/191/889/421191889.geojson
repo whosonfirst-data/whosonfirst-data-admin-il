@@ -1,0 +1,112 @@
+{
+  "id": 421191889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.55134,32.6211,35.55134,32.6211",
+    "geom:latitude":32.6211,
+    "geom:longitude":35.55134,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Ge\u0161er"
+    ],
+    "name:cze_x_preferred":[
+        "Ge\u0161er"
+    ],
+    "name:deu_x_preferred":[
+        "Gescher"
+    ],
+    "name:dut_x_preferred":[
+        "Gesher"
+    ],
+    "name:eng_x_preferred":[
+        "Gesher"
+    ],
+    "name:ger_x_preferred":[
+        "Gescher"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05e9\u05e8"
+    ],
+    "name:nld_x_preferred":[
+        "Gesher"
+    ],
+    "name:nno_x_preferred":[
+        "Gesher kibbutz"
+    ],
+    "name:pol_x_preferred":[
+        "Geszer"
+    ],
+    "name:unk_x_variant":[
+        "Mujame"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295043,
+    "qs:gn_pop":0,
+    "qs:name":"Gesher",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":24,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":24,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1159677,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967360,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":681,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295043,
+        "gp:id":1967360,
+        "qs:id":1159677,
+        "wd:id":"Q955960",
+        "wk:page":"Gesher, Israel"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009713,
+    "wof:geomhash":"5a0908c2a1ed164d0f6ea17a301950fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720825,
+            "locality_id":421191889,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421191889,
+    "wof:lastmodified":1549930379,
+    "wof:name":"Gesher",
+    "wof:parent_id":1108720825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.55134,
+    32.6211,
+    35.55134,
+    32.6211
+],
+  "geometry": {"coordinates":[35.55134,32.6211],"type":"Point"}
+}

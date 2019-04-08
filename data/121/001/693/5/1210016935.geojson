@@ -1,0 +1,73 @@
+{
+  "id": 1210016935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.12397,32.50503,35.12397,32.50503",
+    "geom:latitude":32.50503,
+    "geom:longitude":35.12397,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Ein el Ma`lqa",
+    "gn:country_code":"IL",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142415,
+    "gn:latitude":32.50503,
+    "gn:longitude":35.12397,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"\u2018Ein el Ma\u2018lq\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u2018Ein el Ma\u2018lq\u0101"
+    ],
+    "name:heb_x_variant":[
+        "\u05e2\u05d9\u05df \u05d0\u05dc \u05de\u05e2\u05dc\u05e7\u05d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142415
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"c8740dd902bb26f4758312b4accb94bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":1210016935,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1210016935,
+    "wof:lastmodified":1549930346,
+    "wof:name":"`Ein el Ma`lqa",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.12397,
+    32.50503,
+    35.12397,
+    32.50503
+],
+  "geometry": {"coordinates":[35.12397,32.50503],"type":"Point"}
+}

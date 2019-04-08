@@ -1,0 +1,73 @@
+{
+  "id": 1344064457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.18361,32.74985,35.18361,32.74985",
+    "geom:latitude":32.74985,
+    "geom:longitude":35.18361,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ka`abiyya",
+    "gn:country_code":"IL",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8265524,
+    "gn:latitude":32.74985,
+    "gn:longitude":35.18361,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ka\u2018abiyya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Ka\u2018abiyya"
+    ],
+    "name:heb_x_variant":[
+        "\u05db\u05e2\u05d1\u05d9\u05d9\u05d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8265524
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"70b8403315097408f94a61ca08ac56ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":1344064457,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1344064457,
+    "wof:lastmodified":1549930488,
+    "wof:name":"Ka`abiyya",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.18360999999999,
+    32.74985,
+    35.18360999999999,
+    32.74985
+],
+  "geometry": {"coordinates":[35.18360999999999,32.74985],"type":"Point"}
+}

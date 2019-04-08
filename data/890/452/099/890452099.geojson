@@ -1,0 +1,107 @@
+{
+  "id": 890452099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.13994,31.97415,35.13994,31.97415",
+    "geom:latitude":31.97415,
+    "geom:longitude":35.13994,
+    "gn:country":"IL",
+    "gn:fcode":"PPL",
+    "gn:pop":412,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Nachli'el"
+    ],
+    "name:dut_x_preferred":[
+        "Nahliel"
+    ],
+    "name:eng_x_preferred":[
+        "Nahliel"
+    ],
+    "name:heb_x_colloquial":[
+        "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc"
+    ],
+    "name:heb_x_historical":[
+        "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc"
+    ],
+    "name:nno_x_preferred":[
+        "Nahliel"
+    ],
+    "name:pol_x_preferred":[
+        "Nahali'el"
+    ],
+    "qs:name":"Nahliel",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":394,
+    "wof:belongsto":[
+        85681427,
+        1159339487,
+        102191569,
+        85633739,
+        136253049,
+        1091913137,
+        85632315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8199391,
+        "gp:id":1937180,
+        "qs:id":759674,
+        "wd:id":"Q2777433",
+        "wk:page":"Nahliel"
+    },
+    "wof:country":"IL",
+    "wof:created":1469052805,
+    "wof:geomhash":"14c13bc32679ffdacbaf6285a051f76c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633739,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":890452099,
+            "region_id":85681427
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1091913137,
+            "disputed_id":1159339487,
+            "empire_id":136253049,
+            "locality_id":890452099,
+            "region_id":85681427
+        }
+    ],
+    "wof:id":890452099,
+    "wof:lastmodified":1549929692,
+    "wof:name":"Nahliel",
+    "wof:parent_id":1091913137,
+    "wof:placetype":"locality",
+    "wof:population":412,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.13994,
+    31.97415,
+    35.13994,
+    31.97415
+],
+  "geometry": {"coordinates":[35.13994,31.97415],"type":"Point"}
+}

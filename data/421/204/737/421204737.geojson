@@ -1,0 +1,139 @@
+{
+  "id": 421204737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.70659,31.78737,34.70659,31.78737",
+    "geom:latitude":31.78737,
+    "geom:longitude":34.70659,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Gan Javne"
+    ],
+    "name:chi_x_preferred":[
+        "\u7518\u4e9a\u592b\u5185"
+    ],
+    "name:cze_x_preferred":[
+        "Gan Javne"
+    ],
+    "name:deu_x_preferred":[
+        "Gan Jawne"
+    ],
+    "name:dut_x_preferred":[
+        "Gan Yavne"
+    ],
+    "name:eng_x_preferred":[
+        "Gan Yavne"
+    ],
+    "name:fra_x_preferred":[
+        "Gan Yavn\u00e9"
+    ],
+    "name:fre_x_preferred":[
+        "Gan Yavn\u00e9"
+    ],
+    "name:ger_x_preferred":[
+        "Gan Jawne"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05df \u05d9\u05d1\u05e0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Gan Yavne"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30f3\u30fb\u30e4\u30f4\u30cd"
+    ],
+    "name:nno_x_preferred":[
+        "Gan Yavne"
+    ],
+    "name:pol_x_preferred":[
+        "Gan Javne"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043d-\u042f\u0432\u043d\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Gan Yavne"
+    ],
+    "name:swe_x_preferred":[
+        "Gan Yavne"
+    ],
+    "name:unk_x_variant":[
+        "Gan Yavneh"
+    ],
+    "name:zho_x_preferred":[
+        "\u7518\u4e9a\u592b\u5185"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295080,
+    "qs:gn_pop":14975,
+    "qs:name":"Gan Yavne",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":17,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":17,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":246576,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967340,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":354,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295080,
+        "gp:id":1967340,
+        "qs:id":246576,
+        "wd:id":"Q924849",
+        "wk:page":"Gan Yavne"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010196,
+    "wof:geomhash":"fbc915a3a12bfb995e4691fcb2448c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720813,
+            "locality_id":421204737,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421204737,
+    "wof:lastmodified":1549930405,
+    "wof:name":"Gan Yavne",
+    "wof:parent_id":1108720813,
+    "wof:placetype":"locality",
+    "wof:population":14975,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.70659,
+    31.78737,
+    34.70659,
+    31.78737
+],
+  "geometry": {"coordinates":[34.70659,31.78737],"type":"Point"}
+}

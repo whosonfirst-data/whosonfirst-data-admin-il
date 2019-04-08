@@ -1,0 +1,105 @@
+{
+  "id": 85907201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":931833.823723,
+    "geom:bbox":"35.1892089844,31.7682777491,35.2001953125,31.7807147334",
+    "geom:latitude":31.775168,
+    "geom:longitude":35.194363,
+    "gn:id":"",
+    "iso:country":"IL",
+    "lbl:latitude":31.775128,
+    "lbl:longitude":35.194842,
+    "mps:latitude":31.774879,
+    "mps:longitude":35.193814,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Shkhunat Ha-po'alim"
+    ],
+    "name:unk_x_variant":[
+        "Shkhunat Ha-po'alim"
+    ],
+    "qs:gn_adm0_cc":"PS",
+    "qs:gn_id":0,
+    "qs:gn_local":281184,
+    "qs:gn_nam_loc":"poriyya",
+    "qs:gn_namadm1":"06",
+    "qs:local_max":20606,
+    "qs:local_sum":72250,
+    "qs:localhoods":38,
+    "qs:name":"Shkhunat Ha-po'alim",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Jerusalem",
+    "qs:name_local":"Jerusalem",
+    "qs:photo_max":281,
+    "qs:photo_sum":493,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424852,
+    "qs:woe_adm1":2345796,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1968222,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168681,
+        1108720823,
+        85672551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724679,
+        "qs:id":43492,
+        "qs_pg:id":43492
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"2c5f5c15901a0e35f4f4b1e100a29178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421168681,
+            "neighbourhood_id":85907201,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":85907201,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549930542,
+    "wof:name":"Shkhunat Ha-po'alim",
+    "wof:parent_id":421168681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.18920898438637,
+    31.76827774906926,
+    35.2001953125,
+    31.78071473342523
+],
+  "geometry": {"coordinates":[[[35.19607543945,31.77092727922168],[35.19607543945,31.76827774906926],[35.19470214840004,31.76881618225333],[35.19115321159074,31.77020763190004],[35.19058227537511,31.77043148175656],[35.19058227537511,31.77092727925125],[35.18920898438637,31.77254264814466],[35.18920898650805,31.77487760933964],[35.19058227537511,31.77649300525773],[35.19058227537511,31.77721250867521],[35.19058227537511,31.7799069817182],[35.1919555664,31.78071473342523],[35.19370978221298,31.78071473342523],[35.19470214574579,31.77954736172769],[35.19744873048188,31.77954736153355],[35.2001953125,31.77954736079609],[35.2001953125,31.77721251603766],[35.2001953125,31.77557332897842],[35.2001953125,31.77487761850004],[35.19960387043784,31.77487761162855],[35.1974487304866,31.77487760991073],[35.19744873048637,31.77254264814466],[35.19607543945,31.77092727922168]]],"type":"Polygon"}
+}

@@ -1,0 +1,232 @@
+{
+  "id": 1126104095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.23417,31.77667,35.23417,31.77667",
+    "geom:latitude":31.77667,
+    "geom:longitude":35.23417,
+    "gn:gn_country":"IL",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":36000,
+    "iso:country":"IL",
+    "lbl:latitude":31.77667,
+    "lbl:longitude":35.23417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u0629 \u0627\u0644\u0642\u062f\u0633 \u0627\u0644\u0642\u062f\u064a\u0645\u0629"
+    ],
+    "name:arm_x_preferred":[
+        "\u0540\u056b\u0576 \u0584\u0561\u0572\u0561\u0584"
+    ],
+    "name:baq_x_preferred":[
+        "Jerusalemgo Hiri Zaharra"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09c7\u09b0\u09c1\u099c\u09be\u09b2\u09c7\u09ae\u09c7\u09b0 \u09aa\u09c1\u09b0\u09a8\u09cb \u09b6\u09b9\u09b0"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438\u044f\u0442 \u0433\u0440\u0430\u0434 \u043d\u0430 \u0419\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "ciutat vella de Jerusalem"
+    ],
+    "name:chi_x_preferred":[
+        "\u8036\u8def\u6492\u51b7\u65e7\u57ce"
+    ],
+    "name:cze_x_preferred":[
+        "Star\u00e9 M\u011bsto"
+    ],
+    "name:dut_x_preferred":[
+        "oude stad van Jeruzalem"
+    ],
+    "name:eng_x_preferred":[
+        "Old City of Jerusalem"
+    ],
+    "name:epo_x_preferred":[
+        "Jerusalemaj remparoj"
+    ],
+    "name:fin_x_preferred":[
+        "Jerusalemin vanhakaupunki"
+    ],
+    "name:fre_x_preferred":[
+        "Vieille ville de J\u00e9rusalem"
+    ],
+    "name:geo_x_preferred":[
+        "\u10eb\u10d5\u10d4\u10da\u10d8 \u10e5\u10d0\u10da\u10d0\u10e5\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Jerusalemer Altstadt"
+    ],
+    "name:gre_x_preferred":[
+        "\u0399\u03b5\u03c1\u03bf\u03c5\u03c3\u03b1\u03bb\u03ae\u03bc/\u03a0\u03b1\u03bb\u03b9\u03ac \u03a0\u03cc\u03bb\u03b7"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e2\u05d9\u05e8 \u05d4\u05e2\u05ea\u05d9\u05e7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0941\u0930\u093e\u0928\u093e \u092f\u0930\u0941\u0936\u0932\u092e \u0936\u0939\u0930"
+    ],
+    "name:hrv_x_preferred":[
+        "Stari grad Jeruzalem"
+    ],
+    "name:ind_x_preferred":[
+        "Kota Lama Yerusalem"
+    ],
+    "name:ita_x_preferred":[
+        "Citt\u00e0 Vecchia di Gerusalemme"
+    ],
+    "name:jav_x_preferred":[
+        "Kutha lawas Yerusalem"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30b5\u30ec\u30e0\u306e\u65e7\u5e02\u8857\u3068\u305d\u306e\u57ce\u58c1\u7fa4"
+    ],
+    "name:lad_x_preferred":[
+        "Sivdad Vieja de Yerushalayim"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0442\u0430\u0440 \u0433\u0440\u0430\u0434"
+    ],
+    "name:may_x_preferred":[
+        "Kota Lama Jerusalem"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0422\u043e\u0448\u0442\u043e \u043e\u043b\u0430"
+    ],
+    "name:mon_x_preferred":[
+        "\u0418\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c\u044b\u043d \u0445\u0443\u0443\u0447\u0438\u043d \u0445\u043e\u0442"
+    ],
+    "name:nob_x_preferred":[
+        "Gamlebyen"
+    ],
+    "name:pol_x_preferred":[
+        "Stare Miasto"
+    ],
+    "name:por_x_preferred":[
+        "Cidade Antiga"
+    ],
+    "name:rum_x_preferred":[
+        "Ierusalimul Vechi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0439 \u0433\u043e\u0440\u043e\u0434"
+    ],
+    "name:sco_x_preferred":[
+        "Auld Ceety"
+    ],
+    "name:slo_x_preferred":[
+        "Ha-Ir ha-Atika"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad Vieja de Jerusal\u00e9n"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0433\u0440\u0430\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Gamla Jerusalem"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bb4\u0bc8\u0baf \u0ba8\u0b95\u0bb0\u0bcd"
+    ],
+    "name:tur_x_preferred":[
+        "Eski \u015eehir"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0435 \u043c\u0456\u0441\u0442\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u062f\u06cc\u0645 \u0634\u06c1\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u00e0nh c\u1ed5 Jerusalem"
+    ],
+    "name:war_x_preferred":[
+        "Kadaan nga syudad"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10ef\u10d5\u10d4\u10e8\u10d8 \u10dc\u10dd\u10e6\u10d0"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d0\u05dc\u05d8\u05e9\u05d8\u05d0\u05d8"
+    ],
+    "qs_pg:aaroncc":"IL",
+    "qs_pg:gn_country":"IL",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":6945291,
+    "qs_pg:gn_pop":36000,
+    "qs_pg:name":"Old City",
+    "qs_pg:name_adm0":"Israel",
+    "qs_pg:name_adm1":"Jerusalem",
+    "qs_pg:photos":20686,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":92,
+    "qs_pg:photos_9r":21,
+    "qs_pg:photos_all":20686,
+    "qs_pg:photos_sr":27,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":161012,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424852,
+    "qs_pg:woe_id":22724638,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "woe:adm0_id":23424852,
+    "woe:name_adm0":"Israel",
+    "woe:name_adm1":"Jerusalem",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168681,
+        1108720823,
+        85672551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6945291,
+        "gp:id":22724638,
+        "qs_pg:id":161012,
+        "wd:id":"Q213274"
+    },
+    "wof:country":"IL",
+    "wof:created":1497316624,
+    "wof:geomhash":"b75e710e0cd5d6750da0d205b6f47159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421168681,
+            "neighbourhood_id":1126104095,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":1126104095,
+    "wof:lastmodified":1549930556,
+    "wof:name":"Old City",
+    "wof:parent_id":421168681,
+    "wof:placetype":"neighbourhood",
+    "wof:population":36000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23417,
+    31.77667,
+    35.23417,
+    31.77667
+],
+  "geometry": {"coordinates":[35.23417,31.77667],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1260286135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.47004,32.79557,35.47004,32.79557",
+    "geom:latitude":32.79557,
+    "geom:longitude":35.47004,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ahuzzat Naftali",
+    "gn:country_code":"IL",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":295725,
+    "gn:latitude":32.79557,
+    "gn:longitude":35.47004,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"A\u1e96uzzat Naftali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:heb_x_preferred":[
+        "A\u1e96uzzat Naftali"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05d7\u05d6\u05ea \u05e0\u05e4\u05ea\u05dc\u05d9"
+    ],
+    "name:und_x_variant":[
+        "Erets Naftali",
+        "A\u1e96uzzat Naftali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672545,
+        102191569,
+        85632315,
+        136253049,
+        1108720825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295725
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"00a77f6824ceaad80d6e37ba679f85cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720825,
+            "empire_id":136253049,
+            "locality_id":1260286135,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1260286135,
+    "wof:lastmodified":1537636869,
+    "wof:name":"Ahuzzat Naftali",
+    "wof:parent_id":1108720825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.47004000000001,
+    32.79557,
+    35.47004000000001,
+    32.79557
+],
+  "geometry": {"coordinates":[35.47004000000001,32.79557],"type":"Point"}
+}

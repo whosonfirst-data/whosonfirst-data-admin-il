@@ -1,0 +1,120 @@
+{
+  "id": 1343965577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68665,33.27731,35.68665,33.27731",
+    "geom:latitude":33.27731,
+    "geom:longitude":35.68665,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mazra'at Zabdin",
+    "gn:country_code":"IL",
+    "gn:dem":869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":166932,
+    "gn:latitude":33.27731,
+    "gn:longitude":35.68665,
+    "gn:modification_date":"2013-09-12",
+    "gn:name":"Mazra\u2018at Zabd\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0632\u0628\u062f\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Mazraat Zebd\u00eene",
+        "Mazra\u2018at Zabd\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672545,
+        102191569,
+        85632315,
+        136253049,
+        1108779081,
+        85678395,
+        85632221,
+        85632413,
+        1108720811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":166932
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"303cfdf14be8c33815dc568695faa3a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "empire_id":136253049,
+            "locality_id":1343965577,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1343965577,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1343965577,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "empire_id":136253049,
+            "locality_id":1343965577,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1343965577,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1343965577,
+            "region_id":85678395
+        }
+    ],
+    "wof:id":1343965577,
+    "wof:lastmodified":1537636798,
+    "wof:name":"Mazra'at Zabdin",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68665,
+    33.27731,
+    35.68665,
+    33.27731
+],
+  "geometry": {"coordinates":[35.68665,33.27731],"type":"Point"}
+}

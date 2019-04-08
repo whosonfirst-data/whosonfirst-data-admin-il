@@ -1,0 +1,70 @@
+{
+  "id": 1343865775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.37492,32.86346,35.37492,32.86346",
+    "geom:latitude":32.86346,
+    "geom:longitude":35.37492,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Buregan",
+    "gn:country_code":"IL",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140112,
+    "gn:latitude":32.86346,
+    "gn:longitude":35.37492,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Buregan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e8\u05d2\u05df"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140112
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"91b9c72aec0a9771e8f4ac0de00f9b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":1343865775,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1343865775,
+    "wof:lastmodified":1549930458,
+    "wof:name":"Buregan",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.37492,
+    32.86346,
+    35.37492,
+    32.86346
+],
+  "geometry": {"coordinates":[35.37492,32.86346],"type":"Point"}
+}

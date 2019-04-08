@@ -1,0 +1,71 @@
+{
+  "id": 1310510183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.90883,32.38108,34.90883,32.38108",
+    "geom:latitude":32.38108,
+    "geom:longitude":34.90883,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Elyashiv",
+    "gn:country_code":"IL",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295230,
+    "gn:latitude":32.38108,
+    "gn:longitude":34.90883,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Elyashiv",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05d9\u05e9\u05d9\u05d1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295230,
+        "wk:page":"Elyashiv"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"e1e397d621aac0344dfe8c924d1fd2da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":1310510183,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1310510183,
+    "wof:lastmodified":1549930425,
+    "wof:name":"Elyashiv",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.90883,
+    32.38108,
+    34.90883,
+    32.38108
+],
+  "geometry": {"coordinates":[34.90883,32.38108],"type":"Point"}
+}

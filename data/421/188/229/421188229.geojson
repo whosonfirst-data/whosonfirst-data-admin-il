@@ -1,0 +1,115 @@
+{
+  "id": 421188229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.84549,32.26496,34.84549,32.26496",
+    "geom:latitude":32.26496,
+    "geom:longitude":34.84549,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Udim"
+    ],
+    "name:cze_x_preferred":[
+        "Udim"
+    ],
+    "name:dut_x_preferred":[
+        "Udim"
+    ],
+    "name:eng_x_preferred":[
+        "Udim"
+    ],
+    "name:fre_x_preferred":[
+        "Udim"
+    ],
+    "name:ger_x_preferred":[
+        "Udim"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d3\u05d9\u05dd"
+    ],
+    "name:nds_x_preferred":[
+        "Udim"
+    ],
+    "name:nld_x_preferred":[
+        "Udim"
+    ],
+    "name:nno_x_preferred":[
+        "Udim"
+    ],
+    "name:pol_x_preferred":[
+        "Udim"
+    ],
+    "name:szl_x_preferred":[
+        "Udim"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293291,
+    "qs:gn_pop":0,
+    "qs:name":"Udim",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":537,
+    "qs:photos_1k":109,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":537,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1090937,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1968048,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":199,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293291,
+        "gp:id":1968048,
+        "qs:id":1090937,
+        "wd:id":"Q2920013",
+        "wk:page":"Udim"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009538,
+    "wof:geomhash":"50da53695e0ed0f7f4da31f67c310478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":421188229,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421188229,
+    "wof:lastmodified":1549930366,
+    "wof:name":"Udim",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.84549,
+    32.26496,
+    34.84549,
+    32.26496
+],
+  "geometry": {"coordinates":[34.84549,32.26496],"type":"Point"}
+}

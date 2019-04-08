@@ -1,0 +1,74 @@
+{
+  "id": 1226057077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.28471,31.20306,34.28471,31.20306",
+    "geom:latitude":31.20306,
+    "geom:longitude":34.28471,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Shlomit",
+    "gn:country_code":"IL",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8068366,
+    "gn:latitude":31.20306,
+    "gn:longitude":34.28471,
+    "gn:modification_date":"2018-04-15",
+    "gn:name":"Shlomit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Na\u1e96al Amittay"
+    ],
+    "name:heb_x_variant":[
+        "\u05e0\u05d7\u201d\u05dc \u05d0\u05de\u05ea\u05d9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8068366,
+        "wk:page":"Shlomit"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"31e088c2d06c620dc51cb30e6e55b6d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1226057077,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1226057077,
+    "wof:lastmodified":1549930450,
+    "wof:name":"Shlomit",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.28471,
+    31.20306,
+    34.28471,
+    31.20306
+],
+  "geometry": {"coordinates":[34.28471,31.20306],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1259596261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.87676,32.21412,34.87676,32.21412",
+    "geom:latitude":32.21412,
+    "geom:longitude":34.87676,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bazra",
+    "gn:country_code":"IL",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295545,
+    "gn:latitude":32.21412,
+    "gn:longitude":34.87676,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Ba\u1e95ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d1\u05e6\u05e8\u05d4"
+    ],
+    "name:und_x_variant":[
+        "Batsrah",
+        "Batsirah",
+        "Botsra",
+        "Basirah",
+        "Bozra",
+        "Ba\u1e95ra",
+        "Batsra",
+        "Bazera",
+        "Ba\u1e95era"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295545,
+        "wk:page":"Batzra"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"8a2f5847af548c1040b9dcdcc41e9769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":1259596261,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1259596261,
+    "wof:lastmodified":1549930430,
+    "wof:name":"Bazra",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.87676,
+    32.21412,
+    34.87676,
+    32.21412
+],
+  "geometry": {"coordinates":[34.87676,32.21412],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310407509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.37376,32.8113,35.37376,32.8113",
+    "geom:latitude":32.8113,
+    "geom:longitude":35.37376,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Nujeidat",
+    "gn:country_code":"IL",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140107,
+    "gn:latitude":32.8113,
+    "gn:longitude":35.37376,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Nujeid\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e0\u05d2\u2019\u05d3\u05ea"
+    ],
+    "name:heb_x_variant":[
+        "Nujeid\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140107
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"d8f496a07a48b292f22318ff641f1e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":1310407509,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1310407509,
+    "wof:lastmodified":1549930428,
+    "wof:name":"Nujeidat",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.37376,
+    32.8113,
+    35.37376,
+    32.8113
+],
+  "geometry": {"coordinates":[35.37376,32.8113],"type":"Point"}
+}

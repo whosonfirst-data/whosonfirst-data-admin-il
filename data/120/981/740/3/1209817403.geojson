@@ -1,0 +1,74 @@
+{
+  "id": 1209817403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.58333,33.08333,35.58333,33.08333",
+    "geom:latitude":33.08333,
+    "geom:longitude":35.58333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El `Ulmaniya",
+    "gn:country_code":"IL",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":295234,
+    "gn:latitude":33.08333,
+    "gn:longitude":35.58333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El \u2018Ulm\u0101n\u012bya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Al \u2018Ulmaniya",
+        "\u2018Ulm\u0101n\u012bya",
+        "El \u2018Ulm\u0101n\u012bya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672545,
+        102191569,
+        85632315,
+        136253049,
+        1108720839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295234
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"aeab86905b3daea77b79e89e51cc64f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720839,
+            "empire_id":136253049,
+            "locality_id":1209817403,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1209817403,
+    "wof:lastmodified":1537636853,
+    "wof:name":"El `Ulmaniya",
+    "wof:parent_id":1108720839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.58333,
+    33.08333,
+    35.58333,
+    33.08333
+],
+  "geometry": {"coordinates":[35.58333,33.08333],"type":"Point"}
+}

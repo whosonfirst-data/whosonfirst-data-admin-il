@@ -1,0 +1,114 @@
+{
+  "id": 421202471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.5191,32.51971,35.5191,32.51971",
+    "geom:latitude":32.51971,
+    "geom:longitude":35.5191,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Chamadja"
+    ],
+    "name:cze_x_preferred":[
+        "Chamadja"
+    ],
+    "name:dut_x_preferred":[
+        "Hamadia"
+    ],
+    "name:eng_x_preferred":[
+        "Hamadia"
+    ],
+    "name:fra_x_preferred":[
+        "Hamadia"
+    ],
+    "name:fre_x_preferred":[
+        "Hamadia"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05de\u05d3\u05d9\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "Hamadia"
+    ],
+    "name:nno_x_preferred":[
+        "Hamadia"
+    ],
+    "name:pol_x_preferred":[
+        "Chamadja"
+    ],
+    "name:unk_x_variant":[
+        "Hamadiyah"
+    ],
+    "name:vie_x_preferred":[
+        "Hamadia"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294913,
+    "qs:gn_pop":0,
+    "qs:name":"Hamadya",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":344,
+    "qs:photos_1k":70,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":344,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":222717,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967426,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":313,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294913,
+        "gp:id":1967426,
+        "qs:id":222717,
+        "wd:id":"Q510685"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010119,
+    "wof:geomhash":"30cab24f3720046ec68fe63be042531d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":421202471,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421202471,
+    "wof:lastmodified":1549930401,
+    "wof:name":"Hamadya",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.5191,
+    32.51971,
+    35.5191,
+    32.51971
+],
+  "geometry": {"coordinates":[35.5191,32.51971],"type":"Point"}
+}

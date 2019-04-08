@@ -1,0 +1,149 @@
+{
+  "id": 85903115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000087,
+    "geom:area_square_m":910103.532054,
+    "geom:bbox":"34.7937011719,32.0639555868,34.8059446722,32.0738420225",
+    "geom:latitude":32.068203,
+    "geom:longitude":34.800196,
+    "gn:gn_country":"IL",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":32.07736,
+    "gn:longitude":34.79864,
+    "iso:country":"IL",
+    "lbl:latitude":32.074771,
+    "lbl:longitude":34.798988,
+    "mps:latitude":32.067911,
+    "mps:longitude":34.800808,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:note":"dup",
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_colloquial":[
+        "Nahalat Yitshaq",
+        "Nahalat Yizhaq"
+    ],
+    "name:eng_x_preferred":[
+        "Nah\u0331alat Yi\u1e95h\u0331aq"
+    ],
+    "name:eng_x_variant":[
+        "Nahalat Yitshak",
+        "Na\u1e25alat Yits\u1e25aq",
+        "Nahlat Yits-Haq"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d7\u05dc\u05ea \u05d9\u05e6\u05d7\u05e7"
+    ],
+    "name:heb_x_variant":[
+        "Na\u1e96alat Yits\u1e96ak"
+    ],
+    "name:unk_x_variant":[
+        "Nah\u0331alat Yi\u1e95h\u0331aq",
+        "Na\u1e25alat Yits\u1e25aq"
+    ],
+    "qs:gn_adm0_cc":"IL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":293397,
+    "qs:gn_nam_loc":"Tel Aviv, Tel Aviv, IL",
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"Na\u1e96alat Yi\u1e95\u1e96aq",
+    "qs:local_max":26418,
+    "qs:local_sum":66569,
+    "qs:localhoods":45,
+    "qs:name":"Nah\u0331alat Yi\u1e95h\u0331aq",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Tel Aviv",
+    "qs:name_local":"Tel Aviv",
+    "qs:photo_max":57,
+    "qs:photo_sum":122,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424852,
+    "qs:woe_adm1":2345795,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1968212,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"IL",
+    "qs_pg:gn_country":"IL",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":294124,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Nah\u0331alat Yi\u1e95h\u0331aq",
+    "qs_pg:name_adm0":"Israel",
+    "qs_pg:name_adm1":"Tel Aviv",
+    "qs_pg:photos":60,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":60,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":267712,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424852,
+    "qs_pg:woe_id":1967728,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        1125955239,
+        1108720837,
+        85672549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294124,
+        "gp:id":1967728,
+        "qs:id":267712,
+        "qs_pg:id":267712
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"48816709ce078d99407050d14cc1d180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720837,
+            "locality_id":1125955239,
+            "neighbourhood_id":85903115,
+            "region_id":85672549
+        }
+    ],
+    "wof:id":85903115,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549930539,
+    "wof:name":"Nah\u0331alat Yi\u1e95h\u0331aq",
+    "wof:parent_id":1125955239,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126060903
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.79370117188358,
+    32.06395558679354,
+    34.80594467219743,
+    32.07384202249573
+],
+  "geometry": {"coordinates":[[[34.80419896529111,32.07384202249573],[34.80468744981499,32.07326555100003],[34.80468750000006,32.07326555100003],[34.80468750000006,32.0732654917754],[34.80517602521218,32.07268897226257],[34.80547275769601,32.07093813597506],[34.80535901043152,32.07026696607328],[34.80594467219743,32.06888473139074],[34.80586726087296,32.06861069130002],[34.8048810218088,32.06511935402519],[34.80468750000006,32.06511935402519],[34.80292716540873,32.06511935402519],[34.80194092066688,32.06395558699676],[34.79919433591851,32.06395558679354],[34.79644775390017,32.06395558679354],[34.79370117188625,32.06395558728764],[34.79370117188358,32.06628316520009],[34.7937011718879,32.0686106827491],[34.79644775390022,32.06861068566205],[34.79644775390017,32.0709381422345],[34.79919433590004,32.07093815080009],[34.79919433590004,32.07326555100003],[34.80273349304952,32.07326555100003],[34.80419896529111,32.07384202249573]]],"type":"Polygon"}
+}

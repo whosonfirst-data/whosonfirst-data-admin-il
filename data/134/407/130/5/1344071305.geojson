@@ -1,0 +1,77 @@
+{
+  "id": 1344071305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.47267,30.79245,34.47267,30.79245",
+    "geom:latitude":30.79245,
+    "geom:longitude":34.47267,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Ezuz",
+    "gn:country_code":"IL",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295112,
+    "gn:latitude":30.79245,
+    "gn:longitude":34.47267,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"\u2018Ezuz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u2018Ezuz"
+    ],
+    "name:heb_x_variant":[
+        "\u05e2\u05d6\u05d5\u05d6"
+    ],
+    "name:und_x_variant":[
+        "Ezuz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295112,
+        "wk:page":"Ezuz"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"5ed8025f7136846f882f5287a2105a64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1344071305,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1344071305,
+    "wof:lastmodified":1549930489,
+    "wof:name":"`Ezuz",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.47267,
+    30.79245,
+    34.47267,
+    30.79245
+],
+  "geometry": {"coordinates":[34.47267,30.79245],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 1209328547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.75699,31.39547,34.75699,31.39547",
+    "geom:latitude":31.39547,
+    "geom:longitude":34.75699,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rahat",
+    "gn:country_code":"IL",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8184212,
+    "gn:latitude":31.39547,
+    "gn:longitude":34.75699,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Rahat",
+    "gn:population":19586,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0647\u0637"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0647\u0637"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d4\u05ea"
+    ],
+    "name:heb_x_variant":[
+        "\u05e8\u05d4\u05d8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10f0\u10d0\u10e2\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0445\u0430\u0442"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0445\u0430\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0445\u0430\u0442"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06c1\u0637"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e8\u05d4\u05d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u54c8\u7279"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8184212,
+        "wk:page":"Rahat"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"56a6c624c12f627d372c77b2fd17936a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1209328547,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1209328547,
+    "wof:lastmodified":1549930445,
+    "wof:name":"Rahat",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:population":19586,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.75699,
+    31.39547,
+    34.75699,
+    31.39547
+],
+  "geometry": {"coordinates":[34.75699,31.39547],"type":"Point"}
+}

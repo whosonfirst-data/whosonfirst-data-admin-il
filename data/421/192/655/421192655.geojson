@@ -1,0 +1,99 @@
+{
+  "id": 421192655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.82241,32.00963,34.82241,32.00963",
+    "geom:latitude":32.00963,
+    "geom:longitude":34.82241,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Mi\u0161mar ha-\u0160iv'a"
+    ],
+    "name:cze_x_preferred":[
+        "Mi\u0161mar ha-\u0160iv'a"
+    ],
+    "name:eng_x_preferred":[
+        "Mishmar HaShiv'a"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e9\u05de\u05e8 \u05d4\u05e9\u05d1\u05e2\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Mishmar HaShiva"
+    ],
+    "name:pol_x_preferred":[
+        "Mishmar HaShiv'a"
+    ],
+    "name:unk_x_variant":[
+        "Mishmar Hashiv\u2018ah"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294181,
+    "qs:gn_pop":0,
+    "qs:name":"Mishmar HaShiva",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Tel Aviv",
+    "qs:photos":158,
+    "qs:photos_1k":32,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":158,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1170480,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967698,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":89,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294181,
+        "gp:id":1967698,
+        "qs:id":1170480,
+        "wd:id":"Q2920057"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009744,
+    "wof:geomhash":"f70c3ae6843c9ca09693d70f9af7d706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720815,
+            "locality_id":421192655,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421192655,
+    "wof:lastmodified":1549930377,
+    "wof:name":"Mishmar HaShiva",
+    "wof:parent_id":1108720815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.82241,
+    32.00963,
+    34.82241,
+    32.00963
+],
+  "geometry": {"coordinates":[34.82241,32.00963],"type":"Point"}
+}

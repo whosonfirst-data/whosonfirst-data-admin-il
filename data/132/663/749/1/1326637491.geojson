@@ -1,0 +1,74 @@
+{
+  "id": 1326637491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.26142,32.85744,35.26142,32.85744",
+    "geom:latitude":32.85744,
+    "geom:longitude":35.26142,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Raqqefet",
+    "gn:country_code":"IL",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386234,
+    "gn:latitude":32.85744,
+    "gn:longitude":35.26142,
+    "gn:modification_date":"2018-04-16",
+    "gn:name":"Raqqefet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e8\u05e7\u05e4\u05ea"
+    ],
+    "name:und_x_variant":[
+        "Rakkefet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386234,
+        "wk:page":"Rakefet"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"75d4ffb22c19b5df0c254acdc674812e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":1326637491,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1326637491,
+    "wof:lastmodified":1549930433,
+    "wof:name":"Raqqefet",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.26142,
+    32.85744,
+    35.26142,
+    32.85744
+],
+  "geometry": {"coordinates":[35.26142,32.85744],"type":"Point"}
+}

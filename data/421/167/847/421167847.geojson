@@ -1,0 +1,142 @@
+{
+  "id": 421167847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.34242,32.7466,35.34242,32.7466",
+    "geom:latitude":32.7466,
+    "geom:longitude":35.34242,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0643\u0646\u0627"
+    ],
+    "name:arm_x_preferred":[
+        "\u053f\u0561\u0586\u0580 \u053f\u0561\u0576\u0576\u0561"
+    ],
+    "name:ces_x_preferred":[
+        "Kafr Kanna"
+    ],
+    "name:cze_x_preferred":[
+        "Kafr Kanna"
+    ],
+    "name:dut_x_preferred":[
+        "Kafr Kanna"
+    ],
+    "name:eng_x_preferred":[
+        "Kafr Kanna"
+    ],
+    "name:fra_x_preferred":[
+        "Kafr Cana"
+    ],
+    "name:fre_x_preferred":[
+        "Kafr Cana"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05db\u05e0\u05d0"
+    ],
+    "name:heb_x_variant":[
+        "Kafr Kann\u0101"
+    ],
+    "name:ita_x_preferred":[
+        "kafr kanna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30d5\u30a1\u30eb\u30fb\u30ab\u30ca"
+    ],
+    "name:nld_x_preferred":[
+        "Kafr Kanna"
+    ],
+    "name:nno_x_preferred":[
+        "Kafr Kanna"
+    ],
+    "name:pol_x_preferred":[
+        "Kefar Kanna"
+    ],
+    "name:ron_x_preferred":[
+        "Kfar Kana"
+    ],
+    "name:rum_x_preferred":[
+        "Kfar Kana"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0444\u0440-\u041a\u0430\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kafr Kann\u0101"
+    ],
+    "name:unk_x_variant":[
+        "Kafr Qanah"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294610,
+    "qs:gn_pop":17606,
+    "qs:name":"Kafr Kanna",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":274,
+    "qs:photos_1k":56,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":274,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":460404,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1968182,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":2059,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294610,
+        "gp:id":1968182,
+        "qs:id":460404,
+        "wd:id":"Q2633158",
+        "wk:page":"Kafr Kanna"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008745,
+    "wof:geomhash":"f587583aee7bfc6ac224ef5eafa0fbfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":421167847,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421167847,
+    "wof:lastmodified":1549930326,
+    "wof:name":"Kafr Kanna",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:population":17606,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.34242,
+    32.7466,
+    35.34242,
+    32.7466
+],
+  "geometry": {"coordinates":[35.34242,32.7466],"type":"Point"}
+}

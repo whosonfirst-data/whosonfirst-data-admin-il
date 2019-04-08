@@ -1,0 +1,88 @@
+{
+  "id": 421200771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.83837,32.09735,34.83837,32.09735",
+    "geom:latitude":32.09735,
+    "geom:longitude":34.83837,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Pardes Katz"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d3\u05e1 \u05db\u05e5"
+    ],
+    "name:unk_x_variant":[
+        "Pardess Katz"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":293941,
+    "qs:gn_pop":0,
+    "qs:name":"Pardes Ka\u1e95",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Tel Aviv",
+    "qs:photos":30,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":30,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":894382,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967812,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421190661,
+        1108720837,
+        85672549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293941,
+        "gp:id":1967812,
+        "qs:id":894382,
+        "wd:id":"Q1106780"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010041,
+    "wof:geomhash":"20226b7ea68cca0f1fd38d31ed50059f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720837,
+            "locality_id":421190661,
+            "neighbourhood_id":421200771,
+            "region_id":85672549
+        }
+    ],
+    "wof:id":421200771,
+    "wof:lastmodified":1549930550,
+    "wof:name":"Pardes Ka\u1e95",
+    "wof:parent_id":421190661,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.83837,
+    32.09735,
+    34.83837,
+    32.09735
+],
+  "geometry": {"coordinates":[34.83837,32.09735],"type":"Point"}
+}

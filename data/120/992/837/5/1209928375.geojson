@@ -1,0 +1,71 @@
+{
+  "id": 1209928375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.0931,31.24535,35.0931,31.24535",
+    "geom:latitude":31.24535,
+    "geom:longitude":35.0931,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kuseifa",
+    "gn:country_code":"IL",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8374220,
+    "gn:latitude":31.24535,
+    "gn:longitude":35.0931,
+    "gn:modification_date":"2018-04-15",
+    "gn:name":"Kuseifa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05db\u05e1\u05d9\u05e4\u05d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8374220,
+        "wk:page":"Kuseife"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"c91bfef02ac9bb65305071d2734e9585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1209928375,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1209928375,
+    "wof:lastmodified":1549930498,
+    "wof:name":"Kuseifa",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0931,
+    31.24535,
+    35.0931,
+    31.24535
+],
+  "geometry": {"coordinates":[35.0931,31.24535],"type":"Point"}
+}

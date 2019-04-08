@@ -1,0 +1,75 @@
+{
+  "id": 1242791483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.63371,31.33431,34.63371,31.33431",
+    "geom:latitude":31.33431,
+    "geom:longitude":34.63371,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bitha",
+    "gn:country_code":"IL",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295398,
+    "gn:latitude":31.33431,
+    "gn:longitude":34.63371,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Bit\u1e96a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d1\u05d8\u05d7\u05d4"
+    ],
+    "name:und_x_variant":[
+        "Bithah",
+        "Bit\u1e96a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295398,
+        "wk:page":"Bitha"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"47c9d144bb2abb4908c3d96a6ef0e55a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1242791483,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1242791483,
+    "wof:lastmodified":1549930426,
+    "wof:name":"Bitha",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.63371,
+    31.33431,
+    34.63371,
+    31.33431
+],
+  "geometry": {"coordinates":[34.63371,31.33431],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1225847039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.49241,32.47144,35.49241,32.47144",
+    "geom:latitude":32.47144,
+    "geom:longitude":35.49241,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Hawwat `Eden",
+    "gn:country_code":"IL",
+    "gn:dem":-122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295303,
+    "gn:latitude":32.47144,
+    "gn:longitude":35.49241,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"H\u0331awwat \u2018Eden",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05ea \u05e2\u05d3\u05df"
+    ],
+    "name:und_x_variant":[
+        "Eden Farm",
+        "H\u0331awwat \u2018Eden",
+        "Havvat Eden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295303
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"c4bbb7e64dcb028ab96a47aba5cfa28f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":1225847039,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1225847039,
+    "wof:lastmodified":1549930398,
+    "wof:name":"Hawwat `Eden",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.49241,
+    32.47144,
+    35.49241,
+    32.47144
+],
+  "geometry": {"coordinates":[35.49241,32.47144],"type":"Point"}
+}

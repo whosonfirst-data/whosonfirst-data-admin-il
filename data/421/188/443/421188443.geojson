@@ -1,0 +1,103 @@
+{
+  "id": 421188443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.15912,32.59517,35.15912,32.59517",
+    "geom:latitude":32.59517,
+    "geom:longitude":35.15912,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Midrach Oz"
+    ],
+    "name:cze_x_preferred":[
+        "Midrach Oz"
+    ],
+    "name:eng_x_preferred":[
+        "Midrakh Oz"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d3\u05e8\u05da \u05e2\u05d5\u05d6"
+    ],
+    "name:heb_x_variant":[
+        "Midrakh \u2018Oz"
+    ],
+    "name:nno_x_preferred":[
+        "Midrakh Oz"
+    ],
+    "name:pol_x_preferred":[
+        "Midrach Oz"
+    ],
+    "name:unk_x_variant":[
+        "\u2018Ein al Mansi"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294399,
+    "qs:gn_pop":0,
+    "qs:name":"Midrakh Oz",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":21,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":21,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1096662,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967681,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":83,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294399,
+        "gp:id":1967681,
+        "qs:id":1096662,
+        "wd:id":"Q2777479",
+        "wk:page":"Midrakh Oz"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009559,
+    "wof:geomhash":"cc4db6e34dbe26e29de5ebe399deb253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":421188443,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421188443,
+    "wof:lastmodified":1549930367,
+    "wof:name":"Midrakh Oz",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.15912,
+    32.59517,
+    35.15912,
+    32.59517
+],
+  "geometry": {"coordinates":[35.15912,32.59517],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1209418091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.89828,32.16656,34.89828,32.16656",
+    "geom:latitude":32.16656,
+    "geom:longitude":34.89828,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kefar Malal",
+    "gn:country_code":"IL",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294530,
+    "gn:latitude":32.16656,
+    "gn:longitude":34.89828,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Kefar Malal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05de\u05dc\u2019\u2019\u05dc"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ein H\u0101y",
+        "Kfar Malal",
+        "\u2018Ein Hai",
+        "Kefar Malal",
+        "Kefar Mallal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294530,
+        "wk:page":"Kfar_Malal"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"1b2907a9d4596a958b4591b71c888cb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720821,
+            "locality_id":1209418091,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1209418091,
+    "wof:lastmodified":1549930454,
+    "wof:name":"Kefar Malal",
+    "wof:parent_id":1108720821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.89828,
+    32.16656,
+    34.89828,
+    32.16656
+],
+  "geometry": {"coordinates":[34.89828,32.16656],"type":"Point"}
+}

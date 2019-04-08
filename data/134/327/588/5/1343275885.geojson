@@ -1,0 +1,74 @@
+{
+  "id": 1343275885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.89779,31.22066,34.89779,31.22066",
+    "geom:latitude":31.22066,
+    "geom:longitude":34.89779,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Abu Raqeiq",
+    "gn:country_code":"IL",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8377167,
+    "gn:latitude":31.22066,
+    "gn:longitude":34.89779,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ab\u016b Raqeiq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Ab\u016b Raqeiq"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05d1\u05d5 \u05e8\u05e7\u05d9\u05e7",
+        "Ab\u016b Rakeik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8377167
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"c8a69bcbc71ee6b682812d2532672a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1343275885,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1343275885,
+    "wof:lastmodified":1549930340,
+    "wof:name":"Abu Raqeiq",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.89779,
+    31.22066,
+    34.89779,
+    31.22066
+],
+  "geometry": {"coordinates":[34.89779,31.22066],"type":"Point"}
+}

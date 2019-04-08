@@ -1,0 +1,127 @@
+{
+  "id": 85903091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000104,
+    "geom:area_square_m":1098008.865042,
+    "geom:bbox":"35.1809692383,31.7795473694,35.1947021484,31.7912207076",
+    "geom:latitude":31.785296,
+    "geom:longitude":35.18822,
+    "gn:latitude":31.77953,
+    "gn:longitude":35.19004,
+    "iso:country":"IL",
+    "lbl:latitude":31.784935,
+    "lbl:longitude":35.190028,
+    "mps:latitude":31.785001,
+    "mps:longitude":35.187664,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "name:ces_x_preferred":[
+        "Bejt ha-Kerem"
+    ],
+    "name:eng_x_preferred":[
+        "Bet HaKerem"
+    ],
+    "name:eng_x_variant":[
+        "Beit Hakerem"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05d4\u05db\u05e8\u05dd"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u0438\u0442 \u0425\u0430\u043a\u0435\u0440\u0435\u043c"
+    ],
+    "name:unk_x_variant":[
+        "Beit Hakerem",
+        "Bet HaKerem"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05d4\u05db\u05e8\u05dd"
+    ],
+    "qs:gn_adm0_cc":"IL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":281184,
+    "qs:gn_nam_loc":"poriyya",
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"Bet HaKerem",
+    "qs:local_max":20606,
+    "qs:local_sum":72250,
+    "qs:localhoods":38,
+    "qs:name":"Bet HaKerem",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Jerusalem",
+    "qs:name_local":"Jerusalem",
+    "qs:photo_max":72,
+    "qs:photo_sum":188,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424852,
+    "qs:woe_adm1":2345796,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1968222,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":523,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168681,
+        1108720823,
+        85672551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295462,
+        "gp:id":1967180,
+        "qs:id":317278,
+        "qs_pg:id":317278,
+        "wd:id":"Q2918294",
+        "wk:page":"Beit HaKerem, Jerusalem"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"dbf0ed1bb3d77b901e41ad244266bc7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421168681,
+            "neighbourhood_id":85903091,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":85903091,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549930537,
+    "wof:name":"Bet HaKerem",
+    "wof:parent_id":421168681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.18096923827534,
+    31.77954736940005,
+    35.19470214841914,
+    31.79122070763761
+],
+  "geometry": {"coordinates":[[[35.1919555664,31.79122070763761],[35.1919555664,31.78888615818119],[35.19470214841363,31.78888615519611],[35.19470214841397,31.78655154623777],[35.19470214841914,31.78421687888118],[35.1919555664,31.78421687589609],[35.1919555664,31.78188215640006],[35.1919555664,31.78071473342523],[35.19058227537511,31.7799069817182],[35.18920898440012,31.78071473341075],[35.18920898440012,31.77954736940005],[35.18371582029999,31.77954736940005],[35.18371582029999,31.78093878840416],[35.18371582029999,31.78421682555023],[35.18371577019047,31.78421688450005],[35.18096923827534,31.78744795477984],[35.18096923827534,31.78888610485033],[35.18371582029999,31.78888610485033],[35.18371582029999,31.78888616380007],[35.18802627115036,31.78888615839195],[35.18868769566313,31.79122070027513],[35.18920898440012,31.79122070464639],[35.1919555664,31.79122070763761]]],"type":"Polygon"}
+}

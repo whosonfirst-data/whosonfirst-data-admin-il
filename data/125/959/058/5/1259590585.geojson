@@ -1,0 +1,71 @@
+{
+  "id": 1259590585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.24409,32.73137,35.24409,32.73137",
+    "geom:latitude":32.73137,
+    "geom:longitude":35.24409,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Shimshit",
+    "gn:country_code":"IL",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8264691,
+    "gn:latitude":32.73137,
+    "gn:longitude":35.24409,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Shimshit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e9\u05de\u05e9\u05d9\u05ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8264691,
+        "wk:page":"Shimshit"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"136a1f850e949793e73ba2f311e6bf65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":1259590585,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1259590585,
+    "wof:lastmodified":1549930427,
+    "wof:name":"Shimshit",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24409,
+    32.73137,
+    35.24409,
+    32.73137
+],
+  "geometry": {"coordinates":[35.24409,32.73137],"type":"Point"}
+}

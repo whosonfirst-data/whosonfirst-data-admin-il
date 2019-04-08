@@ -1,0 +1,153 @@
+{
+  "id": 421200399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.95023,32.2341,34.95023,32.2341",
+    "geom:latitude":32.2341,
+    "geom:longitude":34.95023,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u064a\u0631\u0629"
+    ],
+    "name:ces_x_preferred":[
+        "Tira"
+    ],
+    "name:deu_x_preferred":[
+        "Tira"
+    ],
+    "name:eng_x_preferred":[
+        "Tirah"
+    ],
+    "name:epo_x_preferred":[
+        "Tira"
+    ],
+    "name:fas_x_preferred":[
+        "\u0637\u06cc\u0631\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Tira"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05e8\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0 \u05d8\u05d9\u05e8\u05d4"
+    ],
+    "name:ind_x_preferred":[
+        "Tira"
+    ],
+    "name:nno_x_preferred":[
+        "Tira i Israel"
+    ],
+    "name:nor_x_preferred":[
+        "Tira"
+    ],
+    "name:pol_x_preferred":[
+        "Tira"
+    ],
+    "name:por_x_preferred":[
+        "Tira"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0440\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Tira"
+    ],
+    "name:spa_x_preferred":[
+        "Tira"
+    ],
+    "name:tgl_x_preferred":[
+        "Tira"
+    ],
+    "name:unk_x_variant":[
+        "At Tira"
+    ],
+    "name:urd_x_preferred":[
+        "\u0637\u06cc\u0631\u06c1\u060c \u0627\u0633\u0631\u0627\u0626\u06cc\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Tira"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d8\u05d9\u05e8\u05d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u62c9"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295127,
+    "qs:gn_pop":20786,
+    "qs:name":"Tira",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1301897,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1968214,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":32.232778,
+    "wd:longitude":34.950278,
+    "wd:wordcount":1038,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295127,
+        "gp:id":1968214,
+        "qs:id":1301897,
+        "wd:id":"Q167594",
+        "wk:page":"Tira, Israel"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010021,
+    "wof:geomhash":"c0ff017fa1484bc7ccb48fd9a53a4833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":421200399,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421200399,
+    "wof:lastmodified":1549930396,
+    "wof:name":"Tira",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:population":20786,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.95023,
+    32.2341,
+    34.95023,
+    32.2341
+],
+  "geometry": {"coordinates":[34.95023,32.2341],"type":"Point"}
+}

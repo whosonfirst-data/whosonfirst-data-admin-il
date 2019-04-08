@@ -1,0 +1,105 @@
+{
+  "id": 1376877805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.79728,32.1173,34.79728,32.1173",
+    "geom:latitude":32.1173,
+    "geom:longitude":34.79728,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Neve Avivim"
+    ],
+    "name:cze_x_preferred":[
+        "Neve Avivim"
+    ],
+    "name:eng_x_preferred":[
+        "Neve Avivim"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d5\u05d4 \u05d0\u05d1\u05d9\u05d1\u05d9\u05dd"
+    ],
+    "name:heb_x_variant":[
+        "New\u00e9 Avivim",
+        "\u05e0\u05d5\u05d4 \u05d0\u05d1\u05d9\u05d1\u05d9\u05dd",
+        "Nev\u00e9 Avivim"
+    ],
+    "name:pol_x_preferred":[
+        "Newe Awiwim"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":8427125,
+    "qs:gn_pop":0,
+    "qs:name":"Neve Avivim",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Tel Aviv",
+    "qs:photos":1172,
+    "qs:photos_1k":237,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1172,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":352985,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":22725147,
+    "src:geom":"quattroshapes",
+    "wd:latitude":32.117711,
+    "wd:longitude":34.797972,
+    "wd:wordcount":51,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        1125955239,
+        1108720837,
+        85672549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8427125,
+        "gp:id":22725147,
+        "qs:id":352985,
+        "wd:id":"Q2777275",
+        "wk:page":"Neve Avivim"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009056,
+    "wof:geomhash":"b7b8a968cc8b035f4dc79c43f654508d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720837,
+            "locality_id":1125955239,
+            "neighbourhood_id":1376877805,
+            "region_id":85672549
+        }
+    ],
+    "wof:id":1376877805,
+    "wof:lastmodified":1549930740,
+    "wof:name":"Neve Avivim",
+    "wof:parent_id":1125955239,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421175135
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.79728,
+    32.1173,
+    34.79728,
+    32.1173
+],
+  "geometry": {"coordinates":[34.79728,32.1173],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243180875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.97413,32.15856,34.97413,32.15856",
+    "geom:latitude":32.15856,
+    "geom:longitude":34.97413,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Matan",
+    "gn:country_code":"IL",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8428532,
+    "gn:latitude":32.15856,
+    "gn:longitude":34.97413,
+    "gn:modification_date":"2018-04-17",
+    "gn:name":"Matan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05de\u05ea\u05df"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8428532,
+        "wk:page":"Matan,_Israel"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"a6677497d0ea000d8d53165d553ea8e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720821,
+            "locality_id":1243180875,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1243180875,
+    "wof:lastmodified":1549930464,
+    "wof:name":"Matan",
+    "wof:parent_id":1108720821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.97413,
+    32.15855999999999,
+    34.97413,
+    32.15855999999999
+],
+  "geometry": {"coordinates":[34.97413,32.15855999999999],"type":"Point"}
+}

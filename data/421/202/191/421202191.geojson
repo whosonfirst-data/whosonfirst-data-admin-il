@@ -1,0 +1,99 @@
+{
+  "id": 421202191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.77542,31.94504,34.77542,31.94504",
+    "geom:latitude":31.94504,
+    "geom:longitude":34.77542,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Neta'jim"
+    ],
+    "name:cze_x_preferred":[
+        "Neta'jim"
+    ],
+    "name:eng_x_preferred":[
+        "Neta'im"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d8\u05e2\u05d9\u05dd"
+    ],
+    "name:nno_x_preferred":[
+        "Neta'im"
+    ],
+    "name:pol_x_preferred":[
+        "Neta'im"
+    ],
+    "name:unk_x_variant":[
+        "Irgun Hawetiqim"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294072,
+    "qs:gn_pop":0,
+    "qs:name":"Netaim",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":272,
+    "qs:photos_1k":55,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":272,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":8123,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967748,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":135,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294072,
+        "gp:id":1967748,
+        "qs:id":8123,
+        "wd:id":"Q2890382"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010108,
+    "wof:geomhash":"5c5d6157cfe2f3098a62db8ea82a5e78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720813,
+            "locality_id":421202191,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421202191,
+    "wof:lastmodified":1549930399,
+    "wof:name":"Netaim",
+    "wof:parent_id":1108720813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.77542,
+    31.94504,
+    34.77542,
+    31.94504
+],
+  "geometry": {"coordinates":[34.77542,31.94504],"type":"Point"}
+}

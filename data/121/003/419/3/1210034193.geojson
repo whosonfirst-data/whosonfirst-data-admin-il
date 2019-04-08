@@ -1,0 +1,70 @@
+{
+  "id": 1210034193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.63681,30.90465,34.63681,30.90465",
+    "geom:latitude":30.90465,
+    "geom:longitude":34.63681,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mevo Shivta",
+    "gn:country_code":"IL",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":294240,
+    "gn:latitude":30.90465,
+    "gn:longitude":34.63681,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Mevo Shivta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05de\u05d1\u05d5\u05d0 \u05e9\u05d1\u05d8\u05d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294240
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"9e523c97578b050fa29909868f11736c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1210034193,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1210034193,
+    "wof:lastmodified":1549930336,
+    "wof:name":"Mevo Shivta",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.63681,
+    30.90465,
+    34.63681,
+    30.90465
+],
+  "geometry": {"coordinates":[34.63681,30.90465],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 421199633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.47576,32.89783,35.47576,32.89783",
+    "geom:latitude":32.89783,
+    "geom:longitude":35.47576,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Kadarim"
+    ],
+    "name:cze_x_preferred":[
+        "Kadarim"
+    ],
+    "name:dut_x_preferred":[
+        "Kadarim"
+    ],
+    "name:eng_x_preferred":[
+        "Kadarim"
+    ],
+    "name:epo_x_preferred":[
+        "Kadarim"
+    ],
+    "name:fre_x_preferred":[
+        "Kadarim"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d3\u05e8\u05d9\u05dd"
+    ],
+    "name:ita_x_preferred":[
+        "Kadarim"
+    ],
+    "name:nno_x_preferred":[
+        "Kadarim"
+    ],
+    "name:pol_x_preferred":[
+        "Kadarim"
+    ],
+    "name:unk_x_variant":[
+        "Qaddarim"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":386292,
+    "qs:gn_pop":0,
+    "qs:name":"Kadarim",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":106,
+    "qs:photos_1k":21,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":106,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":483246,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":22722711,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":104,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386292,
+        "gp:id":22722711,
+        "qs:id":483246,
+        "wd:id":"Q165623"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009996,
+    "wof:geomhash":"6ddcea5008295a510ddc6276c6220070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720825,
+            "locality_id":421199633,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421199633,
+    "wof:lastmodified":1549930393,
+    "wof:name":"Kadarim",
+    "wof:parent_id":1108720825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.47576,
+    32.89783,
+    35.47576,
+    32.89783
+],
+  "geometry": {"coordinates":[35.47576,32.89783],"type":"Point"}
+}

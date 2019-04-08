@@ -1,0 +1,80 @@
+{
+  "id": 1226750745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.7208,31.81555,34.7208,31.81555",
+    "geom:latitude":31.81555,
+    "geom:longitude":34.7208,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Qevuzat Yavne",
+    "gn:country_code":"IL",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293857,
+    "gn:latitude":31.81555,
+    "gn:longitude":34.7208,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Qevu\u1e95at Yavne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Qevu\u1e95at Yavne"
+    ],
+    "name:heb_x_variant":[
+        "\u05e7\u05d1\u05d5\u05e6\u05ea \u05d9\u05d1\u05e0\u05d4"
+    ],
+    "name:und_x_variant":[
+        "Yavne",
+        "Karem Yavne",
+        "Yavneh",
+        "Qevu\u1e95at Yavne",
+        "Kevutsat Yavne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293857
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"60adc869c17eee1ea862c8b6e8b10d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720813,
+            "locality_id":1226750745,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1226750745,
+    "wof:lastmodified":1549930488,
+    "wof:name":"Qevuzat Yavne",
+    "wof:parent_id":1108720813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.7208,
+    31.81555,
+    34.7208,
+    31.81555
+],
+  "geometry": {"coordinates":[34.7208,31.81555],"type":"Point"}
+}

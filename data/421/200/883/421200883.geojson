@@ -1,0 +1,81 @@
+{
+  "id": 421200883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.11658,32.71258,35.11658,32.71258",
+    "geom:latitude":32.71258,
+    "geom:longitude":35.11658,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05e0\u05d9\u05dd"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293970,
+    "qs:gn_pop":0,
+    "qs:name":"Oranim",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Haifa",
+    "qs:photos":266,
+    "qs:photos_1k":54,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":266,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":898578,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967806,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293970,
+        "gp:id":1967806,
+        "qs:id":898578,
+        "wd:id":"Q601885",
+        "wk:page":"Oranim Academic College"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010044,
+    "wof:geomhash":"cbf0e4208dd04759396e96208e2b3560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720835,
+            "locality_id":421200883,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":421200883,
+    "wof:lastmodified":1549930399,
+    "wof:name":"Oranim",
+    "wof:parent_id":1108720835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11658,
+    32.71258,
+    35.11658,
+    32.71258
+],
+  "geometry": {"coordinates":[35.11658,32.71258],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 85903147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.187475,32.576083,35.187475,32.576083",
+    "geom:latitude":32.576083,
+    "geom:longitude":35.187475,
+    "gn:latitude":32.54908,
+    "gn:longitude":35.18284,
+    "iso:country":"IL",
+    "lbl:latitude":32.576083,
+    "lbl:longitude":35.187475,
+    "mps:latitude":32.57225,
+    "mps:longitude":35.190629,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_colloquial":[
+        "Zalafa el Gharbiya"
+    ],
+    "name:eng_x_preferred":[
+        "Zalafa el Gharb\u012bya"
+    ],
+    "name:heb_x_preferred":[
+        "Zalafa el Gharb\u012bya"
+    ],
+    "name:heb_x_variant":[
+        "\u05d6\u05dc\u05e4\u05d4 \u05d0\u05dc \u05e2\u2019\u05e8\u05d1\u05d9\u05d4"
+    ],
+    "name:unk_x_variant":[
+        "Zalafa el Gharb\u012bya"
+    ],
+    "qs:gn_adm0_cc":"IL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":293286,
+    "qs:gn_nam_loc":"Umm el Fahm, Haifa, IL",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Zalafa el Gharb\u012bya",
+    "qs:local_max":235,
+    "qs:local_sum":258,
+    "qs:localhoods":2,
+    "qs:name":"Zalafa el Gharb\u012bya",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Haifa",
+    "qs:name_local":"Umm El Fahm",
+    "qs:photo_max":120,
+    "qs:photo_sum":235,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424852,
+    "qs:woe_adm1":2345794,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1968215,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        1108720829,
+        85672545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293124,
+        "gp:id":1968114,
+        "qs:id":232231
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"6e806e7a89b617c02e387748541304d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":-1,
+            "neighbourhood_id":85903147,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":85903147,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549930540,
+    "wof:name":"Zalafa el Gharb\u012bya",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.187475,
+    32.576083,
+    35.187475,
+    32.576083
+],
+  "geometry": {"coordinates":[35.187475,32.576083],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1344058763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.19354,32.70638,35.19354,32.70638",
+    "geom:latitude":32.70638,
+    "geom:longitude":35.19354,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Manshiyet Zabda",
+    "gn:country_code":"IL",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9978429,
+    "gn:latitude":32.70638,
+    "gn:longitude":35.19354,
+    "gn:modification_date":"2018-04-15",
+    "gn:name":"Mansh\u012byet Zabda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Mansh\u012byet Zabda"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05e0\u05e9\u05d9\u05ea \u05d6\u05d1\u05d3\u05d4"
+    ],
+    "name:und_x_variant":[
+        "Manshiyya Zibda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9978429,
+        "wk:page":"Manshiya_Zabda"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"f5f68623eadb0dfb444350fe3a133436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":1344058763,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1344058763,
+    "wof:lastmodified":1549930484,
+    "wof:name":"Manshiyet Zabda",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.19354000000001,
+    32.70638,
+    35.19354000000001,
+    32.70638
+],
+  "geometry": {"coordinates":[35.19354000000001,32.70638],"type":"Point"}
+}

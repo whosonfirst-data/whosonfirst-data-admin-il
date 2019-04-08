@@ -1,0 +1,74 @@
+{
+  "id": 1276348691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.93333,32.26667,34.93333,32.26667",
+    "geom:latitude":32.26667,
+    "geom:longitude":34.93333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ein Vered",
+    "gn:cc2":"IL",
+    "gn:country_code":"IL",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295182,
+    "gn:latitude":32.26667,
+    "gn:longitude":34.93333,
+    "gn:modification_date":"2007-07-11",
+    "gn:name":"Ein Vered",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "`Ein Wered",
+        "`Ein Vered",
+        "`Ein Vared"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295182,
+        "wk:page":"Ein_Vered"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"648bcedb7ff5e1e1d68730cc23b08ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":1276348691,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1276348691,
+    "wof:lastmodified":1549930441,
+    "wof:name":"Ein Vered",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.93333,
+    32.26667,
+    34.93333,
+    32.26667
+],
+  "geometry": {"coordinates":[34.93333,32.26667],"type":"Point"}
+}

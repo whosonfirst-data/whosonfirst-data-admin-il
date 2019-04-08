@@ -1,0 +1,90 @@
+{
+  "id": 421166497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.15624,32.55301,35.15624,32.55301",
+    "geom:latitude":32.55301,
+    "geom:longitude":35.15624,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0634\u064a\u0631\u0641\u0629"
+    ],
+    "name:heb_x_preferred":[
+        "El Musheirif\u0101"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05dc \u05de\u05e9\u05d9\u05e8\u05e4\u05d4"
+    ],
+    "name:unk_x_variant":[
+        "Mushayrifah"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294141,
+    "qs:gn_pop":0,
+    "qs:name":"Musheirifa",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Haifa",
+    "qs:photos":26,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":26,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":266909,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967717,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":943,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294141,
+        "gp:id":1967717,
+        "qs:id":266909,
+        "wd:id":"Q12243240"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008692,
+    "wof:geomhash":"f5a7c50e3fa47b6ba0d6754439cb90cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":421166497,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":421166497,
+    "wof:lastmodified":1549930305,
+    "wof:name":"Musheirifa",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.15624,
+    32.55301,
+    35.15624,
+    32.55301
+],
+  "geometry": {"coordinates":[35.15624,32.55301],"type":"Point"}
+}

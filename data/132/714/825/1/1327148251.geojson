@@ -1,0 +1,75 @@
+{
+  "id": 1327148251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.74833,31.57268,34.74833,31.57268",
+    "geom:latitude":31.57268,
+    "geom:longitude":34.74833,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Etan",
+    "gn:country_code":"IL",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295135,
+    "gn:latitude":31.57268,
+    "gn:longitude":34.74833,
+    "gn:modification_date":"2018-04-15",
+    "gn:name":"Etan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05ea\u05df"
+    ],
+    "name:und_x_variant":[
+        "Eitan",
+        "Etan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295135,
+        "wk:page":"Eitan,_Israel"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"8fa9e4c377baa361c8bd9e00ef84a3c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720841,
+            "locality_id":1327148251,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1327148251,
+    "wof:lastmodified":1549930492,
+    "wof:name":"Etan",
+    "wof:parent_id":1108720841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.74833,
+    31.57268,
+    34.74833,
+    31.57268
+],
+  "geometry": {"coordinates":[34.74833,31.57268],"type":"Point"}
+}

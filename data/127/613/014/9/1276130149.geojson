@@ -1,0 +1,75 @@
+{
+  "id": 1276130149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.44893,32.66686,35.44893,32.66686",
+    "geom:latitude":32.66686,
+    "geom:longitude":35.44893,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kefar Kisch",
+    "gn:country_code":"IL",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294518,
+    "gn:latitude":32.66686,
+    "gn:longitude":35.44893,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kefar Kisch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05e7\u05d9\u05e9"
+    ],
+    "name:und_x_variant":[
+        "Kefar Kish",
+        "Kefar Kisch",
+        "Kefar Qish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294518
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"1cece521c9b425602c9a1128f5e5610c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720825,
+            "locality_id":1276130149,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1276130149,
+    "wof:lastmodified":1549930358,
+    "wof:name":"Kefar Kisch",
+    "wof:parent_id":1108720825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.44893,
+    32.66686,
+    35.44893,
+    32.66686
+],
+  "geometry": {"coordinates":[35.44893,32.66686],"type":"Point"}
+}

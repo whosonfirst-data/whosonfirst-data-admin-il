@@ -1,0 +1,75 @@
+{
+  "id": 1259388723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.03957,32.76975,35.03957,32.76975",
+    "geom:latitude":32.76975,
+    "geom:longitude":35.03957,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tel Hanan",
+    "gn:country_code":"IL",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293371,
+    "gn:latitude":32.76975,
+    "gn:longitude":35.03957,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Tel H\u0331anan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05ea\u05dc \u05d7\u05e0\u05df"
+    ],
+    "name:und_x_variant":[
+        "Balad esh Sheikh",
+        "Balad Ash-Shaykh",
+        "Tel H\u0331anan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293371
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"89f46844ceacca0af113e9c93eb1cf0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720835,
+            "locality_id":1259388723,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1259388723,
+    "wof:lastmodified":1549930357,
+    "wof:name":"Tel Hanan",
+    "wof:parent_id":1108720835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.03957,
+    32.76975,
+    35.03957,
+    32.76975
+],
+  "geometry": {"coordinates":[35.03957,32.76975],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 421174607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.28446,32.94165,35.28446,32.94165",
+    "geom:latitude":32.94165,
+    "geom:longitude":35.28446,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Lavon"
+    ],
+    "name:cze_x_preferred":[
+        "Lavon"
+    ],
+    "name:dut_x_preferred":[
+        "Lavon"
+    ],
+    "name:eng_x_preferred":[
+        "Lavon"
+    ],
+    "name:fre_x_preferred":[
+        "Lavon"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d1\u05d5\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Lavon i Israel"
+    ],
+    "name:pol_x_preferred":[
+        "Lavon"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":8066326,
+    "qs:gn_pop":0,
+    "qs:name":"Lavon",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":50,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":50,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":888244,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":22528359,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":73,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066326,
+        "gp:id":22528359,
+        "qs:id":888244,
+        "wd:id":"Q2890592",
+        "wk:page":"Lavon, Israel"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009038,
+    "wof:geomhash":"cfe4e868aca792d0f4daf0d4e2590931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":421174607,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421174607,
+    "wof:lastmodified":1549930321,
+    "wof:name":"Lavon",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.28446,
+    32.94165,
+    35.28446,
+    32.94165
+],
+  "geometry": {"coordinates":[35.28446,32.94165],"type":"Point"}
+}

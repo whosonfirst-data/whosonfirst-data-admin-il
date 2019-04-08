@@ -1,0 +1,81 @@
+{
+  "id": 1243554881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.89661,32.46024,34.89661,32.46024",
+    "geom:latitude":32.46024,
+    "geom:longitude":34.89661,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Heftsiba",
+    "gn:country_code":"IL",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294795,
+    "gn:latitude":32.46024,
+    "gn:longitude":34.89661,
+    "gn:modification_date":"2016-11-06",
+    "gn:name":"Heftsiba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "H\u0331ef\u1e95i Bah"
+    ],
+    "name:heb_x_variant":[
+        "\u05d7\u05e4\u05e6\u05d9 \u05d1\u05d4",
+        "H\u0331eftsi Bah"
+    ],
+    "name:und_x_variant":[
+        "Hephzibah",
+        "Heftsi Vah",
+        "Hefsi-bah",
+        "\u1e24eftsi Bah",
+        "H\u0331ef\u1e95i Bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294795
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"abadb23859551280ff1b066e0e774c25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":1243554881,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1243554881,
+    "wof:lastmodified":1549930486,
+    "wof:name":"Heftsiba",
+    "wof:parent_id":1108720819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.89661,
+    32.46024,
+    34.89661,
+    32.46024
+],
+  "geometry": {"coordinates":[34.89661,32.46024],"type":"Point"}
+}

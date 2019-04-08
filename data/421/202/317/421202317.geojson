@@ -1,0 +1,77 @@
+{
+  "id": 421202317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.816302,32.078511,34.816302,32.078511",
+    "geom:latitude":32.078511,
+    "geom:longitude":34.816302,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Shkhunat Sheinkin",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Tel Aviv",
+    "qs:photos":35,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":35,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":14518,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":22725181,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421177425,
+        1108720837,
+        85672549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22725181,
+        "qs:id":14518
+    },
+    "wof:country":"IL",
+    "wof:created":1459010113,
+    "wof:geomhash":"9e8d2159be3ea32f29caa3de87f70e6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720837,
+            "locality_id":421177425,
+            "neighbourhood_id":421202317,
+            "region_id":85672549
+        }
+    ],
+    "wof:id":421202317,
+    "wof:lastmodified":1549930550,
+    "wof:name":"Shkhunat Sheinkin",
+    "wof:parent_id":421177425,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.816302,
+    32.078511,
+    34.816302,
+    32.078511
+],
+  "geometry": {"coordinates":[34.816302,32.078511],"type":"Point"}
+}

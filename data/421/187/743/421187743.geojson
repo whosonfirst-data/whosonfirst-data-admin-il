@@ -1,0 +1,140 @@
+{
+  "id": 421187743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.12456,32.71893,35.12456,32.71893",
+    "geom:latitude":32.71893,
+    "geom:longitude":35.12456,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Qiryat Tivon"
+    ],
+    "name:ces_x_preferred":[
+        "Kirjat Tiv'on"
+    ],
+    "name:cze_x_preferred":[
+        "Kirjat Tiv'on"
+    ],
+    "name:deu_x_preferred":[
+        "Kirjat Tiw\u2019on"
+    ],
+    "name:dut_x_preferred":[
+        "Kiryat Tiv'on"
+    ],
+    "name:eng_x_preferred":[
+        "Kiryat Tiv'on"
+    ],
+    "name:fra_x_preferred":[
+        "Kiryat Tivon"
+    ],
+    "name:fre_x_preferred":[
+        "Kiryat Tivon"
+    ],
+    "name:ger_x_preferred":[
+        "Kirjat Tiw\u2019on"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d9\u05d9\u05ea \u05d8\u05d1\u05e2\u05d5\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05e7\u05e8\u05d9\u05ea \u05d8\u05d1\u05e2\u05d5\u05df",
+        "Kiryat Tiv\u2018on"
+    ],
+    "name:ita_x_preferred":[
+        "Kiryat Tivon"
+    ],
+    "name:nno_x_preferred":[
+        "Kiryat Tivon"
+    ],
+    "name:pol_x_preferred":[
+        "Kirjat Tiwon"
+    ],
+    "name:ron_x_preferred":[
+        "Kiriat Tivon"
+    ],
+    "name:rum_x_preferred":[
+        "Kirjat Tiw'on"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u044c\u044f\u0442-\u0422\u0438\u0432\u043e\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Kiryat Tiv'on"
+    ],
+    "name:spa_x_preferred":[
+        "Kiryat Tiv'on"
+    ],
+    "name:unk_x_variant":[
+        "Tiv\u2018on"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293823,
+    "qs:gn_pop":0,
+    "qs:name":"Qiryat Tivon",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Haifa",
+    "qs:photos":175,
+    "qs:photos_1k":35,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":175,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":8131,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967856,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":953,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293823,
+        "gp:id":1967856,
+        "qs:id":8131,
+        "wd:id":"Q1743479",
+        "wk:page":"Kiryat Tiv'on"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009522,
+    "wof:geomhash":"5189791862184be6757fc881afe92237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720835,
+            "locality_id":421187743,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":421187743,
+    "wof:lastmodified":1549930363,
+    "wof:name":"Qiryat Tivon",
+    "wof:parent_id":1108720835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.12456,
+    32.71893,
+    35.12456,
+    32.71893
+],
+  "geometry": {"coordinates":[35.12456,32.71893],"type":"Point"}
+}

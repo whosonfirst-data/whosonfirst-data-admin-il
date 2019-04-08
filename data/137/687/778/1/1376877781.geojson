@@ -1,0 +1,81 @@
+{
+  "id": 1376877781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.86667,32.02222,34.86667,32.02222",
+    "geom:latitude":32.02222,
+    "geom:longitude":34.86667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Qiryat Ono",
+    "gn:cc2":"IL",
+    "gn:country_code":"IL",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293977,
+    "gn:latitude":32.02222,
+    "gn:longitude":34.86667,
+    "gn:modification_date":"2010-05-19",
+    "gn:name":"Qiryat Ono",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:und_x_variant":[
+        "Kafr `\u0100na",
+        "Shkhunat-Ono",
+        "Kafr `Anah",
+        "Qiryat Ono",
+        "Kefar Ono",
+        "Shekhunat Ono"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421196439,
+        1108720837,
+        85672549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293977,
+        "wk:page":"Kiryat_Ono"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"ea5dd14b9a70afe15e56091fbe6e7bb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720837,
+            "locality_id":421196439,
+            "neighbourhood_id":1376877781,
+            "region_id":85672549
+        }
+    ],
+    "wof:id":1376877781,
+    "wof:lastmodified":1549930730,
+    "wof:name":"Qiryat Ono",
+    "wof:parent_id":421196439,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310700711
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.86667,
+    32.02222,
+    34.86667,
+    32.02222
+],
+  "geometry": {"coordinates":[34.86667,32.02222],"type":"Point"}
+}

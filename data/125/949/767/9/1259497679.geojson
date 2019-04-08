@@ -1,0 +1,75 @@
+{
+  "id": 1259497679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.58333,31.6,34.58333,31.6",
+    "geom:latitude":31.6,
+    "geom:longitude":34.58333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Beit Jirja",
+    "gn:cc2":"IL",
+    "gn:country_code":"IL",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":295521,
+    "gn:latitude":31.6,
+    "gn:longitude":34.58333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Beit Jirja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Bayt Jirjah",
+        "Beit Jirja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672531,
+        102191569,
+        85632315,
+        136253049,
+        1108720841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295521,
+        "wk:page":"Bayt_Jirja"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"9a71515ce27dfa90ec1336ab531ed10d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720841,
+            "empire_id":136253049,
+            "locality_id":1259497679,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1259497679,
+    "wof:lastmodified":1537636863,
+    "wof:name":"Beit Jirja",
+    "wof:parent_id":1108720841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.58333,
+    31.6,
+    34.58333,
+    31.6
+],
+  "geometry": {"coordinates":[34.58333,31.6],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226255651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.00222,32.22623,35.00222,32.22623",
+    "geom:latitude":32.22623,
+    "geom:longitude":35.00222,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kokhav Ya'ir",
+    "gn:country_code":"IL",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8141161,
+    "gn:latitude":32.22623,
+    "gn:longitude":35.00222,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kokhav Ya\u2019ir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Kokhav Ya\u2019ir"
+    ],
+    "name:heb_x_variant":[
+        "\u05db\u05d5\u05db\u05d1 \u05d9\u05d0\u05d9\u05e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8141161,
+        "wk:page":"Kokhav_Ya%27ir"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"965b881036c9b5a76ac3aad2333f584f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720821,
+            "locality_id":1226255651,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1226255651,
+    "wof:lastmodified":1549930448,
+    "wof:name":"Kokhav Ya'ir",
+    "wof:parent_id":1108720821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.00222,
+    32.22623,
+    35.00222,
+    32.22623
+],
+  "geometry": {"coordinates":[35.00222,32.22623],"type":"Point"}
+}

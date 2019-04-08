@@ -1,0 +1,188 @@
+{
+  "id": 421176929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.97183,32.76021,34.97183,32.76021",
+    "geom:latitude":32.76021,
+    "geom:longitude":34.97183,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0637\u064a\u0631\u0629 \u0627\u0644\u0643\u0631\u0645\u0644"
+    ],
+    "name:arm_x_preferred":[
+        "\u054f\u056b\u0580\u0561\u0569 \u0554\u0561\u0580\u0574\u0565\u056c"
+    ],
+    "name:cat_x_preferred":[
+        "Tirat Carmel"
+    ],
+    "name:ces_x_preferred":[
+        "Tirat Karmel"
+    ],
+    "name:chi_x_preferred":[
+        "\u63d0\u62c9\u7279\u5361\u723e\u9081\u52d2"
+    ],
+    "name:cze_x_preferred":[
+        "Tirat Karmel"
+    ],
+    "name:deu_x_preferred":[
+        "Tirat Carmel"
+    ],
+    "name:dut_x_preferred":[
+        "Tirat Carmel"
+    ],
+    "name:eng_x_preferred":[
+        "Tirat Hakarmel"
+    ],
+    "name:eng_x_variant":[
+        "Tirat Carmel",
+        "Tirat Karmel"
+    ],
+    "name:fas_x_preferred":[
+        "\u0637\u06cc\u0631\u0647 \u06a9\u0631\u0645\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Tirat Carmel"
+    ],
+    "name:fre_x_preferred":[
+        "Tirat Carmel"
+    ],
+    "name:ger_x_preferred":[
+        "Tirat Carmel"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05e8\u05ea \u05db\u05e8\u05de\u05dc"
+    ],
+    "name:hun_x_preferred":[
+        "Tirat Carmel"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u056b\u0580\u0561\u0569 \u0554\u0561\u0580\u0574\u0565\u056c"
+    ],
+    "name:ind_x_preferred":[
+        "Tirat Carmel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30a3\u30e9\u30c8\u30fb\u30ab\u30eb\u30e1\u30eb"
+    ],
+    "name:nno_x_preferred":[
+        "Tirat Carmel"
+    ],
+    "name:per_x_preferred":[
+        "\u0637\u06cc\u0631\u0647 \u06a9\u0631\u0645\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Tirat Karmel"
+    ],
+    "name:por_x_preferred":[
+        "Tirat Carmel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0440\u0430\u0442-\u041a\u0430\u0440\u043c\u0435\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0438\u0440\u0430\u0442 \u041a\u0430\u0440\u043c\u0435\u043b\u044c",
+        "\u0422\u0438\u0440\u0430\u0442 \u0425\u0430\u041a\u0430\u0440\u043c\u0435\u043b\u044c"
+    ],
+    "name:sco_x_preferred":[
+        "Tirat Carmel"
+    ],
+    "name:spa_x_preferred":[
+        "Tirat Carmel"
+    ],
+    "name:swe_x_preferred":[
+        "Tirat Karmel"
+    ],
+    "name:tgl_x_preferred":[
+        "Tirat Karmel"
+    ],
+    "name:unk_x_variant":[
+        "At Tira"
+    ],
+    "name:urd_x_preferred":[
+        "\u0637\u06cc\u0631\u06c1 \u0627\u0644\u06a9\u0631\u0645\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Tirat Carmel"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d8\u05d9\u05e8\u05ea \u05db\u05e8\u05de\u05dc"
+    ],
+    "name:zho_x_preferred":[
+        "\u63d0\u62c9\u7279\u5361\u723e\u9081\u52d2"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293308,
+    "qs:gn_pop":18993,
+    "qs:name":"Tirat Karmel",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Haifa",
+    "qs:photos":51,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":51,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1090927,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1968038,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":32.766667,
+    "wd:longitude":34.966667,
+    "wd:wordcount":532,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293308,
+        "gp:id":1968038,
+        "qs:id":1090927,
+        "wd:id":"Q168215",
+        "wk:page":"Tirat Carmel"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009124,
+    "wof:geomhash":"0d30074f80c0dda22867ddf1a9527224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720835,
+            "locality_id":421176929,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":421176929,
+    "wof:lastmodified":1549930327,
+    "wof:name":"Tirat Karmel",
+    "wof:parent_id":1108720835,
+    "wof:placetype":"locality",
+    "wof:population":18993,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.97183,
+    32.76021,
+    34.97183,
+    32.76021
+],
+  "geometry": {"coordinates":[34.97183,32.76021],"type":"Point"}
+}

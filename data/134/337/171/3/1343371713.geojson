@@ -1,0 +1,75 @@
+{
+  "id": 1343371713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.01103,32.27708,35.01103,32.27708",
+    "geom:latitude":32.27708,
+    "geom:longitude":35.01103,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Fardisiya",
+    "gn:country_code":"IL",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":295105,
+    "gn:latitude":32.27708,
+    "gn:longitude":35.01103,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Fard\u012bsiy\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:heb_x_preferred":[
+        "Fard\u012bsiy\u0101"
+    ],
+    "name:heb_x_variant":[
+        "\u05e4\u05e8\u05d3\u05d9\u05e1\u05d9\u05d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672541,
+        102191569,
+        85632315,
+        136253049,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295105
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"283a9af045db46d4109a104eb27aa698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "empire_id":136253049,
+            "locality_id":1343371713,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1343371713,
+    "wof:lastmodified":1537636850,
+    "wof:name":"Fardisiya",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.01103,
+    32.27708,
+    35.01103,
+    32.27708
+],
+  "geometry": {"coordinates":[35.01103,32.27708],"type":"Point"}
+}

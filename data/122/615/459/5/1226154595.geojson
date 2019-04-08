@@ -1,0 +1,71 @@
+{
+  "id": 1226154595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.32815,32.90591,35.32815,32.90591",
+    "geom:latitude":32.90591,
+    "geom:longitude":35.32815,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mikhmannim",
+    "gn:country_code":"IL",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":386309,
+    "gn:latitude":32.90591,
+    "gn:longitude":35.32815,
+    "gn:modification_date":"2018-04-16",
+    "gn:name":"Mikhmannim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05de\u05db\u05de\u05e0\u05d9\u05dd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386309,
+        "wk:page":"Mikhmanim"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"f1a01aff5d225eb4e86fa0bd601bb57d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":1226154595,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1226154595,
+    "wof:lastmodified":1549930449,
+    "wof:name":"Mikhmannim",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.32815,
+    32.90591,
+    35.32815,
+    32.90591
+],
+  "geometry": {"coordinates":[35.32815,32.90591],"type":"Point"}
+}

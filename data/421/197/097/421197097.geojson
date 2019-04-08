@@ -1,0 +1,108 @@
+{
+  "id": 421197097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.53336,32.49198,35.53336,32.49198",
+    "geom:latitude":32.49198,
+    "geom:longitude":35.53336,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Neve Ejtan"
+    ],
+    "name:cze_x_preferred":[
+        "Neve Ejtan"
+    ],
+    "name:dut_x_preferred":[
+        "Neve Eitan"
+    ],
+    "name:eng_x_preferred":[
+        "Neve Eitan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d5\u05d4 \u05d0\u05d9\u05ea\u05df"
+    ],
+    "name:heb_x_variant":[
+        "New\u00e9 Etan",
+        "\u05e0\u05d5\u05d4 \u05d0\u05d9\u05ea\u05df",
+        "Nev\u00e9 Etan"
+    ],
+    "name:nno_x_preferred":[
+        "Neve Eitan"
+    ],
+    "name:pol_x_preferred":[
+        "Newe Etan"
+    ],
+    "name:unk_x_variant":[
+        "Neve Eitan"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294056,
+    "qs:gn_pop":0,
+    "qs:name":"Newe Etan",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":42,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":42,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1301763,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967757,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":204,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294056,
+        "gp:id":1967757,
+        "qs:id":1301763,
+        "wd:id":"Q2888564",
+        "wk:page":"Neve Eitan"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009902,
+    "wof:geomhash":"925c5cd1b6d04f156234fd0c9b5a2283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":421197097,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421197097,
+    "wof:lastmodified":1549930387,
+    "wof:name":"Newe Etan",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.53336,
+    32.49198,
+    35.53336,
+    32.49198
+],
+  "geometry": {"coordinates":[35.53336,32.49198],"type":"Point"}
+}

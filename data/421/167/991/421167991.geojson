@@ -1,0 +1,118 @@
+{
+  "id": 421167991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.39026,32.56039,35.39026,32.56039",
+    "geom:latitude":32.56039,
+    "geom:longitude":35.39026,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Ejn Charod"
+    ],
+    "name:cze_x_preferred":[
+        "Ejn Charod"
+    ],
+    "name:deu_x_preferred":[
+        "En Harod"
+    ],
+    "name:eng_x_preferred":[
+        "Ein Harod"
+    ],
+    "name:fra_x_preferred":[
+        "E\u00efn-Harod"
+    ],
+    "name:fre_x_preferred":[
+        "E\u00efn-Harod"
+    ],
+    "name:ger_x_preferred":[
+        "En Harod"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d9\u05df \u05d7\u05e8\u05d5\u05d3"
+    ],
+    "name:heb_x_variant":[
+        "En H\u0331arod"
+    ],
+    "name:pol_x_preferred":[
+        "En Charod"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0439\u043d-\u0425\u0430\u0440\u043e\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0439\u043d-\u0425\u0430\u0440\u043e\u0434"
+    ],
+    "name:unk_x_variant":[
+        "Qumiya"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295210,
+    "qs:gn_pop":0,
+    "qs:name":"En Harod",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":115,
+    "qs:photos_1k":23,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":115,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":468251,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967284,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":490,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295210,
+        "gp:id":1967284,
+        "qs:id":468251,
+        "wd:id":"Q1339887",
+        "wk:page":"Ein Harod"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008750,
+    "wof:geomhash":"db95d83afbfd12b8938f285b43e41a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":421167991,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421167991,
+    "wof:lastmodified":1549930328,
+    "wof:name":"En Harod",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.39026,
+    32.56039,
+    35.39026,
+    32.56039
+],
+  "geometry": {"coordinates":[35.39026,32.56039],"type":"Point"}
+}

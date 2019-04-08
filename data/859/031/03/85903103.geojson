@@ -1,0 +1,116 @@
+{
+  "id": 85903103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":14204285.708279,
+    "geom:bbox":"34.984379,32.807403,34.984379,32.807403",
+    "geom:latitude":32.807403,
+    "geom:longitude":34.984379,
+    "gn:latitude":32.8,
+    "gn:longitude":34.98333,
+    "iso:country":"IL",
+    "lbl:latitude":32.807403,
+    "lbl:longitude":34.984379,
+    "mps:latitude":32.804589,
+    "mps:longitude":34.980989,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "HaKarmel"
+    ],
+    "name:eng_x_variant":[
+        "Carmel"
+    ],
+    "name:unk_x_variant":[
+        "Carmel",
+        "HaKarmel"
+    ],
+    "qs:gn_adm0_cc":"IL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":294801,
+    "qs:gn_nam_loc":"Haifa, Haifa, IL",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"HaKarmel",
+    "qs:local_max":13408,
+    "qs:local_sum":25534,
+    "qs:localhoods":8,
+    "qs:name":"HaKarmel",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Haifa",
+    "qs:name_local":"Haifa",
+    "qs:photo_max":901,
+    "qs:photo_sum":5340,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":86,
+    "qs:woe_adm0":23424852,
+    "qs:woe_adm1":2345794,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1967449,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        136253049,
+        1108720835,
+        85672535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294923,
+        "gp:id":1967409,
+        "qs:id":1146153
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"6e8ef7239518cdf0f50bf4905f685c92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720835,
+            "empire_id":136253049,
+            "locality_id":-1,
+            "neighbourhood_id":85903103,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":85903103,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379344,
+    "wof:name":"HaKarmel",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[
+        1126109365
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.984379,
+    32.807403,
+    34.984379,
+    32.807403
+],
+  "geometry": {"coordinates":[34.984379,32.807403],"type":"Point"}
+}

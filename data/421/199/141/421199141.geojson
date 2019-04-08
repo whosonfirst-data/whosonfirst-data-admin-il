@@ -1,0 +1,115 @@
+{
+  "id": 421199141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.1479,32.99231,35.1479,32.99231",
+    "geom:latitude":32.99231,
+    "geom:longitude":35.1479,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "\u0160ejch Danun"
+    ],
+    "name:cze_x_preferred":[
+        "\u0160ejch Danun"
+    ],
+    "name:dut_x_preferred":[
+        "Sheikh Danun"
+    ],
+    "name:eng_x_preferred":[
+        "Sheikh Danun"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d9\u05d7' \u05d3\u05e0\u05d5\u05df"
+    ],
+    "name:heb_x_variant":[
+        "Esh Sheikh Dann\u016bn",
+        "\u05d0 \u05e9\u05d9\u05d7\u2019 \u05d3\u05e0\u05d5\u05df",
+        "Esh Sheikh D\u0101w\u016bd",
+        "\u05d0 \u05e9\u05d9\u05d7\u2019 \u05d3\u05d0\u05d5\u05d3"
+    ],
+    "name:nno_x_preferred":[
+        "Sheikh Danun"
+    ],
+    "name:pol_x_preferred":[
+        "Szejk Danun"
+    ],
+    "name:swe_x_preferred":[
+        "Esh Sheikh Dann\u016bn"
+    ],
+    "name:unk_x_variant":[
+        "Dannun"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295157,
+    "qs:gn_pop":2305,
+    "qs:name":"Esh Sheikh Dannun",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":189552,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967305,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":1274,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295157,
+        "gp:id":1967305,
+        "qs:id":189552,
+        "wd:id":"Q135434",
+        "wk:page":"Sheikh Danun"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009979,
+    "wof:geomhash":"5992b72f4a746dd566bb6c21c3bab7ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":421199141,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421199141,
+    "wof:lastmodified":1549930390,
+    "wof:name":"Esh Sheikh Dannun",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:population":2305,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1479,
+    32.99231,
+    35.1479,
+    32.99231
+],
+  "geometry": {"coordinates":[35.1479,32.99231],"type":"Point"}
+}

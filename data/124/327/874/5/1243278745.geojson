@@ -1,0 +1,121 @@
+{
+  "id": 1243278745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.77165,33.18083,35.77165,33.18083",
+    "geom:latitude":33.18083,
+    "geom:longitude":35.77165,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Al Rum",
+    "gn:country_code":"IL",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"STLMT",
+    "gn:geonameid":443109,
+    "gn:latitude":33.18083,
+    "gn:longitude":35.77165,
+    "gn:modification_date":"2017-12-03",
+    "gn:name":"Al R\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ar R\u016bm"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0631\u0648\u0645"
+    ],
+    "name:und_x_variant":[
+        "El Rom",
+        "\u05d0\u05dc \u05e8\u05d5\u05dd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85678395,
+        85632221,
+        102191569,
+        85632315,
+        1108779081,
+        85632413,
+        85672545,
+        1108720811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443109,
+        "wk:page":"El_Rom"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"5bafe15490aeb0e26e7c98338cb81d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1243278745,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779081,
+            "disputed_id":85632221,
+            "locality_id":1243278745,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108779081,
+            "locality_id":1243278745,
+            "region_id":85672545
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1243278745,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108720811,
+            "disputed_id":85632221,
+            "locality_id":1243278745,
+            "region_id":85678395
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720811,
+            "locality_id":1243278745,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1243278745,
+    "wof:lastmodified":1549931213,
+    "wof:name":"Al Rum",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.77165,
+    33.18083,
+    35.77165,
+    33.18083
+],
+  "geometry": {"coordinates":[35.77165,33.18083],"type":"Point"}
+}

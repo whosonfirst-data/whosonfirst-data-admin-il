@@ -1,0 +1,77 @@
+{
+  "id": 1327345415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.54811,32.76888,35.54811,32.76888",
+    "geom:latitude":32.76888,
+    "geom:longitude":35.54811,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Hammat",
+    "gn:country_code":"IL",
+    "gn:dem":-204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294895,
+    "gn:latitude":32.76888,
+    "gn:longitude":35.54811,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"H\u0331ammat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "H\u0331ammat"
+    ],
+    "name:heb_x_variant":[
+        "\u05d7\u05de\u05ea"
+    ],
+    "name:und_x_variant":[
+        "Himmah",
+        "H\u0331ammat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294895
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"a97918369edd0ae82edec3080c34cda1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720825,
+            "locality_id":1327345415,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1327345415,
+    "wof:lastmodified":1549930493,
+    "wof:name":"Hammat",
+    "wof:parent_id":1108720825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.54811,
+    32.76888,
+    35.54811,
+    32.76888
+],
+  "geometry": {"coordinates":[35.54811,32.76888],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 421192805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.84313,31.56129,34.84313,31.56129",
+    "geom:latitude":31.56129,
+    "geom:longitude":34.84313,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:heb_x_preferred":[
+        "\u05dc\u05db\u05d9\u05e9"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294434,
+    "qs:gn_pop":0,
+    "qs:name":"Lakhish",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Southern",
+    "qs:photos":150,
+    "qs:photos_1k":30,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":150,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1175348,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967598,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294434,
+        "gp:id":1967598,
+        "loc:id":"n80125469",
+        "qs:id":1175348,
+        "wd:id":"Q848509",
+        "wk:page":"Tel Lachish"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009749,
+    "wof:geomhash":"afaad5a2a8e752d35da149348eba029d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720841,
+            "locality_id":421192805,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":421192805,
+    "wof:lastmodified":1549930378,
+    "wof:name":"Lakhish",
+    "wof:parent_id":1108720841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.84313,
+    31.56129,
+    34.84313,
+    31.56129
+],
+  "geometry": {"coordinates":[34.84313,31.56129],"type":"Point"}
+}

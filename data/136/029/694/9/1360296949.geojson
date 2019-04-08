@@ -1,0 +1,80 @@
+{
+  "id": 1360296949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.34454,32.62094,35.34454,32.62094",
+    "geom:latitude":32.62094,
+    "geom:longitude":35.34454,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ed Dahi",
+    "gn:country_code":"IL",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295306,
+    "gn:latitude":32.62094,
+    "gn:longitude":35.34454,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Ed Dah\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Dah\u012b"
+    ],
+    "name:heb_x_variant":[
+        "\u05d3\u05d4\u05d9",
+        "Ed Dah\u012b",
+        "\u05d0 \u05d3\u05d4\u05d9"
+    ],
+    "name:und_x_variant":[
+        "Dah\u012b",
+        "Ed Da\u1e25\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295306,
+        "wk:page":"Ed_Dahi"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"3b15b543a7d0ae1b2af44199928cf272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":1360296949,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1360296949,
+    "wof:lastmodified":1549930460,
+    "wof:name":"Ed Dahi",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.34454,
+    32.62094,
+    35.34454,
+    32.62094
+],
+  "geometry": {"coordinates":[35.34454,32.62094],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1260296761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.09619,32.90308,35.09619,32.90308",
+    "geom:latitude":32.90308,
+    "geom:longitude":35.09619,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`En HaMifraz",
+    "gn:country_code":"IL",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295212,
+    "gn:latitude":32.90308,
+    "gn:longitude":35.09619,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"\u2018En HaMifra\u1e95",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e2\u05d9\u05df \u05d4\u05de\u05e4\u05e8\u05e5"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ein Hamifratz",
+        "\u2018Ein Hamifrats",
+        "\u2018En HaMifra\u1e95",
+        "En HaMifrats"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295212,
+        "wk:page":"Ein_HaMifratz"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"9e44ab3eb92fc8d79cd9ecb262fc21da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":1260296761,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1260296761,
+    "wof:lastmodified":1549930418,
+    "wof:name":"`En HaMifraz",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.09619,
+    32.90308,
+    35.09619,
+    32.90308
+],
+  "geometry": {"coordinates":[35.09619,32.90308],"type":"Point"}
+}

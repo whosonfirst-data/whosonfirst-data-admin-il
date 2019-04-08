@@ -1,0 +1,89 @@
+{
+  "id": 421200385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.15705,32.9282,35.15705,32.9282",
+    "geom:latitude":32.9282,
+    "geom:longitude":35.15705,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:heb_x_preferred":[
+        "\u05d2\u2019\u05d3\u05d9\u05d3\u05d4 \u05de\u05db\u05e8"
+    ],
+    "name:unk_x_variant":[
+        "Al Judeida"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294622,
+    "qs:gn_pop":17530,
+    "qs:name":"Judeida",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1301677,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967490,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":32.334669,
+    "wd:longitude":35.301878,
+    "wd:wordcount":957,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294622,
+        "gp:id":1967490,
+        "qs:id":1301677,
+        "wd:id":"Q6302406"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010020,
+    "wof:geomhash":"33fee44ef8660872fd9e9a0d3d2be9f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":421200385,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421200385,
+    "wof:lastmodified":1549930396,
+    "wof:name":"Judeida",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:population":17530,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.15705,
+    32.9282,
+    35.15705,
+    32.9282
+],
+  "geometry": {"coordinates":[35.15705,32.9282],"type":"Point"}
+}

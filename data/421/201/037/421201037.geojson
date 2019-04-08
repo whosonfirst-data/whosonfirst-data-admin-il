@@ -1,0 +1,112 @@
+{
+  "id": 421201037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.49163,31.42426,34.49163,31.42426",
+    "geom:latitude":31.42426,
+    "geom:longitude":34.49163,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "beeri"
+    ],
+    "name:ces_x_preferred":[
+        "Be'eri"
+    ],
+    "name:cze_x_preferred":[
+        "Be'eri"
+    ],
+    "name:eng_x_preferred":[
+        "Be'eri"
+    ],
+    "name:fre_x_preferred":[
+        "Be'eri"
+    ],
+    "name:ger_x_preferred":[
+        "Be\u2019eri"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05e8\u05d9"
+    ],
+    "name:nno_x_preferred":[
+        "Be'eri"
+    ],
+    "name:pol_x_preferred":[
+        "Be\u2019eri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u044d\u0440\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Hatsofim Bet"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295538,
+    "qs:gn_pop":0,
+    "qs:name":"Be'eri",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Southern",
+    "qs:photos":68,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":68,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":909613,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967148,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":385,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295538,
+        "gp:id":1967148,
+        "qs:id":909613,
+        "wd:id":"Q2467005",
+        "wk:page":"Be'eri"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010049,
+    "wof:geomhash":"ea58e12959f1fda95249f26a72e4914a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":421201037,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":421201037,
+    "wof:lastmodified":1549930394,
+    "wof:name":"Be'eri",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.49163,
+    31.42426,
+    34.49163,
+    31.42426
+],
+  "geometry": {"coordinates":[34.49163,31.42426],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 421173379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.08076,32.95385,35.08076,32.95385",
+    "geom:latitude":32.95385,
+    "geom:longitude":35.08076,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Bustan ha-Galil"
+    ],
+    "name:cze_x_preferred":[
+        "Bustan ha-Galil"
+    ],
+    "name:eng_x_preferred":[
+        "Bustan HaGalil"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e1\u05ea\u05df \u05d4\u05d2\u05dc\u05d9\u05dc"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05e1\u05ea\u05df \u05d4\u05d2\u05dc\u05d9\u05dc"
+    ],
+    "name:nno_x_preferred":[
+        "Bustan HaGalil"
+    ],
+    "name:pol_x_preferred":[
+        "Bustan HaGalil"
+    ],
+    "name:swe_x_preferred":[
+        "Bustan HaGalil"
+    ],
+    "name:unk_x_variant":[
+        "Bustan"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295372,
+    "qs:gn_pop":0,
+    "qs:name":"Bustan HaGalil",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":4549,
+    "qs:photos_1k":922,
+    "qs:photos_9k":20,
+    "qs:photos_9r":13,
+    "qs:photos_all":4549,
+    "qs:photos_sr":23,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":288025,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967226,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":185,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295372,
+        "gp:id":1967226,
+        "qs:id":288025,
+        "wd:id":"Q2888735",
+        "wk:page":"Bustan HaGalil"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008980,
+    "wof:geomhash":"47cfd0eff71d167a141d528cf971a406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":421173379,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421173379,
+    "wof:lastmodified":1549930315,
+    "wof:name":"Bustan HaGalil",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.08076,
+    32.95385,
+    35.08076,
+    32.95385
+],
+  "geometry": {"coordinates":[35.08076,32.95385],"type":"Point"}
+}

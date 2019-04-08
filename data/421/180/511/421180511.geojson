@@ -1,0 +1,124 @@
+{
+  "id": 421180511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.39507,31.33559,34.39507,31.33559",
+    "geom:latitude":31.33559,
+    "geom:longitude":34.39507,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Nirim"
+    ],
+    "name:cze_x_preferred":[
+        "Nirim"
+    ],
+    "name:deu_x_preferred":[
+        "Nirim"
+    ],
+    "name:dut_x_preferred":[
+        "Nirim"
+    ],
+    "name:eng_x_preferred":[
+        "Nirim"
+    ],
+    "name:fra_x_preferred":[
+        "Nirim"
+    ],
+    "name:fre_x_preferred":[
+        "Nirim"
+    ],
+    "name:ger_x_preferred":[
+        "Nirim"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05e8\u05d9\u05dd"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30ea\u30e0"
+    ],
+    "name:nno_x_preferred":[
+        "Nirim"
+    ],
+    "name:pol_x_preferred":[
+        "Nirim"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0440\u0438\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Nirim"
+    ],
+    "name:unk_x_variant":[
+        "HaShomer Ha\u1e94a\u2018ir"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294027,
+    "qs:gn_pop":0,
+    "qs:name":"Nirim",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Southern",
+    "qs:photos":37,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":37,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":433665,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1968225,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":521,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294027,
+        "gp:id":1968225,
+        "qs:id":433665,
+        "wd:id":"Q257555",
+        "wk:page":"Nirim"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009262,
+    "wof:geomhash":"240cae5a1e1e934d9c0952a9175090bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":421180511,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":421180511,
+    "wof:lastmodified":1553816369,
+    "wof:name":"Nirim",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.39507,
+    31.33559,
+    34.39507,
+    31.33559
+],
+  "geometry": {"coordinates":[34.39507,31.33559],"type":"Point"}
+}

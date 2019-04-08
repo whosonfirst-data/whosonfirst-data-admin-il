@@ -1,0 +1,99 @@
+{
+  "id": 421191897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.29118,32.64411,35.29118,32.64411",
+    "geom:latitude":32.64411,
+    "geom:longitude":35.29118,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Kfar Gid'on"
+    ],
+    "name:cze_x_preferred":[
+        "Kfar Gid'on"
+    ],
+    "name:eng_x_preferred":[
+        "Kfar Gidon"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05d2\u05d3\u05e2\u05d5\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Kfar Gidon"
+    ],
+    "name:pol_x_preferred":[
+        "Kefar Gidon"
+    ],
+    "name:unk_x_variant":[
+        "Kefar Gideion"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294548,
+    "qs:gn_pop":0,
+    "qs:name":"Kefar Gidon",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":14,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":14,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1159683,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967531,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":103,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294548,
+        "gp:id":1967531,
+        "qs:id":1159683,
+        "wd:id":"Q2776886"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009713,
+    "wof:geomhash":"109026c6610a2c5e670030708e424a69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":421191897,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421191897,
+    "wof:lastmodified":1549930379,
+    "wof:name":"Kefar Gidon",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.29118,
+    32.64411,
+    35.29118,
+    32.64411
+],
+  "geometry": {"coordinates":[35.29118,32.64411],"type":"Point"}
+}

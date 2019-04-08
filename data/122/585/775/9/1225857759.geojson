@@ -1,0 +1,74 @@
+{
+  "id": 1225857759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.88621,31.86788,34.88621,31.86788",
+    "geom:latitude":31.86788,
+    "geom:longitude":34.88621,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Petahya",
+    "gn:country_code":"IL",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293916,
+    "gn:latitude":31.86788,
+    "gn:longitude":34.88621,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Peta\u1e96ya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e4\u05ea\u05d7\u05d9\u05d4"
+    ],
+    "name:und_x_variant":[
+        "Peta\u1e96ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293916,
+        "wk:page":"Petahya"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"a0222109586de0c2d1c7d75423ae1cc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720815,
+            "locality_id":1225857759,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1225857759,
+    "wof:lastmodified":1549930410,
+    "wof:name":"Petahya",
+    "wof:parent_id":1108720815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.88621,
+    31.86788,
+    34.88621,
+    31.86788
+],
+  "geometry": {"coordinates":[34.88621,31.86788],"type":"Point"}
+}

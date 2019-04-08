@@ -1,0 +1,102 @@
+{
+  "id": 421187773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-02-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.81471,32.11222,34.81471,32.11222",
+    "geom:latitude":32.11222,
+    "geom:longitude":34.81471,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Ma'oz Aviv"
+    ],
+    "name:cze_x_preferred":[
+        "Ma'oz Aviv"
+    ],
+    "name:dut_x_preferred":[
+        "Ma'oz Aviv"
+    ],
+    "name:eng_x_preferred":[
+        "Ma'oz Aviv"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e2\u05d5\u05d6 \u05d0\u05d1\u05d9\u05d1"
+    ],
+    "name:heb_x_variant":[
+        "Ma\u2018oz Aviv"
+    ],
+    "name:pol_x_preferred":[
+        "Ma\u2019oz Awiw"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":8427126,
+    "qs:gn_pop":0,
+    "qs:name":"Ma'oz Aviv",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Tel Aviv",
+    "qs:photos":331,
+    "qs:photos_1k":67,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":331,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1086006,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":22725149,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672549,
+        1108720837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8427126,
+        "gp:id":22725149,
+        "qs:id":1086006,
+        "wd:id":"Q2776717"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009523,
+    "wof:geomhash":"7246ba2440fcf8f46a9c310d6f9bddf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720837,
+            "locality_id":421187773,
+            "region_id":85672549
+        }
+    ],
+    "wof:id":421187773,
+    "wof:lastmodified":1549930758,
+    "wof:name":"Ma'oz Aviv",
+    "wof:parent_id":1108720837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[
+        1376877831
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.81471,
+    32.11222,
+    34.81471,
+    32.11222
+],
+  "geometry": {"coordinates":[34.81471,32.11222],"type":"Point"}
+}

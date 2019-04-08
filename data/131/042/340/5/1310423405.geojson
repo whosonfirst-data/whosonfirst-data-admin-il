@@ -1,0 +1,75 @@
+{
+  "id": 1310423405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.60069,31.33773,34.60069,31.33773",
+    "geom:latitude":31.33773,
+    "geom:longitude":34.60069,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rannen",
+    "gn:country_code":"IL",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293751,
+    "gn:latitude":31.33773,
+    "gn:longitude":34.60069,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Rannen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e8\u05e0\u05df"
+    ],
+    "name:und_x_variant":[
+        "Ranen",
+        "Rannen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293751,
+        "wk:page":"Ranen"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"bd14362c1d07ce29a137316272fddfa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1310423405,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1310423405,
+    "wof:lastmodified":1549930426,
+    "wof:name":"Rannen",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.60069,
+    31.33773,
+    34.60069,
+    31.33773
+],
+  "geometry": {"coordinates":[34.60069,31.33773],"type":"Point"}
+}

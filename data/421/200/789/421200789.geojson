@@ -1,0 +1,99 @@
+{
+  "id": 421200789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.04838,31.77498,35.04838,31.77498",
+    "geom:latitude":31.77498,
+    "geom:longitude":35.04838,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Ksalon"
+    ],
+    "name:cze_x_preferred":[
+        "Ksalon"
+    ],
+    "name:dut_x_preferred":[
+        "Ksalon"
+    ],
+    "name:eng_x_preferred":[
+        "Ksalon"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e1\u05dc\u05d5\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Ksalon"
+    ],
+    "name:pol_x_preferred":[
+        "Kesalon"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294479,
+    "qs:gn_pop":0,
+    "qs:name":"Kesalon",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Jerusalem",
+    "qs:photos":35,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":35,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":894757,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967589,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":184,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294479,
+        "gp:id":1967589,
+        "qs:id":894757,
+        "wd:id":"Q607414"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010041,
+    "wof:geomhash":"64120845209babf0eba315ddf8b2be61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421200789,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":421200789,
+    "wof:lastmodified":1549930398,
+    "wof:name":"Kesalon",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.04838,
+    31.77498,
+    35.04838,
+    31.77498
+],
+  "geometry": {"coordinates":[35.04838,31.77498],"type":"Point"}
+}

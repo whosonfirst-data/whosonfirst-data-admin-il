@@ -1,0 +1,91 @@
+{
+  "id": 421204909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.33707,32.85094,35.33707,32.85094",
+    "geom:latitude":32.85094,
+    "geom:longitude":35.33707,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0627\u0628\u0629"
+    ],
+    "name:heb_x_preferred":[
+        "\u2018Arr\u0101ba"
+    ],
+    "name:heb_x_variant":[
+        "\u05e2\u05e8\u05d1\u05d4",
+        "\u2019Ar\u0101ba"
+    ],
+    "name:unk_x_variant":[
+        "\u2018Arabah"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295636,
+    "qs:gn_pop":0,
+    "qs:name":"Arraba",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":251596,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967105,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":13,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295636,
+        "gp:id":1967105,
+        "qs:id":251596,
+        "wd:id":"Q4795802"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010202,
+    "wof:geomhash":"5a272f68b0642aa4934d9e211099b6aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":421204909,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421204909,
+    "wof:lastmodified":1549930409,
+    "wof:name":"Arraba",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.33707,
+    32.85094,
+    35.33707,
+    32.85094
+],
+  "geometry": {"coordinates":[35.33707,32.85094],"type":"Point"}
+}

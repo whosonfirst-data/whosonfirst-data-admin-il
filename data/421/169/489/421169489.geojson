@@ -1,0 +1,84 @@
+{
+  "id": 421169489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.5413,32.86888,35.5413,32.86888",
+    "geom:latitude":32.86888,
+    "geom:longitude":35.5413,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:heb_x_preferred":[
+        "\u05d0\u05db\u05e1\u05e0\u05d9\u05ea \u05db\u05e8\u05d9 \u05d3\u05e9\u05d0"
+    ],
+    "name:unk_x_variant":[
+        "Tabgha Hospice"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294593,
+    "qs:gn_pop":0,
+    "qs:name":"Kare Deshe",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":1934,
+    "qs:photos_1k":392,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":1934,
+    "qs:photos_sr":15,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":189562,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967507,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294593,
+        "gp:id":1967507,
+        "qs:id":189562,
+        "wd:id":"Q1026813",
+        "wk:page":"Tabgha"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008812,
+    "wof:geomhash":"c795972d340e51fdd9569fad5188d106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720825,
+            "locality_id":421169489,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421169489,
+    "wof:lastmodified":1549930317,
+    "wof:name":"Kare Deshe",
+    "wof:parent_id":1108720825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.5413,
+    32.86888,
+    35.5413,
+    32.86888
+],
+  "geometry": {"coordinates":[35.5413,32.86888],"type":"Point"}
+}

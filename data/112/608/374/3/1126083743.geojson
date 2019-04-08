@@ -1,0 +1,104 @@
+{
+  "id": 1126083743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.98573,32.70232,34.98573,32.70232",
+    "geom:latitude":32.70232,
+    "geom:longitude":34.98573,
+    "gn:gn_country":"IL",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":32.703,
+    "gn:longitude":34.98704,
+    "iso:country":"IL",
+    "lbl:latitude":32.70232,
+    "lbl:longitude":34.98573,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Yemin Orde"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05de\u05d9\u05df \u05d0\u05d5\u05e8\u05d3"
+    ],
+    "name:unk_x_variant":[
+        "Yemin Ord",
+        "Yemin Orde"
+    ],
+    "qs_pg:aaroncc":"IL",
+    "qs_pg:gn_country":"IL",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":293205,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Yemin Orde",
+    "qs_pg:name_adm0":"Israel",
+    "qs_pg:name_adm1":"Haifa",
+    "qs_pg:photos":862,
+    "qs_pg:photos_1k":175,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":862,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":189586,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424852,
+    "qs_pg:woe_id":1968090,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424852,
+    "woe:name_adm0":"Israel",
+    "woe:name_adm1":"Haifa",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        1108720819,
+        85672535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293205,
+        "gp:id":1968090,
+        "qs:id":189586,
+        "qs_pg:id":189586
+    },
+    "wof:country":"IL",
+    "wof:created":1497312379,
+    "wof:geomhash":"295f47223518ecef808e35e3c6e99d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720819,
+            "locality_id":-1,
+            "neighbourhood_id":1126083743,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1126083743,
+    "wof:lastmodified":1549930553,
+    "wof:name":"Yemin Orde",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85903145
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.98573,
+    32.70232,
+    34.98573,
+    32.70232
+],
+  "geometry": {"coordinates":[34.98573,32.70232],"type":"Point"}
+}

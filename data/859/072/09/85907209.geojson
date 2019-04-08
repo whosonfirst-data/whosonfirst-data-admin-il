@@ -1,0 +1,150 @@
+{
+  "id": 85907209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:area_square_m":629763.090893,
+    "geom:bbox":"35.2056884766,31.7678725428,35.2153015137,31.7772125234",
+    "geom:latitude":31.772931,
+    "geom:longitude":35.210277,
+    "gn:id":"",
+    "iso:country":"IL",
+    "lbl:latitude":31.772917,
+    "lbl:longitude":35.210727,
+    "mps:latitude":31.773092,
+    "mps:longitude":35.210757,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:ara_x_preferred":[
+        "\u062c\u0641\u0639\u0627\u062a \u0634\u0645\u0648\u0626\u064a\u0644"
+    ],
+    "name:ces_x_preferred":[
+        "Giv'at \u0160mu'el"
+    ],
+    "name:deu_x_preferred":[
+        "Givat Schmuel"
+    ],
+    "name:eng_x_preferred":[
+        "Kiryat Shmu'el"
+    ],
+    "name:fra_x_preferred":[
+        "Giv'at Shmuel"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d1\u05e2\u05ea \u05e9\u05de\u05d5\u05d0\u05dc"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u056b\u057e\u0561\u0569 \u0547\u0574\u0578\u0582\u0565\u056c"
+    ],
+    "name:ind_x_preferred":[
+        "Giv'at Shmuel"
+    ],
+    "name:nno_x_preferred":[
+        "Giv'at Shmuel"
+    ],
+    "name:pol_x_preferred":[
+        "Giwat Szemu\u2019el"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u0432\u0430\u0442-\u0428\u043c\u0443\u044d\u043b\u044c"
+    ],
+    "name:sco_x_preferred":[
+        "Giv'at Shmuel"
+    ],
+    "name:unk_x_variant":[
+        "Kiryat Shmu'el"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0641\u0639\u0627\u062a \u0634\u0645\u0648\u0626\u06cc\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Giv'at Shmuel"
+    ],
+    "name:war_x_preferred":[
+        "Giv'at Shmuel"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d2\u05d1\u05e2\u05ea \u05e9\u05de\u05d5\u05d0\u05dc"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u592b\u963f\u7279\u4ec0\u7a46\u57c3\u723e"
+    ],
+    "qs:gn_adm0_cc":"PS",
+    "qs:gn_id":0,
+    "qs:gn_local":281184,
+    "qs:gn_nam_loc":"poriyya",
+    "qs:gn_namadm1":"06",
+    "qs:local_max":20606,
+    "qs:local_sum":72250,
+    "qs:localhoods":38,
+    "qs:name":"Kiryat Shmu'el",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Jerusalem",
+    "qs:name_local":"Jerusalem",
+    "qs:photo_max":123,
+    "qs:photo_sum":586,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424852,
+    "qs:woe_adm1":2345796,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1968222,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168681,
+        1108720823,
+        85672551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724685,
+        "qs:id":890606
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"48755d2a8d856c9e523ec2427e070bf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421168681,
+            "neighbourhood_id":85907209,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":85907209,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549930541,
+    "wof:name":"Kiryat Shmu'el",
+    "wof:parent_id":421168681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.2056884765812,
+    31.76787254275017,
+    35.21530151370024,
+    31.77721252340004
+],
+  "geometry": {"coordinates":[[[35.21392822270013,31.77721252340004],[35.21392822268575,31.77651679676588],[35.21392822268575,31.77557332898819],[35.21392822270013,31.77487761850004],[35.21392822270013,31.77371014173775],[35.21530151370007,31.7737101418724],[35.21530151370007,31.77254265470005],[35.21530151370024,31.77238538384184],[35.21392822268575,31.77184693366557],[35.2139282226812,31.77020762628106],[35.21118164061363,31.77020762329599],[35.21118164061397,31.76787254275017],[35.2084350586,31.76787254356677],[35.2084350586,31.77020762329599],[35.2056884765812,31.77020762628106],[35.20568847658637,31.77254264732532],[35.20568847658768,31.77487761113775],[35.2084350586,31.77487761289075],[35.2084350586,31.77721251603766],[35.21118164061846,31.77721251554676],[35.21333679364335,31.77721251442162],[35.21392822270013,31.77721252340004]]],"type":"Polygon"}
+}

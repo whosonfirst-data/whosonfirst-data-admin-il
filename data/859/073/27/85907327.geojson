@@ -1,0 +1,101 @@
+{
+  "id": 85907327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000379,
+    "geom:area_square_m":3972190.04414,
+    "geom:bbox":"34.8294067383,32.0798446601,34.8596191406,32.1002487841",
+    "geom:latitude":32.088773,
+    "geom:longitude":34.843603,
+    "iso:country":"IL",
+    "lbl:latitude":32.090161,
+    "lbl:longitude":34.848668,
+    "mps:latitude":32.088392,
+    "mps:longitude":34.843316,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Shikun He"
+    ],
+    "name:unk_x_variant":[
+        "Shikun He"
+    ],
+    "qs:gn_adm0_cc":"IL",
+    "qs:gn_id":0,
+    "qs:gn_local":293397,
+    "qs:gn_nam_loc":"Tel Aviv, Tel Aviv, IL",
+    "qs:gn_namadm1":"05",
+    "qs:id":0,
+    "qs:local_max":26418,
+    "qs:local_sum":66569,
+    "qs:localhoods":45,
+    "qs:name":"Shikun He",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Tel Aviv",
+    "qs:name_local":"Tel Aviv",
+    "qs:photo_max":27,
+    "qs:photo_sum":89,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424852,
+    "qs:woe_adm1":2345795,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1968212,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421202049,
+        1108720821,
+        85672541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22725169
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"c0af6f293c0453324a5d38de1409106c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720821,
+            "locality_id":421202049,
+            "neighbourhood_id":85907327,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":85907327,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549930542,
+    "wof:name":"Shikun He",
+    "wof:parent_id":421202049,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.82940673830035,
+    32.0798446601377,
+    34.85961914062534,
+    32.10024878412624
+],
+  "geometry": {"coordinates":[[[34.83999454777228,32.10024878412624],[34.84313959821066,32.09653629470004],[34.8431396484001,32.09653629470004],[34.84863281250006,32.09653629470004],[34.84863281250006,32.09420948700001],[34.85137939451857,32.09420947909345],[34.85412597660007,32.0942094763742],[34.85464835208472,32.09420947217525],[34.85530542786012,32.09188262000005],[34.85961914060988,32.09188262000005],[34.85961914061829,32.09188256075046],[34.85961914061591,32.08722870830003],[34.85961914062534,32.08722864902549],[34.85412597658456,32.08722864902549],[34.85412597658552,32.08257455950007],[34.85412597657933,32.08257450027527],[34.85274395741158,32.0809433825121],[34.84622734533781,32.0798446601377],[34.84588623047512,32.08024724815049],[34.83961832669576,32.08024724815049],[34.83764648438131,32.08257450027527],[34.83215332030005,32.08257450027527],[34.82940673830035,32.08257450027527],[34.82940673830035,32.08475589278403],[34.8311495773043,32.08955567897529],[34.83268393651866,32.09209109689331],[34.83308366118899,32.09224837026098],[34.83529838110695,32.09747698229124],[34.83999454777228,32.10024878412624]]],"type":"Polygon"}
+}

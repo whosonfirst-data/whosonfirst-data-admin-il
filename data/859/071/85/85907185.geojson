@@ -1,0 +1,102 @@
+{
+  "id": 85907185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":73640.363253,
+    "geom:bbox":"35.2191256913,31.784042952,35.222463666,31.7870733453",
+    "geom:latitude":31.7856,
+    "geom:longitude":35.220892,
+    "gn:id":"",
+    "iso:country":"IL",
+    "lbl:latitude":31.784954,
+    "lbl:longitude":35.221327,
+    "mps:latitude":31.785753,
+    "mps:longitude":35.221027,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Me'a She'arim"
+    ],
+    "name:unk_x_variant":[
+        "Me'a She'arim"
+    ],
+    "qs:gn_adm0_cc":"PS",
+    "qs:gn_id":0,
+    "qs:gn_local":281184,
+    "qs:gn_nam_loc":"poriyya",
+    "qs:gn_namadm1":"06",
+    "qs:local_max":20606,
+    "qs:local_sum":72250,
+    "qs:localhoods":38,
+    "qs:name":"Me'a She'arim",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Jerusalem",
+    "qs:name_local":"Jerusalem",
+    "qs:photo_max":97,
+    "qs:photo_sum":386,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424852,
+    "qs:woe_adm1":2345796,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1968222,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168681,
+        1108720823,
+        85672551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724668,
+        "qs:id":1063597
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"1059e6989db7195f4a8330beba3498a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421168681,
+            "neighbourhood_id":85907185,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":85907185,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549930547,
+    "wof:name":"Me'a She'arim",
+    "wof:parent_id":421168681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21912569129404,
+    31.78404295198899,
+    35.22246366597506,
+    31.78707334533451
+],
+  "geometry": {"coordinates":[[[35.21986492134675,31.78707334533451],[35.2207946777001,31.78670873972142],[35.22155688362398,31.78700764013465],[35.22216796872101,31.78657629396911],[35.22216796870845,31.78655155360006],[35.22216796871476,31.78573208969524],[35.22246366412543,31.78538422272534],[35.22229828516538,31.78480055637507],[35.22246366597506,31.78421688302275],[35.22216796870003,31.78421688376322],[35.22148132320012,31.7842168839605],[35.22146817361283,31.78423235298948],[35.22134911058049,31.78426036658625],[35.22123822612929,31.78421688450005],[35.2207946777001,31.78404295198899],[35.22064682903869,31.78421688357511],[35.22072951962366,31.78450872115019],[35.22064682961769,31.78480055691463],[35.22010803220019,31.78480055668335],[35.21942138670005,31.78480055675823],[35.21929107026216,31.78480055637507],[35.21912569129404,31.78538422272534],[35.21942138670016,31.78573208968565],[35.21942138670016,31.78655155176268],[35.21986492134675,31.78707334533451]]],"type":"Polygon"}
+}

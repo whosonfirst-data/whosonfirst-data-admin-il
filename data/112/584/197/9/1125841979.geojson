@@ -1,0 +1,127 @@
+{
+  "id": 1125841979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.38443,31.45238,35.38443,31.45238",
+    "geom:latitude":31.45238,
+    "geom:longitude":35.38443,
+    "gn:gn_country":"IL",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":603,
+    "gn:population":603,
+    "iso:country":"IL",
+    "lbl:latitude":31.45238,
+    "lbl:longitude":35.38443,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Ejn Gedi"
+    ],
+    "name:deu_x_preferred":[
+        "En Gedi"
+    ],
+    "name:dut_x_preferred":[
+        "Ein Gedi"
+    ],
+    "name:eng_x_preferred":[
+        "Ein Gedi"
+    ],
+    "name:fra_x_preferred":[
+        "Ein Gedi"
+    ],
+    "name:fre_x_preferred":[
+        "Ein Gedi"
+    ],
+    "name:ger_x_preferred":[
+        "Ein Gedi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d9\u05df \u05d2\u05d3\u05d9"
+    ],
+    "name:nld_x_preferred":[
+        "Ein Gedi"
+    ],
+    "name:nno_x_preferred":[
+        "Ein Gedi kibbutz"
+    ],
+    "name:pol_x_preferred":[
+        "Ein Gedi"
+    ],
+    "name:rum_x_preferred":[
+        "Ein Gedi"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0439\u043d-\u0413\u0435\u0434\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Ein Gedi"
+    ],
+    "name:swe_x_preferred":[
+        "\u2018En Gedi"
+    ],
+    "name:unk_x_variant":[
+        "Engeddi"
+    ],
+    "qs_pg:aaroncc":"IL",
+    "qs_pg:gn_country":"IL",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":295220,
+    "qs_pg:gn_pop":603,
+    "qs_pg:name":"\u2018En Gedi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":203741,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295220,
+        "qs_pg:id":203741,
+        "wd:id":"Q2469471"
+    },
+    "wof:country":"IL",
+    "wof:created":1497292972,
+    "wof:geomhash":"5d555e0dd5d4af04a1f96e5578be71b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1125841979,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1125841979,
+    "wof:lastmodified":1553816565,
+    "wof:name":"\u2018En Gedi",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:population":603,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.38443,
+    31.45238,
+    35.38443,
+    31.45238
+],
+  "geometry": {"coordinates":[35.38443,31.45238],"type":"Point"}
+}

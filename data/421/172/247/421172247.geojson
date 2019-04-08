@@ -1,0 +1,100 @@
+{
+  "id": 421172247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.55321,33.10149,35.55321,33.10149",
+    "geom:latitude":33.10149,
+    "geom:longitude":35.55321,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Ramot Naftali"
+    ],
+    "name:cze_x_preferred":[
+        "Ramot Naftali"
+    ],
+    "name:eng_x_preferred":[
+        "Ramot Naftali"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05de\u05d5\u05ea \u05e0\u05e4\u05ea\u05dc\u05d9"
+    ],
+    "name:nno_x_preferred":[
+        "Ramot Naftali"
+    ],
+    "name:pol_x_preferred":[
+        "Ramot Naftali"
+    ],
+    "name:unk_x_variant":[
+        "Yamin Orde"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293754,
+    "qs:gn_pop":0,
+    "qs:name":"Ramot Naftali",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":305,
+    "qs:photos_1k":62,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":305,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1301807,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967890,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":575,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293754,
+        "gp:id":1967890,
+        "qs:id":1301807,
+        "wd:id":"Q2888997",
+        "wk:page":"Ramot Naftali"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008928,
+    "wof:geomhash":"eea88e4ec0c237e50eed435ac38907d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720839,
+            "locality_id":421172247,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421172247,
+    "wof:lastmodified":1549930311,
+    "wof:name":"Ramot Naftali",
+    "wof:parent_id":1108720839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.55321,
+    33.10149,
+    35.55321,
+    33.10149
+],
+  "geometry": {"coordinates":[35.55321,33.10149],"type":"Point"}
+}

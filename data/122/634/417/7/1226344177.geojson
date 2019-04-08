@@ -1,0 +1,72 @@
+{
+  "id": 1226344177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.06667,32.6,35.06667,32.6",
+    "geom:latitude":32.6,
+    "geom:longitude":35.06667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Daliyat er Ruha",
+    "gn:cc2":"IL",
+    "gn:country_code":"IL",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295364,
+    "gn:latitude":32.6,
+    "gn:longitude":35.06667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"D\u0101liyat er R\u016bh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daliyat Ar-Ruhah",
+        "D\u0101liyat er R\u016bh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295364
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"7debfa0ce293131804649fb452c10942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":1226344177,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1226344177,
+    "wof:lastmodified":1549930459,
+    "wof:name":"Daliyat er Ruha",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.06667,
+    32.6,
+    35.06667,
+    32.6
+],
+  "geometry": {"coordinates":[35.06667,32.6],"type":"Point"}
+}

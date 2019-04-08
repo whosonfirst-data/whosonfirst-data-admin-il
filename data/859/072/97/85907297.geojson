@@ -1,0 +1,112 @@
+{
+  "id": 85907297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":338628.032414,
+    "geom:bbox":"34.7470092773,32.031102235,34.7549188822,32.0406765491",
+    "geom:latitude":32.035641,
+    "geom:longitude":34.750013,
+    "gn:latitude":32.03886,
+    "gn:longitude":34.74775,
+    "iso:country":"IL",
+    "lbl:latitude":32.036987,
+    "lbl:longitude":34.746592,
+    "mps:latitude":32.034178,
+    "mps:longitude":34.750732,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Giv'at Aliya"
+    ],
+    "name:heb_x_preferred":[
+        "Giv\u2018at \u2018Aliyya"
+    ],
+    "name:heb_x_variant":[
+        "\u05d2\u05d1\u05e2\u05ea \u05e2\u05dc\u05d9\u05d4"
+    ],
+    "name:unk_x_variant":[
+        "Giv'at Aliya"
+    ],
+    "qs:gn_adm0_cc":"IL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":293397,
+    "qs:gn_nam_loc":"Tel Aviv, Tel Aviv, IL",
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"Giv\u2018at \u2018Aliyya",
+    "qs:local_max":26418,
+    "qs:local_sum":66569,
+    "qs:localhoods":45,
+    "qs:name":"Giv'at Aliya",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Tel Aviv",
+    "qs:name_local":"Tel Aviv",
+    "qs:photo_max":74,
+    "qs:photo_sum":179,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424852,
+    "qs:woe_adm1":2345795,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1968212,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        1125955239,
+        1108720837,
+        85672549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8427179,
+        "gp:id":22725138,
+        "qs:id":230058
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"92ba76f9ba8209ea379cbaf0bbf1f1ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720837,
+            "locality_id":1125955239,
+            "neighbourhood_id":85907297,
+            "region_id":85672549
+        }
+    ],
+    "wof:id":85907297,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549930548,
+    "wof:name":"Giv'at Aliya",
+    "wof:parent_id":1125955239,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.74700927731362,
+    32.03110223501982,
+    34.75491888216163,
+    32.04067654909923
+],
+  "geometry": {"coordinates":[[[34.7525024414,32.03602003106683],[34.7525024414,32.03438772004696],[34.7530924860103,32.03369169190003],[34.75491888216163,32.03153723932715],[34.75388657316574,32.03136328490002],[34.75233740799581,32.03110223501982],[34.7521161037098,32.03136328490002],[34.75157169233427,32.03200547094578],[34.75112915040006,32.03217947744433],[34.75024405290344,32.03252749580005],[34.75002278917566,32.03261449620285],[34.74975585940012,32.03255152224835],[34.74948340971605,32.03248724603938],[34.74887076847591,32.03369169190003],[34.74827862661948,32.03485583620018],[34.7479961772936,32.03485583620018],[34.74700927731675,32.03602003353348],[34.74700927731396,32.0383483209002],[34.74700927731362,32.04067654906682],[34.74975586080922,32.04067654909923],[34.74975585938358,32.0383483209002],[34.74975585938574,32.03602003353348],[34.7525024414,32.03602003106683]]],"type":"Polygon"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 421171413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.45943,31.3853,34.45943,31.3853",
+    "geom:latitude":31.3853,
+    "geom:longitude":34.45943,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Re'im"
+    ],
+    "name:cze_x_preferred":[
+        "Re'im"
+    ],
+    "name:eng_x_preferred":[
+        "Re'im"
+    ],
+    "name:fra_x_preferred":[
+        "R\u00e9\u00efm"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00e9\u00efm"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05e2\u05d9\u05dd"
+    ],
+    "name:heb_x_variant":[
+        "Re\u2018im",
+        "Re\u2019im"
+    ],
+    "name:nno_x_preferred":[
+        "Re'im"
+    ],
+    "name:pol_x_preferred":[
+        "Re'im"
+    ],
+    "name:swe_x_preferred":[
+        "Re\u2018im"
+    ],
+    "name:unk_x_variant":[
+        "Beit Qamah"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293723,
+    "qs:gn_pop":0,
+    "qs:name":"Reim",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Southern",
+    "qs:photos":30,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":30,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":268124,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967897,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":753,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293723,
+        "gp:id":1967897,
+        "qs:id":268124,
+        "wd:id":"Q2916652",
+        "wk:page":"Re'im"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008892,
+    "wof:geomhash":"712b37492ad7a478b138f16622d9c007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":421171413,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":421171413,
+    "wof:lastmodified":1549930316,
+    "wof:name":"Reim",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.45943,
+    31.3853,
+    34.45943,
+    31.3853
+],
+  "geometry": {"coordinates":[34.45943,31.3853],"type":"Point"}
+}

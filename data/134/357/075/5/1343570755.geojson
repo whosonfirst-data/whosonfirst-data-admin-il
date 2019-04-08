@@ -1,0 +1,77 @@
+{
+  "id": 1343570755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.30043,30.8069,35.30043,30.8069",
+    "geom:latitude":30.8069,
+    "geom:longitude":35.30043,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Iddan",
+    "gn:country_code":"IL",
+    "gn:dem":-176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8430292,
+    "gn:latitude":30.8069,
+    "gn:longitude":35.30043,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"\u2018Iddan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u2018Iddan"
+    ],
+    "name:heb_x_variant":[
+        "\u05e2\u05d3\u05df"
+    ],
+    "name:und_x_variant":[
+        "Iddan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8430292,
+        "wk:page":"Idan%2C_Israel"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"96526d01beb59789e8e3df2eaaac242b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1343570755,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1343570755,
+    "wof:lastmodified":1549930417,
+    "wof:name":"`Iddan",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.30043,
+    30.8069,
+    35.30043,
+    30.8069
+],
+  "geometry": {"coordinates":[35.30043,30.8069],"type":"Point"}
+}

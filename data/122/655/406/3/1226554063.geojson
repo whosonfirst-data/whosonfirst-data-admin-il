@@ -1,0 +1,73 @@
+{
+  "id": 1226554063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.33623,31.21236,34.33623,31.21236",
+    "geom:latitude":31.21236,
+    "geom:longitude":34.33623,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sede Avraham",
+    "gn:country_code":"IL",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8068373,
+    "gn:latitude":31.21236,
+    "gn:longitude":34.33623,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Sed\u00e9 Avraham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Sed\u00e9 Avraham"
+    ],
+    "name:heb_x_variant":[
+        "\u05e9\u05d3\u05d9 \u05d0\u05d1\u05e8\u05d4\u05dd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8068373
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"ae33749caa1df1bc5efd7d29f3905247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1226554063,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1226554063,
+    "wof:lastmodified":1549930482,
+    "wof:name":"Sede Avraham",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.33623,
+    31.21236,
+    34.33623,
+    31.21236
+],
+  "geometry": {"coordinates":[34.33623,31.21236],"type":"Point"}
+}

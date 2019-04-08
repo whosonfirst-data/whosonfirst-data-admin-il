@@ -1,0 +1,113 @@
+{
+  "id": 421205541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.6347,31.71682,34.6347,31.71682",
+    "geom:latitude":31.71682,
+    "geom:longitude":34.6347,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Nicanim"
+    ],
+    "name:cze_x_preferred":[
+        "Nicanim"
+    ],
+    "name:dut_x_preferred":[
+        "Nitzanim"
+    ],
+    "name:eng_x_preferred":[
+        "Nitzanim"
+    ],
+    "name:fra_x_preferred":[
+        "Nitzanim"
+    ],
+    "name:fre_x_preferred":[
+        "Nitzanim"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05e6\u05e0\u05d9\u05dd"
+    ],
+    "name:heb_x_variant":[
+        "Ni\u1e95\u1e95anim",
+        "\u05e0\u05e6\u05e0\u05d9\u05dd"
+    ],
+    "name:nno_x_preferred":[
+        "Nitzanim"
+    ],
+    "name:pol_x_preferred":[
+        "Niccanim"
+    ],
+    "name:unk_x_variant":[
+        "Nitsanim"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294011,
+    "qs:gn_pop":0,
+    "qs:name":"Nizzanim",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Southern",
+    "qs:photos":52,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":52,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":264394,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967788,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":193,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294011,
+        "gp:id":1967788,
+        "qs:id":264394,
+        "wd:id":"Q2918816",
+        "wk:page":"Nitzanim"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010228,
+    "wof:geomhash":"6144ebe24f8443ed29a286fa768dfdb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720841,
+            "locality_id":421205541,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":421205541,
+    "wof:lastmodified":1549930404,
+    "wof:name":"Nizzanim",
+    "wof:parent_id":1108720841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.6347,
+    31.71682,
+    34.6347,
+    31.71682
+],
+  "geometry": {"coordinates":[34.6347,31.71682],"type":"Point"}
+}

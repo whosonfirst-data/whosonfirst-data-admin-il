@@ -1,0 +1,71 @@
+{
+  "id": 1276457867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.88098,31.22417,34.88098,31.22417",
+    "geom:latitude":31.22417,
+    "geom:longitude":34.88098,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nevatim",
+    "gn:country_code":"IL",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294063,
+    "gn:latitude":31.22417,
+    "gn:longitude":34.88098,
+    "gn:modification_date":"2017-04-24",
+    "gn:name":"Nevatim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e0\u05d1\u05d8\u05d9\u05dd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294063,
+        "wk:page":"Nevatim"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"dcb5162659796678699faa9cbf94bfc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1276457867,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1276457867,
+    "wof:lastmodified":1549930455,
+    "wof:name":"Nevatim",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.88098,
+    31.22417,
+    34.88098,
+    31.22417
+],
+  "geometry": {"coordinates":[34.88098,31.22417],"type":"Point"}
+}

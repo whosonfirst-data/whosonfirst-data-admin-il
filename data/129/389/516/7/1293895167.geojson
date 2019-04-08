@@ -1,0 +1,78 @@
+{
+  "id": 1293895167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.44201,32.58613,35.44201,32.58613",
+    "geom:latitude":32.58613,
+    "geom:longitude":35.44201,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Moledet",
+    "gn:country_code":"IL",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295513,
+    "gn:latitude":32.58613,
+    "gn:longitude":35.44201,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Moledet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05dc\u05d3\u05ea"
+    ],
+    "name:und_x_variant":[
+        "Bene Berit",
+        "Benei Berit",
+        "Benei Brit",
+        "Bney-Brit",
+        "Moledet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295513,
+        "wk:page":"Moledet%2C_Israel"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"27572fae9265f5adff2de4b56449e4c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":1293895167,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1293895167,
+    "wof:lastmodified":1549930505,
+    "wof:name":"Moledet",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.44201,
+    32.58613,
+    35.44201,
+    32.58613
+],
+  "geometry": {"coordinates":[35.44201,32.58613],"type":"Point"}
+}

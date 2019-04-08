@@ -1,0 +1,103 @@
+{
+  "id": 85907323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.877496,32.148296,34.877496,32.148296",
+    "geom:latitude":32.148296,
+    "geom:longitude":34.877496,
+    "gn:id":"",
+    "iso:country":"IL",
+    "lbl:latitude":32.148296,
+    "lbl:longitude":34.877496,
+    "mps:latitude":32.143139,
+    "mps:longitude":34.878504,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Neve Magen"
+    ],
+    "name:unk_x_variant":[
+        "Neve Magen"
+    ],
+    "qs:gn_adm0_cc":"IL",
+    "qs:gn_id":0,
+    "qs:gn_local":293783,
+    "qs:gn_nam_loc":"Ramat HaSharon, Tel Aviv, IL",
+    "qs:gn_namadm1":"05",
+    "qs:local_max":1225,
+    "qs:local_sum":2000,
+    "qs:localhoods":3,
+    "qs:name":"Neve Magen",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Tel Aviv",
+    "qs:name_local":"Ramat HaSharon",
+    "qs:photo_max":66,
+    "qs:photo_sum":234,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424852,
+    "qs:woe_adm1":2345795,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1967871,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        1108720821,
+        85672541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22725164,
+        "qs:id":902476
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"90f65d14ad4349a93aa0deabfce2aadd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720821,
+            "locality_id":-1,
+            "neighbourhood_id":85907323,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":85907323,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549930542,
+    "wof:name":"Neve Magen",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.877496,
+    32.148296,
+    34.877496,
+    32.148296
+],
+  "geometry": {"coordinates":[34.877496,32.148296],"type":"Point"}
+}

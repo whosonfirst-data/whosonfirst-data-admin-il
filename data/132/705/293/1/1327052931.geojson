@@ -1,0 +1,74 @@
+{
+  "id": 1327052931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.83333,32.03333,34.83333,32.03333",
+    "geom:latitude":32.03333,
+    "geom:longitude":34.83333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kheiriya",
+    "gn:cc2":"IL",
+    "gn:country_code":"IL",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":294471,
+    "gn:latitude":32.03333,
+    "gn:longitude":34.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kheiriya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Khayriyyah",
+        "Kheiriya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672549,
+        102191569,
+        85632315,
+        136253049,
+        1108720837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294471
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"d0513e7fa251c75a5e55a366089003cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720837,
+            "empire_id":136253049,
+            "locality_id":1327052931,
+            "region_id":85672549
+        }
+    ],
+    "wof:id":1327052931,
+    "wof:lastmodified":1537636834,
+    "wof:name":"Kheiriya",
+    "wof:parent_id":1108720837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.83333,
+    32.03333,
+    34.83333,
+    32.03333
+],
+  "geometry": {"coordinates":[34.83333,32.03333],"type":"Point"}
+}

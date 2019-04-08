@@ -1,0 +1,144 @@
+{
+  "id": 85907279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000324,
+    "geom:area_square_m":3391051.392409,
+    "geom:bbox":"34.7882080078,32.0423167868,34.8121439025,32.065119354",
+    "geom:latitude":32.054212,
+    "geom:longitude":34.797505,
+    "gn:gn_country":"IL",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":32.05661,
+    "gn:longitude":34.79289,
+    "iso:country":"IL",
+    "lbl:latitude":32.059177,
+    "lbl:longitude":34.795435,
+    "mps:latitude":32.055024,
+    "mps:longitude":34.796536,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:ces_x_preferred":[
+        "Jad Elijahu"
+    ],
+    "name:cze_x_preferred":[
+        "Jad Elijahu"
+    ],
+    "name:eng_x_preferred":[
+        "Yad Eliyahu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d3 \u05d0\u05dc\u05d9\u05d4\u05d5"
+    ],
+    "name:unk_x_variant":[
+        "Yad Eliyahu",
+        "Yad Eliyyahu"
+    ],
+    "qs:gn_adm0_cc":"IL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":293397,
+    "qs:gn_nam_loc":"Tel Aviv, Tel Aviv, IL",
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"Yad Eliyyahu",
+    "qs:local_max":26418,
+    "qs:local_sum":66569,
+    "qs:localhoods":45,
+    "qs:name":"Yad Eliyahu",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Tel Aviv",
+    "qs:name_local":"Tel Aviv",
+    "qs:photo_max":118,
+    "qs:photo_sum":413,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":21,
+    "qs:woe_adm0":23424852,
+    "qs:woe_adm1":2345795,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1968212,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"IL",
+    "qs_pg:gn_country":"IL",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":8427184,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Yad Eliyahu",
+    "qs_pg:name_adm0":"Israel",
+    "qs_pg:name_adm1":"Tel Aviv",
+    "qs_pg:photos":275,
+    "qs_pg:photos_1k":56,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":275,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1191446,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424852,
+    "qs_pg:woe_id":22725118,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":134,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        1125955239,
+        1108720837,
+        85672549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8427184,
+        "gp:id":22725118,
+        "qs:id":1191446,
+        "qs_pg:id":1191446,
+        "wd:id":"Q2908308"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"89f64d2af4afadd116651b2770584692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720837,
+            "locality_id":1125955239,
+            "neighbourhood_id":85907279,
+            "region_id":85672549
+        }
+    ],
+    "wof:id":85907279,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549930547,
+    "wof:name":"Yad Eliyahu",
+    "wof:parent_id":1125955239,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126104825
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.78820800780005,
+    32.04231678680019,
+    34.81214390245981,
+    32.06511935402519
+],
+  "geometry": {"coordinates":[[[34.8048810218088,32.06511935402519],[34.80586729434691,32.06395553545052],[34.80520975839892,32.06162794270024],[34.80557236363018,32.06034433413858],[34.8046875021937,32.05930025182838],[34.80468750000006,32.0551239163496],[34.80478905262169,32.05476445142048],[34.80743408202517,32.05538861758689],[34.8086042671539,32.05511248079274],[34.80900074426376,32.0546446905001],[34.81018066410002,32.05464469050001],[34.81018066410007,32.05325254191996],[34.81214390245981,32.05093618159533],[34.81202919732971,32.04998882390011],[34.81018066410002,32.04998882390011],[34.80468750000023,32.04998882390011],[34.80271425219172,32.04766074255028],[34.79919433592516,32.04766074255028],[34.79370117187523,32.04442034687743],[34.79199925089154,32.04241243400928],[34.79199854437934,32.04241960734676],[34.79095458985023,32.04231678680019],[34.78900368663,32.04250893399612],[34.78857642099211,32.04263854361054],[34.78820800780034,32.04350786764925],[34.78820800780016,32.04998888310004],[34.78820800780016,32.05464463130043],[34.78820800780016,32.05464469050001],[34.78820800780022,32.05790810087555],[34.78820800780005,32.05930026110006],[34.79036468116254,32.05930026110006],[34.7906934627278,32.06046411300017],[34.79036468325313,32.06162794270024],[34.79095458982516,32.0623240204698],[34.79232788087512,32.06178386863721],[34.79370117188978,32.06232402048188],[34.79370117188625,32.06395558728764],[34.79644775390017,32.06395558679354],[34.79919433591851,32.06395558679354],[34.80194092066688,32.06395558699676],[34.80292716540873,32.06511935402519],[34.80468750000006,32.06511935402519],[34.8048810218088,32.06511935402519]]],"type":"Polygon"}
+}

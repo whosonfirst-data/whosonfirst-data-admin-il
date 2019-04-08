@@ -1,0 +1,80 @@
+{
+  "id": 1242586311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.00745,32.32561,35.00745,32.32561",
+    "geom:latitude":32.32561,
+    "geom:longitude":35.00745,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Yad Hanna",
+    "gn:country_code":"IL",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293259,
+    "gn:latitude":32.32561,
+    "gn:longitude":35.00745,
+    "gn:modification_date":"2018-04-17",
+    "gn:name":"Yad H\u0331anna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Yad H\u0331anna"
+    ],
+    "name:heb_x_variant":[
+        "\u05d9\u05d3 \u05d7\u05e0\u05d4"
+    ],
+    "name:und_x_variant":[
+        "Me\u2019u\u1e96adi",
+        "Me\u2019u\u1e96ad",
+        "Yad H\u0331anna",
+        "Yad Hanah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293259,
+        "wk:page":"Yad_Hana"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"55f8e14bd3d9f4806fcbc9ee96d427a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":1242586311,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1242586311,
+    "wof:lastmodified":1549930385,
+    "wof:name":"Yad Hanna",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.00745,
+    32.32561,
+    35.00745,
+    32.32561
+],
+  "geometry": {"coordinates":[35.00745,32.32561],"type":"Point"}
+}

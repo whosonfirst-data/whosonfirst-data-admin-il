@@ -1,0 +1,102 @@
+{
+  "id": 421191563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.25295,32.9017,35.25295,32.9017",
+    "geom:latitude":32.9017,
+    "geom:longitude":35.25295,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Curit"
+    ],
+    "name:cze_x_preferred":[
+        "Curit"
+    ],
+    "name:eng_x_preferred":[
+        "Tzurit"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6\u05d5\u05e8\u05d9\u05ea"
+    ],
+    "name:heb_x_variant":[
+        "\u1e94urit"
+    ],
+    "name:nno_x_preferred":[
+        "Tzurit"
+    ],
+    "name:pol_x_preferred":[
+        "Curit"
+    ],
+    "name:unk_x_variant":[
+        "Tsurit"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":386345,
+    "qs:gn_pop":0,
+    "qs:name":"Zurit",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1143606,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1968147,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":61,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":386345,
+        "gp:id":1968147,
+        "qs:id":1143606,
+        "wd:id":"Q939277"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009697,
+    "wof:geomhash":"e2150c7ba1fac2612851f331830762e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":421191563,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421191563,
+    "wof:lastmodified":1549930378,
+    "wof:name":"Zurit",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.25295,
+    32.9017,
+    35.25295,
+    32.9017
+],
+  "geometry": {"coordinates":[35.25295,32.9017],"type":"Point"}
+}

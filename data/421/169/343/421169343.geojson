@@ -1,0 +1,100 @@
+{
+  "id": 421169343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.90722,32.20361,34.90722,32.20361",
+    "geom:latitude":32.20361,
+    "geom:longitude":34.90722,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Sde Warburg"
+    ],
+    "name:cze_x_preferred":[
+        "Sde Warburg"
+    ],
+    "name:eng_x_preferred":[
+        "Sde Warburg"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d3\u05d4 \u05d5\u05e8\u05d1\u05d5\u05e8\u05d2"
+    ],
+    "name:nno_x_preferred":[
+        "Sde Warburg"
+    ],
+    "name:pol_x_preferred":[
+        "Sde Warburg"
+    ],
+    "name:unk_x_variant":[
+        "Sedeh Warburg"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293616,
+    "qs:gn_pop":0,
+    "qs:name":"Sede Warburg",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1210212,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967936,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":216,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293616,
+        "gp:id":1967936,
+        "qs:id":1210212,
+        "wd:id":"Q263306",
+        "wk:page":"Sde Warburg"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008805,
+    "wof:geomhash":"d5e06b9b2cef779d1eaf26c48789fa92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720821,
+            "locality_id":421169343,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421169343,
+    "wof:lastmodified":1549930313,
+    "wof:name":"Sede Warburg",
+    "wof:parent_id":1108720821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.90722,
+    32.20361,
+    34.90722,
+    32.20361
+],
+  "geometry": {"coordinates":[34.90722,32.20361],"type":"Point"}
+}

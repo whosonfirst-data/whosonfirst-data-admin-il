@@ -1,0 +1,124 @@
+{
+  "id": 421204207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.63833,32.78341,35.63833,32.78341",
+    "geom:latitude":32.78341,
+    "geom:longitude":35.63833,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Ejn Gev"
+    ],
+    "name:cze_x_preferred":[
+        "Ejn Gev"
+    ],
+    "name:deu_x_preferred":[
+        "En Gev"
+    ],
+    "name:dut_x_preferred":[
+        "Ein Gev"
+    ],
+    "name:eng_x_preferred":[
+        "Ein Gev"
+    ],
+    "name:fra_x_preferred":[
+        "Ein Gev"
+    ],
+    "name:fre_x_preferred":[
+        "Ein Gev"
+    ],
+    "name:ger_x_preferred":[
+        "En Gev"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d9\u05df \u05d2\u05d1"
+    ],
+    "name:heb_x_variant":[
+        "\u2018En Gev"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30f3\u30fb\u30b2\u30d6"
+    ],
+    "name:nno_x_preferred":[
+        "Ein Gev"
+    ],
+    "name:pol_x_preferred":[
+        "Ein Gev"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0439\u043d-\u0413\u0435\u0432"
+    ],
+    "name:unk_x_variant":[
+        "\u2018Ein Gev"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295218,
+    "qs:gn_pop":0,
+    "qs:name":"En Gev",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":422,
+    "qs:photos_1k":86,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":422,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":238653,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967277,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":284,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295218,
+        "gp:id":1967277,
+        "qs:id":238653,
+        "wd:id":"Q1339896",
+        "wk:page":"Ein Gev"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010177,
+    "wof:geomhash":"f3db9b9a226bbc9fb495fa28ba490aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720825,
+            "locality_id":421204207,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421204207,
+    "wof:lastmodified":1549930403,
+    "wof:name":"En Gev",
+    "wof:parent_id":1108720825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.63833,
+    32.78341,
+    35.63833,
+    32.78341
+],
+  "geometry": {"coordinates":[35.63833,32.78341],"type":"Point"}
+}

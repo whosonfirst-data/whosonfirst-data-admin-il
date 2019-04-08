@@ -1,0 +1,82 @@
+{
+  "id": 421175707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.42356,32.5179,35.42356,32.5179",
+    "geom:latitude":32.5179,
+    "geom:longitude":35.42356,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:heb_x_preferred":[
+        "\u05d7\u05e4\u05e6\u05d9 \u05d1\u05d4"
+    ],
+    "name:unk_x_variant":[
+        "\u1e24eftsi Bah"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294794,
+    "qs:gn_pop":0,
+    "qs:name":"Hefzi Bah",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":177,
+    "qs:photos_1k":36,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":177,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1028725,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967450,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294794,
+        "gp:id":1967450,
+        "qs:id":1028725
+    },
+    "wof:country":"IL",
+    "wof:created":1459009076,
+    "wof:geomhash":"2448c5d0014b14c3392fb6ee052a64bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":421175707,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421175707,
+    "wof:lastmodified":1549930323,
+    "wof:name":"Hefzi Bah",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.42356,
+    32.5179,
+    35.42356,
+    32.5179
+],
+  "geometry": {"coordinates":[35.42356,32.5179],"type":"Point"}
+}

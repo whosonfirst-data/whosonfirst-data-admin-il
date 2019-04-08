@@ -1,0 +1,103 @@
+{
+  "id": 421171431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.94921,32.19672,34.94921,32.19672",
+    "geom:latitude":32.19672,
+    "geom:longitude":34.94921,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Nir Elijahu"
+    ],
+    "name:cze_x_preferred":[
+        "Nir Elijahu"
+    ],
+    "name:dut_x_preferred":[
+        "Nir Eliyahu"
+    ],
+    "name:eng_x_preferred":[
+        "Nir Eliyahu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05e8 \u05d0\u05dc\u05d9\u05d4\u05d5"
+    ],
+    "name:nno_x_preferred":[
+        "Nir Eliyahu"
+    ],
+    "name:pol_x_preferred":[
+        "Nir Elijahu"
+    ],
+    "name:unk_x_variant":[
+        "Nir Eliyahu"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294031,
+    "qs:gn_pop":0,
+    "qs:name":"Nir Eliyyahu",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1251618,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967776,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":224,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294031,
+        "gp:id":1967776,
+        "qs:id":1251618,
+        "wd:id":"Q2889513",
+        "wk:page":"Nir Eliyahu"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008893,
+    "wof:geomhash":"7e9812415a19d6a636893c2b7c86e0c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720821,
+            "locality_id":421171431,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421171431,
+    "wof:lastmodified":1549930316,
+    "wof:name":"Nir Eliyyahu",
+    "wof:parent_id":1108720821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.94921,
+    32.19672,
+    34.94921,
+    32.19672
+],
+  "geometry": {"coordinates":[34.94921,32.19672],"type":"Point"}
+}

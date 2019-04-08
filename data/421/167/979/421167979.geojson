@@ -1,0 +1,99 @@
+{
+  "id": 421167979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.86408,31.95291,34.86408,31.95291",
+    "geom:latitude":31.95291,
+    "geom:longitude":34.86408,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Nir Cvi"
+    ],
+    "name:cze_x_preferred":[
+        "Nir Cvi"
+    ],
+    "name:eng_x_preferred":[
+        "Nir Tzvi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05e8 \u05e6\u05d1\u05d9"
+    ],
+    "name:nno_x_preferred":[
+        "Nir Tzvi"
+    ],
+    "name:pol_x_preferred":[
+        "Nir Cvi"
+    ],
+    "name:unk_x_variant":[
+        "Kefar Argentina"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294021,
+    "qs:gn_pop":0,
+    "qs:name":"Nir Zevi",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":30,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":30,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":460346,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967784,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294021,
+        "gp:id":1967784,
+        "qs:id":460346,
+        "wd:id":"Q2778107"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008750,
+    "wof:geomhash":"c2654c4282c1bc20edef8cdbcb62dd6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720815,
+            "locality_id":421167979,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421167979,
+    "wof:lastmodified":1549930328,
+    "wof:name":"Nir Zevi",
+    "wof:parent_id":1108720815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.86408,
+    31.95291,
+    34.86408,
+    31.95291
+],
+  "geometry": {"coordinates":[34.86408,31.95291],"type":"Point"}
+}

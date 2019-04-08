@@ -1,0 +1,108 @@
+{
+  "id": 421187145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.59663,33.16034,35.59663,33.16034",
+    "geom:latitude":33.16034,
+    "geom:longitude":35.59663,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Ne'ot Mordechaj"
+    ],
+    "name:cze_x_preferred":[
+        "Ne'ot Mordechaj"
+    ],
+    "name:eng_x_preferred":[
+        "Neot Mordechai"
+    ],
+    "name:fra_x_preferred":[
+        "N\u00e9ot-Mord\u00e9ha\u00ef"
+    ],
+    "name:fre_x_preferred":[
+        "N\u00e9ot-Mord\u00e9ha\u00ef"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d0\u05d5\u05ea \u05de\u05e8\u05d3\u05db\u05d9"
+    ],
+    "name:heb_x_variant":[
+        "Ne\u2019ot Mordekhay"
+    ],
+    "name:nno_x_preferred":[
+        "Neot Mordechai"
+    ],
+    "name:pol_x_preferred":[
+        "Ne\u2019ot Mordechaj"
+    ],
+    "name:unk_x_variant":[
+        "Neot Mordekhai"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294086,
+    "qs:gn_pop":0,
+    "qs:name":"Ne'ot Mordekhay",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":233,
+    "qs:photos_1k":47,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":233,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1081079,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967738,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":91,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294086,
+        "gp:id":1967738,
+        "qs:id":1081079,
+        "wd:id":"Q2916678"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009503,
+    "wof:geomhash":"c8d8aa1ef010c477df4a142a10ca20fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720839,
+            "locality_id":421187145,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421187145,
+    "wof:lastmodified":1549930361,
+    "wof:name":"Ne'ot Mordekhay",
+    "wof:parent_id":1108720839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.59663,
+    33.16034,
+    35.59663,
+    33.16034
+],
+  "geometry": {"coordinates":[35.59663,33.16034],"type":"Point"}
+}

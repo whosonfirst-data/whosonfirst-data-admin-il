@@ -1,0 +1,76 @@
+{
+  "id": 1344071039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.59869,31.50756,34.59869,31.50756",
+    "geom:latitude":31.50756,
+    "geom:longitude":34.59869,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gevim",
+    "gn:country_code":"IL",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295031,
+    "gn:latitude":31.50756,
+    "gn:longitude":34.59869,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gevim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d2\u05d1\u05d9\u05dd"
+    ],
+    "name:und_x_variant":[
+        "Sede \u2018Aqiva",
+        "Sedeh \u2018Aqiva",
+        "Gevim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295031,
+        "wk:page":"Gevim"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"a096bd35023f4e3e7b454c7481bddb61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720841,
+            "locality_id":1344071039,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1344071039,
+    "wof:lastmodified":1549930489,
+    "wof:name":"Gevim",
+    "wof:parent_id":1108720841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.59869,
+    31.50756,
+    34.59869,
+    31.50756
+],
+  "geometry": {"coordinates":[34.59869,31.50756],"type":"Point"}
+}

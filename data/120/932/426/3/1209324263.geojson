@@ -1,0 +1,75 @@
+{
+  "id": 1209324263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.24195,30.80905,35.24195,30.80905",
+    "geom:latitude":30.80905,
+    "geom:longitude":35.24195,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Ir Ovot",
+    "gn:country_code":"IL",
+    "gn:dem":-131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385076,
+    "gn:latitude":30.80905,
+    "gn:longitude":35.24195,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"\u2018Ir Ovot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e2\u05d9\u05e8 \u05d0\u05d5\u05d1\u05d5\u05ea"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ir Ovot",
+        "Ir Ovot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385076,
+        "wk:page":"Ir_Ovot"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"def35676dd9f3409945b755fba1aad07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1209324263,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1209324263,
+    "wof:lastmodified":1549930444,
+    "wof:name":"`Ir Ovot",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24195,
+    30.80905,
+    35.24195,
+    30.80905
+],
+  "geometry": {"coordinates":[35.24195,30.80905],"type":"Point"}
+}

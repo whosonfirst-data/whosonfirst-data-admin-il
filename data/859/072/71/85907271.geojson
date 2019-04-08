@@ -1,0 +1,139 @@
+{
+  "id": 85907271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000179,
+    "geom:area_square_m":1874091.456266,
+    "geom:bbox":"34.8101806641,32.0847558928,34.8326839365,32.0988630365",
+    "geom:latitude":32.092139,
+    "geom:longitude":34.82239,
+    "gn:gn_country":"IL",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":32.09237,
+    "gn:longitude":34.81877,
+    "iso:country":"IL",
+    "lbl:latitude":32.0935,
+    "lbl:longitude":34.819825,
+    "mps:latitude":32.092808,
+    "mps:longitude":34.823499,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":1,
+    "name:eng_x_preferred":[
+        "Nakhalat Ganim"
+    ],
+    "name:heb_x_preferred":[
+        "Na\u1e96alat Gannim"
+    ],
+    "name:heb_x_variant":[
+        "\u05e0\u05d7\u05dc\u05ea \u05d2\u05e0\u05d9\u05dd",
+        "Na\u1e96alat Ganim"
+    ],
+    "name:unk_x_variant":[
+        "Nakhalat Ganim"
+    ],
+    "qs:gn_adm0_cc":"IL",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":293397,
+    "qs:gn_nam_loc":"Tel Aviv, Tel Aviv, IL",
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"Na\u1e96alat Gannim",
+    "qs:local_max":26418,
+    "qs:local_sum":66569,
+    "qs:localhoods":45,
+    "qs:name":"Nakhalat Ganim",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Tel Aviv",
+    "qs:name_local":"Tel Aviv",
+    "qs:photo_max":52,
+    "qs:photo_sum":177,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424852,
+    "qs:woe_adm1":2345795,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1968212,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"IL",
+    "qs_pg:gn_country":"IL",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":8427147,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Nakhalat Ganim",
+    "qs_pg:name_adm0":"Israel",
+    "qs_pg:name_adm1":"Tel Aviv",
+    "qs_pg:photos":75,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":75,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1182152,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424852,
+    "qs_pg:woe_id":22725110,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421183425,
+        1108720837,
+        85672549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8427147,
+        "gp:id":22725110,
+        "qs:id":1182152,
+        "qs_pg:id":1182152
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"282acfca6df3452fc45583b9de41e113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720837,
+            "locality_id":421183425,
+            "neighbourhood_id":85907271,
+            "region_id":85672549
+        }
+    ],
+    "wof:id":85907271,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549930545,
+    "wof:name":"Nakhalat Ganim",
+    "wof:parent_id":421183425,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126068529
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.81018066407938,
+    32.08475589278403,
+    34.83268393651866,
+    32.09886303652219
+],
+  "geometry": {"coordinates":[[[34.82842924920828,32.09444795768944],[34.82873237451821,32.09409014164437],[34.83268393651866,32.09209109689331],[34.8311495773043,32.08955567897529],[34.82940673830035,32.08475589278403],[34.82666015630002,32.0858364783107],[34.82391357422517,32.08691706386658],[34.82116699220023,32.08583647829097],[34.81998742373406,32.08722870830003],[34.81979370117517,32.08745735663],[34.81979370117517,32.08955567897529],[34.81842041020002,32.0895556839522],[34.81567382811852,32.08955568589349],[34.81292724467846,32.08955568518321],[34.81194155085154,32.09071912727548],[34.81018066407938,32.09071912727548],[34.81018066409115,32.09188262000005],[34.81018066408632,32.09420947958763],[34.81292724610017,32.09420947909345],[34.81567382810005,32.09420948700001],[34.81567382810005,32.09653629470004],[34.8199875910978,32.09653629470004],[34.82064459992716,32.09886302829996],[34.82116699220006,32.09886303174103],[34.82391357421682,32.09886303652219],[34.82666015630002,32.0988630325689],[34.82718254852301,32.09886302829996],[34.82783955735238,32.09653629470004],[34.82842924920828,32.09444795768944]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343470325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.17469,32.76342,35.17469,32.76342",
+    "geom:latitude":32.76342,
+    "geom:longitude":35.17469,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Harduf",
+    "gn:country_code":"IL",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8265537,
+    "gn:latitude":32.76342,
+    "gn:longitude":35.17469,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Harduf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d4\u05e8\u05d3\u05d5\u05e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8265537,
+        "wk:page":"Harduf"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"eb83b5df69f3abeb22c1f45a970661aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":1343470325,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1343470325,
+    "wof:lastmodified":1549930393,
+    "wof:name":"Harduf",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.17469000000001,
+    32.76342,
+    35.17469000000001,
+    32.76342
+],
+  "geometry": {"coordinates":[35.17469000000001,32.76342],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293001167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.08917,32.75444,35.08917,32.75444",
+    "geom:latitude":32.75444,
+    "geom:longitude":35.08917,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kefar Hasidim Bet",
+    "gn:country_code":"IL",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10128836,
+    "gn:latitude":32.75444,
+    "gn:longitude":35.08917,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Kefar H\u0331asidim Bet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Kefar H\u0331asidim Bet"
+    ],
+    "name:heb_x_variant":[
+        "\u05db\u05e4\u05e8 \u05d7\u05e1\u05d9\u05d3\u05d9\u05dd \u05d1",
+        "Kefar H\u0331asidim B",
+        "Kefar H\u0331asidim Two",
+        "Kefar H\u0331asidim 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672535,
+        1108720835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10128836
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"b07121411808040e2b5382c0f183021f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720835,
+            "locality_id":1293001167,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1293001167,
+    "wof:lastmodified":1549930410,
+    "wof:name":"Kefar Hasidim Bet",
+    "wof:parent_id":1108720835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.08917,
+    32.75444,
+    35.08917,
+    32.75444
+],
+  "geometry": {"coordinates":[35.08917,32.75444],"type":"Point"}
+}

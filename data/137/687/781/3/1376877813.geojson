@@ -1,0 +1,78 @@
+{
+  "id": 1376877813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.00943,32.77922,35.00943,32.77922",
+    "geom:latitude":32.77922,
+    "geom:longitude":35.00943,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ramot Remez",
+    "gn:country_code":"IL",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293753,
+    "gn:latitude":32.77922,
+    "gn:longitude":35.00943,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ramot Remez",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:heb_x_preferred":[
+        "\u05e8\u05de\u05d5\u05ea \u05e8\u05de\u05d6"
+    ],
+    "name:und_x_variant":[
+        "Qiryat Remez",
+        "Ramot Remez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168693,
+        1108720835,
+        85672535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293753
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"f5ef1feaf88f4ed2c6da5410dc8dc98c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720835,
+            "locality_id":421168693,
+            "neighbourhood_id":1376877813,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1376877813,
+    "wof:lastmodified":1549930743,
+    "wof:name":"Ramot Remez",
+    "wof:parent_id":421168693,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327334115
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.00943,
+    32.77922,
+    35.00943,
+    32.77922
+],
+  "geometry": {"coordinates":[35.00943,32.77922],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226548599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.85688,32.35409,34.85688,32.35409",
+    "geom:latitude":32.35409,
+    "geom:longitude":34.85688,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Shoshannat Ha`Amaqim",
+    "gn:country_code":"IL",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8141247,
+    "gn:latitude":32.35409,
+    "gn:longitude":34.85688,
+    "gn:modification_date":"2018-04-17",
+    "gn:name":"Shoshannat Ha\u2018Amaqim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "Shoshannat Ha\u2018Amaqim"
+    ],
+    "name:heb_x_variant":[
+        "\u05e9\u05d5\u05e9\u05e0\u05ea \u05d4\u05e2\u05de\u05e7\u05d9\u05dd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8141247,
+        "wk:page":"Shoshanat_HaAmakim"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"e721dd5fd30fdf78aff514b9bf0e19f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":1226548599,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1226548599,
+    "wof:lastmodified":1549930487,
+    "wof:name":"Shoshannat Ha`Amaqim",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.85688,
+    32.35409,
+    34.85688,
+    32.35409
+],
+  "geometry": {"coordinates":[34.85688,32.35409],"type":"Point"}
+}

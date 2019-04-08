@@ -1,0 +1,105 @@
+{
+  "id": 1126109365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.98333,32.8,34.98333,32.8",
+    "geom:latitude":32.8,
+    "geom:longitude":34.98333,
+    "gn:gn_country":"IL",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":32.8,
+    "gn:longitude":34.98333,
+    "iso:country":"IL",
+    "lbl:latitude":32.8,
+    "lbl:longitude":34.98333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "HaKarmel"
+    ],
+    "name:eng_x_variant":[
+        "Carmel"
+    ],
+    "name:unk_x_variant":[
+        "HaKarmel",
+        "Carmel"
+    ],
+    "qs_pg:aaroncc":"IL",
+    "qs_pg:gn_country":"IL",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":294923,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"HaKarmel",
+    "qs_pg:name_adm0":"Israel",
+    "qs_pg:name_adm1":"Haifa",
+    "qs_pg:photos":4444,
+    "qs_pg:photos_1k":901,
+    "qs_pg:photos_9k":20,
+    "qs_pg:photos_9r":13,
+    "qs_pg:photos_all":4444,
+    "qs_pg:photos_sr":23,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1146153,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424852,
+    "qs_pg:woe_id":1967409,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424852,
+    "woe:name_adm0":"Israel",
+    "woe:name_adm1":"Haifa",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168693,
+        1108720835,
+        85672535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294923,
+        "gp:id":1967409,
+        "qs:id":1146153,
+        "qs_pg:id":1146153
+    },
+    "wof:country":"IL",
+    "wof:created":1497317875,
+    "wof:geomhash":"0a3959a74e32f0fd58208b61ce059342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720835,
+            "locality_id":421168693,
+            "neighbourhood_id":1126109365,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":1126109365,
+    "wof:lastmodified":1549930558,
+    "wof:name":"HaKarmel",
+    "wof:parent_id":421168693,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85903103
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.98333,
+    32.8,
+    34.98333,
+    32.8
+],
+  "geometry": {"coordinates":[34.98333,32.8],"type":"Point"}
+}

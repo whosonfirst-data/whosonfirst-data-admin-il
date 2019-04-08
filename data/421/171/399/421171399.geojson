@@ -1,0 +1,103 @@
+{
+  "id": 421171399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.32443,33.03346,35.32443,33.03346",
+    "geom:latitude":33.03346,
+    "geom:longitude":35.32443,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Elko\u0161"
+    ],
+    "name:cze_x_preferred":[
+        "Elko\u0161"
+    ],
+    "name:eng_x_preferred":[
+        "Elkosh"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05e7\u05d5\u05e9"
+    ],
+    "name:nno_x_preferred":[
+        "Elkosh"
+    ],
+    "name:pol_x_preferred":[
+        "Elkosz"
+    ],
+    "name:por_x_preferred":[
+        "Elc\u00f3s"
+    ],
+    "name:unk_x_variant":[
+        "Dayr al-Qasi"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295237,
+    "qs:gn_pop":0,
+    "qs:name":"Elqosh",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1247875,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967268,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":143,
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295237,
+        "gp:id":1967268,
+        "qs:id":1247875,
+        "wd:id":"Q743064",
+        "wk:page":"Elkosh"
+    },
+    "wof:country":"IL",
+    "wof:created":1459008892,
+    "wof:geomhash":"09052df91a421753eeb212f05119ee06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720807,
+            "locality_id":421171399,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421171399,
+    "wof:lastmodified":1549930315,
+    "wof:name":"Elqosh",
+    "wof:parent_id":1108720807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.32443,
+    33.03346,
+    35.32443,
+    33.03346
+],
+  "geometry": {"coordinates":[35.32443,33.03346],"type":"Point"}
+}

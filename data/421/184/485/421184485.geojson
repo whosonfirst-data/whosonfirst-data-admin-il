@@ -1,0 +1,84 @@
+{
+  "id": 421184485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.54499,33.21472,35.54499,33.21472",
+    "geom:latitude":33.21472,
+    "geom:longitude":35.54499,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05d2\u05dc\u05d9\u05d5\u05ea"
+    ],
+    "name:unk_x_variant":[
+        "Hunin"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":294341,
+    "qs:gn_pop":0,
+    "qs:name":"Margaliyyot",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Northern",
+    "qs:photos":59,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":59,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1000431,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967636,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294341,
+        "gp:id":1967636,
+        "qs:id":1000431,
+        "wd:id":"Q12406488",
+        "wk:page":"Hunin"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009412,
+    "wof:geomhash":"591b06b5f82feb521933019c259b05d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720839,
+            "locality_id":421184485,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":421184485,
+    "wof:lastmodified":1549930356,
+    "wof:name":"Margaliyyot",
+    "wof:parent_id":1108720839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.54499,
+    33.21472,
+    35.54499,
+    33.21472
+],
+  "geometry": {"coordinates":[35.54499,33.21472],"type":"Point"}
+}

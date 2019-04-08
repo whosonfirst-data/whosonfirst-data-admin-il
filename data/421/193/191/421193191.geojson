@@ -1,0 +1,160 @@
+{
+  "id": 421193191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.00893,32.26616,35.00893,32.26616",
+    "geom:latitude":32.26616,
+    "geom:longitude":35.00893,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u064a\u0628\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Tayibe"
+    ],
+    "name:cze_x_preferred":[
+        "Tajbe"
+    ],
+    "name:dut_x_preferred":[
+        "Taibe"
+    ],
+    "name:eng_x_preferred":[
+        "Tayibe"
+    ],
+    "name:fre_x_preferred":[
+        "Tayibe"
+    ],
+    "name:ger_x_preferred":[
+        "Tayyibe"
+    ],
+    "name:heb_x_preferred":[
+        "E\u1e6d \u1e6caiyiba"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0 \u05d8\u05d9\u05d1\u05d4",
+        "\u05d8\u05d9\u05d9\u05d1\u05d4"
+    ],
+    "name:ind_x_preferred":[
+        "Tayibe"
+    ],
+    "name:lad_x_preferred":[
+        "Tayiba"
+    ],
+    "name:lit_x_preferred":[
+        "Tajib\u0117"
+    ],
+    "name:nno_x_preferred":[
+        "Tayibe"
+    ],
+    "name:nob_x_preferred":[
+        "Tayibe"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0637\u06cc\u0628\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Tajbe"
+    ],
+    "name:por_x_preferred":[
+        "Tayibe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0439\u0431\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Tayibe"
+    ],
+    "name:spa_x_preferred":[
+        "Tayibe"
+    ],
+    "name:swe_x_preferred":[
+        "E\u1e6d \u1e6caiyiba"
+    ],
+    "name:tgl_x_preferred":[
+        "Tayibe"
+    ],
+    "name:unk_x_variant":[
+        "At Taiyiba"
+    ],
+    "name:urd_x_preferred":[
+        "\u0637\u06cc\u0628\u06c1\u060c \u0627\u0633\u0631\u0627\u0626\u06cc\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Tayibe"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d8\u05d9\u05d9\u05d1\u05d4"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":295130,
+    "qs:gn_pop":32978,
+    "qs:name":"Et Taiyiba",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Central",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1247874,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1967314,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672541,
+        1108720805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295130,
+        "gp:id":1967314,
+        "qs:id":1247874,
+        "wd:id":"Q1022481",
+        "wk:page":"Tayibe"
+    },
+    "wof:country":"IL",
+    "wof:created":1459009763,
+    "wof:geomhash":"88b9b144c0b02b4517b9842e443b4dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720805,
+            "locality_id":421193191,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":421193191,
+    "wof:lastmodified":1553816381,
+    "wof:name":"Et Taiyiba",
+    "wof:parent_id":1108720805,
+    "wof:placetype":"locality",
+    "wof:population":32978,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.00893,
+    32.26616,
+    35.00893,
+    32.26616
+],
+  "geometry": {"coordinates":[35.00893,32.26616],"type":"Point"}
+}

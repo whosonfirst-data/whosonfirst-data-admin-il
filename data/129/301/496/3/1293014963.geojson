@@ -1,0 +1,80 @@
+{
+  "id": 1293014963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.64634,31.46994,34.64634,31.46994",
+    "geom:latitude":31.46994,
+    "geom:longitude":34.64634,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nir `Aqiva",
+    "gn:country_code":"IL",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294034,
+    "gn:latitude":31.46994,
+    "gn:longitude":34.64634,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Nir \u2018Aqiva",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05e8 \u05e2\u05e7\u05d9\u05d1\u05d4"
+    ],
+    "name:und_x_variant":[
+        "Irgun Daroma",
+        "Shoval 2",
+        "S\u2019dot Akiba",
+        "Shoval Mizra\u1e96i Shetayim",
+        "Sedot Aqiva",
+        "Nir \u2018Aqiva",
+        "Nir Akiva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294034,
+        "wk:page":"Nir_Akiva"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"8382905b7ddf49777cb9eea56756395b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1293014963,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1293014963,
+    "wof:lastmodified":1549930411,
+    "wof:name":"Nir `Aqiva",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.64634,
+    31.46994,
+    34.64634,
+    31.46994
+],
+  "geometry": {"coordinates":[34.64634,31.46994],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226434971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.94472,31.67119,34.94472,31.67119",
+    "geom:latitude":31.67119,
+    "geom:longitude":34.94472,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Giv`at Yesha`yahu",
+    "gn:country_code":"IL",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":294979,
+    "gn:latitude":31.67119,
+    "gn:longitude":34.94472,
+    "gn:modification_date":"2018-04-17",
+    "gn:name":"Giv\u2018at Yesha\u2018yahu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d2\u05d1\u05e2\u05ea \u05d9\u05e9\u05e2\u05d9\u05d4\u05d5"
+    ],
+    "name:heb_x_variant":[
+        "Giv\u2019at Yesha\u2019yahu"
+    ],
+    "name:und_x_variant":[
+        "Giv\u2018at Yesha\u2018yaha",
+        "Giv\u2018at Yesha\u2018yahu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":294979,
+        "wk:page":"Givat_Yeshayahu"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"2f571ea8eed266964e49ee3b9586a8d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":1226434971,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":1226434971,
+    "wof:lastmodified":1549930476,
+    "wof:name":"Giv`at Yesha`yahu",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.94472,
+    31.67119000000001,
+    34.94472,
+    31.67119000000001
+],
+  "geometry": {"coordinates":[34.94472,31.67119000000001],"type":"Point"}
+}

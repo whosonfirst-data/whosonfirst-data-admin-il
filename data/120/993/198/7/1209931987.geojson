@@ -1,0 +1,74 @@
+{
+  "id": 1209931987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.32592,31.22963,34.32592,31.22963",
+    "geom:latitude":31.22963,
+    "geom:longitude":34.32592,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Holit",
+    "gn:country_code":"IL",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8068370,
+    "gn:latitude":31.22963,
+    "gn:longitude":34.32592,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"H\u0331olit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "H\u0331olit"
+    ],
+    "name:heb_x_variant":[
+        "\u05d7\u05d5\u05dc\u05d9\u05ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672531,
+        1108720817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8068370,
+        "wk:page":"Holit"
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"6d6a482d62b443004348b3322e873c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":1209931987,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":1209931987,
+    "wof:lastmodified":1549930495,
+    "wof:name":"Holit",
+    "wof:parent_id":1108720817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.32592,
+    31.22963,
+    34.32592,
+    31.22963
+],
+  "geometry": {"coordinates":[34.32592,31.22963],"type":"Point"}
+}

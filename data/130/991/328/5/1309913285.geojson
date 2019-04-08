@@ -1,0 +1,78 @@
+{
+  "id": 1309913285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.40333,32.6345,35.40333,32.6345",
+    "geom:latitude":32.6345,
+    "geom:longitude":35.40333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tamra",
+    "gn:country_code":"IL",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":293427,
+    "gn:latitude":32.6345,
+    "gn:longitude":35.40333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tamra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05ea\u05de\u05e8\u05d4"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043c\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Temarah",
+        "Tamrah",
+        "Tamra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672545,
+        1108720829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293427
+    },
+    "wof:country":"IL",
+    "wof:geomhash":"68795d82b1146602a0ee5de416b50cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720829,
+            "locality_id":1309913285,
+            "region_id":85672545
+        }
+    ],
+    "wof:id":1309913285,
+    "wof:lastmodified":1549930358,
+    "wof:name":"Tamra",
+    "wof:parent_id":1108720829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.40333,
+    32.6345,
+    35.40333,
+    32.6345
+],
+  "geometry": {"coordinates":[35.40333,32.6345],"type":"Point"}
+}

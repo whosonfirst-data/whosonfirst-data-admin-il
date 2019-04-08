@@ -1,0 +1,98 @@
+{
+  "id": 421204331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.11926,31.78378,35.11926,31.78378",
+    "geom:latitude":31.78378,
+    "geom:longitude":35.11926,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cze_x_preferred":[
+        "Cova"
+    ],
+    "name:eng_x_preferred":[
+        "Tzova"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6\u05d5\u05d1\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Tzova"
+    ],
+    "name:pol_x_preferred":[
+        "Cova"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0443\u0431\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Misgav Palmah"
+    ],
+    "qs:gn_country":"IL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":293023,
+    "qs:gn_pop":0,
+    "qs:name":"Zova",
+    "qs:name_adm0":"Israel",
+    "qs:name_adm1":"Jerusalem",
+    "qs:photos":264,
+    "qs:photos_1k":53,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":264,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":239207,
+    "qs:woe_adm0":23424852,
+    "qs:woe_id":1968140,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        85672551,
+        1108720823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":293023,
+        "gp:id":1968140,
+        "qs:id":239207,
+        "wd:id":"Q2889772"
+    },
+    "wof:country":"IL",
+    "wof:created":1459010181,
+    "wof:geomhash":"e48089ff72734d17c267f304ac9577ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421204331,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":421204331,
+    "wof:lastmodified":1549930404,
+    "wof:name":"Zova",
+    "wof:parent_id":1108720823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11926,
+    31.78378,
+    35.11926,
+    31.78378
+],
+  "geometry": {"coordinates":[35.11926,31.78378],"type":"Point"}
+}
