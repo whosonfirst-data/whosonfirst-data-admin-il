@@ -10,6 +10,12 @@
     "geom:latitude":32.761372,
     "geom:longitude":35.498047,
     "iso:country":"IL",
+    "label:eng_x_preferred_longname":[
+        "Kinneret Subdistrict"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subdistrict"
+    ],
     "lbl:latitude":32.747571,
     "lbl:longitude":35.470821,
     "meso:adm1_en":"North",
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1108720825,
-    "wof:lastmodified":1549931292,
+    "wof:lastmodified":1553718459,
     "wof:name":"Kinneret",
     "wof:parent_id":85672545,
     "wof:placetype":"county",

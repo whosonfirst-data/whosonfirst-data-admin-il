@@ -10,6 +10,12 @@
     "geom:latitude":32.761407,
     "geom:longitude":35.062018,
     "iso:country":"IL",
+    "label:eng_x_preferred_longname":[
+        "Haifa Subdistrict"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subdistrict"
+    ],
     "lbl:latitude":32.76053,
     "lbl:longitude":35.072253,
     "meso:adm1_en":"Haifa",
@@ -246,7 +252,7 @@
         }
     ],
     "wof:id":1108720835,
-    "wof:lastmodified":1549931309,
+    "wof:lastmodified":1553718458,
     "wof:name":"Haifa",
     "wof:parent_id":85672535,
     "wof:placetype":"county",

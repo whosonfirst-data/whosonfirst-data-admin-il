@@ -10,6 +10,12 @@
     "geom:latitude":32.08247,
     "geom:longitude":34.809661,
     "iso:country":"IL",
+    "label:eng_x_preferred_longname":[
+        "Tel Aviv District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":32.072773,
     "lbl:longitude":34.804786,
     "meso:adm1_en":"Tel Aviv",
@@ -213,7 +219,7 @@
         }
     ],
     "wof:id":1108720837,
-    "wof:lastmodified":1549931314,
+    "wof:lastmodified":1555220444,
     "wof:name":"Tel Aviv",
     "wof:parent_id":85672549,
     "wof:placetype":"county",

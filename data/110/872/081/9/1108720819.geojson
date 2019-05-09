@@ -10,6 +10,12 @@
     "geom:latitude":32.539991,
     "geom:longitude":34.997208,
     "iso:country":"IL",
+    "label:eng_x_preferred_longname":[
+        "Hadera Subdistrict"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subdistrict"
+    ],
     "lbl:latitude":32.489993,
     "lbl:longitude":34.980481,
     "meso:adm1_en":"Haifa",
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1108720819,
-    "wof:lastmodified":1549931275,
+    "wof:lastmodified":1553718458,
     "wof:name":"Hadera",
     "wof:parent_id":85672535,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":31.752476,
     "geom:longitude":35.031659,
     "iso:country":"IL",
+    "label:eng_x_preferred_longname":[
+        "Jerusalem District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":31.737213,
     "lbl:longitude":34.979485,
     "meso:adm1_en":"Jerusalem",
@@ -222,7 +228,7 @@
         }
     ],
     "wof:id":1108720823,
-    "wof:lastmodified":1549931287,
+    "wof:lastmodified":1555258349,
     "wof:name":"Jerusalem",
     "wof:parent_id":85672551,
     "wof:placetype":"county",

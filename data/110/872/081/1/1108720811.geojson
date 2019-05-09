@@ -10,6 +10,12 @@
     "geom:latitude":33.011244,
     "geom:longitude":35.741956,
     "iso:country":"IL",
+    "label:eng_x_preferred_longname":[
+        "Golan Subdistrict"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subdistrict"
+    ],
     "lbl:latitude":32.994302,
     "lbl:longitude":35.753316,
     "meso:adm1_en":"North",
@@ -52,9 +58,9 @@
     "statoids:type":"subdistrict",
     "wof:belongsto":[
         102191569,
+        85632221,
         85632315,
         85678395,
-        85632221,
         85632413,
         85672545
     ],
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108720811,
-    "wof:lastmodified":1549931230,
+    "wof:lastmodified":1553718463,
     "wof:name":"Golan",
     "wof:parent_id":-1,
     "wof:placetype":"county",
