@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Netiv ha-\u0160ajara"
     ],
-    "name:cze_x_preferred":[
-        "Netiv ha-\u0160ajara"
-    ],
     "name:eng_x_preferred":[
         "Netiv HaShayara"
     ],
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":421194531,
-    "wof:lastmodified":1549930382,
+    "wof:lastmodified":1561760017,
     "wof:name":"Netiv HaShayyara",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

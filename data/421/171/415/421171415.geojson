@@ -16,12 +16,6 @@
     "name:ces_x_preferred":[
         "\u0160ora\u0161im"
     ],
-    "name:cze_x_preferred":[
-        "\u0160ora\u0161im"
-    ],
-    "name:dut_x_preferred":[
-        "Shorashim"
-    ],
     "name:eng_x_preferred":[
         "Shorashim"
     ],
@@ -30,6 +24,9 @@
     ],
     "name:heb_x_variant":[
         "\u05e9\u05e8\u05e9\u05d9\u05dd"
+    ],
+    "name:nld_x_preferred":[
+        "Shorashim"
     ],
     "name:nno_x_preferred":[
         "Shorashim"
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":421171415,
-    "wof:lastmodified":1549930316,
+    "wof:lastmodified":1561760037,
     "wof:name":"Shorashim",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

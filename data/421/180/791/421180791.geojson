@@ -26,20 +26,11 @@
     "name:ces_x_preferred":[
         "Ramat ha-\u0160aron"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u9a6c\u7279\u6c99\u9f99"
-    ],
-    "name:cze_x_preferred":[
-        "Ramat ha-\u0160aron"
-    ],
     "name:dan_x_preferred":[
         "Ramat HaSharon"
     ],
     "name:deu_x_preferred":[
         "Ramat haScharon"
-    ],
-    "name:dut_x_preferred":[
-        "Ramat Hasjaron"
     ],
     "name:eng_x_preferred":[
         "Ramat HaSharon"
@@ -49,15 +40,6 @@
     ],
     "name:fra_x_preferred":[
         "Ramat Ha-Sharon"
-    ],
-    "name:fre_x_preferred":[
-        "Ramat Ha-Sharon"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d0\u10db\u10d0\u10d7-\u10f0\u10d0\u10e8\u10d0\u10e0\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Ramat haScharon"
     ],
     "name:heb_x_preferred":[
         "\u05e8\u05de\u05ea \u05d4\u05e9\u05e8\u05d5\u05df"
@@ -88,9 +70,6 @@
     ],
     "name:nno_x_preferred":[
         "Ramat HaSharon"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u0645\u062a \u0647\u0634\u0627\u0631\u0648\u0646"
     ],
     "name:pol_x_preferred":[
         "Ramat ha-Szaron"
@@ -191,7 +170,7 @@
         }
     ],
     "wof:id":421180791,
-    "wof:lastmodified":1549931474,
+    "wof:lastmodified":1561760023,
     "wof:name":"Ramat HaSharon",
     "wof:parent_id":1108720837,
     "wof:placetype":"locality",

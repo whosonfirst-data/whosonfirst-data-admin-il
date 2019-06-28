@@ -16,12 +16,6 @@
     "name:ces_x_preferred":[
         "Jad Rambam"
     ],
-    "name:cze_x_preferred":[
-        "Jad Rambam"
-    ],
-    "name:dut_x_preferred":[
-        "Yad Rambam"
-    ],
     "name:eng_x_preferred":[
         "Yad Rambam"
     ],
@@ -30,6 +24,9 @@
     ],
     "name:heb_x_variant":[
         "\u05d9\u05d3 \u05e8\u05de\u05d1\u2019\u2019\u05dd"
+    ],
+    "name:nld_x_preferred":[
+        "Yad Rambam"
     ],
     "name:nno_x_preferred":[
         "Yad Rambam"
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":421175143,
-    "wof:lastmodified":1549930305,
+    "wof:lastmodified":1561760028,
     "wof:name":"Yad Rambam",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

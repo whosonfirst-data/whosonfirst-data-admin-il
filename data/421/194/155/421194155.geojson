@@ -19,17 +19,14 @@
     "name:ces_x_preferred":[
         "Gazit"
     ],
-    "name:cze_x_preferred":[
-        "Gazit"
-    ],
-    "name:dut_x_preferred":[
-        "Gazit"
-    ],
     "name:eng_x_preferred":[
         "Gazit"
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05d6\u05d9\u05ea"
+    ],
+    "name:nld_x_preferred":[
+        "Gazit"
     ],
     "name:nno_x_preferred":[
         "Gazit"
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":421194155,
-    "wof:lastmodified":1549930381,
+    "wof:lastmodified":1561760017,
     "wof:name":"Gazit",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

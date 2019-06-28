@@ -17,14 +17,14 @@
     "name:eng_x_preferred":[
         "Ramat Ef'al"
     ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d0\u10db\u10d0\u10d7 \u10d4\u10e4\u10d0\u10da"
-    ],
     "name:heb_x_preferred":[
         "\u05e8\u05de\u05ea \u05d0\u05e4\u05e2\u05dc"
     ],
     "name:heb_x_variant":[
         "Ramat Ef\u2018al"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10db\u10d0\u10d7 \u10d4\u10e4\u10d0\u10da"
     ],
     "name:unk_x_variant":[
         "Ef\u2018al"
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":421186893,
-    "wof:lastmodified":1549930757,
+    "wof:lastmodified":1561760027,
     "wof:name":"Ramat Efal",
     "wof:parent_id":1108720837,
     "wof:placetype":"locality",

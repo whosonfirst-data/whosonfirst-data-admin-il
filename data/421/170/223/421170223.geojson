@@ -16,16 +16,7 @@
     "name:ces_x_preferred":[
         "Sde Nachum"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u5fb7\u5167\u5384\u59c6"
-    ],
-    "name:cze_x_preferred":[
-        "Sde Nachum"
-    ],
     "name:deu_x_preferred":[
-        "Sde Nahum"
-    ],
-    "name:dut_x_preferred":[
         "Sde Nahum"
     ],
     "name:eng_x_preferred":[
@@ -33,12 +24,6 @@
     ],
     "name:fra_x_preferred":[
         "Sd\u00e9-Nahum"
-    ],
-    "name:fre_x_preferred":[
-        "Sd\u00e9-Nahum"
-    ],
-    "name:ger_x_preferred":[
-        "Sde Nahum"
     ],
     "name:heb_x_preferred":[
         "\u05e9\u05d3\u05d4 \u05e0\u05d7\u05d5\u05dd"
@@ -54,6 +39,9 @@
     ],
     "name:unk_x_variant":[
         "Sedeh Nahum"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u5fb7\u5167\u5384\u59c6"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -102,7 +90,7 @@
         }
     ],
     "wof:id":421170223,
-    "wof:lastmodified":1549930311,
+    "wof:lastmodified":1561760034,
     "wof:name":"Sede Nahum",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

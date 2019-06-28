@@ -16,26 +16,14 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0633 \u0632\u064a\u0648\u0646\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0546\u0565\u057d \u0551\u056b\u0578\u0576\u0561"
-    ],
     "name:cat_x_preferred":[
         "Ness Tsiona"
     ],
     "name:ces_x_preferred":[
         "Nes Cijona"
     ],
-    "name:chi_x_preferred":[
-        "\u8010\u65af\u8328\u5967\u7d0d"
-    ],
-    "name:cze_x_preferred":[
-        "Nes Cijona"
-    ],
     "name:deu_x_preferred":[
         "Nes Ziona"
-    ],
-    "name:dut_x_preferred":[
-        "Ness Ziona"
     ],
     "name:eng_x_preferred":[
         "Ness Ziona"
@@ -51,12 +39,6 @@
     ],
     "name:fra_x_preferred":[
         "Ness Ziona"
-    ],
-    "name:fre_x_preferred":[
-        "Ness Ziona"
-    ],
-    "name:ger_x_preferred":[
-        "Nes Ziona"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05e1 \u05e6\u05d9\u05d5\u05e0\u05d4"
@@ -85,9 +67,6 @@
     "name:nno_x_preferred":[
         "Ness Ziona"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0633 \u0632\u06cc\u0648\u0646\u0627"
-    ],
     "name:pol_x_preferred":[
         "Nes Cijjona"
     ],
@@ -95,9 +74,6 @@
         "Ness Ziona"
     ],
     "name:ron_x_preferred":[
-        "Nes \u021aiona"
-    ],
-    "name:rum_x_preferred":[
         "Nes \u021aiona"
     ],
     "name:rus_x_preferred":[
@@ -186,7 +162,7 @@
         }
     ],
     "wof:id":421192657,
-    "wof:lastmodified":1549930377,
+    "wof:lastmodified":1561760016,
     "wof:name":"Nes Ziyyona",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

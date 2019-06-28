@@ -16,17 +16,14 @@
     "name:ces_x_preferred":[
         "Or ha-Ganuz"
     ],
-    "name:cze_x_preferred":[
-        "Or ha-Ganuz"
-    ],
-    "name:dut_x_preferred":[
-        "Or HaGanuz"
-    ],
     "name:eng_x_preferred":[
         "Or HaGanuz"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05e8 \u05d4\u05d2\u05e0\u05d5\u05d6"
+    ],
+    "name:nld_x_preferred":[
+        "Or HaGanuz"
     ],
     "name:nno_x_preferred":[
         "Or HaGanuz"
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":421173543,
-    "wof:lastmodified":1549930320,
+    "wof:lastmodified":1561760025,
     "wof:name":"Or Haganouz",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

@@ -19,12 +19,6 @@
     "name:ces_x_preferred":[
         "Ibtin"
     ],
-    "name:cze_x_preferred":[
-        "Ibtin"
-    ],
-    "name:dut_x_preferred":[
-        "Ibtin"
-    ],
     "name:eng_x_preferred":[
         "Ibtin"
     ],
@@ -33,6 +27,9 @@
     ],
     "name:heb_x_variant":[
         "Ib\u1e6d\u012bn"
+    ],
+    "name:nld_x_preferred":[
+        "Ibtin"
     ],
     "name:nno_x_preferred":[
         "Ibtin"
@@ -94,7 +91,7 @@
         }
     ],
     "wof:id":421202783,
-    "wof:lastmodified":1549930402,
+    "wof:lastmodified":1561760021,
     "wof:name":"Ibtin",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

@@ -19,12 +19,6 @@
     "name:ces_x_preferred":[
         "Maghar"
     ],
-    "name:cze_x_preferred":[
-        "Maghar"
-    ],
-    "name:dut_x_preferred":[
-        "Maghar"
-    ],
     "name:eng_x_preferred":[
         "Maghar"
     ],
@@ -34,6 +28,9 @@
     "name:heb_x_variant":[
         "Magh\u0101r",
         "\u05de\u05e2\u2019\u05e8"
+    ],
+    "name:nld_x_preferred":[
+        "Maghar"
     ],
     "name:nno_x_preferred":[
         "Maghar"
@@ -101,7 +98,7 @@
         }
     ],
     "wof:id":421172171,
-    "wof:lastmodified":1549930306,
+    "wof:lastmodified":1561760027,
     "wof:name":"Maghar",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

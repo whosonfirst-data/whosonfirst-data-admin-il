@@ -16,17 +16,11 @@
     "name:ces_x_preferred":[
         "A\u0161dot Ja'akov"
     ],
-    "name:cze_x_preferred":[
-        "A\u0161dot Ja'akov"
-    ],
     "name:deu_x_preferred":[
         "Aschdot Ja\u2019akov"
     ],
     "name:eng_x_preferred":[
         "Ashdot Ya'akov"
-    ],
-    "name:ger_x_preferred":[
-        "Aschdot Ja\u2019akov"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05e9\u05d3\u05d5\u05ea \u05d9\u05e2\u05e7\u05d1"
@@ -89,7 +83,7 @@
         }
     ],
     "wof:id":421181207,
-    "wof:lastmodified":1549930341,
+    "wof:lastmodified":1561760027,
     "wof:name":"Ashdot Yaaqov Ihud",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

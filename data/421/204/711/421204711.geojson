@@ -16,13 +16,10 @@
     "name:ces_x_preferred":[
         "Chaceva"
     ],
-    "name:cze_x_preferred":[
-        "Chaceva"
-    ],
-    "name:eng_x_preferred":[
+    "name:deu_x_preferred":[
         "Hatzeva"
     ],
-    "name:ger_x_preferred":[
+    "name:eng_x_preferred":[
         "Hatzeva"
     ],
     "name:heb_x_preferred":[
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":421204711,
-    "wof:lastmodified":1549930405,
+    "wof:lastmodified":1561760020,
     "wof:name":"Hazeva",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

@@ -19,25 +19,16 @@
     "name:cat_x_preferred":[
         "\u00d3mer"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Omer"
     ],
     "name:deu_x_preferred":[
-        "Omer"
-    ],
-    "name:dut_x_preferred":[
         "Omer"
     ],
     "name:eng_x_preferred":[
         "Omer"
     ],
     "name:fra_x_preferred":[
-        "Omer"
-    ],
-    "name:fre_x_preferred":[
-        "Omer"
-    ],
-    "name:ger_x_preferred":[
         "Omer"
     ],
     "name:heb_x_preferred":[
@@ -113,7 +104,7 @@
         }
     ],
     "wof:id":421192659,
-    "wof:lastmodified":1549930376,
+    "wof:lastmodified":1561760016,
     "wof:name":"Omer",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

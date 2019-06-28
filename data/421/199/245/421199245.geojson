@@ -16,16 +16,10 @@
     "name:ces_x_preferred":[
         "Kfar Netter"
     ],
-    "name:cze_x_preferred":[
-        "Kfar Netter"
-    ],
     "name:eng_x_preferred":[
         "Kfar Netter"
     ],
     "name:fra_x_preferred":[
-        "Kfar-Netter"
-    ],
-    "name:fre_x_preferred":[
         "Kfar-Netter"
     ],
     "name:heb_x_preferred":[
@@ -89,7 +83,7 @@
         }
     ],
     "wof:id":421199245,
-    "wof:lastmodified":1549930391,
+    "wof:lastmodified":1561760031,
     "wof:name":"Kefar Netter",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

@@ -20,23 +20,14 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0631 \u06cc\u0647\u0648\u062f\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0555\u057c \u0535\u0570\u0578\u0582\u0564\u0561"
-    ],
     "name:cat_x_preferred":[
         "Or Yehud\u00e0"
     ],
     "name:ces_x_preferred":[
         "Or Jehuda"
     ],
-    "name:cze_x_preferred":[
-        "Or Jehuda"
-    ],
     "name:deu_x_preferred":[
         "Or Jehuda"
-    ],
-    "name:dut_x_preferred":[
-        "Or Yehuda"
     ],
     "name:eng_x_preferred":[
         "Or Yehuda"
@@ -44,20 +35,17 @@
     "name:fas_x_preferred":[
         "\u0627\u0648\u0631 \u06cc\u0647\u0648\u062f\u0627"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Or Yehuda"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10e0-\u10d8\u10d4\u10f0\u10e3\u10d3\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Or Jehuda"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05e8 \u05d9\u05d4\u05d5\u05d3\u05d4"
     ],
     "name:hun_x_preferred":[
         "Or Yehuda"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u057c \u0535\u0570\u0578\u0582\u0564\u0561"
     ],
     "name:ind_x_preferred":[
         "Or Yehuda"
@@ -74,11 +62,11 @@
     "name:kor_x_preferred":[
         "\uc624\ub974\uc608\ud6c4\ub2e4"
     ],
-    "name:nno_x_preferred":[
+    "name:nld_x_preferred":[
         "Or Yehuda"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0631 \u06cc\u0647\u0648\u062f\u0627"
+    "name:nno_x_preferred":[
+        "Or Yehuda"
     ],
     "name:pol_x_preferred":[
         "Or Jehuda"
@@ -171,7 +159,7 @@
         }
     ],
     "wof:id":421196439,
-    "wof:lastmodified":1549931478,
+    "wof:lastmodified":1561760029,
     "wof:name":"Or Yehuda",
     "wof:parent_id":1108720837,
     "wof:placetype":"locality",

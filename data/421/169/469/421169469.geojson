@@ -16,19 +16,10 @@
     "name:ara_x_preferred":[
         "\u0631\u0639\u0646\u0627\u0646\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u054c\u0561\u0561\u0576\u0561\u0576\u0561"
-    ],
     "name:cat_x_preferred":[
         "Ra'anana"
     ],
     "name:ces_x_preferred":[
-        "Ra'anana"
-    ],
-    "name:chi_x_preferred":[
-        "\u8d56\u963f\u5357\u7eb3"
-    ],
-    "name:cze_x_preferred":[
         "Ra'anana"
     ],
     "name:dan_x_preferred":[
@@ -37,8 +28,8 @@
     "name:deu_x_preferred":[
         "Ra\u02bfanana"
     ],
-    "name:dut_x_preferred":[
-        "Ra\u00e4nana"
+    "name:deu_x_variant":[
+        "Ra\u2019anana"
     ],
     "name:eng_x_preferred":[
         "Ra\u2018anana"
@@ -58,11 +49,8 @@
     "name:fra_x_preferred":[
         "Ra'anana"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Raanana"
-    ],
-    "name:ger_x_preferred":[
-        "Ra\u2019anana"
     ],
     "name:heb_x_preferred":[
         "\u05e8\u05e2\u05e0\u05e0\u05d4"
@@ -88,12 +76,6 @@
     "name:lit_x_preferred":[
         "Ranana"
     ],
-    "name:mac_x_preferred":[
-        "\u0420\u0430\u043d\u0430\u043d\u0430"
-    ],
-    "name:may_x_preferred":[
-        "Ra'anana"
-    ],
     "name:mkd_x_preferred":[
         "\u0420\u0430\u043d\u0430\u043d\u0430"
     ],
@@ -111,9 +93,6 @@
     ],
     "name:nor_x_preferred":[
         "Ra'anana"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u0639\u0627\u0646\u0627\u0646\u0627"
     ],
     "name:pol_x_preferred":[
         "Ra\u2019anana"
@@ -207,7 +186,7 @@
         }
     ],
     "wof:id":421169469,
-    "wof:lastmodified":1549930317,
+    "wof:lastmodified":1561760019,
     "wof:name":"Ra'anana",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

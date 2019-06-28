@@ -16,22 +16,13 @@
     "name:ces_x_preferred":[
         "Nes Amim"
     ],
-    "name:cze_x_preferred":[
-        "Nes Amim"
-    ],
     "name:deu_x_preferred":[
-        "Nes Ammim"
-    ],
-    "name:dut_x_preferred":[
         "Nes Ammim"
     ],
     "name:eng_x_preferred":[
         "Nes Ammim"
     ],
-    "name:fre_x_preferred":[
-        "Nes Ammim"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nes Ammim"
     ],
     "name:heb_x_preferred":[
@@ -99,7 +90,7 @@
         }
     ],
     "wof:id":421169649,
-    "wof:lastmodified":1549930322,
+    "wof:lastmodified":1561760019,
     "wof:name":"Nes Ammim",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

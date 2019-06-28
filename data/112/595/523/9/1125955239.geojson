@@ -23,9 +23,6 @@
     "name:afr_x_preferred":[
         "Tel Aviv"
     ],
-    "name:alb_x_preferred":[
-        "Tel Aviv"
-    ],
     "name:amh_x_preferred":[
         "\u1274\u120d \u12a0\u126a\u126d"
     ],
@@ -34,9 +31,6 @@
     ],
     "name:arc_x_preferred":[
         "\u072c\u0720 \u0710\u0712\u071d\u0712"
-    ],
-    "name:arm_x_preferred":[
-        "\u0539\u0565\u056c \u0531\u057e\u056b\u057e"
     ],
     "name:arz_x_preferred":[
         "\u062a\u0644 \u0627\u0628\u064a\u0628"
@@ -52,9 +46,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0422\u0435\u043b\u044c-\u0410\u0432\u0438\u0432"
-    ],
-    "name:baq_x_preferred":[
-        "Tel Aviv"
     ],
     "name:bar_x_preferred":[
         "Tel Aviv"
@@ -80,11 +71,11 @@
     "name:cat_x_preferred":[
         "Tel Aviv"
     ],
+    "name:ces_x_preferred":[
+        "Tel Aviv"
+    ],
     "name:che_x_preferred":[
         "\u0422\u0435\u043b\u044c-\u0410\u0432\u0438\u0432"
-    ],
-    "name:chi_x_preferred":[
-        "\u7279\u62c9\u7ef4\u592b"
     ],
     "name:chv_x_preferred":[
         "\u0422\u0435\u043b\u044c-\u0410\u0432\u0438\u0432"
@@ -92,17 +83,20 @@
     "name:ckb_x_preferred":[
         "\u062a\u06ce\u0644 \u0626\u0627\u06a4\u06cc\u06a4"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Tel Aviv"
     ],
     "name:dan_x_preferred":[
         "Tel Aviv"
     ],
+    "name:deu_x_preferred":[
+        "Tel Aviv-Jaffa"
+    ],
     "name:diq_x_preferred":[
         "Tel Eviv"
     ],
-    "name:dut_x_preferred":[
-        "Tel Aviv"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03bb \u0391\u03b2\u03af\u03b2"
     ],
     "name:eng_x_preferred":[
         "Tel Aviv"
@@ -113,26 +107,26 @@
     "name:est_x_preferred":[
         "Tel Aviv"
     ],
+    "name:eus_x_preferred":[
+        "Tel Aviv"
+    ],
     "name:ext_x_preferred":[
         "Tel Aviv"
     ],
     "name:fao_x_preferred":[
         "Tel Aviv-Jaffa"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0644\u200c\u0622\u0648\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
         "Tel Aviv"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tel Aviv-Jaffa"
     ],
     "name:fry_x_preferred":[
         "Tel Aviv"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d7\u10d4\u10da-\u10d0\u10d5\u10d8\u10d5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Tel Aviv-Jaffa"
     ],
     "name:gla_x_preferred":[
         "Tel Aviv"
@@ -145,9 +139,6 @@
     ],
     "name:glv_x_preferred":[
         "Tel Aviv-Yafo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b5\u03bb \u0391\u03b2\u03af\u03b2"
     ],
     "name:grn_x_preferred":[
         "Tel Aviv"
@@ -170,8 +161,8 @@
     "name:hun_x_preferred":[
         "Tel-Aviv"
     ],
-    "name:ice_x_preferred":[
-        "Tel Av\u00edv"
+    "name:hye_x_preferred":[
+        "\u0539\u0565\u056c \u0531\u057e\u056b\u057e"
     ],
     "name:ido_x_preferred":[
         "Tel Aviv"
@@ -184,6 +175,9 @@
     ],
     "name:ind_x_preferred":[
         "Tel Aviv"
+    ],
+    "name:isl_x_preferred":[
+        "Tel Av\u00edv"
     ],
     "name:ita_x_preferred":[
         "Tel Aviv"
@@ -202,6 +196,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c9f\u0cc6\u0cb2\u0ccd \u0c85\u0cb5\u0cbf\u0cb5\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d4\u10da-\u10d0\u10d5\u10d8\u10d5\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0422\u0435\u043b\u044c-\u0410\u0432\u0438\u0432"
@@ -245,29 +242,32 @@
     "name:ltz_x_preferred":[
         "Tel Aviv"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0435\u043b \u0410\u0432\u0438\u0432"
-    ],
     "name:mal_x_preferred":[
         "\u0d1f\u0d46\u0d7d \u0d05\u0d35\u0d40\u0d35\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0924\u0947\u0932 \u0905\u0935\u0940\u0935"
     ],
-    "name:may_x_preferred":[
-        "Tel Aviv"
-    ],
     "name:mhr_x_preferred":[
         "\u0422\u0435\u043b\u044c-\u0410\u0432\u0438\u0432"
     ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0435\u043b \u0410\u0432\u0438\u0432"
+    ],
     "name:mon_x_preferred":[
         "\u0422\u0435\u043b-\u0410\u0432\u0438\u0432"
+    ],
+    "name:msa_x_preferred":[
+        "Tel Aviv"
     ],
     "name:nah_x_preferred":[
         "Tel Aviv"
     ],
     "name:new_x_preferred":[
         "\u0924\u0947\u0932 \u0905\u092d\u093f\u0935"
+    ],
+    "name:nld_x_preferred":[
+        "Tel Aviv"
     ],
     "name:nno_x_preferred":[
         "Tel Aviv"
@@ -287,16 +287,13 @@
     "name:pap_x_preferred":[
         "Tel Aviv"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0644\u200c\u0622\u0648\u06cc\u0648"
-    ],
     "name:pol_x_preferred":[
         "Tel Awiw-Jafa"
     ],
     "name:por_x_preferred":[
         "Tel Aviv"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tel Aviv"
     ],
     "name:rus_x_preferred":[
@@ -317,13 +314,16 @@
     "name:sin_x_preferred":[
         "\u0da7\u0dd9\u0dbd\u0dca \u0d85\u0dc0\u0dd2\u0dc0\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tel Aviv - Jafo"
     ],
     "name:slv_x_preferred":[
         "Tel Aviv"
     ],
     "name:spa_x_preferred":[
+        "Tel Aviv"
+    ],
+    "name:sqi_x_preferred":[
         "Tel Aviv"
     ],
     "name:srd_x_preferred":[
@@ -386,9 +386,6 @@
     "name:war_x_preferred":[
         "Tel Aviv"
     ],
-    "name:wel_x_preferred":[
-        "Tel Aviv"
-    ],
     "name:yid_x_preferred":[
         "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1-\u05d9\u05e4\u05d5"
     ],
@@ -397,6 +394,9 @@
     ],
     "name:zea_x_preferred":[
         "Tel Aviv"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u62c9\u7ef4\u592b"
     ],
     "ne:ADM0CAP":0,
     "ne:ADM0NAME":"Israel",
@@ -547,7 +547,7 @@
         }
     ],
     "wof:id":1125955239,
-    "wof:lastmodified":1549931379,
+    "wof:lastmodified":1561760039,
     "wof:name":"Tel Aviv",
     "wof:parent_id":1108720837,
     "wof:placetype":"locality",

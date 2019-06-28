@@ -16,17 +16,14 @@
     "name:ces_x_preferred":[
         "Zarzir"
     ],
-    "name:cze_x_preferred":[
-        "Zarzir"
-    ],
-    "name:dut_x_preferred":[
-        "Zarzir"
-    ],
     "name:eng_x_preferred":[
         "Zarzir"
     ],
     "name:heb_x_preferred":[
         "\u05d6\u05e8\u05d6\u05d9\u05e8"
+    ],
+    "name:nld_x_preferred":[
+        "Zarzir"
     ],
     "name:nno_x_preferred":[
         "Zarzir"
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":421181769,
-    "wof:lastmodified":1549930345,
+    "wof:lastmodified":1561760027,
     "wof:name":"Zarzir",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

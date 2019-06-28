@@ -16,23 +16,17 @@
     "name:ces_x_preferred":[
         "Tel Josef"
     ],
-    "name:cze_x_preferred":[
-        "Tel Josef"
-    ],
-    "name:dut_x_preferred":[
-        "Tel Yosef"
-    ],
     "name:eng_x_preferred":[
         "Tel Yosef"
     ],
     "name:fra_x_preferred":[
         "Tel-Yossef"
     ],
-    "name:fre_x_preferred":[
-        "Tel-Yossef"
-    ],
     "name:heb_x_preferred":[
         "\u05ea\u05dc \u05d9\u05d5\u05e1\u05e3"
+    ],
+    "name:nld_x_preferred":[
+        "Tel Yosef"
     ],
     "name:nno_x_preferred":[
         "Tel Yosef"
@@ -87,7 +81,7 @@
         }
     ],
     "wof:id":421171843,
-    "wof:lastmodified":1549930328,
+    "wof:lastmodified":1561760038,
     "wof:name":"Tel Yosef",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

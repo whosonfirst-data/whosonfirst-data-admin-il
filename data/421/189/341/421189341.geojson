@@ -19,9 +19,6 @@
     "name:ces_x_preferred":[
         "Gan Chajim"
     ],
-    "name:cze_x_preferred":[
-        "Gan Chajim"
-    ],
     "name:eng_x_preferred":[
         "Gan Haim"
     ],
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":421189341,
-    "wof:lastmodified":1549930367,
+    "wof:lastmodified":1561760025,
     "wof:name":"Gan Hayyim",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

@@ -16,12 +16,6 @@
     "name:ces_x_preferred":[
         "Nofech"
     ],
-    "name:cze_x_preferred":[
-        "Nofech"
-    ],
-    "name:dut_x_preferred":[
-        "Nofekh"
-    ],
     "name:eng_x_preferred":[
         "Nofekh"
     ],
@@ -30,6 +24,9 @@
     ],
     "name:heb_x_variant":[
         "\u05e0\u05e4\u05da"
+    ],
+    "name:nld_x_preferred":[
+        "Nofekh"
     ],
     "name:nno_x_preferred":[
         "Nofekh"
@@ -90,7 +87,7 @@
         }
     ],
     "wof:id":421172243,
-    "wof:lastmodified":1549930310,
+    "wof:lastmodified":1561760026,
     "wof:name":"Nofekh",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

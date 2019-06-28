@@ -19,12 +19,6 @@
     "name:ces_x_preferred":[
         "Avigdor"
     ],
-    "name:cze_x_preferred":[
-        "Avigdor"
-    ],
-    "name:dut_x_preferred":[
-        "Avigdor"
-    ],
     "name:eng_x_preferred":[
         "Avigdor"
     ],
@@ -93,7 +87,7 @@
         }
     ],
     "wof:id":421201067,
-    "wof:lastmodified":1549930394,
+    "wof:lastmodified":1561760033,
     "wof:name":"Avigedor",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

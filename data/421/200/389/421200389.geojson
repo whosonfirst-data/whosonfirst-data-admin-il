@@ -19,19 +19,10 @@
     "name:ces_x_preferred":[
         "Kafr Jasif"
     ],
-    "name:cze_x_preferred":[
-        "Kafr Jasif"
-    ],
-    "name:dut_x_preferred":[
-        "Kafr Yasif"
-    ],
     "name:eng_x_preferred":[
         "Kafr Yasif"
     ],
     "name:fra_x_preferred":[
-        "Kafar Yassif"
-    ],
-    "name:fre_x_preferred":[
         "Kafar Yassif"
     ],
     "name:heb_x_preferred":[
@@ -40,6 +31,9 @@
     "name:heb_x_variant":[
         "Kafr Y\u0101s\u012bf",
         "\u05db\u05e4\u05e8 \u05d9\u05e1\u05d9\u05e3"
+    ],
+    "name:nld_x_preferred":[
+        "Kafr Yasif"
     ],
     "name:nno_x_preferred":[
         "Kafr Yasif"
@@ -107,7 +101,7 @@
         }
     ],
     "wof:id":421200389,
-    "wof:lastmodified":1549930396,
+    "wof:lastmodified":1561760032,
     "wof:name":"Kafr Yasif",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

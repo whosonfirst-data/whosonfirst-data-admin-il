@@ -16,9 +16,6 @@
     "name:ara_x_preferred":[
         "\u0646\u0647\u0627\u0631\u064a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0546\u0561\u0563\u0561\u0580\u056b\u0561"
-    ],
     "name:bul_x_preferred":[
         "\u041d\u0430\u0445\u0430\u0440\u0438\u044f"
     ],
@@ -28,20 +25,11 @@
     "name:ces_x_preferred":[
         "Naharija"
     ],
-    "name:chi_x_preferred":[
-        "\u7d0d\u54c8\u91cc\u4e9e"
-    ],
-    "name:cze_x_preferred":[
-        "Naharija"
-    ],
     "name:dan_x_preferred":[
         "Nahariya"
     ],
     "name:deu_x_preferred":[
         "Naharija"
-    ],
-    "name:dut_x_preferred":[
-        "Nahariya"
     ],
     "name:eng_x_preferred":[
         "Nahariya"
@@ -65,15 +53,6 @@
     "name:fra_x_preferred":[
         "Nahariya"
     ],
-    "name:fre_x_preferred":[
-        "Nahariya"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d0\u10f0\u10d0\u10e0\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Naharija"
-    ],
     "name:glv_x_preferred":[
         "Nahariya"
     ],
@@ -85,6 +64,9 @@
     ],
     "name:hun_x_preferred":[
         "Naharija"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u0563\u0561\u0580\u056b\u0561"
     ],
     "name:ind_x_preferred":[
         "Nahariya"
@@ -101,6 +83,9 @@
     "name:nld_x_preferred":[
         "Naharia"
     ],
+    "name:nld_x_variant":[
+        "Nahariya"
+    ],
     "name:nno_x_preferred":[
         "Nahariya"
     ],
@@ -109,9 +94,6 @@
     ],
     "name:nor_x_preferred":[
         "Nahariya"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0647\u0627\u0631\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Naharijja"
@@ -123,9 +105,6 @@
         "Nahariya"
     ],
     "name:ron_x_variant":[
-        "Nahariia"
-    ],
-    "name:rum_x_preferred":[
         "Nahariia"
     ],
     "name:rus_x_preferred":[
@@ -217,7 +196,7 @@
         }
     ],
     "wof:id":421187755,
-    "wof:lastmodified":1549930365,
+    "wof:lastmodified":1561760024,
     "wof:name":"Nahariya",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

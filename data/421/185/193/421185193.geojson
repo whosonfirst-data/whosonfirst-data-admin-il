@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Bejt El'azari"
     ],
-    "name:cze_x_preferred":[
-        "Bejt El'azari"
-    ],
     "name:eng_x_preferred":[
         "Beit Elazari"
     ],
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":421185193,
-    "wof:lastmodified":1549930358,
+    "wof:lastmodified":1561760038,
     "wof:name":"Bet Elazari",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

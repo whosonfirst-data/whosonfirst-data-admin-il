@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Curit"
     ],
-    "name:cze_x_preferred":[
-        "Curit"
-    ],
     "name:eng_x_preferred":[
         "Tzurit"
     ],
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":421191563,
-    "wof:lastmodified":1549930378,
+    "wof:lastmodified":1561760029,
     "wof:name":"Zurit",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

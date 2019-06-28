@@ -19,29 +19,17 @@
     "name:ces_x_preferred":[
         "E\u0161ta'ol"
     ],
-    "name:cze_x_preferred":[
-        "E\u0161ta'ol"
-    ],
     "name:dan_x_preferred":[
         "Eshtaol"
     ],
     "name:deu_x_preferred":[
         "Eschtaol"
     ],
-    "name:dut_x_preferred":[
-        "Eshtaol"
-    ],
     "name:eng_x_preferred":[
         "Eshtaol"
     ],
     "name:fra_x_preferred":[
         "Eshtaol"
-    ],
-    "name:fre_x_preferred":[
-        "Eshtaol"
-    ],
-    "name:ger_x_preferred":[
-        "Eschtaol"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05e9\u05ea\u05d0\u05d5\u05dc"
@@ -50,6 +38,9 @@
         "Eshta\u2019ol"
     ],
     "name:ita_x_preferred":[
+        "Eshtaol"
+    ],
+    "name:nld_x_preferred":[
         "Eshtaol"
     ],
     "name:nno_x_preferred":[
@@ -71,9 +62,6 @@
         "Eshtaol"
     ],
     "name:ron_x_preferred":[
-        "Eshtaol"
-    ],
-    "name:rum_x_preferred":[
         "Eshtaol"
     ],
     "name:rus_x_preferred":[
@@ -131,7 +119,7 @@
         }
     ],
     "wof:id":421174383,
-    "wof:lastmodified":1549930314,
+    "wof:lastmodified":1561760023,
     "wof:name":"Eshta'ol",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

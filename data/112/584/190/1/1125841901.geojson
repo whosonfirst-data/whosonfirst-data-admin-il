@@ -25,14 +25,11 @@
     "name:cat_x_preferred":[
         "Maalot-Tarxiha"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u963f\u6d1b\u7279\u5854\u5e0c\u54c8"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ma'alot-Tar\u0161icha"
     ],
-    "name:dut_x_preferred":[
-        "Ma'alot-Tarshicha"
+    "name:deu_x_preferred":[
+        "Ma\u2019alot"
     ],
     "name:eng_x_preferred":[
         "Tarchiha"
@@ -42,17 +39,14 @@
         "Ma'alot-Tarshiha",
         "Maalot Tarshiha"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0639\u0627\u0644\u0648\u062a \u062a\u0631\u0634\u06cc\u062d\u0627"
+    ],
     "name:fin_x_preferred":[
         "Ma'alot-Tarshiha"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ma'alot-Tarshiha"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10d0\u10da\u10dd\u10d7-\u10d7\u10d0\u10e0\u10e8\u10d8\u10ee\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Ma\u2019alot"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e2\u05dc\u05d5\u05ea \u05ea\u05e8\u05e9\u05d9\u05d7\u05d0"
@@ -66,11 +60,14 @@
     "name:ita_x_preferred":[
         "Ma'alot-Tarshiha"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10d0\u10da\u10dd\u10d7-\u10d7\u10d0\u10e0\u10e8\u10d8\u10ee\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Ma'alot-Tarshicha"
+    ],
     "name:nno_x_preferred":[
         "Ma'alot-Tarshiha"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0639\u0627\u0644\u0648\u062a \u062a\u0631\u0634\u06cc\u062d\u0627"
     ],
     "name:pol_x_preferred":[
         "Ma'alot-Tarszicha"
@@ -78,7 +75,7 @@
     "name:por_x_preferred":[
         "Ma'alot-Tarshiha"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ma'alot-Tar\u0219iha"
     ],
     "name:rus_x_preferred":[
@@ -107,6 +104,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05de\u05e2\u05dc\u05d5\u05ea-\u05ea\u05e8\u05e9\u05d9\u05d7\u05d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u963f\u6d1b\u7279\u5854\u5e0c\u54c8"
     ],
     "qs_pg:aaroncc":"IL",
     "qs_pg:gn_country":"IL",
@@ -147,7 +147,7 @@
         }
     ],
     "wof:id":1125841901,
-    "wof:lastmodified":1549930423,
+    "wof:lastmodified":1561760040,
     "wof:name":"maalot Tarsh\u012bh\u0101",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

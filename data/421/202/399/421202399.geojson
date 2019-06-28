@@ -22,13 +22,10 @@
     "name:ces_x_preferred":[
         "Isfija"
     ],
-    "name:cze_x_preferred":[
-        "Isfija"
-    ],
     "name:eng_x_preferred":[
         "Isfiya"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Isfiya"
     ],
     "name:heb_x_preferred":[
@@ -97,7 +94,7 @@
         }
     ],
     "wof:id":421202399,
-    "wof:lastmodified":1549930400,
+    "wof:lastmodified":1561760021,
     "wof:name":"Isfiya",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

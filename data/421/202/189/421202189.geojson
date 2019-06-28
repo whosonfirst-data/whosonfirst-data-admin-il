@@ -19,17 +19,8 @@
     "name:ces_x_preferred":[
         "Kfar Jona"
     ],
-    "name:chi_x_preferred":[
-        "\u51f1\u6cd5\u723e\u60a0\u7d0d"
-    ],
-    "name:cze_x_preferred":[
-        "Kfar Jona"
-    ],
     "name:deu_x_preferred":[
         "Kfar Jona"
-    ],
-    "name:dut_x_preferred":[
-        "Kfar Yona"
     ],
     "name:eng_x_preferred":[
         "Kefar Yonah"
@@ -41,14 +32,11 @@
     "name:fra_x_preferred":[
         "Kfar Yona"
     ],
-    "name:fre_x_preferred":[
-        "Kfar Yona"
-    ],
-    "name:ger_x_preferred":[
-        "Kfar Jona"
-    ],
     "name:heb_x_preferred":[
         "\u05db\u05e4\u05e8 \u05d9\u05d5\u05e0\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "Kfar Yona"
     ],
     "name:nno_x_preferred":[
         "Kfar Yona"
@@ -67,6 +55,9 @@
     ],
     "name:war_x_preferred":[
         "Kfar Yona"
+    ],
+    "name:zho_x_preferred":[
+        "\u51f1\u6cd5\u723e\u60a0\u7d0d"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -116,7 +107,7 @@
         }
     ],
     "wof:id":421202189,
-    "wof:lastmodified":1549930400,
+    "wof:lastmodified":1561760021,
     "wof:name":"Kefar Yona",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

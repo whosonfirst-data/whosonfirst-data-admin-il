@@ -16,12 +16,6 @@
     "name:ces_x_preferred":[
         "Ejn ha-Naciv"
     ],
-    "name:cze_x_preferred":[
-        "Ejn ha-Naciv"
-    ],
-    "name:dut_x_preferred":[
-        "Ein HaNatziv"
-    ],
     "name:eng_x_preferred":[
         "Ein HaNatziv"
     ],
@@ -93,7 +87,7 @@
         }
     ],
     "wof:id":421172335,
-    "wof:lastmodified":1549930313,
+    "wof:lastmodified":1561760026,
     "wof:name":"En HaNaziv",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

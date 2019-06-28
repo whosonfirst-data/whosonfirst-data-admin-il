@@ -16,19 +16,10 @@
     "name:ces_x_preferred":[
         "Chanita"
     ],
-    "name:cze_x_preferred":[
-        "Chanita"
-    ],
-    "name:dut_x_preferred":[
-        "Hanita"
-    ],
     "name:eng_x_preferred":[
         "Hanita"
     ],
     "name:fra_x_preferred":[
-        "Hanita"
-    ],
-    "name:fre_x_preferred":[
         "Hanita"
     ],
     "name:heb_x_preferred":[
@@ -36,6 +27,9 @@
     ],
     "name:heb_x_variant":[
         "H\u0331anita"
+    ],
+    "name:nld_x_preferred":[
+        "Hanita"
     ],
     "name:nno_x_preferred":[
         "Hanita"
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":421176131,
-    "wof:lastmodified":1549930305,
+    "wof:lastmodified":1561760037,
     "wof:name":"Hanita",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

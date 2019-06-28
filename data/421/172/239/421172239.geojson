@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Kfar \u0160mu'el"
     ],
-    "name:cze_x_preferred":[
-        "Kfar \u0160mu'el"
-    ],
     "name:eng_x_preferred":[
         "Kfar Shmuel"
     ],
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":421172239,
-    "wof:lastmodified":1549930310,
+    "wof:lastmodified":1561760026,
     "wof:name":"Kefar Shemu'el",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

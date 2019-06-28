@@ -25,16 +25,7 @@
     "name:ces_x_preferred":[
         "Umm al-Fachm"
     ],
-    "name:chi_x_preferred":[
-        "\u70cf\u59c6\u963f\u6cd5\u59c6"
-    ],
-    "name:cze_x_preferred":[
-        "Umm al-Fachm"
-    ],
     "name:deu_x_preferred":[
-        "Umm al-Fahm"
-    ],
-    "name:dut_x_preferred":[
         "Umm al-Fahm"
     ],
     "name:eng_x_preferred":[
@@ -44,12 +35,6 @@
         "\u0627\u0645\u200c\u0627\u0644\u0641\u062d\u0645"
     ],
     "name:fra_x_preferred":[
-        "Umm al-Fahm"
-    ],
-    "name:fre_x_preferred":[
-        "Umm al-Fahm"
-    ],
-    "name:ger_x_preferred":[
         "Umm al-Fahm"
     ],
     "name:heb_x_preferred":[
@@ -73,9 +58,6 @@
     ],
     "name:nno_x_preferred":[
         "Umm al-Fahm"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0645\u200c\u0627\u0644\u0641\u062d\u0645"
     ],
     "name:pol_x_preferred":[
         "Umm al-Fahm"
@@ -166,7 +148,7 @@
         }
     ],
     "wof:id":421175725,
-    "wof:lastmodified":1549930325,
+    "wof:lastmodified":1561760028,
     "wof:name":"Umm El Fahm",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

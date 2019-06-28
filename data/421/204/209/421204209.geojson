@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Kfar ha-Ro'e"
     ],
-    "name:cze_x_preferred":[
-        "Kfar ha-Ro'e"
-    ],
     "name:eng_x_preferred":[
         "Kfar Haroeh"
     ],
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":421204209,
-    "wof:lastmodified":1549930403,
+    "wof:lastmodified":1561760020,
     "wof:name":"Kefar Haroeh",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

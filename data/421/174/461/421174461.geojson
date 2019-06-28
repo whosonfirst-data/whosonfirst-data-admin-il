@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Bitan Aharon"
     ],
-    "name:cze_x_preferred":[
-        "Bitan Aharon"
-    ],
     "name:eng_x_preferred":[
         "Bitan Aharon"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421174461,
-    "wof:lastmodified":1549930317,
+    "wof:lastmodified":1561760023,
     "wof:name":"Bitan Aharon",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

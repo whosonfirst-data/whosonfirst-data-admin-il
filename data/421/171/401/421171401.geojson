@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Ejn Curim"
     ],
-    "name:cze_x_preferred":[
-        "Ejn Curim"
-    ],
     "name:eng_x_preferred":[
         "Ein Tzurim"
     ],
@@ -86,7 +83,7 @@
         }
     ],
     "wof:id":421171401,
-    "wof:lastmodified":1549930315,
+    "wof:lastmodified":1561760038,
     "wof:name":"En Zurim",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

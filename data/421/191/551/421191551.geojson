@@ -19,13 +19,7 @@
     "name:ces_x_preferred":[
         "Lahav"
     ],
-    "name:cze_x_preferred":[
-        "Lahav"
-    ],
     "name:deu_x_preferred":[
-        "Lahav"
-    ],
-    "name:dut_x_preferred":[
         "Lahav"
     ],
     "name:eng_x_preferred":[
@@ -34,14 +28,11 @@
     "name:fra_x_preferred":[
         "Lahav"
     ],
-    "name:fre_x_preferred":[
-        "Lahav"
-    ],
-    "name:ger_x_preferred":[
-        "Lahav"
-    ],
     "name:heb_x_preferred":[
         "\u05dc\u05d4\u05d1"
+    ],
+    "name:nld_x_preferred":[
+        "Lahav"
     ],
     "name:nno_x_preferred":[
         "Lahav"
@@ -102,7 +93,7 @@
         }
     ],
     "wof:id":421191551,
-    "wof:lastmodified":1549930377,
+    "wof:lastmodified":1561760029,
     "wof:name":"Lahav",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

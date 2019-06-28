@@ -19,16 +19,10 @@
     "name:ces_x_preferred":[
         "Ilanija"
     ],
-    "name:cze_x_preferred":[
-        "Ilanija"
-    ],
     "name:eng_x_preferred":[
         "Ilaniya"
     ],
     "name:fra_x_preferred":[
-        "Ilania"
-    ],
-    "name:fre_x_preferred":[
         "Ilania"
     ],
     "name:heb_x_preferred":[
@@ -93,7 +87,7 @@
         }
     ],
     "wof:id":421169645,
-    "wof:lastmodified":1549930321,
+    "wof:lastmodified":1561760018,
     "wof:name":"Ilaniyya",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

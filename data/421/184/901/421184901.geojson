@@ -19,9 +19,6 @@
     "name:ces_x_preferred":[
         "Kachal"
     ],
-    "name:cze_x_preferred":[
-        "Kachal"
-    ],
     "name:eng_x_preferred":[
         "Kahal"
     ],
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":421184901,
-    "wof:lastmodified":1549930358,
+    "wof:lastmodified":1561760033,
     "wof:name":"Kahal",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

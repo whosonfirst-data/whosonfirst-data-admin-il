@@ -16,12 +16,6 @@
     "name:ces_x_preferred":[
         "Netiv ha-Lamed He"
     ],
-    "name:cze_x_preferred":[
-        "Netiv ha-Lamed He"
-    ],
-    "name:dut_x_preferred":[
-        "Netiv HaLamed-Heh"
-    ],
     "name:eng_x_preferred":[
         "Netiv HaLamed-Heh"
     ],
@@ -30,6 +24,9 @@
     ],
     "name:heb_x_variant":[
         "\u05e0\u05ea\u05d9\u05d1 \u05d4\u05dc\u2019\u2019\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "Netiv HaLamed-Heh"
     ],
     "name:nno_x_preferred":[
         "Netiv HaLamed-Heh"
@@ -94,7 +91,7 @@
         }
     ],
     "wof:id":421173391,
-    "wof:lastmodified":1549930315,
+    "wof:lastmodified":1561760025,
     "wof:name":"Netiv HaLamed He",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

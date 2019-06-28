@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Netu'a"
     ],
-    "name:cze_x_preferred":[
-        "Netu'a"
-    ],
     "name:eng_x_preferred":[
         "Netu'a"
     ],
@@ -82,7 +79,7 @@
         }
     ],
     "wof:id":421177695,
-    "wof:lastmodified":1549930332,
+    "wof:lastmodified":1561760035,
     "wof:name":"Netu'a",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

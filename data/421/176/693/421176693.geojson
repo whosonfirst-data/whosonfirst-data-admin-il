@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Gan Sorek"
     ],
-    "name:cze_x_preferred":[
-        "Gan Sorek"
-    ],
     "name:eng_x_preferred":[
         "Gan Sorek"
     ],
@@ -85,7 +82,7 @@
         }
     ],
     "wof:id":421176693,
-    "wof:lastmodified":1549930322,
+    "wof:lastmodified":1561760037,
     "wof:name":"Gan Soreq",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

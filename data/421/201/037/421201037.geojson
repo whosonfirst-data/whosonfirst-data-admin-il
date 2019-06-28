@@ -19,17 +19,14 @@
     "name:ces_x_preferred":[
         "Be'eri"
     ],
-    "name:cze_x_preferred":[
-        "Be'eri"
+    "name:deu_x_preferred":[
+        "Be\u2019eri"
     ],
     "name:eng_x_preferred":[
         "Be'eri"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Be'eri"
-    ],
-    "name:ger_x_preferred":[
-        "Be\u2019eri"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d0\u05e8\u05d9"
@@ -93,7 +90,7 @@
         }
     ],
     "wof:id":421201037,
-    "wof:lastmodified":1549930394,
+    "wof:lastmodified":1561760033,
     "wof:name":"Be'eri",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

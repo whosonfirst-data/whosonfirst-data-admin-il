@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Achuzam"
     ],
-    "name:cze_x_preferred":[
-        "Achuzam"
-    ],
     "name:eng_x_preferred":[
         "Ahuzam"
     ],
@@ -85,7 +82,7 @@
         }
     ],
     "wof:id":421166563,
-    "wof:lastmodified":1549930307,
+    "wof:lastmodified":1561760015,
     "wof:name":"Ahuzzam",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

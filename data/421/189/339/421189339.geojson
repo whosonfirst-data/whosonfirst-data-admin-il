@@ -16,17 +16,14 @@
     "name:ces_x_preferred":[
         "E\u0161el ha-Nasi"
     ],
-    "name:cze_x_preferred":[
-        "E\u0161el ha-Nasi"
-    ],
-    "name:dut_x_preferred":[
-        "Eshel HaNasi"
-    ],
     "name:eng_x_preferred":[
         "Eshel HaNasi"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05e9\u05dc \u05d4\u05e0\u05e9\u05d9\u05d0"
+    ],
+    "name:nld_x_preferred":[
+        "Eshel HaNasi"
     ],
     "name:nno_x_preferred":[
         "Eshel HaNasi"
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421189339,
-    "wof:lastmodified":1549930366,
+    "wof:lastmodified":1561760025,
     "wof:name":"Eshel HaNasi",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

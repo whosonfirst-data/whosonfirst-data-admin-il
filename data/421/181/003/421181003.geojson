@@ -16,20 +16,17 @@
     "name:ces_x_preferred":[
         "Mi\u0161mar Ajalon"
     ],
-    "name:cze_x_preferred":[
-        "Mi\u0161mar Ajalon"
-    ],
     "name:eng_x_preferred":[
         "Mishmar Ayalon"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d8\u10e8\u10db\u10d0\u10e0 \u10d0\u10d8\u10d0\u10da\u10dd\u10dc"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e9\u05de\u05e8 \u05d0\u05d9\u05d9\u05dc\u05d5\u05df"
     ],
     "name:heb_x_variant":[
         "\u05de\u05e9\u05de\u05e8 \u05d0\u05d9\u05dc\u05d5\u05df"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10e8\u10db\u10d0\u10e0 \u10d0\u10d8\u10d0\u10da\u10dd\u10dc"
     ],
     "name:nno_x_preferred":[
         "Mishmar Ayalon"
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":421181003,
-    "wof:lastmodified":1549930340,
+    "wof:lastmodified":1561760027,
     "wof:name":"Mishmar Ayyalon",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

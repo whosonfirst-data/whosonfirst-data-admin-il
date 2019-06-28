@@ -32,20 +32,11 @@
     "name:ces_x_preferred":[
         "Herzlija"
     ],
-    "name:chi_x_preferred":[
-        "\u6d77\u723e\u8332\u5229\u4e9e"
-    ],
-    "name:cze_x_preferred":[
-        "Herzlija"
-    ],
     "name:dan_x_preferred":[
         "Herzliya"
     ],
     "name:deu_x_preferred":[
         "Herzlia"
-    ],
-    "name:dut_x_preferred":[
-        "Herzliya"
     ],
     "name:eng_x_preferred":[
         "Hertsliyah"
@@ -66,15 +57,6 @@
     ],
     "name:fra_x_preferred":[
         "Herzliya"
-    ],
-    "name:fre_x_preferred":[
-        "Herzliya"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10d4\u10e0\u10ea\u10da\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Herzlia"
     ],
     "name:glv_x_preferred":[
         "Herzliya"
@@ -110,9 +92,6 @@
     "name:lit_x_preferred":[
         "Herclija"
     ],
-    "name:may_x_preferred":[
-        "Herzliyya"
-    ],
     "name:msa_x_preferred":[
         "Herzliyya"
     ],
@@ -131,9 +110,6 @@
     "name:nor_x_preferred":[
         "Herzliya"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0631\u062a\u0632\u0644\u06cc\u0627"
-    ],
     "name:pol_x_preferred":[
         "Herclijja"
     ],
@@ -141,9 +117,6 @@
         "Herzliya"
     ],
     "name:ron_x_preferred":[
-        "Herzliya"
-    ],
-    "name:rum_x_preferred":[
         "Herzliya"
     ],
     "name:rus_x_preferred":[
@@ -249,7 +222,7 @@
         }
     ],
     "wof:id":421174205,
-    "wof:lastmodified":1549931469,
+    "wof:lastmodified":1561760022,
     "wof:name":"Herzliya",
     "wof:parent_id":1108720837,
     "wof:placetype":"locality",

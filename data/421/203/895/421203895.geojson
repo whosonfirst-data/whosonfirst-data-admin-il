@@ -16,16 +16,10 @@
     "name:ces_x_preferred":[
         "Ajelet ha-\u0160achar"
     ],
-    "name:cze_x_preferred":[
-        "Ajelet ha-\u0160achar"
-    ],
     "name:eng_x_preferred":[
         "Ayelet HaShahar"
     ],
     "name:fra_x_preferred":[
-        "Ayelet-Hashahar"
-    ],
-    "name:fre_x_preferred":[
         "Ayelet-Hashahar"
     ],
     "name:heb_x_preferred":[
@@ -91,7 +85,7 @@
         }
     ],
     "wof:id":421203895,
-    "wof:lastmodified":1549930407,
+    "wof:lastmodified":1561760020,
     "wof:name":"Ayyelet HaShahar",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

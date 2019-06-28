@@ -22,14 +22,8 @@
     "name:ces_x_preferred":[
         "Dalija"
     ],
-    "name:cze_x_preferred":[
-        "Dalija"
-    ],
     "name:deu_x_preferred":[
         "Dalja"
-    ],
-    "name:dut_x_preferred":[
-        "Dalia"
     ],
     "name:eng_x_preferred":[
         "Dalia"
@@ -37,14 +31,11 @@
     "name:fra_x_preferred":[
         "Dalia"
     ],
-    "name:fre_x_preferred":[
-        "Dalia"
-    ],
-    "name:ger_x_preferred":[
-        "Dalja"
-    ],
     "name:heb_x_preferred":[
         "\u05d3\u05dc\u05d9\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "Dalia"
     ],
     "name:nno_x_preferred":[
         "Dalia kibbutz"
@@ -105,7 +96,7 @@
         }
     ],
     "wof:id":421171117,
-    "wof:lastmodified":1549930304,
+    "wof:lastmodified":1561760038,
     "wof:name":"Daliyya",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

@@ -16,17 +16,14 @@
     "name:ces_x_preferred":[
         "Gizo"
     ],
-    "name:cze_x_preferred":[
-        "Gizo"
-    ],
-    "name:dut_x_preferred":[
-        "Gizo"
-    ],
     "name:eng_x_preferred":[
         "Gizo"
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05d9\u05d6\u05d5"
+    ],
+    "name:nld_x_preferred":[
+        "Gizo"
     ],
     "name:nno_x_preferred":[
         "Gizo i Israel"
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":421170505,
-    "wof:lastmodified":1553816360,
+    "wof:lastmodified":1561760034,
     "wof:name":"Guizou",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

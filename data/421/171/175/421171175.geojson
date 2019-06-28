@@ -16,13 +16,10 @@
     "name:ces_x_preferred":[
         "Kfar Vitkin"
     ],
-    "name:cze_x_preferred":[
-        "Kfar Vitkin"
-    ],
     "name:eng_x_preferred":[
         "Kfar Vitkin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kfar Vitkin"
     ],
     "name:heb_x_preferred":[
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":421171175,
-    "wof:lastmodified":1549930307,
+    "wof:lastmodified":1561760038,
     "wof:name":"Kefar Vitkin",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

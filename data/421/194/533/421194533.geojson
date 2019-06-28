@@ -20,23 +20,11 @@
     "name:ces_x_preferred":[
         "Kfar \u0160marjahu"
     ],
-    "name:cze_x_preferred":[
-        "Kfar \u0160marjahu"
-    ],
-    "name:dut_x_preferred":[
-        "Kfar Shmaryahu"
-    ],
     "name:eng_x_preferred":[
         "Kfar Shmaryahu"
     ],
     "name:fra_x_preferred":[
         "Kfar Shemaryahu"
-    ],
-    "name:fre_x_preferred":[
-        "Kfar Shemaryahu"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e5\u10e4\u10d0\u10e0-\u10e8\u10db\u10d0\u10e0\u10d8\u10d0\u10f0\u10e3"
     ],
     "name:heb_x_preferred":[
         "\u05db\u05e4\u05e8 \u05e9\u05de\u05e8\u05d9\u05d4\u05d5"
@@ -46,6 +34,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e5\u10e4\u10d0\u10e0-\u10e8\u10db\u10d0\u10e0\u10d8\u10d0\u10f0\u10e3"
+    ],
+    "name:nld_x_preferred":[
+        "Kfar Shmaryahu"
     ],
     "name:nno_x_preferred":[
         "Kfar Shmaryahu"
@@ -118,7 +109,7 @@
         }
     ],
     "wof:id":421194533,
-    "wof:lastmodified":1549930760,
+    "wof:lastmodified":1561760017,
     "wof:name":"Kefar Shemaryahu",
     "wof:parent_id":1108720837,
     "wof:placetype":"locality",

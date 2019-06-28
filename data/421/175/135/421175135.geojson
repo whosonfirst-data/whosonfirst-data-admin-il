@@ -17,9 +17,6 @@
     "name:ces_x_preferred":[
         "Neve Avivim"
     ],
-    "name:cze_x_preferred":[
-        "Neve Avivim"
-    ],
     "name:eng_x_preferred":[
         "Neve Avivim"
     ],
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":421175135,
-    "wof:lastmodified":1549930754,
+    "wof:lastmodified":1561760027,
     "wof:name":"Neve Avivim",
     "wof:parent_id":1108720837,
     "wof:placetype":"locality",

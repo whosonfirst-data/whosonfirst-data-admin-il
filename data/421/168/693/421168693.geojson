@@ -21,9 +21,6 @@
     "name:afr_x_preferred":[
         "Haifa"
     ],
-    "name:alb_x_preferred":[
-        "Haifa"
-    ],
     "name:als_x_preferred":[
         "Haifa"
     ],
@@ -36,17 +33,11 @@
     "name:arg_x_preferred":[
         "Haifa"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0561\u0575\u0586\u0561"
-    ],
     "name:arz_x_preferred":[
         "\u062d\u064a\u0641\u0627"
     ],
     "name:aze_x_preferred":[
         "Hayfa"
-    ],
-    "name:baq_x_preferred":[
-        "Haifa"
     ],
     "name:bar_x_preferred":[
         "Haifa"
@@ -75,25 +66,16 @@
     "name:che_x_preferred":[
         "\u0425\u0430\u0439\u0444\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u6d77\u6cd5"
-    ],
     "name:ckb_x_preferred":[
         "\u062d\u06d5\u06cc\u0641\u0627"
     ],
     "name:cym_x_preferred":[
         "Haifa"
     ],
-    "name:cze_x_preferred":[
-        "Haifa"
-    ],
     "name:dan_x_preferred":[
         "Haifa"
     ],
     "name:deu_x_preferred":[
-        "Haifa"
-    ],
-    "name:dut_x_preferred":[
         "Haifa"
     ],
     "name:ell_x_preferred":[
@@ -123,15 +105,6 @@
     "name:fra_x_preferred":[
         "Ha\u00effa"
     ],
-    "name:fre_x_preferred":[
-        "Ha\u00effa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10d0\u10d8\u10e4\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Haifa"
-    ],
     "name:gla_x_preferred":[
         "Haifa"
     ],
@@ -140,9 +113,6 @@
     ],
     "name:glv_x_preferred":[
         "Haifa"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03ac\u03b9\u03c6\u03b1"
     ],
     "name:gsw_x_preferred":[
         "Haifa"
@@ -171,9 +141,6 @@
     ],
     "name:hye_x_preferred":[
         "\u0540\u0561\u0575\u0586\u0561"
-    ],
-    "name:ice_x_preferred":[
-        "Ha\u00edfa"
     ],
     "name:ido_x_preferred":[
         "Haifa"
@@ -229,17 +196,14 @@
     "name:ltz_x_preferred":[
         "Haifa"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u0430\u0438\u0444\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d39\u0d48\u0d2b"
     ],
     "name:mar_x_preferred":[
         "\u0939\u0948\u092b\u093e"
     ],
-    "name:may_x_preferred":[
-        "Haifa"
+    "name:mkd_x_preferred":[
+        "\u0425\u0430\u0438\u0444\u0430"
     ],
     "name:msa_x_preferred":[
         "Haifa"
@@ -271,9 +235,6 @@
     "name:pan_x_preferred":[
         "\u0a39\u0a48\u0a2b\u0a3e"
     ],
-    "name:per_x_preferred":[
-        "\u062d\u06cc\u0641\u0627"
-    ],
     "name:pol_x_preferred":[
         "Hajfa"
     ],
@@ -281,9 +242,6 @@
         "Haifa"
     ],
     "name:ron_x_preferred":[
-        "Haifa"
-    ],
-    "name:rum_x_preferred":[
         "Haifa"
     ],
     "name:rus_x_preferred":[
@@ -306,9 +264,6 @@
     ],
     "name:slk_x_variant":[
         "Hajfa"
-    ],
-    "name:slo_x_preferred":[
-        "Haifa"
     ],
     "name:slv_x_preferred":[
         "Haifa"
@@ -369,9 +324,6 @@
         "Haifa"
     ],
     "name:war_x_preferred":[
-        "Haifa"
-    ],
-    "name:wel_x_preferred":[
         "Haifa"
     ],
     "name:yid_x_preferred":[
@@ -531,7 +483,7 @@
         }
     ],
     "wof:id":421168693,
-    "wof:lastmodified":1549931468,
+    "wof:lastmodified":1561760014,
     "wof:name":"Haifa",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

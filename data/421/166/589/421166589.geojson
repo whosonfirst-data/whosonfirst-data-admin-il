@@ -16,19 +16,13 @@
     "name:ces_x_preferred":[
         "Nach\u0161onim"
     ],
-    "name:cze_x_preferred":[
-        "Nach\u0161onim"
+    "name:deu_x_preferred":[
+        "Nahshonim"
     ],
     "name:eng_x_preferred":[
         "Nahshonim"
     ],
     "name:fra_x_preferred":[
-        "Nahshonim"
-    ],
-    "name:fre_x_preferred":[
-        "Nahshonim"
-    ],
-    "name:ger_x_preferred":[
         "Nahshonim"
     ],
     "name:heb_x_colloquial":[
@@ -106,7 +100,7 @@
         }
     ],
     "wof:id":421166589,
-    "wof:lastmodified":1549930309,
+    "wof:lastmodified":1561760014,
     "wof:name":"Nahshonim",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

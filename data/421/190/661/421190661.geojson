@@ -23,9 +23,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0646\u064a \u0628\u0631\u0627\u0643"
     ],
-    "name:baq_x_preferred":[
-        "Bnei Brak"
-    ],
     "name:bul_x_preferred":[
         "\u0411\u043d\u0435\u0439 \u0411\u0435\u0440\u0430\u043a"
     ],
@@ -35,17 +32,8 @@
     "name:ces_x_preferred":[
         "Bnej Brak"
     ],
-    "name:chi_x_preferred":[
-        "\u8c9d\u5167\u8c9d\u62c9\u514b"
-    ],
-    "name:cze_x_preferred":[
-        "Bnej Brak"
-    ],
     "name:deu_x_preferred":[
         "Bnei Berak"
-    ],
-    "name:dut_x_preferred":[
-        "Bnei Brak"
     ],
     "name:eng_x_preferred":[
         "Bnei Brak"
@@ -70,15 +58,6 @@
     ],
     "name:fra_x_preferred":[
         "Bnei Brak"
-    ],
-    "name:fre_x_preferred":[
-        "Bnei Brak"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10dc\u10d4\u10d8-\u10d1\u10e0\u10d0\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Bnei Berak"
     ],
     "name:glv_x_preferred":[
         "Bnei Brak"
@@ -117,6 +96,9 @@
     "name:nld_x_preferred":[
         "Benee Brak"
     ],
+    "name:nld_x_variant":[
+        "Bnei Brak"
+    ],
     "name:nno_x_preferred":[
         "Bnei Brak"
     ],
@@ -126,9 +108,6 @@
     "name:nor_x_preferred":[
         "Bnei Brak"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0646\u06cc \u0628\u0631\u0642"
-    ],
     "name:pol_x_preferred":[
         "Bene Berak"
     ],
@@ -136,9 +115,6 @@
         "Bene Beraq"
     ],
     "name:ron_x_preferred":[
-        "Bnei Brak"
-    ],
-    "name:rum_x_preferred":[
         "Bnei Brak"
     ],
     "name:rus_x_preferred":[
@@ -248,7 +224,7 @@
         }
     ],
     "wof:id":421190661,
-    "wof:lastmodified":1549931383,
+    "wof:lastmodified":1561760030,
     "wof:name":"Bnei Brak",
     "wof:parent_id":1108720837,
     "wof:placetype":"locality",

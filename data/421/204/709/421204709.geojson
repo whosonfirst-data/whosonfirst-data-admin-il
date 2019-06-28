@@ -16,17 +16,14 @@
     "name:ces_x_preferred":[
         "Bejt ha-Levi"
     ],
-    "name:cze_x_preferred":[
-        "Bejt ha-Levi"
-    ],
-    "name:dut_x_preferred":[
-        "Beit HaLevi"
-    ],
     "name:eng_x_preferred":[
         "Beit HaLevi"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05ea \u05d4\u05dc\u05d5\u05d9"
+    ],
+    "name:nld_x_preferred":[
+        "Beit HaLevi"
     ],
     "name:nno_x_preferred":[
         "Beit HaLevi"
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":421204709,
-    "wof:lastmodified":1549930406,
+    "wof:lastmodified":1561760019,
     "wof:name":"Bet HaLewi",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

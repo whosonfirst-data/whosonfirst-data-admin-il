@@ -16,12 +16,6 @@
     "name:ces_x_preferred":[
         "Ramat ha-Kove\u0161"
     ],
-    "name:cze_x_preferred":[
-        "Ramat ha-Kove\u0161"
-    ],
-    "name:dut_x_preferred":[
-        "Ramat HaKovesh"
-    ],
     "name:eng_x_preferred":[
         "Ramat HaKovesh"
     ],
@@ -33,6 +27,9 @@
     ],
     "name:ita_x_preferred":[
         "Ramat Hakovesh"
+    ],
+    "name:nld_x_preferred":[
+        "Ramat HaKovesh"
     ],
     "name:nno_x_preferred":[
         "Ramat HaKovesh"
@@ -93,7 +90,7 @@
         }
     ],
     "wof:id":421175715,
-    "wof:lastmodified":1549930324,
+    "wof:lastmodified":1561760028,
     "wof:name":"Ramat HaKovesh",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

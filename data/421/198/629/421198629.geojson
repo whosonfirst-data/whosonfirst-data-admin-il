@@ -19,14 +19,8 @@
     "name:ces_x_preferred":[
         "Ginosar"
     ],
-    "name:cze_x_preferred":[
-        "Ginosar"
-    ],
     "name:deu_x_preferred":[
         "Ginnossar"
-    ],
-    "name:dut_x_preferred":[
-        "Ginosar"
     ],
     "name:eng_x_preferred":[
         "Ginosar"
@@ -34,17 +28,14 @@
     "name:fra_x_preferred":[
         "Ginosar"
     ],
-    "name:fre_x_preferred":[
-        "Ginosar"
-    ],
-    "name:ger_x_preferred":[
-        "Ginnossar"
-    ],
     "name:heb_x_preferred":[
         "\u05d2\u05d9\u05e0\u05d5\u05e1\u05e8"
     ],
     "name:heb_x_variant":[
         "\u05d2\u05e0\u05d5\u05e1\u05e8"
+    ],
+    "name:nld_x_preferred":[
+        "Ginosar"
     ],
     "name:nno_x_preferred":[
         "Ginosar"
@@ -111,7 +102,7 @@
         }
     ],
     "wof:id":421198629,
-    "wof:lastmodified":1549930391,
+    "wof:lastmodified":1561760028,
     "wof:name":"Ginnosar",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

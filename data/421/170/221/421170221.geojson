@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Gid'ona"
     ],
-    "name:cze_x_preferred":[
-        "Gid'ona"
-    ],
     "name:eng_x_preferred":[
         "Gidona"
     ],
@@ -80,7 +77,7 @@
         }
     ],
     "wof:id":421170221,
-    "wof:lastmodified":1549930310,
+    "wof:lastmodified":1561760034,
     "wof:name":"Gidona",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

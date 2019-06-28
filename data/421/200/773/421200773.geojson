@@ -19,19 +19,10 @@
     "name:ces_x_preferred":[
         "Kirjat Je'arim"
     ],
-    "name:cze_x_preferred":[
-        "Kirjat Je'arim"
-    ],
-    "name:dut_x_preferred":[
-        "Kiryat Ye'arim"
-    ],
     "name:eng_x_preferred":[
         "Kiryat Ye'arim"
     ],
     "name:fra_x_preferred":[
-        "Kiryat-Y\u00e9arim"
-    ],
-    "name:fre_x_preferred":[
         "Kiryat-Y\u00e9arim"
     ],
     "name:heb_x_preferred":[
@@ -44,6 +35,9 @@
         "Kefar HaNo\u2018ar Qiryat Ye\u2018arim",
         "\u05e7\u05e8\u05d9\u05ea \u05d9\u05e2\u05e8\u05d9\u05dd-\u05de\u05d5\u05e1\u05d3",
         "\u05db\u05e4\u05e8 \u05d4\u05e0\u05d5\u05e2\u05e8 \u05e7\u05e8\u05d9\u05ea \u05d9\u05e2\u05e8\u05d9\u05dd"
+    ],
+    "name:nld_x_preferred":[
+        "Kiryat Ye'arim"
     ],
     "name:nno_x_preferred":[
         "Kiryat Ye'arim"
@@ -116,7 +110,7 @@
         }
     ],
     "wof:id":421200773,
-    "wof:lastmodified":1549930398,
+    "wof:lastmodified":1561760032,
     "wof:name":"Qiryat Yearim",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

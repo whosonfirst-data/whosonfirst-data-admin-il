@@ -16,13 +16,10 @@
     "name:ces_x_preferred":[
         "Kfar Jechezkel"
     ],
-    "name:cze_x_preferred":[
-        "Kfar Jechezkel"
-    ],
     "name:eng_x_preferred":[
         "Kfar Yehezkel"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kfar Yehezkel"
     ],
     "name:heb_x_preferred":[
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":421205033,
-    "wof:lastmodified":1549930402,
+    "wof:lastmodified":1561760022,
     "wof:name":"Kefar Yehezqel",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

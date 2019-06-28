@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Mevo Bejtar"
     ],
-    "name:cze_x_preferred":[
-        "Mevo Bejtar"
-    ],
     "name:eng_x_preferred":[
         "Mevoot Beitar"
     ],
@@ -95,7 +92,7 @@
         }
     ],
     "wof:id":421200391,
-    "wof:lastmodified":1549930396,
+    "wof:lastmodified":1561760032,
     "wof:name":"Mevo Betar",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

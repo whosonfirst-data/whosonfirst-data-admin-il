@@ -19,9 +19,6 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0633\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0565\u0575\u0569-\u0547\u0565\u0561\u0576"
-    ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u0439\u0442 \u0428\u0435\u0430\u043d"
     ],
@@ -31,17 +28,8 @@
     "name:ces_x_preferred":[
         "Bejt \u0160e'an"
     ],
-    "name:chi_x_preferred":[
-        "\u8c9d\u7279\u8b1d\u5b89"
-    ],
-    "name:cze_x_preferred":[
-        "Bejt \u0160e'an"
-    ],
     "name:deu_x_preferred":[
         "Bet Sche\u2019an"
-    ],
-    "name:dut_x_preferred":[
-        "Beet She'an"
     ],
     "name:eng_x_colloquial":[
         "Beth Shean"
@@ -61,6 +49,9 @@
     "name:fas_x_preferred":[
         "\u0628\u06cc\u062a\u200c\u0634\u0626\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u0628\u06cc\u062a \u0634\u0646\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Beit She'an"
     ],
@@ -69,15 +60,6 @@
     ],
     "name:fra_x_variant":[
         "Be\u00eft-Sh\u00e9an"
-    ],
-    "name:fre_x_preferred":[
-        "Be\u00eft Sh\u00e9an"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10d7-\u10e8\u10d4\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Bet Sche\u2019an"
     ],
     "name:gsw_x_preferred":[
         "Bet Sche'an"
@@ -90,6 +72,9 @@
     ],
     "name:hun_x_preferred":[
         "B\u00e9t-Se\u00e1n"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0575\u0569-\u0547\u0565\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Beit She'an"
@@ -121,9 +106,6 @@
     "name:nor_x_preferred":[
         "Bet-Sjean"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u062a \u0634\u0646\u0627\u0646"
-    ],
     "name:pol_x_preferred":[
         "Bet Sze\u2019an"
     ],
@@ -131,9 +113,6 @@
         "Bete-Se\u00e3"
     ],
     "name:ron_x_preferred":[
-        "Beit \u0218e'an"
-    ],
-    "name:rum_x_preferred":[
         "Beit \u0218e'an"
     ],
     "name:rus_x_preferred":[
@@ -225,7 +204,7 @@
         }
     ],
     "wof:id":421174893,
-    "wof:lastmodified":1549930327,
+    "wof:lastmodified":1561760022,
     "wof:name":"Bet She'an",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

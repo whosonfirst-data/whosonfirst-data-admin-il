@@ -13,23 +13,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Necer Sereni"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Netzer Sereni"
     ],
     "name:eng_x_preferred":[
         "Netzer Sereni"
     ],
-    "name:fre_x_preferred":[
-        "Netzer Sereni"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Netzer Sereni"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05e6\u05e8 \u05e1\u05e8\u05e0\u05d9"
+    ],
+    "name:nld_x_preferred":[
+        "Netzer Sereni"
     ],
     "name:nno_x_preferred":[
         "Netzer Sereni"
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":421188445,
-    "wof:lastmodified":1549930368,
+    "wof:lastmodified":1561760026,
     "wof:name":"Nezer Sereni",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

@@ -16,17 +16,8 @@
     "name:afr_x_preferred":[
         "Dimona"
     ],
-    "name:alb_x_preferred":[
-        "Dimona"
-    ],
     "name:ara_x_preferred":[
         "\u062f\u064a\u0645\u0648\u0646\u0627"
-    ],
-    "name:arm_x_preferred":[
-        "\u0534\u056b\u0574\u0578\u0576\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Dimona"
     ],
     "name:bul_x_preferred":[
         "\u0414\u0438\u043c\u043e\u043d\u0430"
@@ -37,16 +28,7 @@
     "name:ces_x_preferred":[
         "Dimona"
     ],
-    "name:chi_x_preferred":[
-        "\u8fea\u83ab\u7d0d"
-    ],
-    "name:cze_x_preferred":[
-        "Dimona"
-    ],
     "name:deu_x_preferred":[
-        "Dimona"
-    ],
-    "name:dut_x_preferred":[
         "Dimona"
     ],
     "name:eng_x_preferred":[
@@ -67,20 +49,14 @@
     "name:fra_x_preferred":[
         "Dimona"
     ],
-    "name:fre_x_preferred":[
-        "Dimona"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d8\u10db\u10dd\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Dimona"
-    ],
     "name:gle_x_preferred":[
         "Dim\u00f3na"
     ],
     "name:heb_x_preferred":[
         "\u05d3\u05d9\u05de\u05d5\u05e0\u05d4"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u056b\u0574\u0578\u0576\u0561"
     ],
     "name:ind_x_preferred":[
         "Dimona"
@@ -109,9 +85,6 @@
     "name:nor_x_preferred":[
         "Dimona"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u06cc\u0645\u0648\u0646\u0627"
-    ],
     "name:pol_x_preferred":[
         "Dimona"
     ],
@@ -124,9 +97,6 @@
     "name:ron_x_preferred":[
         "Dimona"
     ],
-    "name:rum_x_preferred":[
-        "Dimona"
-    ],
     "name:rus_x_preferred":[
         "\u0414\u0438\u043c\u043e\u043d\u0430"
     ],
@@ -134,6 +104,9 @@
         "Dimona"
     ],
     "name:spa_x_preferred":[
+        "Dimona"
+    ],
+    "name:sqi_x_preferred":[
         "Dimona"
     ],
     "name:swe_x_preferred":[
@@ -214,7 +187,7 @@
         }
     ],
     "wof:id":421175083,
-    "wof:lastmodified":1549930303,
+    "wof:lastmodified":1561760028,
     "wof:name":"Dimona",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

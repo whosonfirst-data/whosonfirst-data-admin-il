@@ -16,29 +16,14 @@
     "name:ces_x_preferred":[
         "\u0160oham"
     ],
-    "name:chi_x_preferred":[
-        "\u7d22\u54c8\u59c6"
-    ],
-    "name:cze_x_preferred":[
-        "\u0160oham"
-    ],
     "name:deu_x_preferred":[
         "Schoham"
-    ],
-    "name:dut_x_preferred":[
-        "Shoham"
     ],
     "name:eng_x_preferred":[
         "Shoham"
     ],
     "name:fra_x_preferred":[
         "Shoham"
-    ],
-    "name:fre_x_preferred":[
-        "Shoham"
-    ],
-    "name:ger_x_preferred":[
-        "Schoham"
     ],
     "name:heb_x_preferred":[
         "\u05e9\u05d5\u05d4\u05dd"
@@ -48,6 +33,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30e7\u30cf\u30e0"
+    ],
+    "name:nld_x_preferred":[
+        "Shoham"
     ],
     "name:nno_x_preferred":[
         "Shoham"
@@ -60,6 +48,9 @@
     ],
     "name:sco_x_preferred":[
         "Shoham"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u54c8\u59c6"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -108,7 +99,7 @@
         }
     ],
     "wof:id":421171943,
-    "wof:lastmodified":1549930329,
+    "wof:lastmodified":1561760038,
     "wof:name":"Shoham",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

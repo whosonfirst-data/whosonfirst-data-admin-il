@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Jiftach"
     ],
-    "name:cze_x_preferred":[
-        "Jiftach"
-    ],
     "name:eng_x_preferred":[
         "Yiftah"
     ],
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":421175723,
-    "wof:lastmodified":1549930325,
+    "wof:lastmodified":1561760028,
     "wof:name":"Yiftah",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

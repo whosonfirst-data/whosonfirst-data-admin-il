@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Elko\u0161"
     ],
-    "name:cze_x_preferred":[
-        "Elko\u0161"
-    ],
     "name:eng_x_preferred":[
         "Elkosh"
     ],
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":421171399,
-    "wof:lastmodified":1549930315,
+    "wof:lastmodified":1561760037,
     "wof:name":"Elqosh",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

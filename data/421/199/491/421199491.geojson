@@ -16,23 +16,11 @@
     "name:ces_x_preferred":[
         "Mi\u0161mar ha-\u0160aron"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u65af\u83ab"
-    ],
-    "name:cze_x_preferred":[
-        "Mi\u0161mar ha-\u0160aron"
-    ],
     "name:deu_x_preferred":[
         "Mischmar haScharon"
     ],
-    "name:dut_x_preferred":[
-        "Mishmar HaSjaron"
-    ],
     "name:eng_x_preferred":[
         "Mishmar HaSharon"
-    ],
-    "name:ger_x_preferred":[
-        "Mischmar haScharon"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e9\u05de\u05e8 \u05d4\u05e9\u05e8\u05d5\u05df"
@@ -42,6 +30,9 @@
     ],
     "name:nld_x_preferred":[
         "Misjmar Hasjaron"
+    ],
+    "name:nld_x_variant":[
+        "Mishmar HaSjaron"
     ],
     "name:nno_x_preferred":[
         "Mishmar HaSharon"
@@ -60,6 +51,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0634\u0645\u0627\u0631 \u06c1\u0634\u0627\u0631\u0648\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u65af\u83ab"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -108,7 +102,7 @@
         }
     ],
     "wof:id":421199491,
-    "wof:lastmodified":1549930392,
+    "wof:lastmodified":1561760031,
     "wof:name":"Mishmar HaSharon",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

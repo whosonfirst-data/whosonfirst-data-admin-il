@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Eli\u0161ama"
     ],
-    "name:cze_x_preferred":[
-        "Eli\u0161ama"
-    ],
     "name:eng_x_preferred":[
         "Elishama"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421194913,
-    "wof:lastmodified":1549930383,
+    "wof:lastmodified":1561760017,
     "wof:name":"Elishama",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

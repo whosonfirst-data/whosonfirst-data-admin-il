@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Kfar Jeho\u0161ua"
     ],
-    "name:cze_x_preferred":[
-        "Kfar Jeho\u0161ua"
-    ],
     "name:eng_x_preferred":[
         "Kfar Yehoshua"
     ],
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":421201069,
-    "wof:lastmodified":1549930394,
+    "wof:lastmodified":1561760033,
     "wof:name":"Kefar Yehoshua",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

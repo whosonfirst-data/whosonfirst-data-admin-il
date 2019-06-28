@@ -19,13 +19,7 @@
     "name:ces_x_preferred":[
         "Pardesija"
     ],
-    "name:cze_x_preferred":[
-        "Pardesija"
-    ],
     "name:deu_x_preferred":[
-        "Pardesia"
-    ],
-    "name:dut_x_preferred":[
         "Pardesia"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +31,6 @@
     ],
     "name:fra_x_preferred":[
         "Pardesiya"
-    ],
-    "name:fre_x_preferred":[
-        "Pardesiya"
-    ],
-    "name:ger_x_preferred":[
-        "Pardesia"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05e8\u05d3\u05e1\u05d9\u05d4"
@@ -116,7 +104,7 @@
         }
     ],
     "wof:id":421201513,
-    "wof:lastmodified":1549930397,
+    "wof:lastmodified":1561760033,
     "wof:name":"Pardesiyya",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

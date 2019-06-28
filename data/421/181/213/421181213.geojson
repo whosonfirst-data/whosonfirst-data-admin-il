@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Ejn ha-Emek"
     ],
-    "name:cze_x_preferred":[
-        "Ejn ha-Emek"
-    ],
     "name:eng_x_preferred":[
         "Ein HaEmek"
     ],
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":421181213,
-    "wof:lastmodified":1549930341,
+    "wof:lastmodified":1561760027,
     "wof:name":"En HaEmeq",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

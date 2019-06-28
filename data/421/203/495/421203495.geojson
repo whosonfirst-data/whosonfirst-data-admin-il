@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Cur Mo\u0161e"
     ],
-    "name:cze_x_preferred":[
-        "Cur Mo\u0161e"
-    ],
     "name:eng_x_preferred":[
         "Tzur Moshe"
     ],
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":421203495,
-    "wof:lastmodified":1549930404,
+    "wof:lastmodified":1561760021,
     "wof:name":"Zur Moshe",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

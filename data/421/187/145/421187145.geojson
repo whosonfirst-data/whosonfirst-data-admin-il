@@ -16,16 +16,10 @@
     "name:ces_x_preferred":[
         "Ne'ot Mordechaj"
     ],
-    "name:cze_x_preferred":[
-        "Ne'ot Mordechaj"
-    ],
     "name:eng_x_preferred":[
         "Neot Mordechai"
     ],
     "name:fra_x_preferred":[
-        "N\u00e9ot-Mord\u00e9ha\u00ef"
-    ],
-    "name:fre_x_preferred":[
         "N\u00e9ot-Mord\u00e9ha\u00ef"
     ],
     "name:heb_x_preferred":[
@@ -89,7 +83,7 @@
         }
     ],
     "wof:id":421187145,
-    "wof:lastmodified":1549930361,
+    "wof:lastmodified":1561760024,
     "wof:name":"Ne'ot Mordekhay",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

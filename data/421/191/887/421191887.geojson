@@ -16,26 +16,20 @@
     "name:ces_x_preferred":[
         "Bror Chajil"
     ],
-    "name:cze_x_preferred":[
-        "Bror Chajil"
-    ],
     "name:deu_x_preferred":[
         "Bror Chail"
     ],
-    "name:dut_x_preferred":[
-        "Bror Hayil"
-    ],
     "name:eng_x_preferred":[
         "Bror Hayil"
-    ],
-    "name:ger_x_preferred":[
-        "Bror Chail"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05e8\u05d5\u05e8 \u05d7\u05d9\u05dc"
     ],
     "name:heb_x_variant":[
         "Beror H\u0331ayil"
+    ],
+    "name:nld_x_preferred":[
+        "Bror Hayil"
     ],
     "name:nno_x_preferred":[
         "Bror Hayil"
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":421191887,
-    "wof:lastmodified":1549930378,
+    "wof:lastmodified":1561760029,
     "wof:name":"Beror Hayil",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

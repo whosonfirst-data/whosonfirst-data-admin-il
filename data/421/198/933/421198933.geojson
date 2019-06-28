@@ -22,17 +22,8 @@
     "name:ces_x_preferred":[
         "Migdal ha-Emek"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u683c\u9054\u52d2\u57c3\u6885\u514b"
-    ],
-    "name:cze_x_preferred":[
-        "Migdal ha-Emek"
-    ],
     "name:deu_x_preferred":[
         "Migdal haEmek"
-    ],
-    "name:dut_x_preferred":[
-        "Migdal HaEmek"
     ],
     "name:eng_x_preferred":[
         "Magidal"
@@ -51,15 +42,6 @@
     "name:fra_x_preferred":[
         "Migdal HaEmek"
     ],
-    "name:fre_x_preferred":[
-        "Migdal HaEmek"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d8\u10d2\u10d3\u10d0\u10da-\u10f0\u10d0\u10d4\u10db\u10d4\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Migdal haEmek"
-    ],
     "name:heb_x_preferred":[
         "\u05de\u05d2\u05d3\u05dc \u05d4\u05e2\u05de\u05e7"
     ],
@@ -71,6 +53,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d8\u10d2\u10d3\u10d0\u10da-\u10f0\u10d0\u10d4\u10db\u10d4\u10d9\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Migdal HaEmek"
     ],
     "name:nno_x_preferred":[
         "Migdal HaEmek"
@@ -161,7 +146,7 @@
         }
     ],
     "wof:id":421198933,
-    "wof:lastmodified":1549930393,
+    "wof:lastmodified":1561760029,
     "wof:name":"Migdal HaEmeq",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

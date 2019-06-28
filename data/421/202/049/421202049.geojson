@@ -36,9 +36,6 @@
     "name:ara_x_preferred":[
         "\u0628\u062a\u0627\u062d \u062a\u0643\u0641\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Petah Tikva"
-    ],
     "name:bel_x_variant":[
         "\u041f\u044d\u0442\u0430\u0445-\u0422\u044b\u043a\u0432\u0430"
     ],
@@ -54,19 +51,13 @@
     "name:ces_x_preferred":[
         "Petach Tikva"
     ],
-    "name:chi_x_preferred":[
-        "\u4f69\u5854\u63d0\u514b\u74e6"
-    ],
-    "name:cze_x_preferred":[
-        "Petach Tikva"
+    "name:cym_x_preferred":[
+        "Petah Tikva"
     ],
     "name:dan_x_preferred":[
         "Petah Tiqwa"
     ],
     "name:deu_x_preferred":[
-        "Petach Tikwa"
-    ],
-    "name:dut_x_preferred":[
         "Petach Tikwa"
     ],
     "name:ell_x_preferred":[
@@ -104,20 +95,8 @@
     "name:fra_x_preferred":[
         "Petah Tikva"
     ],
-    "name:fre_x_preferred":[
-        "Petah Tikva"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10d4\u10d7\u10d0\u10ee \u10d7\u10d8\u10d9\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Petach Tikwa"
-    ],
     "name:glv_x_preferred":[
         "Petah Tikva"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c4\u03ac\u03c7 \u03a4\u03af\u03ba\u03b2\u03b1"
     ],
     "name:gsw_x_preferred":[
         "Petach Tikwa"
@@ -160,6 +139,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0cc6\u0c9f\u0cbe \u0c9f\u0cbf\u0c95\u0ccd\u0cb5\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d4\u10d7\u10d0\u10ee \u10d7\u10d8\u10d9\u10d5\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ud398\ud0c0\ud2f0\ud06c\ubc14"
     ],
@@ -171,9 +153,6 @@
     ],
     "name:mar_x_preferred":[
         "\u092a\u0947\u0924\u093e\u0939 \u0924\u093f\u0915\u094d\u0935\u093e\u0939"
-    ],
-    "name:may_x_preferred":[
-        "Petah Tikva"
     ],
     "name:msa_x_preferred":[
         "Petah Tikva"
@@ -190,9 +169,6 @@
     "name:nor_x_preferred":[
         "Petah Tiqwa"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u062a\u062e \u062a\u06cc\u06a9\u0648\u0627"
-    ],
     "name:pol_x_preferred":[
         "Petach Tikwa"
     ],
@@ -200,9 +176,6 @@
         "Petah Tikva"
     ],
     "name:ron_x_preferred":[
-        "Petah Tikva"
-    ],
-    "name:rum_x_preferred":[
         "Petah Tikva"
     ],
     "name:rus_x_preferred":[
@@ -251,9 +224,6 @@
         "Petah Tikva"
     ],
     "name:war_x_preferred":[
-        "Petah Tikva"
-    ],
-    "name:wel_x_preferred":[
         "Petah Tikva"
     ],
     "name:yid_x_preferred":[
@@ -319,7 +289,7 @@
         }
     ],
     "wof:id":421202049,
-    "wof:lastmodified":1549931384,
+    "wof:lastmodified":1561760021,
     "wof:name":"Petah Tikva",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

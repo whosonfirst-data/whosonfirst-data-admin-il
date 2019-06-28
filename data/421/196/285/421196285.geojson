@@ -16,12 +16,6 @@
     "name:ces_x_preferred":[
         "Ibim"
     ],
-    "name:cze_x_preferred":[
-        "Ibim"
-    ],
-    "name:dut_x_preferred":[
-        "Ibim"
-    ],
     "name:eng_x_preferred":[
         "Ibim"
     ],
@@ -30,6 +24,9 @@
     ],
     "name:heb_x_variant":[
         "\u05d0\u05d1\u05d9\u05dd"
+    ],
+    "name:nld_x_preferred":[
+        "Ibim"
     ],
     "name:nno_x_preferred":[
         "Ibim"
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":421196285,
-    "wof:lastmodified":1549930386,
+    "wof:lastmodified":1561760029,
     "wof:name":"Ibbim",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

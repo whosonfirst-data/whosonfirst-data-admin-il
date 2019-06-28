@@ -19,13 +19,7 @@
     "name:ces_x_preferred":[
         "Giv'at Brenner"
     ],
-    "name:cze_x_preferred":[
-        "Giv'at Brenner"
-    ],
     "name:deu_x_preferred":[
-        "Givat Brenner"
-    ],
-    "name:dut_x_preferred":[
         "Givat Brenner"
     ],
     "name:eng_x_preferred":[
@@ -37,14 +31,11 @@
     "name:fra_x_preferred":[
         "Guivat-Brener"
     ],
-    "name:fre_x_preferred":[
-        "Guivat-Brener"
-    ],
-    "name:ger_x_preferred":[
-        "Givat Brenner"
-    ],
     "name:heb_x_preferred":[
         "\u05d2\u05d1\u05e2\u05ea \u05d1\u05e8\u05e0\u05e8"
+    ],
+    "name:nld_x_preferred":[
+        "Givat Brenner"
     ],
     "name:nno_x_preferred":[
         "Givat Brenner"
@@ -104,7 +95,7 @@
         }
     ],
     "wof:id":421168551,
-    "wof:lastmodified":1549930320,
+    "wof:lastmodified":1561760013,
     "wof:name":"Givat Brenner",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

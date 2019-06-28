@@ -19,14 +19,8 @@
     "name:ces_x_preferred":[
         "Mi\u0161mar ha-Emek"
     ],
-    "name:cze_x_preferred":[
-        "Mi\u0161mar ha-Emek"
-    ],
     "name:deu_x_preferred":[
         "Mischmar haEmek"
-    ],
-    "name:dut_x_preferred":[
-        "Mishmar HaEmek"
     ],
     "name:eng_x_preferred":[
         "Mishmar HaEmek"
@@ -34,18 +28,15 @@
     "name:fra_x_preferred":[
         "Mishmar-Ha\u00e9mek"
     ],
-    "name:fre_x_preferred":[
-        "Mishmar-Ha\u00e9mek"
-    ],
-    "name:ger_x_preferred":[
-        "Mischmar haEmek"
-    ],
     "name:heb_x_preferred":[
         "\u05de\u05e9\u05de\u05e8 \u05d4\u05e2\u05de\u05e7"
     ],
     "name:heb_x_variant":[
         "Mishmar Ha\u2018Emeq",
         "Mishmar Ha\u2018Emek"
+    ],
+    "name:nld_x_preferred":[
+        "Mishmar HaEmek"
     ],
     "name:nno_x_preferred":[
         "Mishmar HaEmek"
@@ -102,7 +93,7 @@
         }
     ],
     "wof:id":421170875,
-    "wof:lastmodified":1549930328,
+    "wof:lastmodified":1561760034,
     "wof:name":"Mishmar HaEmeq",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

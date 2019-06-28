@@ -19,9 +19,6 @@
     "name:ces_x_preferred":[
         "Sde Mo\u0161e"
     ],
-    "name:cze_x_preferred":[
-        "Sde Mo\u0161e"
-    ],
     "name:eng_x_preferred":[
         "Sde Moshe"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421183043,
-    "wof:lastmodified":1549930351,
+    "wof:lastmodified":1561760035,
     "wof:name":"Sede Moshe",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

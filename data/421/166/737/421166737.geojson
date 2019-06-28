@@ -16,26 +16,20 @@
     "name:ces_x_preferred":[
         "Kfar Hess"
     ],
-    "name:cze_x_preferred":[
-        "Kfar Hess"
-    ],
     "name:deu_x_preferred":[
-        "Kfar Hess"
-    ],
-    "name:dut_x_preferred":[
         "Kfar Hess"
     ],
     "name:eng_x_preferred":[
         "Kfar Hess"
     ],
-    "name:fre_x_preferred":[
-        "Kfar Hess"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kfar Hess"
     ],
     "name:heb_x_preferred":[
         "\u05db\u05e4\u05e8 \u05d4\u05e1"
+    ],
+    "name:nld_x_preferred":[
+        "Kfar Hess"
     ],
     "name:nno_x_preferred":[
         "Kfar Hess"
@@ -93,7 +87,7 @@
         }
     ],
     "wof:id":421166737,
-    "wof:lastmodified":1549930314,
+    "wof:lastmodified":1561760014,
     "wof:name":"Kefar Hess",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

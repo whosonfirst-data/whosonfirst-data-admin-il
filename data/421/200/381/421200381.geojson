@@ -19,9 +19,6 @@
     "name:ces_x_preferred":[
         "Bir al-Maksur"
     ],
-    "name:cze_x_preferred":[
-        "Bir al-Maksur"
-    ],
     "name:eng_x_preferred":[
         "Bir al-Maksur"
     ],
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":421200381,
-    "wof:lastmodified":1549930396,
+    "wof:lastmodified":1561760033,
     "wof:name":"Bir el Maksur",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

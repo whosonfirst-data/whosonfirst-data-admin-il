@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Me'ona"
     ],
-    "name:cze_x_preferred":[
-        "Me'ona"
-    ],
     "name:eng_x_preferred":[
         "Me'ona"
     ],
@@ -85,7 +82,7 @@
         }
     ],
     "wof:id":421189359,
-    "wof:lastmodified":1549930368,
+    "wof:lastmodified":1561760025,
     "wof:name":"Meona",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

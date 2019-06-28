@@ -16,17 +16,14 @@
     "name:ces_x_preferred":[
         "Me'ir \u0160feja"
     ],
-    "name:cze_x_preferred":[
-        "Me'ir \u0160feja"
-    ],
-    "name:dut_x_preferred":[
-        "Meir Shfeya"
-    ],
     "name:eng_x_preferred":[
         "Meir Shfeya"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d0\u05d9\u05e8 \u05e9\u05e4\u05d9\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "Meir Shfeya"
     ],
     "name:nno_x_preferred":[
         "Meir Shfeya"
@@ -85,7 +82,7 @@
         }
     ],
     "wof:id":421189613,
-    "wof:lastmodified":1549930370,
+    "wof:lastmodified":1561760025,
     "wof:name":"Me'ir Shefeya",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

@@ -19,26 +19,20 @@
     "name:ces_x_preferred":[
         "Dan"
     ],
-    "name:cze_x_preferred":[
-        "Dan"
-    ],
     "name:deu_x_preferred":[
-        "Dan"
-    ],
-    "name:dut_x_preferred":[
         "Dan"
     ],
     "name:eng_x_preferred":[
         "Dan"
     ],
-    "name:fre_x_preferred":[
-        "Dan"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Dan"
     ],
     "name:heb_x_preferred":[
         "\u05d3\u05df"
+    ],
+    "name:nld_x_preferred":[
+        "Dan"
     ],
     "name:nno_x_preferred":[
         "Dan i Israel"
@@ -105,7 +99,7 @@
         }
     ],
     "wof:id":421182083,
-    "wof:lastmodified":1549930347,
+    "wof:lastmodified":1561760036,
     "wof:name":"Dan",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

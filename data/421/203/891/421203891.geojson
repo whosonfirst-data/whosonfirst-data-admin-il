@@ -16,23 +16,17 @@
     "name:ces_x_preferred":[
         "Avi'el"
     ],
-    "name:cze_x_preferred":[
-        "Avi'el"
-    ],
-    "name:dut_x_preferred":[
-        "Avi'el"
-    ],
     "name:eng_x_preferred":[
         "Aviel"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d5\u10d8\u10d4\u10da"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d1\u05d9\u05d0\u05dc"
     ],
     "name:heb_x_variant":[
         "Avi\u2019el"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d5\u10d8\u10d4\u10da"
     ],
     "name:nld_x_preferred":[
         "Avi'el"
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":421203891,
-    "wof:lastmodified":1549930406,
+    "wof:lastmodified":1561760021,
     "wof:name":"Avi'el",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

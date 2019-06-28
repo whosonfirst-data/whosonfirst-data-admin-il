@@ -16,16 +16,10 @@
     "name:ces_x_preferred":[
         "Bejt Jeho\u0161ua"
     ],
-    "name:cze_x_preferred":[
-        "Bejt Jeho\u0161ua"
-    ],
     "name:eng_x_preferred":[
         "Beit Yehoshua"
     ],
     "name:fra_x_preferred":[
-        "Be\u00eft-Y\u00e9hoshoua"
-    ],
-    "name:fre_x_preferred":[
         "Be\u00eft-Y\u00e9hoshoua"
     ],
     "name:heb_x_preferred":[
@@ -93,7 +87,7 @@
         }
     ],
     "wof:id":421166729,
-    "wof:lastmodified":1549930314,
+    "wof:lastmodified":1561760015,
     "wof:name":"Bet Yehoshua",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

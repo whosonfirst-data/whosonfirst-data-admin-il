@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Ramat Razi'el"
     ],
-    "name:cze_x_preferred":[
-        "Ramat Razi'el"
-    ],
     "name:eng_x_preferred":[
         "Ramat Raziel"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421175717,
-    "wof:lastmodified":1549930324,
+    "wof:lastmodified":1561760028,
     "wof:name":"Ramat Razi'el",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

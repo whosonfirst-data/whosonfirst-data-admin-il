@@ -40,14 +40,8 @@
     "name:arg_x_preferred":[
         "Destrito de Tel Aviv"
     ],
-    "name:arm_x_preferred":[
-        "\u0539\u0565\u056c \u0531\u057e\u056b\u057e\u056b \u0574\u0561\u0580\u0566"
-    ],
     "name:aze_x_preferred":[
         "T\u0259l-\u018fviv dair\u0259si"
-    ],
-    "name:baq_x_preferred":[
-        "Tel Aviv barrutia"
     ],
     "name:bar_x_preferred":[
         "Beziak Tel Aviv"
@@ -64,17 +58,14 @@
     "name:cat_x_preferred":[
         "Districte de Tel Aviv"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u62c9\u7ef4\u592b\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Telavivsk\u00fd distrikt"
     ],
     "name:dan_x_preferred":[
         "Tel Aviv-distriktet"
     ],
-    "name:dut_x_preferred":[
-        "Tel Aviv"
+    "name:deu_x_preferred":[
+        "Bezirk Tel Aviv"
     ],
     "name:eng_x_preferred":[
         "Tel Aviv"
@@ -85,11 +76,14 @@
     "name:est_x_preferred":[
         "Tel Avivi ringkond"
     ],
-    "name:fre_x_preferred":[
-        "district de Tel Aviv"
+    "name:eus_x_preferred":[
+        "Tel Aviv barrutia"
     ],
-    "name:ger_x_preferred":[
-        "Bezirk Tel Aviv"
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062a\u0644\u200c\u0622\u0648\u06cc\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "district de Tel Aviv"
     ],
     "name:glv_x_preferred":[
         "Slyst Tel Aviv"
@@ -99,6 +93,9 @@
     ],
     "name:hun_x_preferred":[
         "Tel-Avivi j\u00e1r\u00e1s"
+    ],
+    "name:hye_x_preferred":[
+        "\u0539\u0565\u056c \u0531\u057e\u056b\u057e\u056b \u0574\u0561\u0580\u0566"
     ],
     "name:ind_x_preferred":[
         "Distrik Tel Aviv"
@@ -118,20 +115,20 @@
     "name:lit_x_preferred":[
         "Tel Avivo apskritis"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0422\u0435\u043b \u0410\u0432\u0438\u0432"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Tel Aviv"
+    ],
+    "name:nld_x_preferred":[
+        "Tel Aviv"
     ],
     "name:nno_x_preferred":[
         "Tel Aviv distrikt"
     ],
     "name:nob_x_preferred":[
         "Tel Aviv-distriktet"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062a\u0644\u200c\u0622\u0648\u06cc\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u062a\u0644 \u0627\u0648\u06cc\u0648 \u0636\u0644\u0639"
@@ -142,7 +139,7 @@
     "name:por_x_preferred":[
         "Tel Aviv"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Tel Aviv"
     ],
     "name:rus_x_preferred":[
@@ -177,6 +174,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 \u05d3\u05d9\u05e1\u05d8\u05e8\u05d9\u05e7\u05d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u62c9\u7ef4\u592b\u533a"
     ],
     "src:geom":"whosonfirst",
     "src:geom_alt":[
@@ -219,7 +219,7 @@
         }
     ],
     "wof:id":1108720837,
-    "wof:lastmodified":1555220444,
+    "wof:lastmodified":1561760010,
     "wof:name":"Tel Aviv",
     "wof:parent_id":85672549,
     "wof:placetype":"county",

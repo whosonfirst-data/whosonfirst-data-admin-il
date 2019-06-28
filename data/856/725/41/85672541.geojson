@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.12356,
-    "geom:area_square_m":1294847134.051142,
+    "geom:area_square_m":1294847134.05264,
     "geom:bbox":"34.6647840417,31.7572948226,35.051422,32.4128536305",
     "geom:latitude":32.059,
     "geom:longitude":34.884808,
@@ -36,14 +36,8 @@
     "name:arg_x_preferred":[
         "Destrito Central"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0565\u0576\u057f\u0580\u0578\u0576\u0561\u056f\u0561\u0576 \u0574\u0561\u0580\u0566"
-    ],
     "name:aze_x_preferred":[
         "\u0130srail m\u0259rk\u0259zi dair\u0259si"
-    ],
-    "name:baq_x_preferred":[
-        "Erdialdeko barrutia"
     ],
     "name:bar_x_preferred":[
         "Zentr\u00e4ubeziak"
@@ -63,10 +57,7 @@
     "name:cat_x_preferred":[
         "Districte Central"
     ],
-    "name:chi_x_preferred":[
-        "\u4e2d\u592e\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Centr\u00e1ln\u00ed distrikt"
     ],
     "name:dan_x_preferred":[
@@ -75,8 +66,8 @@
     "name:deu_x_preferred":[
         "Zentralbezirk"
     ],
-    "name:dut_x_preferred":[
-        "Centrum"
+    "name:ell_x_preferred":[
+        "\u03a3\u03ad\u03bd\u03c4\u03c1\u03b1\u03bb \u039d\u03c4\u03af\u03c3\u03c4\u03c1\u03b9\u03ba\u03c4"
     ],
     "name:eng_x_preferred":[
         "Central"
@@ -92,23 +83,20 @@
     "name:est_x_preferred":[
         "Keskringkond"
     ],
+    "name:eus_x_preferred":[
+        "Erdialdeko barrutia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0631\u06a9\u0632"
+    ],
     "name:fin_x_preferred":[
         "Keski-Israelin hallintoalue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "district centre"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ea\u10d4\u10dc\u10e2\u10e0\u10d0\u10da\u10e3\u10e0\u10d8 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Zentralbezirk"
     ],
     "name:glv_x_preferred":[
         "Slyst Veanagh"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ad\u03bd\u03c4\u03c1\u03b1\u03bb \u039d\u03c4\u03af\u03c3\u03c4\u03c1\u03b9\u03ba\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f\u0acd\u0ab0\u0ab2 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -124,6 +112,9 @@
     "name:hin_x_preferred":[
         "\u092e\u0927\u094d\u092f \u091c\u093f\u0932\u093e"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0565\u0576\u057f\u0580\u0578\u0576\u0561\u056f\u0561\u0576 \u0574\u0561\u0580\u0566"
+    ],
     "name:ind_x_preferred":[
         "Distrik Tengah"
     ],
@@ -136,6 +127,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cc7\u0c82\u0ca6\u0ccd\u0cb0 \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10ea\u10d4\u10dc\u10e2\u10e0\u10d0\u10da\u10e3\u10e0\u10d8 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc911\ubd80 \uad6c"
     ],
@@ -145,14 +139,17 @@
     "name:lit_x_preferred":[
         "Centrin\u0117 apskritis"
     ],
-    "name:mac_x_preferred":[
-        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u0435\u043d \u043e\u043a\u0440\u0443\u0433"
-    ],
     "name:mar_x_preferred":[
         "\u092e\u0927\u094d\u092f\u0935\u0930\u094d\u0924\u0940 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u0435\u043d \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:msa_x_preferred":[
         "Daerah Tengah"
+    ],
+    "name:nld_x_preferred":[
+        "Centrum"
     ],
     "name:nno_x_preferred":[
         "Sentral-Israel"
@@ -163,9 +160,6 @@
     "name:nor_x_preferred":[
         "Sentral-Israel"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0631\u06a9\u0632"
-    ],
     "name:pnb_x_preferred":[
         "\u0648\u0634\u06a9\u0627\u0631\u0644\u06c1 \u0636\u0644\u0639"
     ],
@@ -175,7 +169,7 @@
     "name:por_x_preferred":[
         "Distrito Central"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Central"
     ],
     "name:rus_x_preferred":[
@@ -297,7 +291,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1553814799,
+    "wof:lastmodified":1561760005,
     "wof:name":"Central",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

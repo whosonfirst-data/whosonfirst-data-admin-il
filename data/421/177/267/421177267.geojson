@@ -19,12 +19,6 @@
     "name:ces_x_preferred":[
         "Dejr Channa"
     ],
-    "name:cze_x_preferred":[
-        "Dejr Channa"
-    ],
-    "name:dut_x_preferred":[
-        "Deir Hanna"
-    ],
     "name:eng_x_preferred":[
         "Deir Hanna"
     ],
@@ -33,6 +27,9 @@
     ],
     "name:heb_x_variant":[
         "Deir \u1e24ann\u0101"
+    ],
+    "name:nld_x_preferred":[
+        "Deir Hanna"
     ],
     "name:nno_x_preferred":[
         "Deir Hanna"
@@ -97,7 +94,7 @@
         }
     ],
     "wof:id":421177267,
-    "wof:lastmodified":1549930330,
+    "wof:lastmodified":1561760035,
     "wof:name":"Deir Hanna",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

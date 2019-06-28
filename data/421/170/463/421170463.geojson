@@ -13,32 +13,29 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u6bd4\u723e\u96c5\u79d1\u592b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Be'er Ja'akov"
     ],
-    "name:dut_x_preferred":[
-        "Be'er Ya'akov"
+    "name:deu_x_preferred":[
+        "Be\u2019er Ja\u2019akow"
     ],
     "name:eng_x_preferred":[
         "Be'er Ya'akov"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Be'er Ya'akov"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10d4\u10e0 \u10d8\u10d0\u10d0\u10d9\u10dd\u10d5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Be\u2019er Ja\u2019akow"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d0\u05e8 \u05d9\u05e2\u05e7\u05d1"
     ],
     "name:heb_x_variant":[
         "Be\u2019er Ya\u2018akov"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10d4\u10e0 \u10d8\u10d0\u10d0\u10d9\u10dd\u10d5\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Be'er Ya'akov"
     ],
     "name:nno_x_preferred":[
         "Be'er Ya'akov"
@@ -54,6 +51,9 @@
     ],
     "name:unk_x_variant":[
         "Khirbet Iby\u0101r el Leim\u016bn"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u723e\u96c5\u79d1\u592b"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":421170463,
-    "wof:lastmodified":1549930318,
+    "wof:lastmodified":1561760034,
     "wof:name":"Be'er Yaaqov",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

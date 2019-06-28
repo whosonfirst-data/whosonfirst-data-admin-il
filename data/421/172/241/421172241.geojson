@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Kfar Sirkin"
     ],
-    "name:cze_x_preferred":[
-        "Kfar Sirkin"
-    ],
     "name:eng_x_preferred":[
         "Kfar Sirkin"
     ],
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":421172241,
-    "wof:lastmodified":1549930310,
+    "wof:lastmodified":1561760026,
     "wof:name":"Kefar Sirkin",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

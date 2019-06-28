@@ -31,22 +31,13 @@
     "name:ces_x_preferred":[
         "Sderot"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u5fb7\u6d1b\u7279"
-    ],
     "name:cym_x_preferred":[
-        "Sderot"
-    ],
-    "name:cze_x_preferred":[
         "Sderot"
     ],
     "name:dan_x_preferred":[
         "Sderot"
     ],
     "name:deu_x_preferred":[
-        "Sderot"
-    ],
-    "name:dut_x_preferred":[
         "Sderot"
     ],
     "name:eng_x_preferred":[
@@ -69,15 +60,6 @@
     ],
     "name:fra_x_preferred":[
         "Sd\u00e9rot"
-    ],
-    "name:fre_x_preferred":[
-        "Sd\u00e9rot"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d3\u10d4\u10e0\u10dd\u10d7\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Sderot"
     ],
     "name:heb_x_preferred":[
         "\u05e9\u05d3\u05e8\u05d5\u05ea"
@@ -112,9 +94,6 @@
     "name:nor_x_preferred":[
         "Sderot"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u062f\u0631\u0648\u062a"
-    ],
     "name:pol_x_preferred":[
         "Sderot"
     ],
@@ -126,9 +105,6 @@
     ],
     "name:ron_x_variant":[
         "\u015ederot"
-    ],
-    "name:rum_x_preferred":[
-        "Sderot"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0434\u0435\u0440\u043e\u0442"
@@ -158,9 +134,6 @@
         "\u0633\u062f\u06cc\u0631\u0648\u062a"
     ],
     "name:vie_x_preferred":[
-        "Sderot"
-    ],
-    "name:wel_x_preferred":[
         "Sderot"
     ],
     "name:yid_x_preferred":[
@@ -220,7 +193,7 @@
         }
     ],
     "wof:id":421174727,
-    "wof:lastmodified":1549930323,
+    "wof:lastmodified":1561760023,
     "wof:name":"Sederot",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

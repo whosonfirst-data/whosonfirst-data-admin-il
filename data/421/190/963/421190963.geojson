@@ -22,7 +22,7 @@
     "name:ceb_x_preferred":[
         "Gat\u00f3n de Campos"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ga'aton"
     ],
     "name:eng_x_preferred":[
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":421190963,
-    "wof:lastmodified":1549930372,
+    "wof:lastmodified":1561760030,
     "wof:name":"Gaton",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

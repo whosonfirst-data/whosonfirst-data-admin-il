@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Regba"
     ],
-    "name:cze_x_preferred":[
-        "Regba"
-    ],
     "name:eng_x_preferred":[
         "Regba"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421199503,
-    "wof:lastmodified":1549930393,
+    "wof:lastmodified":1561760031,
     "wof:name":"Regba",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

@@ -28,19 +28,10 @@
     "name:ces_x_preferred":[
         "Gedera"
     ],
-    "name:chi_x_preferred":[
-        "\u76d6\u4ee3\u62c9"
-    ],
-    "name:cze_x_preferred":[
-        "Gedera"
-    ],
     "name:dan_x_preferred":[
         "Gedera"
     ],
     "name:deu_x_preferred":[
-        "Gedera"
-    ],
-    "name:dut_x_preferred":[
         "Gedera"
     ],
     "name:eng_x_preferred":[
@@ -61,20 +52,14 @@
     "name:fra_x_preferred":[
         "Guedera"
     ],
-    "name:fre_x_preferred":[
-        "Guedera"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10d3\u10d4\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Gedera"
-    ],
     "name:heb_x_preferred":[
         "\u05d2\u05d3\u05e8\u05d4"
     ],
     "name:ita_x_preferred":[
         "Gedera"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d3\u10d4\u10e0\u10d0"
     ],
     "name:kor_x_preferred":[
         "\uac8c\ub370\ub77c"
@@ -87,9 +72,6 @@
     ],
     "name:nob_x_preferred":[
         "Gederea"
-    ],
-    "name:per_x_preferred":[
-        "\u06af\u062f\u0631\u0627"
     ],
     "name:pol_x_preferred":[
         "Gedera"
@@ -166,7 +148,7 @@
         }
     ],
     "wof:id":421198095,
-    "wof:lastmodified":1549930390,
+    "wof:lastmodified":1561760029,
     "wof:name":"Gedera",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

@@ -19,16 +19,10 @@
     "name:ces_x_preferred":[
         "Gan \u0160mu'el"
     ],
-    "name:cze_x_preferred":[
-        "Gan \u0160mu'el"
-    ],
     "name:eng_x_preferred":[
         "Gan Shmuel"
     ],
     "name:fra_x_preferred":[
-        "Gan-Shmuel"
-    ],
-    "name:fre_x_preferred":[
         "Gan-Shmuel"
     ],
     "name:heb_x_preferred":[
@@ -92,7 +86,7 @@
         }
     ],
     "wof:id":421174385,
-    "wof:lastmodified":1549930315,
+    "wof:lastmodified":1561760023,
     "wof:name":"Gan Shemu'el",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

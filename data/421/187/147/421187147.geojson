@@ -16,12 +16,6 @@
     "name:ces_x_preferred":[
         "Jakum"
     ],
-    "name:cze_x_preferred":[
-        "Jakum"
-    ],
-    "name:dut_x_preferred":[
-        "Yakum"
-    ],
     "name:eng_x_preferred":[
         "Yakum"
     ],
@@ -30,6 +24,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u82f1\uff1aYakum"
+    ],
+    "name:nld_x_preferred":[
+        "Yakum"
     ],
     "name:nno_x_preferred":[
         "Yakum"
@@ -102,7 +99,7 @@
         }
     ],
     "wof:id":421187147,
-    "wof:lastmodified":1549930362,
+    "wof:lastmodified":1561760025,
     "wof:name":"Yaqum",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

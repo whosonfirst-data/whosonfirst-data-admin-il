@@ -16,16 +16,10 @@
     "name:ces_x_preferred":[
         "Ce'elim"
     ],
-    "name:cze_x_preferred":[
-        "Ce'elim"
-    ],
     "name:eng_x_preferred":[
         "Tze'elim"
     ],
     "name:fra_x_preferred":[
-        "Tz\u00e9\u00e9lim"
-    ],
-    "name:fre_x_preferred":[
         "Tz\u00e9\u00e9lim"
     ],
     "name:heb_x_preferred":[
@@ -89,7 +83,7 @@
         }
     ],
     "wof:id":421166371,
-    "wof:lastmodified":1549930303,
+    "wof:lastmodified":1561760014,
     "wof:name":"Ze'elim",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

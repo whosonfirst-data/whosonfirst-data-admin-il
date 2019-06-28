@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Januv"
     ],
-    "name:cze_x_preferred":[
-        "Januv"
-    ],
     "name:eng_x_preferred":[
         "Yanuv"
     ],
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":421199507,
-    "wof:lastmodified":1553816386,
+    "wof:lastmodified":1561760031,
     "wof:name":"Yanuv",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

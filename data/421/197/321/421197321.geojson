@@ -22,16 +22,10 @@
     "name:ces_x_preferred":[
         "Rechasim"
     ],
-    "name:cze_x_preferred":[
-        "Rechasim"
-    ],
     "name:eng_x_preferred":[
         "Rekhasim"
     ],
     "name:fra_x_preferred":[
-        "R\u00e9hassim"
-    ],
-    "name:fre_x_preferred":[
         "R\u00e9hassim"
     ],
     "name:heb_x_preferred":[
@@ -103,7 +97,7 @@
         }
     ],
     "wof:id":421197321,
-    "wof:lastmodified":1549930388,
+    "wof:lastmodified":1561760031,
     "wof:name":"Rekhasim",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

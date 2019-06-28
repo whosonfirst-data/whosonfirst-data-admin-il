@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Cur Hadasa"
     ],
-    "name:cze_x_preferred":[
-        "Cur Hadasa"
-    ],
     "name:eng_x_preferred":[
         "Tzur Hadassah"
     ],
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":421166865,
-    "wof:lastmodified":1549930318,
+    "wof:lastmodified":1561760015,
     "wof:name":"Zur Hadassa",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

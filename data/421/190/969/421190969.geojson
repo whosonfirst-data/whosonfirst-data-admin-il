@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Juval"
     ],
-    "name:cze_x_preferred":[
-        "Juval"
-    ],
     "name:eng_x_preferred":[
         "Yuval"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421190969,
-    "wof:lastmodified":1549930372,
+    "wof:lastmodified":1561760030,
     "wof:name":"Yuval",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

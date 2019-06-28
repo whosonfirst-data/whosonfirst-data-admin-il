@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Luzit"
     ],
-    "name:cze_x_preferred":[
-        "Luzit"
-    ],
     "name:eng_x_preferred":[
         "Luzit"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421177359,
-    "wof:lastmodified":1549930331,
+    "wof:lastmodified":1561760035,
     "wof:name":"Luzit",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

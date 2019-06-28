@@ -19,9 +19,6 @@
     "name:ces_x_preferred":[
         "Cherut"
     ],
-    "name:cze_x_preferred":[
-        "Cherut"
-    ],
     "name:eng_x_preferred":[
         "Herut"
     ],
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":421177223,
-    "wof:lastmodified":1549930330,
+    "wof:lastmodified":1561760035,
     "wof:name":"Herut",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

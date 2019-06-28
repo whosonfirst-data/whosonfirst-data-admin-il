@@ -16,19 +16,10 @@
     "name:ces_x_preferred":[
         "Afek"
     ],
-    "name:cze_x_preferred":[
-        "Afek"
-    ],
-    "name:dut_x_preferred":[
-        "Afek"
-    ],
     "name:eng_x_preferred":[
         "Afek"
     ],
     "name:fra_x_preferred":[
-        "Afek"
-    ],
-    "name:fre_x_preferred":[
         "Afek"
     ],
     "name:heb_x_preferred":[
@@ -36,6 +27,9 @@
     ],
     "name:heb_x_variant":[
         "\u05de\u05e9\u05de\u05e8 \u05d4\u05d9\u05dd"
+    ],
+    "name:nld_x_preferred":[
+        "Afek"
     ],
     "name:nno_x_preferred":[
         "Afek i Israel"
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":421203889,
-    "wof:lastmodified":1549930407,
+    "wof:lastmodified":1561760020,
     "wof:name":"Afeq",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

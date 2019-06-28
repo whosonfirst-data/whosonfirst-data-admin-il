@@ -25,17 +25,8 @@
     "name:ces_x_preferred":[
         "Metula"
     ],
-    "name:chi_x_preferred":[
-        "\u9ea5\u5716\u62c9"
-    ],
-    "name:cze_x_preferred":[
-        "Metula"
-    ],
     "name:deu_x_preferred":[
         "Metulla"
-    ],
-    "name:dut_x_preferred":[
-        "Metula"
     ],
     "name:eng_x_preferred":[
         "Metula"
@@ -46,15 +37,6 @@
     "name:fra_x_preferred":[
         "Metoula"
     ],
-    "name:fre_x_preferred":[
-        "Metoula"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d4\u10d7\u10e3\u10da\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Metulla"
-    ],
     "name:heb_x_preferred":[
         "\u05de\u05d8\u05d5\u05dc\u05d4"
     ],
@@ -64,6 +46,12 @@
     "name:ita_x_preferred":[
         "Metulla"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10d7\u10e3\u10da\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Metula"
+    ],
     "name:nno_x_preferred":[
         "Metula"
     ],
@@ -72,9 +60,6 @@
     ],
     "name:nor_x_preferred":[
         "Metulla"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u062a\u0648\u0644\u0627"
     ],
     "name:pol_x_preferred":[
         "Metulla"
@@ -99,6 +84,9 @@
     ],
     "name:unk_x_variant":[
         "El Mutille"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ea5\u5716\u62c9"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -150,7 +138,7 @@
         }
     ],
     "wof:id":421203903,
-    "wof:lastmodified":1549930408,
+    "wof:lastmodified":1561760020,
     "wof:name":"Metulla",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

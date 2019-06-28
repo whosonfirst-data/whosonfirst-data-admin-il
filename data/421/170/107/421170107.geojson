@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Bnej Re'em"
     ],
-    "name:cze_x_preferred":[
-        "Bnej Re'em"
-    ],
     "name:eng_x_preferred":[
         "Bnei Re'em"
     ],
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":421170107,
-    "wof:lastmodified":1549930304,
+    "wof:lastmodified":1561760034,
     "wof:name":"Bene Re'em",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

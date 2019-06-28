@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Tarum"
     ],
-    "name:cze_x_preferred":[
-        "Tarum"
-    ],
     "name:eng_x_preferred":[
         "Tarum"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421173395,
-    "wof:lastmodified":1549930316,
+    "wof:lastmodified":1561760025,
     "wof:name":"Tarum",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

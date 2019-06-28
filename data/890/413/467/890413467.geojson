@@ -18,10 +18,7 @@
     "name:bul_x_preferred":[
         "\u041b\u0430\u043f\u0438\u0434"
     ],
-    "name:cze_x_preferred":[
-        "Lapid"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Lapid"
     ],
     "name:eng_x_preferred":[
@@ -29,6 +26,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05e4\u05d9\u05d3"
+    ],
+    "name:nld_x_preferred":[
+        "Lapid"
     ],
     "name:nno_x_preferred":[
         "Lapid"
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":890413467,
-    "wof:lastmodified":1549930508,
+    "wof:lastmodified":1561760039,
     "wof:name":"Lapid",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",
