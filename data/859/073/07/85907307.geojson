@@ -28,9 +28,6 @@
     "name:ces_x_preferred":[
         "Ha-Rakevet"
     ],
-    "name:cze_x_preferred":[
-        "Ha-Rakevet"
-    ],
     "name:eng_x_preferred":[
         "Ha-rakevet"
     ],
@@ -66,11 +63,11 @@
     "wd:longitude":34.783486,
     "wd:wordcount":42,
     "wof:belongsto":[
+        85672549,
         102191569,
         85632315,
         1125955239,
-        1108720837,
-        85672549
+        1108720837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930541,
+    "wof:lastmodified":1561760003,
     "wof:name":"Ha-rakevet",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

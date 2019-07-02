@@ -25,12 +25,6 @@
     "name:ces_x_preferred":[
         "Lod"
     ],
-    "name:chi_x_preferred":[
-        "\u5362\u5fb7"
-    ],
-    "name:cze_x_preferred":[
-        "Lod"
-    ],
     "name:dan_x_preferred":[
         "Lod"
     ],
@@ -42,9 +36,6 @@
     ],
     "name:deu_x_variant":[
         "Lydda"
-    ],
-    "name:dut_x_preferred":[
-        "Lod"
     ],
     "name:ell_x_preferred":[
         "\u039b\u03bf\u03bd\u03c4"
@@ -60,18 +51,6 @@
     ],
     "name:fra_x_preferred":[
         "Lod"
-    ],
-    "name:fre_x_preferred":[
-        "Lod"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10dd\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Lod"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03bd\u03c4"
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d5\u05d3"
@@ -100,14 +79,11 @@
     "name:lit_x_preferred":[
         "Lodas"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u043e\u0434"
-    ],
     "name:mal_x_preferred":[
         "\u0d32\u0d41\u0d26\u0d4d\u0d26\u0d4d"
     ],
-    "name:may_x_preferred":[
-        "Ludd"
+    "name:mkd_x_preferred":[
+        "\u041b\u043e\u0434"
     ],
     "name:msa_x_preferred":[
         "Ludd"
@@ -127,9 +103,6 @@
     "name:oci_x_preferred":[
         "Lod"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0627\u062f"
-    ],
     "name:pol_x_preferred":[
         "Lod"
     ],
@@ -139,9 +112,6 @@
     "name:ron_x_preferred":[
         "Lod"
     ],
-    "name:rum_x_preferred":[
-        "Lod"
-    ],
     "name:rus_x_preferred":[
         "\u041b\u043e\u0434"
     ],
@@ -149,9 +119,6 @@
         "Lod"
     ],
     "name:slk_x_preferred":[
-        "Lod"
-    ],
-    "name:slo_x_preferred":[
         "Lod"
     ],
     "name:slv_x_preferred":[
@@ -241,7 +208,7 @@
         }
     ],
     "wof:id":421187757,
-    "wof:lastmodified":1549930364,
+    "wof:lastmodified":1561760024,
     "wof:name":"Lod",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

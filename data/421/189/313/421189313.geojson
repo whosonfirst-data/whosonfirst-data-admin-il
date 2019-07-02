@@ -13,7 +13,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Dor"
     ],
     "name:eng_x_preferred":[
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":421189313,
-    "wof:lastmodified":1549930367,
+    "wof:lastmodified":1561760025,
     "wof:name":"Dor",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

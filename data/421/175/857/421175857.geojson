@@ -16,9 +16,6 @@
     "name:ara_x_preferred":[
         "\u0639\u0631\u0627\u062f"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0580\u0561\u0564"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0440\u0430\u0434"
     ],
@@ -31,20 +28,14 @@
     "name:ces_x_preferred":[
         "Arad"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u62c9\u5fb7"
-    ],
-    "name:cze_x_preferred":[
-        "Arad"
-    ],
     "name:dan_x_preferred":[
         "Arad"
     ],
     "name:deu_x_preferred":[
         "Arad"
     ],
-    "name:dut_x_preferred":[
-        "Arad"
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03ac\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Arad"
@@ -60,18 +51,6 @@
     ],
     "name:fra_x_preferred":[
         "Arad"
-    ],
-    "name:fre_x_preferred":[
-        "Arad"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e0\u10d0\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Arad"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c1\u03ac\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab0\u0abe\u0aa6"
@@ -118,7 +97,7 @@
     "name:mar_x_preferred":[
         "\u0905\u0930\u093e\u0926"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Arad"
     ],
     "name:nld_x_preferred":[
@@ -133,9 +112,6 @@
     "name:nor_x_preferred":[
         "Arad"
     ],
-    "name:per_x_preferred":[
-        "\u0639\u0631\u0627\u062f\u060c \u0627\u0633\u0631\u0627\u0626\u06cc\u0644"
-    ],
     "name:pol_x_preferred":[
         "Arad"
     ],
@@ -143,9 +119,6 @@
         "Arad"
     ],
     "name:ron_x_preferred":[
-        "Arad"
-    ],
-    "name:rum_x_preferred":[
         "Arad"
     ],
     "name:rus_x_preferred":[
@@ -244,7 +217,7 @@
         }
     ],
     "wof:id":421175857,
-    "wof:lastmodified":1553816365,
+    "wof:lastmodified":1561760028,
     "wof:name":"Arad",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

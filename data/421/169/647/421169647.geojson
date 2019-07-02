@@ -16,13 +16,7 @@
     "name:ces_x_preferred":[
         "Kfar Blum"
     ],
-    "name:cze_x_preferred":[
-        "Kfar Blum"
-    ],
     "name:deu_x_preferred":[
-        "Kfar Blum"
-    ],
-    "name:dut_x_preferred":[
         "Kfar Blum"
     ],
     "name:eng_x_preferred":[
@@ -31,17 +25,14 @@
     "name:fra_x_preferred":[
         "Kfar Blum"
     ],
-    "name:fre_x_preferred":[
-        "Kfar Blum"
-    ],
-    "name:ger_x_preferred":[
-        "Kfar Blum"
-    ],
     "name:heb_x_preferred":[
         "\u05db\u05e4\u05e8 \u05d1\u05dc\u05d5\u05dd"
     ],
     "name:nld_x_preferred":[
         "Kfar Bloem"
+    ],
+    "name:nld_x_variant":[
+        "Kfar Blum"
     ],
     "name:nno_x_preferred":[
         "Kfar Blum"
@@ -102,7 +93,7 @@
         }
     ],
     "wof:id":421169647,
-    "wof:lastmodified":1549930322,
+    "wof:lastmodified":1561760019,
     "wof:name":"Kefar Blum",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

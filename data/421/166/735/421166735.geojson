@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Ha-Jogev"
     ],
-    "name:cze_x_preferred":[
-        "Ha-Jogev"
-    ],
     "name:eng_x_preferred":[
         "HaYogev"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421166735,
-    "wof:lastmodified":1549930314,
+    "wof:lastmodified":1561760015,
     "wof:name":"HaYogev",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

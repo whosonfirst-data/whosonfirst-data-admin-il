@@ -16,16 +16,7 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0643\u0646\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0561\u0586\u0580 \u053f\u0561\u0576\u0576\u0561"
-    ],
     "name:ces_x_preferred":[
-        "Kafr Kanna"
-    ],
-    "name:cze_x_preferred":[
-        "Kafr Kanna"
-    ],
-    "name:dut_x_preferred":[
         "Kafr Kanna"
     ],
     "name:eng_x_preferred":[
@@ -34,14 +25,14 @@
     "name:fra_x_preferred":[
         "Kafr Cana"
     ],
-    "name:fre_x_preferred":[
-        "Kafr Cana"
-    ],
     "name:heb_x_preferred":[
         "\u05db\u05e4\u05e8 \u05db\u05e0\u05d0"
     ],
     "name:heb_x_variant":[
         "Kafr Kann\u0101"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0586\u0580 \u053f\u0561\u0576\u0576\u0561"
     ],
     "name:ita_x_preferred":[
         "kafr kanna"
@@ -59,9 +50,6 @@
         "Kefar Kanna"
     ],
     "name:ron_x_preferred":[
-        "Kfar Kana"
-    ],
-    "name:rum_x_preferred":[
         "Kfar Kana"
     ],
     "name:rus_x_preferred":[
@@ -121,7 +109,7 @@
         }
     ],
     "wof:id":421167847,
-    "wof:lastmodified":1549930326,
+    "wof:lastmodified":1561760018,
     "wof:name":"Kafr Kanna",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "\u0160arona"
     ],
-    "name:cze_x_preferred":[
-        "\u0160arona"
-    ],
     "name:eng_x_preferred":[
         "Sharona"
     ],
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":421199509,
-    "wof:lastmodified":1553816386,
+    "wof:lastmodified":1561760031,
     "wof:name":"Sharona",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

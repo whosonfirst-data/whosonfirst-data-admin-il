@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Goren"
     ],
-    "name:cze_x_preferred":[
-        "Goren"
-    ],
     "name:eng_x_preferred":[
         "Goren"
     ],
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":421202469,
-    "wof:lastmodified":1549930401,
+    "wof:lastmodified":1561760022,
     "wof:name":"Goren",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

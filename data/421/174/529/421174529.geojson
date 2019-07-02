@@ -16,12 +16,6 @@
     "name:ces_x_preferred":[
         "Bejt ha-Emek"
     ],
-    "name:cze_x_preferred":[
-        "Bejt ha-Emek"
-    ],
-    "name:dut_x_preferred":[
-        "Beit HaEmek"
-    ],
     "name:eng_x_preferred":[
         "Beit HaEmek"
     ],
@@ -30,6 +24,9 @@
     ],
     "name:heb_x_variant":[
         "Bet Ha\u2018Emeq"
+    ],
+    "name:nld_x_preferred":[
+        "Beit HaEmek"
     ],
     "name:nno_x_preferred":[
         "Beit HaEmek"
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":421174529,
-    "wof:lastmodified":1549930319,
+    "wof:lastmodified":1561760023,
     "wof:name":"Bet HaEmeq",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

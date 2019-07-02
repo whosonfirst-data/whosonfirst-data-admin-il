@@ -16,20 +16,17 @@
     "name:ces_x_preferred":[
         "Be'er Ora"
     ],
-    "name:cze_x_preferred":[
-        "Be'er Ora"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Be'er Ora"
     ],
     "name:eng_x_preferred":[
         "Be'er Ora"
     ],
-    "name:ger_x_preferred":[
-        "Be'er Ora"
-    ],
     "name:heb_x_preferred":[
         "\u05d1\u05d0\u05e8 \u05d0\u05d5\u05e8\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "Be'er Ora"
     ],
     "name:nno_x_preferred":[
         "Be'er Ora"
@@ -86,7 +83,7 @@
         }
     ],
     "wof:id":421166369,
-    "wof:lastmodified":1549930302,
+    "wof:lastmodified":1561760015,
     "wof:name":"Be'er Ora",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Becet"
     ],
-    "name:cze_x_preferred":[
-        "Becet"
-    ],
     "name:eng_x_preferred":[
         "Betzet"
     ],
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":421170499,
-    "wof:lastmodified":1549930319,
+    "wof:lastmodified":1561760034,
     "wof:name":"Bezet",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

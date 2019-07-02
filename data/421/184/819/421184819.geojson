@@ -16,19 +16,10 @@
     "name:ces_x_preferred":[
         "Bejt Zera"
     ],
-    "name:cze_x_preferred":[
-        "Bejt Zera"
-    ],
-    "name:dut_x_preferred":[
-        "Beit Zera"
-    ],
     "name:eng_x_preferred":[
         "Beit Zera"
     ],
     "name:fra_x_preferred":[
-        "Beit Zera"
-    ],
-    "name:fre_x_preferred":[
         "Beit Zera"
     ],
     "name:heb_x_preferred":[
@@ -39,6 +30,9 @@
     ],
     "name:ita_x_preferred":[
         "Beit zera"
+    ],
+    "name:nld_x_preferred":[
+        "Beit Zera"
     ],
     "name:nno_x_preferred":[
         "Beit Zera"
@@ -102,7 +96,7 @@
         }
     ],
     "wof:id":421184819,
-    "wof:lastmodified":1549930357,
+    "wof:lastmodified":1561760033,
     "wof:name":"Bet Zera",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

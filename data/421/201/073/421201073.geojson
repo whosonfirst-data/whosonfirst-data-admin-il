@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Kfar Zejtim"
     ],
-    "name:cze_x_preferred":[
-        "Kfar Zejtim"
-    ],
     "name:eng_x_preferred":[
         "Kfar Zeitim"
     ],
@@ -80,7 +77,7 @@
         }
     ],
     "wof:id":421201073,
-    "wof:lastmodified":1549930394,
+    "wof:lastmodified":1561760033,
     "wof:name":"Kefar Zetim",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

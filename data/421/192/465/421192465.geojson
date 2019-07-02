@@ -19,9 +19,6 @@
     "name:ces_x_preferred":[
         "Jizre'el"
     ],
-    "name:cze_x_preferred":[
-        "Jizre'el"
-    ],
     "name:eng_x_preferred":[
         "Yizre'el"
     ],
@@ -86,7 +83,7 @@
         }
     ],
     "wof:id":421192465,
-    "wof:lastmodified":1549930373,
+    "wof:lastmodified":1561760016,
     "wof:name":"Yizreel",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Amnun"
     ],
-    "name:cze_x_preferred":[
-        "Amnun"
-    ],
     "name:eng_x_preferred":[
         "Amnun"
     ],
@@ -30,9 +27,6 @@
     ],
     "name:nno_x_preferred":[
         "Amnun"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0645\u0646\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "Amnun"
@@ -87,7 +81,7 @@
         }
     ],
     "wof:id":421199875,
-    "wof:lastmodified":1549930394,
+    "wof:lastmodified":1561760031,
     "wof:name":"Amnon",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

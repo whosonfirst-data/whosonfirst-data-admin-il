@@ -16,17 +16,14 @@
     "name:ces_x_preferred":[
         "Lavi"
     ],
-    "name:cze_x_preferred":[
-        "Lavi"
-    ],
-    "name:dut_x_preferred":[
-        "Lavi"
-    ],
     "name:eng_x_preferred":[
         "Lavi"
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d1\u05d9\u05d0"
+    ],
+    "name:nld_x_preferred":[
+        "Lavi"
     ],
     "name:nno_x_preferred":[
         "Lavi"
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":421176705,
-    "wof:lastmodified":1549930323,
+    "wof:lastmodified":1561760037,
     "wof:name":"Lavi",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

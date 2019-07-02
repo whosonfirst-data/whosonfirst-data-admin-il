@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Zanoach"
     ],
-    "name:cze_x_preferred":[
-        "Zanoach"
-    ],
     "name:eng_x_preferred":[
         "Zanoah"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421199515,
-    "wof:lastmodified":1549930392,
+    "wof:lastmodified":1561760032,
     "wof:name":"Zanoah",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

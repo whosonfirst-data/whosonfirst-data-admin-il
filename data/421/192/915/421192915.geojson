@@ -19,12 +19,6 @@
     "name:ces_x_preferred":[
         "Gilat"
     ],
-    "name:cze_x_preferred":[
-        "Gilat"
-    ],
-    "name:dut_x_preferred":[
-        "Gilat"
-    ],
     "name:eng_x_preferred":[
         "Gilat"
     ],
@@ -90,7 +84,7 @@
         }
     ],
     "wof:id":421192915,
-    "wof:lastmodified":1549930380,
+    "wof:lastmodified":1561760016,
     "wof:name":"Gilat",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

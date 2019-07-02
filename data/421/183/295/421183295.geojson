@@ -16,10 +16,7 @@
     "name:ces_x_preferred":[
         "Ramat Ji\u0161aj"
     ],
-    "name:cze_x_preferred":[
-        "Ramat Ji\u0161aj"
-    ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
         "Ramat Yishai"
     ],
     "name:eng_x_preferred":[
@@ -33,6 +30,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30de\u30c3\u30c8\u30fb\u30a4\u30b7\u30e3\u30a4"
+    ],
+    "name:nld_x_preferred":[
+        "Ramat Yishai"
     ],
     "name:nno_x_preferred":[
         "Ramat Yishai"
@@ -48,9 +48,6 @@
     ],
     "name:unk_x_variant":[
         "Jeida"
-    ],
-    "name:wel_x_preferred":[
-        "Ramat Yishai"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -100,7 +97,7 @@
         }
     ],
     "wof:id":421183295,
-    "wof:lastmodified":1549930351,
+    "wof:lastmodified":1561760035,
     "wof:name":"Ramat Yishay",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

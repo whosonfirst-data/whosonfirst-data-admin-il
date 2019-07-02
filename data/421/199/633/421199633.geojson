@@ -16,25 +16,22 @@
     "name:ces_x_preferred":[
         "Kadarim"
     ],
-    "name:cze_x_preferred":[
-        "Kadarim"
-    ],
-    "name:dut_x_preferred":[
-        "Kadarim"
-    ],
     "name:eng_x_preferred":[
         "Kadarim"
     ],
     "name:epo_x_preferred":[
         "Kadarim"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kadarim"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d3\u05e8\u05d9\u05dd"
     ],
     "name:ita_x_preferred":[
+        "Kadarim"
+    ],
+    "name:nld_x_preferred":[
         "Kadarim"
     ],
     "name:nno_x_preferred":[
@@ -92,7 +89,7 @@
         }
     ],
     "wof:id":421199633,
-    "wof:lastmodified":1549930393,
+    "wof:lastmodified":1561760031,
     "wof:name":"Kadarim",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

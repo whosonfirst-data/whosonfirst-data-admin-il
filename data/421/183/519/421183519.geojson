@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "\u0160ore\u0161"
     ],
-    "name:cze_x_preferred":[
-        "\u0160ore\u0161"
-    ],
     "name:eng_x_colloquial":[
         "Hagshama",
         "Lehageshamah",
@@ -101,7 +98,7 @@
         }
     ],
     "wof:id":421183519,
-    "wof:lastmodified":1549930352,
+    "wof:lastmodified":1561760035,
     "wof:name":"Shoresh",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

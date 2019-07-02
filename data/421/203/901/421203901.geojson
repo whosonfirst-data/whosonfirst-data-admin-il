@@ -19,12 +19,6 @@
     "name:ces_x_preferred":[
         "Ejn Mahil"
     ],
-    "name:cze_x_preferred":[
-        "Ejn Mahil"
-    ],
-    "name:dut_x_preferred":[
-        "Ein Mahil"
-    ],
     "name:eng_x_preferred":[
         "Ein Mahil"
     ],
@@ -34,6 +28,9 @@
     "name:heb_x_variant":[
         "\u2018Ein M\u0101hil",
         "\u05e2\u05d9\u05df \u05de\u05d4\u05dc"
+    ],
+    "name:nld_x_preferred":[
+        "Ein Mahil"
     ],
     "name:nno_x_preferred":[
         "Ein Mahil"
@@ -94,7 +91,7 @@
         }
     ],
     "wof:id":421203901,
-    "wof:lastmodified":1549930405,
+    "wof:lastmodified":1561760020,
     "wof:name":"Ein Mahil",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

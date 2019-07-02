@@ -16,19 +16,10 @@
     "name:ces_x_preferred":[
         "Kfar Chabad"
     ],
-    "name:cze_x_preferred":[
-        "Kfar Chabad"
-    ],
-    "name:dut_x_preferred":[
-        "Kfar Chabad"
-    ],
     "name:eng_x_preferred":[
         "Kfar Chabad"
     ],
     "name:fra_x_preferred":[
-        "Kfar-Habad"
-    ],
-    "name:fre_x_preferred":[
         "Kfar-Habad"
     ],
     "name:heb_x_preferred":[
@@ -38,6 +29,9 @@
         "\u05db\u05e4\u05e8 \u05d7\u05d1\u2019\u2019\u05d3"
     ],
     "name:ita_x_preferred":[
+        "Kfar Chabad"
+    ],
+    "name:nld_x_preferred":[
         "Kfar Chabad"
     ],
     "name:nno_x_preferred":[
@@ -103,7 +97,7 @@
         }
     ],
     "wof:id":421197325,
-    "wof:lastmodified":1549930388,
+    "wof:lastmodified":1561760030,
     "wof:name":"Kefar Habad",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

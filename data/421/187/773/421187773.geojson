@@ -17,12 +17,6 @@
     "name:ces_x_preferred":[
         "Ma'oz Aviv"
     ],
-    "name:cze_x_preferred":[
-        "Ma'oz Aviv"
-    ],
-    "name:dut_x_preferred":[
-        "Ma'oz Aviv"
-    ],
     "name:eng_x_preferred":[
         "Ma'oz Aviv"
     ],
@@ -31,6 +25,9 @@
     ],
     "name:heb_x_variant":[
         "Ma\u2018oz Aviv"
+    ],
+    "name:nld_x_preferred":[
+        "Ma'oz Aviv"
     ],
     "name:pol_x_preferred":[
         "Ma\u2019oz Awiw"
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421187773,
-    "wof:lastmodified":1549930758,
+    "wof:lastmodified":1561760025,
     "wof:name":"Ma'oz Aviv",
     "wof:parent_id":1108720837,
     "wof:placetype":"locality",

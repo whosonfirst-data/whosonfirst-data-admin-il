@@ -16,13 +16,7 @@
     "name:ces_x_preferred":[
         "Kfar ha-Chore\u0161"
     ],
-    "name:cze_x_preferred":[
-        "Kfar ha-Chore\u0161"
-    ],
     "name:deu_x_preferred":[
-        "Kfar HaHoresh"
-    ],
-    "name:dut_x_preferred":[
         "Kfar HaHoresh"
     ],
     "name:eng_x_preferred":[
@@ -31,18 +25,15 @@
     "name:fra_x_preferred":[
         "Kfar-Hahoresh"
     ],
-    "name:fre_x_preferred":[
-        "Kfar-Hahoresh"
-    ],
-    "name:ger_x_preferred":[
-        "Kfar HaHoresh"
-    ],
     "name:heb_x_preferred":[
         "\u05db\u05e4\u05e8 \u05d4\u05d7\u05d5\u05e8\u05e9"
     ],
     "name:heb_x_variant":[
         "Kefar HaH\u0331oresh",
         "\u05db\u05e4\u05e8 \u05d4\u05d7\u05e8\u05e9"
+    ],
+    "name:nld_x_preferred":[
+        "Kfar HaHoresh"
     ],
     "name:nno_x_preferred":[
         "Kfar HaHoresh"
@@ -96,7 +87,7 @@
         }
     ],
     "wof:id":421169487,
-    "wof:lastmodified":1549930317,
+    "wof:lastmodified":1561760019,
     "wof:name":"Kefar HaHoresh",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

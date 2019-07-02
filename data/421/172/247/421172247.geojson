@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Ramot Naftali"
     ],
-    "name:cze_x_preferred":[
-        "Ramot Naftali"
-    ],
     "name:eng_x_preferred":[
         "Ramot Naftali"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421172247,
-    "wof:lastmodified":1549930311,
+    "wof:lastmodified":1561760026,
     "wof:name":"Ramot Naftali",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

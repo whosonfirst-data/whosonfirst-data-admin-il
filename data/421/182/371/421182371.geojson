@@ -16,17 +16,8 @@
     "name:ces_x_preferred":[
         "Even Jehuda"
     ],
-    "name:chi_x_preferred":[
-        "\u827e\u51e1\u8036\u80e1\u9054"
-    ],
-    "name:cze_x_preferred":[
-        "Even Jehuda"
-    ],
     "name:deu_x_preferred":[
         "Ewen Jehuda"
-    ],
-    "name:dut_x_preferred":[
-        "Even Yehuda"
     ],
     "name:eng_x_preferred":[
         "Even Yahuda"
@@ -38,14 +29,11 @@
     "name:fra_x_preferred":[
         "Even-Y\u00e9houda"
     ],
-    "name:fre_x_preferred":[
-        "Even-Y\u00e9houda"
-    ],
-    "name:ger_x_preferred":[
-        "Ewen Jehuda"
-    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d1\u05df \u05d9\u05d4\u05d5\u05d3\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "Even Yehuda"
     ],
     "name:nno_x_preferred":[
         "Even Yehuda"
@@ -61,6 +49,9 @@
     ],
     "name:swe_x_preferred":[
         "Even Yehuda"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u51e1\u8036\u80e1\u9054"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -110,7 +101,7 @@
         }
     ],
     "wof:id":421182371,
-    "wof:lastmodified":1549930348,
+    "wof:lastmodified":1561760036,
     "wof:name":"Even Yehuda",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

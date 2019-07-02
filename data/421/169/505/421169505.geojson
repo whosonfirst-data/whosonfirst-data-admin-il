@@ -19,9 +19,6 @@
     "name:ces_x_preferred":[
         "Amka"
     ],
-    "name:cze_x_preferred":[
-        "Amka"
-    ],
     "name:dan_x_preferred":[
         "Amqa"
     ],
@@ -96,7 +93,7 @@
         }
     ],
     "wof:id":421169505,
-    "wof:lastmodified":1549930318,
+    "wof:lastmodified":1561760018,
     "wof:name":"Amqa",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

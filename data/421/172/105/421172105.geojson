@@ -16,23 +16,17 @@
     "name:ces_x_preferred":[
         "Ejn ha-\u0160ofet"
     ],
-    "name:cze_x_preferred":[
-        "Ejn ha-\u0160ofet"
-    ],
     "name:deu_x_preferred":[
         "En haSchofet"
-    ],
-    "name:dut_x_preferred":[
-        "Ein HaShofet"
     ],
     "name:eng_x_preferred":[
         "Ein HaShofet"
     ],
-    "name:ger_x_preferred":[
-        "En haSchofet"
-    ],
     "name:heb_x_preferred":[
         "\u05e2\u05d9\u05df \u05d4\u05e9\u05d5\u05e4\u05d8"
+    ],
+    "name:nld_x_preferred":[
+        "Ein HaShofet"
     ],
     "name:nno_x_preferred":[
         "Ein HaShofet"
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":421172105,
-    "wof:lastmodified":1549930304,
+    "wof:lastmodified":1561760026,
     "wof:name":"En HaShofet",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

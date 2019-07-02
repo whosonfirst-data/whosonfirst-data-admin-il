@@ -20,13 +20,7 @@
     "name:ara_x_preferred":[
         "\u062d\u0648\u0644\u0648\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0578\u056c\u0578\u0576"
-    ],
     "name:aze_x_preferred":[
-        "Holon"
-    ],
-    "name:baq_x_preferred":[
         "Holon"
     ],
     "name:bul_x_preferred":[
@@ -38,20 +32,11 @@
     "name:ces_x_preferred":[
         "Cholon"
     ],
-    "name:chi_x_preferred":[
-        "\u970d\u9686"
-    ],
-    "name:cze_x_preferred":[
-        "Cholon"
-    ],
     "name:dan_x_preferred":[
         "Holon"
     ],
     "name:deu_x_preferred":[
         "Cholon"
-    ],
-    "name:dut_x_preferred":[
-        "Holon"
     ],
     "name:ell_x_preferred":[
         "\u03a7\u03bf\u03bb\u03cc\u03bd"
@@ -77,23 +62,11 @@
     "name:fra_x_preferred":[
         "Holon"
     ],
-    "name:fre_x_preferred":[
-        "Holon"
-    ],
     "name:fry_x_preferred":[
         "Holon"
     ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10dd\u10da\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Cholon"
-    ],
     "name:glv_x_preferred":[
         "Holon"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03bf\u03bb\u03cc\u03bd"
     ],
     "name:heb_x_preferred":[
         "\u05d7\u05d5\u05dc\u05d5\u05df"
@@ -103,6 +76,9 @@
     ],
     "name:hun_x_preferred":[
         "Holon"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0578\u056c\u0578\u0576"
     ],
     "name:ind_x_preferred":[
         "Holon"
@@ -128,12 +104,6 @@
     "name:lit_x_preferred":[
         "Holonas"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u043e\u043b\u043e\u043d"
-    ],
-    "name:may_x_preferred":[
-        "Holon"
-    ],
     "name:mkd_x_preferred":[
         "\u0425\u043e\u043b\u043e\u043d"
     ],
@@ -152,9 +122,6 @@
     "name:nor_x_preferred":[
         "Holon"
     ],
-    "name:per_x_preferred":[
-        "\u062e\u0648\u0644\u0648\u0646"
-    ],
     "name:pol_x_preferred":[
         "Holon"
     ],
@@ -165,9 +132,6 @@
         "Holon"
     ],
     "name:ron_x_preferred":[
-        "Holon"
-    ],
-    "name:rum_x_preferred":[
         "Holon"
     ],
     "name:rus_x_preferred":[
@@ -272,7 +236,7 @@
         }
     ],
     "wof:id":421179743,
-    "wof:lastmodified":1549931473,
+    "wof:lastmodified":1561760036,
     "wof:name":"Holon",
     "wof:parent_id":1108720837,
     "wof:placetype":"locality",

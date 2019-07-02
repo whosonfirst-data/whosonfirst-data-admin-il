@@ -19,19 +19,13 @@
     "name:ces_x_preferred":[
         "Amirim"
     ],
-    "name:cze_x_preferred":[
-        "Amirim"
-    ],
-    "name:dut_x_preferred":[
-        "Amirim"
-    ],
     "name:eng_x_preferred":[
         "Amirim"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0645\u06cc\u0631\u06cc\u0645"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Amirim"
     ],
     "name:heb_x_preferred":[
@@ -45,9 +39,6 @@
     ],
     "name:nno_x_preferred":[
         "Amirim"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0645\u06cc\u0631\u06cc\u0645"
     ],
     "name:pol_x_preferred":[
         "Amirim"
@@ -105,7 +96,7 @@
         }
     ],
     "wof:id":421171919,
-    "wof:lastmodified":1549930329,
+    "wof:lastmodified":1561760038,
     "wof:name":"Amirim",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

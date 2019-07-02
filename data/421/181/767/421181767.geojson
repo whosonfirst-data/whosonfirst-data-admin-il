@@ -16,17 +16,14 @@
     "name:ces_x_preferred":[
         "Ravid"
     ],
-    "name:cze_x_preferred":[
-        "Ravid"
-    ],
-    "name:dut_x_preferred":[
-        "Ravid"
-    ],
     "name:eng_x_preferred":[
         "Ravid"
     ],
     "name:heb_x_preferred":[
         "\u05e8\u05d1\u05d9\u05d3"
+    ],
+    "name:nld_x_preferred":[
+        "Ravid"
     ],
     "name:nno_x_preferred":[
         "Ravid"
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421181767,
-    "wof:lastmodified":1549930345,
+    "wof:lastmodified":1561760027,
     "wof:name":"Ravid",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

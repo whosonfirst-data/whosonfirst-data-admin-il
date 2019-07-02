@@ -22,9 +22,6 @@
     "name:ces_x_preferred":[
         "Ha-On"
     ],
-    "name:cze_x_preferred":[
-        "Ha-On"
-    ],
     "name:eng_x_preferred":[
         "HaOn"
     ],
@@ -114,7 +111,7 @@
         }
     ],
     "wof:id":421177281,
-    "wof:lastmodified":1549930507,
+    "wof:lastmodified":1561760035,
     "wof:name":"HaOn",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

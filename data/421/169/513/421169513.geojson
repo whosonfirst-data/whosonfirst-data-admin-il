@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Mag\u0161imim"
     ],
-    "name:cze_x_preferred":[
-        "Mag\u0161imim"
-    ],
     "name:eng_x_preferred":[
         "Magshimim"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421169513,
-    "wof:lastmodified":1549930318,
+    "wof:lastmodified":1561760019,
     "wof:name":"Magshimim",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

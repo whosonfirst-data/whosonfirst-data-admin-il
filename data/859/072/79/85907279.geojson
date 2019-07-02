@@ -32,9 +32,6 @@
     "name:ces_x_preferred":[
         "Jad Elijahu"
     ],
-    "name:cze_x_preferred":[
-        "Jad Elijahu"
-    ],
     "name:eng_x_preferred":[
         "Yad Eliyahu"
     ],
@@ -93,11 +90,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":134,
     "wof:belongsto":[
+        85672549,
         102191569,
         85632315,
         1125955239,
-        1108720837,
-        85672549
+        1108720837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -123,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930547,
+    "wof:lastmodified":1561760004,
     "wof:name":"Yad Eliyahu",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

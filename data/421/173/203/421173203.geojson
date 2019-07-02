@@ -19,23 +19,17 @@
     "name:ces_x_preferred":[
         "Eljachin"
     ],
-    "name:cze_x_preferred":[
-        "Eljachin"
-    ],
     "name:deu_x_preferred":[
         "Eljachin"
-    ],
-    "name:dut_x_preferred":[
-        "Elyakhin"
     ],
     "name:eng_x_preferred":[
         "Elyakhin"
     ],
-    "name:ger_x_preferred":[
-        "Eljachin"
-    ],
     "name:heb_x_preferred":[
         "\u05d0\u05dc\u05d9\u05db\u05d9\u05df"
+    ],
+    "name:nld_x_preferred":[
+        "Elyakhin"
     ],
     "name:nno_x_preferred":[
         "Elyakhin"
@@ -103,7 +97,7 @@
         }
     ],
     "wof:id":421173203,
-    "wof:lastmodified":1549930307,
+    "wof:lastmodified":1561760025,
     "wof:name":"Elyakhin",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

@@ -16,12 +16,6 @@
     "name:ces_x_preferred":[
         "Kfar ha-Nasi"
     ],
-    "name:cze_x_preferred":[
-        "Kfar ha-Nasi"
-    ],
-    "name:dut_x_preferred":[
-        "Kfar Hanassi"
-    ],
     "name:eng_x_preferred":[
         "Kfar HaNassi"
     ],
@@ -92,7 +86,7 @@
         }
     ],
     "wof:id":421166587,
-    "wof:lastmodified":1549930309,
+    "wof:lastmodified":1561760014,
     "wof:name":"Kefar HaNasi",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

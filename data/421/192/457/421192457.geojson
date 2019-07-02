@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Ha-Bonim"
     ],
-    "name:cze_x_preferred":[
-        "Ha-Bonim"
-    ],
     "name:eng_x_preferred":[
         "HaBonim"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421192457,
-    "wof:lastmodified":1549930374,
+    "wof:lastmodified":1561760016,
     "wof:name":"HaBonim",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

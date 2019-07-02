@@ -16,22 +16,13 @@
     "name:ces_x_preferred":[
         "Kfar Ruppin"
     ],
-    "name:cze_x_preferred":[
-        "Kfar Ruppin"
-    ],
     "name:deu_x_preferred":[
-        "Kfar Ruppin"
-    ],
-    "name:dut_x_preferred":[
         "Kfar Ruppin"
     ],
     "name:eng_x_preferred":[
         "Kfar Ruppin"
     ],
-    "name:fre_x_preferred":[
-        "Kfar Ruppin"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kfar Ruppin"
     ],
     "name:heb_x_preferred":[
@@ -95,7 +86,7 @@
         }
     ],
     "wof:id":421172237,
-    "wof:lastmodified":1549930310,
+    "wof:lastmodified":1561760027,
     "wof:name":"Kefar Ruppin",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

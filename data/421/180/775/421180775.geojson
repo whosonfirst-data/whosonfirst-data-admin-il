@@ -16,19 +16,10 @@
     "name:ces_x_preferred":[
         "Alonej Abba"
     ],
-    "name:cze_x_preferred":[
-        "Alonej Abba"
-    ],
-    "name:dut_x_preferred":[
-        "Alonei Abba"
-    ],
     "name:eng_x_preferred":[
         "Alonei Abba"
     ],
     "name:fra_x_preferred":[
-        "Alonei Abba"
-    ],
-    "name:fre_x_preferred":[
         "Alonei Abba"
     ],
     "name:heb_x_preferred":[
@@ -37,6 +28,9 @@
     "name:heb_x_variant":[
         "Allon\u00e9 Abba",
         "\u05d0\u05dc\u05d5\u05df \u05d0\u05d1\u05d0"
+    ],
+    "name:nld_x_preferred":[
+        "Alonei Abba"
     ],
     "name:nno_x_preferred":[
         "Alonei Abba"
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":421180775,
-    "wof:lastmodified":1549930339,
+    "wof:lastmodified":1561760024,
     "wof:name":"Allone Abba",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

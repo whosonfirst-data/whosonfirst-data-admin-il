@@ -164,9 +164,6 @@
     "name:cym_x_preferred":[
         "Israel"
     ],
-    "name:cze_x_preferred":[
-        "Izrael"
-    ],
     "name:dan_x_preferred":[
         "Israel"
     ],
@@ -873,9 +870,6 @@
     "name:zho_x_preferred":[
         "\u4ee5\u8272\u5217"
     ],
-    "name:zho_x_variant":[
-        "\u4ee5\u8272\u5217"
-    ],
     "name:zho_yue_x_preferred":[
         "\u4ee5\u8272\u5217"
     ],
@@ -1037,7 +1031,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1552515599,
+    "wof:lastmodified":1561760006,
     "wof:name":"Israel",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

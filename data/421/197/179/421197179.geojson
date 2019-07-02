@@ -16,16 +16,10 @@
     "name:ces_x_preferred":[
         "Kfar Menachem"
     ],
-    "name:cze_x_preferred":[
-        "Kfar Menachem"
-    ],
     "name:eng_x_preferred":[
         "Kfar Menahem"
     ],
     "name:fra_x_preferred":[
-        "Kfar-M\u00e9nahem"
-    ],
-    "name:fre_x_preferred":[
         "Kfar-M\u00e9nahem"
     ],
     "name:heb_x_preferred":[
@@ -86,7 +80,7 @@
         }
     ],
     "wof:id":421197179,
-    "wof:lastmodified":1549930387,
+    "wof:lastmodified":1561760031,
     "wof:name":"Kefar Menahem",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

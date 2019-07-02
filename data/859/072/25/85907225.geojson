@@ -32,28 +32,13 @@
     "name:ces_x_preferred":[
         "Talpijot"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u76ae\u5965\u7279"
-    ],
-    "name:cze_x_preferred":[
-        "Talpijot"
-    ],
     "name:deu_x_preferred":[
-        "Talpiot"
-    ],
-    "name:dut_x_preferred":[
         "Talpiot"
     ],
     "name:eng_x_preferred":[
         "Talpiyot"
     ],
     "name:fra_x_preferred":[
-        "Talpiot"
-    ],
-    "name:fre_x_preferred":[
-        "Talpiot"
-    ],
-    "name:ger_x_preferred":[
         "Talpiot"
     ],
     "name:glv_x_preferred":[
@@ -65,11 +50,11 @@
     "name:ind_x_preferred":[
         "Talpiot"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0430\u043b\u043f\u0438\u043e\u0442"
-    ],
     "name:mkd_x_preferred":[
         "\u0422\u0430\u043b\u043f\u0438\u043e\u0442"
+    ],
+    "name:nld_x_preferred":[
+        "Talpiot"
     ],
     "name:pol_x_preferred":[
         "Talpiot"
@@ -137,11 +122,11 @@
     "wd:longitude":35.216667,
     "wd:wordcount":1540,
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -168,7 +153,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930544,
+    "wof:lastmodified":1561760004,
     "wof:name":"Talpiyot",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

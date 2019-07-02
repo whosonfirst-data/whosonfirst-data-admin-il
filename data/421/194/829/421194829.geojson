@@ -19,9 +19,6 @@
     "name:ces_x_preferred":[
         "Megido"
     ],
-    "name:cze_x_preferred":[
-        "Megido"
-    ],
     "name:eng_x_preferred":[
         "Megiddo"
     ],
@@ -99,7 +96,7 @@
         }
     ],
     "wof:id":421194829,
-    "wof:lastmodified":1553816383,
+    "wof:lastmodified":1561760017,
     "wof:name":"Megiddo",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

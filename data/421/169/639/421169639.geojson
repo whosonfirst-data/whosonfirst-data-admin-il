@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Arbel"
     ],
-    "name:cze_x_preferred":[
-        "Arbel"
-    ],
     "name:eng_x_preferred":[
         "Arbel"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421169639,
-    "wof:lastmodified":1549930321,
+    "wof:lastmodified":1561760019,
     "wof:name":"Arbel",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

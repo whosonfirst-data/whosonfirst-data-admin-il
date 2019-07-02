@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Macuva"
     ],
-    "name:cze_x_preferred":[
-        "Macuva"
-    ],
     "name:eng_x_preferred":[
         "Matzuva"
     ],
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":421187557,
-    "wof:lastmodified":1549930363,
+    "wof:lastmodified":1561760024,
     "wof:name":"Mazzuva",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

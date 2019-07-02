@@ -19,23 +19,17 @@
     "name:ces_x_preferred":[
         "Gvat"
     ],
-    "name:cze_x_preferred":[
-        "Gvat"
-    ],
-    "name:dut_x_preferred":[
-        "Gvat"
-    ],
     "name:eng_x_preferred":[
         "Gvat"
     ],
     "name:fra_x_preferred":[
         "Gvat"
     ],
-    "name:fre_x_preferred":[
-        "Gvat"
-    ],
     "name:heb_x_preferred":[
         "\u05d2\u05d1\u05ea"
+    ],
+    "name:nld_x_preferred":[
+        "Gvat"
     ],
     "name:nno_x_preferred":[
         "Gevat"
@@ -102,7 +96,7 @@
         }
     ],
     "wof:id":421192913,
-    "wof:lastmodified":1549930379,
+    "wof:lastmodified":1561760016,
     "wof:name":"Gevat",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

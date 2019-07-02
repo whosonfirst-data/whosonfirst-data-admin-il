@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Sde Warburg"
     ],
-    "name:cze_x_preferred":[
-        "Sde Warburg"
-    ],
     "name:eng_x_preferred":[
         "Sde Warburg"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421169343,
-    "wof:lastmodified":1549930313,
+    "wof:lastmodified":1561760019,
     "wof:name":"Sede Warburg",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

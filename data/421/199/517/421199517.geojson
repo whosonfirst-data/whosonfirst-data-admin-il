@@ -19,17 +19,11 @@
     "name:bul_x_preferred":[
         "\u0419\u0435\u0445\u0443\u0434"
     ],
-    "name:chi_x_preferred":[
-        "\u8036\u80e1\u5fb7"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Jehud"
     ],
     "name:deu_x_preferred":[
         "Jehud"
-    ],
-    "name:dut_x_preferred":[
-        "Yehud"
     ],
     "name:eng_x_preferred":[
         "Yehud"
@@ -37,9 +31,6 @@
     "name:eng_x_variant":[
         "Yahud",
         "Yhud"
-    ],
-    "name:ger_x_preferred":[
-        "Jehud"
     ],
     "name:heb_x_colloquial":[
         "\u05d9\u05d4\u05d5\u05d3"
@@ -56,6 +47,9 @@
     "name:lit_x_preferred":[
         "Jehudas"
     ],
+    "name:nld_x_preferred":[
+        "Yehud"
+    ],
     "name:rus_x_preferred":[
         "\u0419\u0435\u0445\u0443\u0434"
     ],
@@ -70,6 +64,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06cc\u06c1\u0648\u062f"
+    ],
+    "name:zho_x_preferred":[
+        "\u8036\u80e1\u5fb7"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -118,7 +115,7 @@
         }
     ],
     "wof:id":421199517,
-    "wof:lastmodified":1549930392,
+    "wof:lastmodified":1561760031,
     "wof:name":"Yehud",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

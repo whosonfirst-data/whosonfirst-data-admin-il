@@ -15,10 +15,7 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:cze_x_preferred":[
-        "Na'ale"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Na'ale"
     ],
     "name:eng_x_colloquial":[
@@ -38,6 +35,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05e2\u05dc\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "Na'ale"
     ],
     "name:nno_x_preferred":[
         "Na'ale"
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":890413473,
-    "wof:lastmodified":1549929573,
+    "wof:lastmodified":1561760038,
     "wof:name":"Na'ale",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

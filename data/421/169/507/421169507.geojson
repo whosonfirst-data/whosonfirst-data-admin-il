@@ -19,19 +19,10 @@
     "name:ces_x_preferred":[
         "Be'er Tuvja"
     ],
-    "name:cze_x_preferred":[
-        "Be'er Tuvja"
-    ],
-    "name:dut_x_preferred":[
-        "Be'er Tuvia"
-    ],
     "name:eng_x_preferred":[
         "Be'er Tuvia"
     ],
     "name:fra_x_preferred":[
-        "Beer-Touvia"
-    ],
-    "name:fre_x_preferred":[
         "Beer-Touvia"
     ],
     "name:heb_x_preferred":[
@@ -42,6 +33,9 @@
     ],
     "name:nld_x_preferred":[
         "Be\u00ebr Tuvia"
+    ],
+    "name:nld_x_variant":[
+        "Be'er Tuvia"
     ],
     "name:nno_x_preferred":[
         "Be'er Tuvia"
@@ -101,7 +95,7 @@
         }
     ],
     "wof:id":421169507,
-    "wof:lastmodified":1549930318,
+    "wof:lastmodified":1561760019,
     "wof:name":"Be'er Toviyya",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

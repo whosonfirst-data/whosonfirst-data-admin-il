@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Mi\u0161mar David"
     ],
-    "name:cze_x_preferred":[
-        "Mi\u0161mar David"
-    ],
     "name:eng_x_preferred":[
         "Mishmar David"
     ],
@@ -80,7 +77,7 @@
         }
     ],
     "wof:id":421187143,
-    "wof:lastmodified":1549930362,
+    "wof:lastmodified":1561760024,
     "wof:name":"Mishmar Dawid",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

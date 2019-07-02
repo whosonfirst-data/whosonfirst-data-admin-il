@@ -16,29 +16,18 @@
     "name:ara_x_preferred":[
         "\u0643\u0631\u064a\u0627\u062a \u0645\u0644\u0627\u062e\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u056b\u0580\u0575\u0561\u0569 \u0544\u0561\u056c\u0561\u056d\u056b"
-    ],
     "name:cat_x_preferred":[
         "Malaquies"
     ],
     "name:ces_x_preferred":[
         "Kirjat Mal'achi"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u62c9\u5947\u57ce"
-    ],
-    "name:cze_x_preferred":[
-        "Kirjat Mal'achi"
-    ],
     "name:deu_x_preferred":[
         "Kirjat Mal\u2019achi"
     ],
     "name:deu_x_variant":[
-        "Kirjat Mal'achi"
-    ],
-    "name:dut_x_preferred":[
-        "Kirjat Malachi"
+        "Kirjat Mal'achi",
+        "Kirjat Mal\u02beachi"
     ],
     "name:eng_x_preferred":[
         "Qiryat Mal'akhi"
@@ -51,15 +40,6 @@
     ],
     "name:fra_x_preferred":[
         "Kiryat-Malakhi"
-    ],
-    "name:fre_x_preferred":[
-        "Kiryat-Malakhi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d8\u10e0\u10d8\u10d0\u10d7-\u10db\u10d0\u10da\u10d0\u10ee\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kirjat Mal\u02beachi"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05e8\u05d9\u05d9\u05ea \u05de\u05dc\u05d0\u05db\u05d9"
@@ -92,9 +72,6 @@
     ],
     "name:nor_x_preferred":[
         "Kiryat Malakhi"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0631\u06cc\u0627\u062a \u0645\u0644\u0627\u062e\u06cc"
     ],
     "name:pol_x_preferred":[
         "Kirjat Malachi"
@@ -194,7 +171,7 @@
         }
     ],
     "wof:id":421199501,
-    "wof:lastmodified":1549930392,
+    "wof:lastmodified":1561760031,
     "wof:name":"Qiryat Mal'akhi",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

@@ -16,11 +16,8 @@
     "name:ces_x_preferred":[
         "Bejt Alfa"
     ],
-    "name:cze_x_preferred":[
-        "Bejt Alfa"
-    ],
-    "name:dut_x_preferred":[
-        "Beit Alfa"
+    "name:deu_x_preferred":[
+        "Bet Alfa"
     ],
     "name:eng_x_preferred":[
         "Beit Alfa"
@@ -28,14 +25,11 @@
     "name:fra_x_preferred":[
         "Be\u00eft-Alfa"
     ],
-    "name:fre_x_preferred":[
-        "Be\u00eft-Alfa"
-    ],
-    "name:ger_x_preferred":[
-        "Bet Alfa"
-    ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05ea \u05d0\u05dc\u05e4\u05d0"
+    ],
+    "name:nld_x_preferred":[
+        "Beit Alfa"
     ],
     "name:nno_x_preferred":[
         "Beit Alfa"
@@ -105,7 +99,7 @@
         }
     ],
     "wof:id":421203107,
-    "wof:lastmodified":1549930403,
+    "wof:lastmodified":1561760021,
     "wof:name":"Beit Jala",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

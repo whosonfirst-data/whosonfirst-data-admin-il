@@ -16,16 +16,10 @@
     "name:ces_x_preferred":[
         "Re'im"
     ],
-    "name:cze_x_preferred":[
-        "Re'im"
-    ],
     "name:eng_x_preferred":[
         "Re'im"
     ],
     "name:fra_x_preferred":[
-        "R\u00e9\u00efm"
-    ],
-    "name:fre_x_preferred":[
         "R\u00e9\u00efm"
     ],
     "name:heb_x_preferred":[
@@ -94,7 +88,7 @@
         }
     ],
     "wof:id":421171413,
-    "wof:lastmodified":1549930316,
+    "wof:lastmodified":1561760037,
     "wof:name":"Reim",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

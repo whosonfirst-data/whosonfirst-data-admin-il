@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Kfar Gid'on"
     ],
-    "name:cze_x_preferred":[
-        "Kfar Gid'on"
-    ],
     "name:eng_x_preferred":[
         "Kfar Gidon"
     ],
@@ -80,7 +77,7 @@
         }
     ],
     "wof:id":421191897,
-    "wof:lastmodified":1549930379,
+    "wof:lastmodified":1561760029,
     "wof:name":"Kefar Gidon",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

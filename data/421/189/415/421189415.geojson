@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Kisufim"
     ],
-    "name:cze_x_preferred":[
-        "Kisufim"
-    ],
     "name:deu_x_preferred":[
-        "Kissufim"
-    ],
-    "name:dut_x_preferred":[
         "Kissufim"
     ],
     "name:eng_x_preferred":[
@@ -37,17 +31,14 @@
     "name:fra_x_preferred":[
         "Kissoufim"
     ],
-    "name:fre_x_preferred":[
-        "Kissoufim"
-    ],
-    "name:ger_x_preferred":[
-        "Kissufim"
-    ],
     "name:heb_x_preferred":[
         "\u05db\u05d9\u05e1\u05d5\u05e4\u05d9\u05dd"
     ],
     "name:heb_x_variant":[
         "\u05db\u05e1\u05d5\u05e4\u05d9\u05dd"
+    ],
+    "name:nld_x_preferred":[
+        "Kissufim"
     ],
     "name:nno_x_preferred":[
         "Kissufim"
@@ -108,7 +99,7 @@
         }
     ],
     "wof:id":421189415,
-    "wof:lastmodified":1549930367,
+    "wof:lastmodified":1561760025,
     "wof:name":"Kissufim",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

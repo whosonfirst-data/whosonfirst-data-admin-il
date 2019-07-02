@@ -17,19 +17,10 @@
     "name:ces_x_preferred":[
         "Aminadav"
     ],
-    "name:cze_x_preferred":[
-        "Aminadav"
-    ],
-    "name:dut_x_preferred":[
-        "Aminadav"
-    ],
     "name:eng_x_preferred":[
         "Aminadav"
     ],
     "name:fra_x_preferred":[
-        "Aminadav"
-    ],
-    "name:fre_x_preferred":[
         "Aminadav"
     ],
     "name:heb_x_preferred":[
@@ -37,6 +28,9 @@
     ],
     "name:heb_x_variant":[
         "\u05e2\u05de\u05d9\u05e0\u05d3\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "Aminadav"
     ],
     "name:nno_x_preferred":[
         "Aminadav"
@@ -97,7 +91,7 @@
         }
     ],
     "wof:id":421184283,
-    "wof:lastmodified":1549930826,
+    "wof:lastmodified":1561760034,
     "wof:name":"Amminadav",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

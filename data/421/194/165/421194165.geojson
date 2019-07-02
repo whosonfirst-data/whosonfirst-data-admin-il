@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Jardena"
     ],
-    "name:cze_x_preferred":[
-        "Jardena"
-    ],
     "name:eng_x_preferred":[
         "Yardena"
     ],
@@ -78,7 +75,7 @@
         }
     ],
     "wof:id":421194165,
-    "wof:lastmodified":1549930381,
+    "wof:lastmodified":1561760017,
     "wof:name":"Yardena",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

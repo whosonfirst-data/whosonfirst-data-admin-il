@@ -19,14 +19,8 @@
     "name:ces_x_preferred":[
         "Jagur"
     ],
-    "name:cze_x_preferred":[
-        "Jagur"
-    ],
     "name:deu_x_preferred":[
         "Jagur"
-    ],
-    "name:dut_x_preferred":[
-        "Yagur"
     ],
     "name:eng_x_preferred":[
         "Yagur"
@@ -34,14 +28,11 @@
     "name:fra_x_preferred":[
         "Yagur"
     ],
-    "name:fre_x_preferred":[
-        "Yagur"
-    ],
-    "name:ger_x_preferred":[
-        "Jagur"
-    ],
     "name:heb_x_preferred":[
         "\u05d9\u05d2\u05d5\u05e8"
+    ],
+    "name:nld_x_preferred":[
+        "Yagur"
     ],
     "name:nno_x_preferred":[
         "Yagur"
@@ -99,7 +90,7 @@
         }
     ],
     "wof:id":421173409,
-    "wof:lastmodified":1553816364,
+    "wof:lastmodified":1561760025,
     "wof:name":"Yagur",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

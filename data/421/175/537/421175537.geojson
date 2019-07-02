@@ -19,12 +19,6 @@
     "name:ces_x_preferred":[
         "Arugot"
     ],
-    "name:cze_x_preferred":[
-        "Arugot"
-    ],
-    "name:dut_x_preferred":[
-        "Arugot"
-    ],
     "name:eng_x_preferred":[
         "Arugot"
     ],
@@ -93,7 +87,7 @@
         }
     ],
     "wof:id":421175537,
-    "wof:lastmodified":1549930320,
+    "wof:lastmodified":1561760028,
     "wof:name":"Arugot",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

@@ -16,23 +16,17 @@
     "name:ces_x_preferred":[
         "Ram On"
     ],
-    "name:cze_x_preferred":[
-        "Ram On"
-    ],
-    "name:dut_x_preferred":[
-        "Ram-On"
-    ],
     "name:eng_x_preferred":[
         "Ram-On"
     ],
     "name:fra_x_preferred":[
         "Ram-On"
     ],
-    "name:fre_x_preferred":[
-        "Ram-On"
-    ],
     "name:heb_x_preferred":[
         "\u05e8\u05dd \u05d0\u05d5\u05df"
+    ],
+    "name:nld_x_preferred":[
+        "Ram-On"
     ],
     "name:nno_x_preferred":[
         "Ram-On"
@@ -87,7 +81,7 @@
         }
     ],
     "wof:id":421166591,
-    "wof:lastmodified":1549930309,
+    "wof:lastmodified":1561760015,
     "wof:name":"Ram On",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

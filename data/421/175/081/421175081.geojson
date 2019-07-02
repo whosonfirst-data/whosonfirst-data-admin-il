@@ -16,17 +16,14 @@
     "name:ces_x_preferred":[
         "Nechalim"
     ],
-    "name:cze_x_preferred":[
-        "Nechalim"
-    ],
-    "name:dut_x_preferred":[
-        "Nehalim"
-    ],
     "name:eng_x_preferred":[
         "Nehalim"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d7\u05dc\u05d9\u05dd"
+    ],
+    "name:nld_x_preferred":[
+        "Nehalim"
     ],
     "name:nno_x_preferred":[
         "Nehalim"
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":421175081,
-    "wof:lastmodified":1549930303,
+    "wof:lastmodified":1561760028,
     "wof:name":"Nehalim",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

@@ -23,9 +23,6 @@
     "name:aze_x_preferred":[
         "Ramla"
     ],
-    "name:baq_x_preferred":[
-        "Ramla"
-    ],
     "name:bel_x_preferred":[
         "\u0420\u0430\u043c\u043b\u0430"
     ],
@@ -41,20 +38,14 @@
     "name:ces_x_preferred":[
         "Ramla"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u59c6\u62c9"
-    ],
-    "name:cze_x_preferred":[
-        "Ramla"
-    ],
     "name:dan_x_preferred":[
         "Ramla"
     ],
     "name:deu_x_preferred":[
         "Ramla"
     ],
-    "name:dut_x_preferred":[
-        "Ramla"
+    "name:ell_x_preferred":[
+        "\u03a1\u03ac\u03bc\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ramla"
@@ -71,20 +62,8 @@
     "name:fra_x_preferred":[
         "Ramla"
     ],
-    "name:fre_x_preferred":[
-        "Ramla"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d0\u10db\u10da\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Ramla"
-    ],
     "name:glv_x_preferred":[
         "Ramla"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03ac\u03bc\u03bb\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05e8\u05de\u05dc\u05d4"
@@ -100,6 +79,9 @@
     ],
     "name:kal_x_preferred":[
         "Ramla"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10db\u10da\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ub77c\ubbc8\ub77c"
@@ -125,9 +107,6 @@
     "name:nor_x_preferred":[
         "Ramla"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0645\u0644\u0647"
-    ],
     "name:pol_x_preferred":[
         "Ramla"
     ],
@@ -135,9 +114,6 @@
         "Ramla"
     ],
     "name:ron_x_preferred":[
-        "Ramla"
-    ],
-    "name:rum_x_preferred":[
         "Ramla"
     ],
     "name:rus_x_preferred":[
@@ -333,7 +309,7 @@
         }
     ],
     "wof:id":421168691,
-    "wof:lastmodified":1553816356,
+    "wof:lastmodified":1561760014,
     "wof:name":"Ramla",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

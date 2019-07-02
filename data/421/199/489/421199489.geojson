@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Mej\u0161ar"
     ],
-    "name:cze_x_preferred":[
-        "Mej\u0161ar"
-    ],
     "name:eng_x_preferred":[
         "Meishar"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421199489,
-    "wof:lastmodified":1549930392,
+    "wof:lastmodified":1561760031,
     "wof:name":"Meshar",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

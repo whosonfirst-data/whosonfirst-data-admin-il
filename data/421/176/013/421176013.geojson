@@ -16,20 +16,17 @@
     "name:ces_x_preferred":[
         "Ejnat"
     ],
-    "name:cze_x_preferred":[
-        "Ejnat"
-    ],
-    "name:dut_x_preferred":[
-        "Einat"
-    ],
     "name:eng_x_preferred":[
         "Einat"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Einat"
     ],
     "name:heb_x_preferred":[
         "\u05e2\u05d9\u05e0\u05ea"
+    ],
+    "name:nld_x_preferred":[
+        "Einat"
     ],
     "name:nno_x_preferred":[
         "Einat"
@@ -93,7 +90,7 @@
         }
     ],
     "wof:id":421176013,
-    "wof:lastmodified":1549930337,
+    "wof:lastmodified":1561760037,
     "wof:name":"Enat",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

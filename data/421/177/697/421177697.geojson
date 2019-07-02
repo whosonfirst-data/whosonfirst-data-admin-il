@@ -19,9 +19,6 @@
     "name:ces_x_preferred":[
         "Amacja"
     ],
-    "name:cze_x_preferred":[
-        "Amacja"
-    ],
     "name:eng_x_preferred":[
         "Amatzia"
     ],
@@ -92,7 +89,7 @@
         }
     ],
     "wof:id":421177697,
-    "wof:lastmodified":1549930332,
+    "wof:lastmodified":1561760035,
     "wof:name":"Amazya",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

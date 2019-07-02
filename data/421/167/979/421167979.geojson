@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Nir Cvi"
     ],
-    "name:cze_x_preferred":[
-        "Nir Cvi"
-    ],
     "name:eng_x_preferred":[
         "Nir Tzvi"
     ],
@@ -80,7 +77,7 @@
         }
     ],
     "wof:id":421167979,
-    "wof:lastmodified":1549930328,
+    "wof:lastmodified":1561760018,
     "wof:name":"Nir Zevi",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

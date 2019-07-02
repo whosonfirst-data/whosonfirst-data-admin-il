@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Sdej Chemed"
     ],
-    "name:cze_x_preferred":[
-        "Sdej Chemed"
-    ],
     "name:eng_x_preferred":[
         "Sdei Hemed"
     ],
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":421183041,
-    "wof:lastmodified":1549930351,
+    "wof:lastmodified":1561760035,
     "wof:name":"Sede Hemed",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

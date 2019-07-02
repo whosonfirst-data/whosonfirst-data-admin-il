@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Ejn Charod"
     ],
-    "name:cze_x_preferred":[
-        "Ejn Charod"
-    ],
     "name:deu_x_preferred":[
         "En Harod"
     ],
@@ -27,12 +24,6 @@
     ],
     "name:fra_x_preferred":[
         "E\u00efn-Harod"
-    ],
-    "name:fre_x_preferred":[
-        "E\u00efn-Harod"
-    ],
-    "name:ger_x_preferred":[
-        "En Harod"
     ],
     "name:heb_x_preferred":[
         "\u05e2\u05d9\u05df \u05d7\u05e8\u05d5\u05d3"
@@ -99,7 +90,7 @@
         }
     ],
     "wof:id":421167991,
-    "wof:lastmodified":1549930328,
+    "wof:lastmodified":1561760018,
     "wof:name":"En Harod",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

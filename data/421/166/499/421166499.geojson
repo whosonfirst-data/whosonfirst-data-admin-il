@@ -16,13 +16,7 @@
     "name:ces_x_preferred":[
         "Or ha-Ner"
     ],
-    "name:cze_x_preferred":[
-        "Or ha-Ner"
-    ],
     "name:deu_x_preferred":[
-        "Or HaNer"
-    ],
-    "name:dut_x_preferred":[
         "Or HaNer"
     ],
     "name:eng_x_preferred":[
@@ -31,17 +25,14 @@
     "name:fra_x_preferred":[
         "Or HaNer"
     ],
-    "name:fre_x_preferred":[
-        "Or HaNer"
-    ],
-    "name:ger_x_preferred":[
-        "Or HaNer"
-    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05e8 \u05d4\u05e0\u05e8"
     ],
     "name:heb_x_variant":[
         "Or HaN\u00e9r"
+    ],
+    "name:nld_x_preferred":[
+        "Or HaNer"
     ],
     "name:nno_x_preferred":[
         "Or HaNer"
@@ -96,7 +87,7 @@
         }
     ],
     "wof:id":421166499,
-    "wof:lastmodified":1549930305,
+    "wof:lastmodified":1561760014,
     "wof:name":"Or HaNer",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

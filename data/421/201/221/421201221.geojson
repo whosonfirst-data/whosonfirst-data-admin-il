@@ -19,29 +19,23 @@
     "name:ces_x_preferred":[
         "Dafna"
     ],
-    "name:cze_x_preferred":[
-        "Dafna"
-    ],
-    "name:dut_x_preferred":[
-        "Dafna"
-    ],
     "name:eng_x_preferred":[
         "Dafna"
     ],
-    "name:fra_x_preferred":[
-        "Dafna"
+    "name:fas_x_preferred":[
+        "\u062f\u0641\u0646\u0647"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dafna"
     ],
     "name:heb_x_preferred":[
         "\u05d3\u05e4\u05e0\u05d4"
     ],
-    "name:nno_x_preferred":[
+    "name:nld_x_preferred":[
         "Dafna"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0641\u0646\u0647"
+    "name:nno_x_preferred":[
+        "Dafna"
     ],
     "name:pol_x_preferred":[
         "Dafna"
@@ -99,7 +93,7 @@
         }
     ],
     "wof:id":421201221,
-    "wof:lastmodified":1553816387,
+    "wof:lastmodified":1561760033,
     "wof:name":"Dafna",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

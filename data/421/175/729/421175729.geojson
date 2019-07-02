@@ -16,28 +16,22 @@
     "name:ces_x_preferred":[
         "Zikim"
     ],
-    "name:cze_x_preferred":[
-        "Zikim"
-    ],
     "name:deu_x_preferred":[
-        "Zikim"
-    ],
-    "name:dut_x_preferred":[
         "Zikim"
     ],
     "name:eng_x_preferred":[
         "Zikim"
     ],
-    "name:fre_x_preferred":[
-        "Zikim"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Zikim"
     ],
     "name:heb_x_preferred":[
         "\u05d6\u05d9\u05e7\u05d9\u05dd"
     ],
     "name:ind_x_preferred":[
+        "Zikim"
+    ],
+    "name:nld_x_preferred":[
         "Zikim"
     ],
     "name:nno_x_preferred":[
@@ -93,7 +87,7 @@
         }
     ],
     "wof:id":421175729,
-    "wof:lastmodified":1549930325,
+    "wof:lastmodified":1561760028,
     "wof:name":"Ziqim",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

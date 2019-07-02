@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Kirjat \u0160alom"
     ],
-    "name:cze_x_preferred":[
-        "Kirjat \u0160alom"
-    ],
     "name:eng_x_preferred":[
         "Kiryat Shalom"
     ],
@@ -57,11 +54,11 @@
     "wd:longitude":34.77675,
     "wd:wordcount":41,
     "wof:belongsto":[
+        85672549,
         102191569,
         85632315,
         1125955239,
-        1108720837,
-        85672549
+        1108720837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +82,7 @@
         }
     ],
     "wof:id":421205281,
-    "wof:lastmodified":1549930550,
+    "wof:lastmodified":1561760022,
     "wof:name":"Qiryat Shalom",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

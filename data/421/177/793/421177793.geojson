@@ -16,12 +16,6 @@
     "name:ces_x_preferred":[
         "Ma'ale Gilboa"
     ],
-    "name:cze_x_preferred":[
-        "Ma'ale Gilboa"
-    ],
-    "name:dut_x_preferred":[
-        "Ma'ale Gilboa"
-    ],
     "name:eng_x_preferred":[
         "Ma'ale Gilboa"
     ],
@@ -92,7 +86,7 @@
         }
     ],
     "wof:id":421177793,
-    "wof:lastmodified":1549930332,
+    "wof:lastmodified":1561760035,
     "wof:name":"Maale Gilboa",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

@@ -22,17 +22,8 @@
     "name:ces_x_preferred":[
         "Kirjat Jam"
     ],
-    "name:chi_x_preferred":[
-        "\u4e9e\u59c6\u6751"
-    ],
-    "name:cze_x_preferred":[
-        "Kirjat Jam"
-    ],
     "name:deu_x_preferred":[
         "Kirjat Jam"
-    ],
-    "name:dut_x_preferred":[
-        "Kiryat Yam"
     ],
     "name:eng_x_preferred":[
         "Qiryat Yam"
@@ -45,12 +36,6 @@
     ],
     "name:fra_x_preferred":[
         "Kiryat-Yam"
-    ],
-    "name:fre_x_preferred":[
-        "Kiryat-Yam"
-    ],
-    "name:ger_x_preferred":[
-        "Kirjat Jam"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05e8\u05d9\u05d9\u05ea \u05d9\u05dd"
@@ -68,11 +53,11 @@
     "name:nld_x_preferred":[
         "Kirjat Jam"
     ],
-    "name:nno_x_preferred":[
+    "name:nld_x_variant":[
         "Kiryat Yam"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0631\u06cc\u0627\u062a \u06cc\u0627\u0645"
+    "name:nno_x_preferred":[
+        "Kiryat Yam"
     ],
     "name:pol_x_preferred":[
         "Kirjat Jam"
@@ -163,7 +148,7 @@
         }
     ],
     "wof:id":421187741,
-    "wof:lastmodified":1549930364,
+    "wof:lastmodified":1561760024,
     "wof:name":"Qiryat Yam",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

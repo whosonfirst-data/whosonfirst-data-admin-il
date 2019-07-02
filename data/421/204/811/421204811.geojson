@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Elifelet"
     ],
-    "name:cze_x_preferred":[
-        "Elifelet"
-    ],
     "name:eng_x_preferred":[
         "Elifelet"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421204811,
-    "wof:lastmodified":1549930408,
+    "wof:lastmodified":1561760020,
     "wof:name":"Elifelet",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

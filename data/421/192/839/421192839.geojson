@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Karmej Josef"
     ],
-    "name:cze_x_preferred":[
-        "Karmej Josef"
-    ],
     "name:eng_x_preferred":[
         "Karmei Yosef"
     ],
@@ -76,7 +73,7 @@
         }
     ],
     "wof:id":421192839,
-    "wof:lastmodified":1549930378,
+    "wof:lastmodified":1561760017,
     "wof:name":"Karmei Yosef",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

@@ -16,16 +16,10 @@
     "name:ces_x_preferred":[
         "Bachan"
     ],
-    "name:cze_x_preferred":[
-        "Bachan"
-    ],
-    "name:dut_x_preferred":[
-        "Bahan"
-    ],
     "name:eng_x_preferred":[
         "Bahan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bahan"
     ],
     "name:heb_x_preferred":[
@@ -33,6 +27,9 @@
     ],
     "name:heb_x_variant":[
         "Ba\u1e96an"
+    ],
+    "name:nld_x_preferred":[
+        "Bahan"
     ],
     "name:nno_x_preferred":[
         "Bahan i Israel"
@@ -93,7 +90,7 @@
         }
     ],
     "wof:id":421200615,
-    "wof:lastmodified":1549930397,
+    "wof:lastmodified":1561760032,
     "wof:name":"Bahan",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

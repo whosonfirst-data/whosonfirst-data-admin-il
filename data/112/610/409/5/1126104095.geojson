@@ -21,12 +21,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u0629 \u0627\u0644\u0642\u062f\u0633 \u0627\u0644\u0642\u062f\u064a\u0645\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u056b\u0576 \u0584\u0561\u0572\u0561\u0584"
-    ],
-    "name:baq_x_preferred":[
-        "Jerusalemgo Hiri Zaharra"
-    ],
     "name:ben_x_preferred":[
         "\u099c\u09c7\u09b0\u09c1\u099c\u09be\u09b2\u09c7\u09ae\u09c7\u09b0 \u09aa\u09c1\u09b0\u09a8\u09cb \u09b6\u09b9\u09b0"
     ],
@@ -36,14 +30,14 @@
     "name:cat_x_preferred":[
         "ciutat vella de Jerusalem"
     ],
-    "name:chi_x_preferred":[
-        "\u8036\u8def\u6492\u51b7\u65e7\u57ce"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Star\u00e9 M\u011bsto"
     ],
-    "name:dut_x_preferred":[
-        "oude stad van Jeruzalem"
+    "name:deu_x_preferred":[
+        "Jerusalemer Altstadt"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03b5\u03c1\u03bf\u03c5\u03c3\u03b1\u03bb\u03ae\u03bc/\u03a0\u03b1\u03bb\u03b9\u03ac \u03a0\u03cc\u03bb\u03b7"
     ],
     "name:eng_x_preferred":[
         "Old City of Jerusalem"
@@ -51,20 +45,14 @@
     "name:epo_x_preferred":[
         "Jerusalemaj remparoj"
     ],
+    "name:eus_x_preferred":[
+        "Jerusalemgo Hiri Zaharra"
+    ],
     "name:fin_x_preferred":[
         "Jerusalemin vanhakaupunki"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vieille ville de J\u00e9rusalem"
-    ],
-    "name:geo_x_preferred":[
-        "\u10eb\u10d5\u10d4\u10da\u10d8 \u10e5\u10d0\u10da\u10d0\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Jerusalemer Altstadt"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03b5\u03c1\u03bf\u03c5\u03c3\u03b1\u03bb\u03ae\u03bc/\u03a0\u03b1\u03bb\u03b9\u03ac \u03a0\u03cc\u03bb\u03b7"
     ],
     "name:heb_x_preferred":[
         "\u05d4\u05e2\u05d9\u05e8 \u05d4\u05e2\u05ea\u05d9\u05e7\u05d4"
@@ -74,6 +62,9 @@
     ],
     "name:hrv_x_preferred":[
         "Stari grad Jeruzalem"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u056b\u0576 \u0584\u0561\u0572\u0561\u0584"
     ],
     "name:ind_x_preferred":[
         "Kota Lama Yerusalem"
@@ -87,20 +78,26 @@
     "name:jpn_x_preferred":[
         "\u30a8\u30eb\u30b5\u30ec\u30e0\u306e\u65e7\u5e02\u8857\u3068\u305d\u306e\u57ce\u58c1\u7fa4"
     ],
+    "name:kat_x_preferred":[
+        "\u10eb\u10d5\u10d4\u10da\u10d8 \u10e5\u10d0\u10da\u10d0\u10e5\u10d8"
+    ],
     "name:lad_x_preferred":[
         "Sivdad Vieja de Yerushalayim"
-    ],
-    "name:mac_x_preferred":[
-        "\u0421\u0442\u0430\u0440 \u0433\u0440\u0430\u0434"
-    ],
-    "name:may_x_preferred":[
-        "Kota Lama Jerusalem"
     ],
     "name:mhr_x_preferred":[
         "\u0422\u043e\u0448\u0442\u043e \u043e\u043b\u0430"
     ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0442\u0430\u0440 \u0433\u0440\u0430\u0434"
+    ],
     "name:mon_x_preferred":[
         "\u0418\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c\u044b\u043d \u0445\u0443\u0443\u0447\u0438\u043d \u0445\u043e\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Kota Lama Jerusalem"
+    ],
+    "name:nld_x_preferred":[
+        "oude stad van Jeruzalem"
     ],
     "name:nob_x_preferred":[
         "Gamlebyen"
@@ -111,7 +108,7 @@
     "name:por_x_preferred":[
         "Cidade Antiga"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ierusalimul Vechi"
     ],
     "name:rus_x_preferred":[
@@ -120,7 +117,7 @@
     "name:sco_x_preferred":[
         "Auld Ceety"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ha-Ir ha-Atika"
     ],
     "name:spa_x_preferred":[
@@ -156,6 +153,9 @@
     "name:yid_x_preferred":[
         "\u05d0\u05dc\u05d8\u05e9\u05d8\u05d0\u05d8"
     ],
+    "name:zho_x_preferred":[
+        "\u8036\u8def\u6492\u51b7\u65e7\u57ce"
+    ],
     "qs_pg:aaroncc":"IL",
     "qs_pg:gn_country":"IL",
     "qs_pg:gn_fcode":"PPLX",
@@ -184,11 +184,11 @@
     "woe:name_adm1":"Jerusalem",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -211,7 +211,7 @@
         }
     ],
     "wof:id":1126104095,
-    "wof:lastmodified":1549930556,
+    "wof:lastmodified":1561760039,
     "wof:name":"Old City",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

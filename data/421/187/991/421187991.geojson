@@ -13,7 +13,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Giv'at Ela"
     ],
     "name:eng_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":421187991,
-    "wof:lastmodified":1549930366,
+    "wof:lastmodified":1561760024,
     "wof:name":"Giv'at Ella",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

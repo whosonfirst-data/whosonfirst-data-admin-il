@@ -40,14 +40,8 @@
     "name:arg_x_preferred":[
         "Destrito de Haifa"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0561\u0575\u0586\u0561\u0575\u056b \u0574\u0561\u0580\u0566"
-    ],
     "name:aze_x_preferred":[
         "Hayfa dair\u0259si"
-    ],
-    "name:baq_x_preferred":[
-        "Haifa barrutia"
     ],
     "name:bar_x_preferred":[
         "Beziak Haifa"
@@ -64,17 +58,17 @@
     "name:cat_x_preferred":[
         "Districte de Haifa"
     ],
-    "name:chi_x_preferred":[
-        "\u6d77\u6cd5\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Haifsk\u00fd distrikt"
     ],
     "name:dan_x_preferred":[
         "Haifa-distriktet"
     ],
-    "name:dut_x_preferred":[
-        "Haifa"
+    "name:deu_x_preferred":[
+        "Bezirk Haifa"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u0390\u03c6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Haifa"
@@ -85,23 +79,20 @@
     "name:est_x_preferred":[
         "Haifa ringkond"
     ],
+    "name:eus_x_preferred":[
+        "Haifa barrutia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062d\u06cc\u0641\u0627"
+    ],
     "name:fin_x_preferred":[
         "Haifan hallintoalue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "district de Ha\u00effa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10d0\u10d8\u10e4\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Bezirk Haifa"
     ],
     "name:glv_x_preferred":[
         "Slyst Haifa"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b1\u0390\u03c6\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac8\u0aab\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -115,6 +106,9 @@
     "name:hrv_x_preferred":[
         "Okrug Haifa"
     ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0575\u0586\u0561\u0575\u056b \u0574\u0561\u0580\u0566"
+    ],
     "name:ind_x_preferred":[
         "Distrik Haifa"
     ],
@@ -127,6 +121,9 @@
     "name:kan_x_preferred":[
         "\u0cb9\u0cc8\u0cab\u0cbe \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d0\u10d8\u10e4\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud558\uc774\ud30c \uad6c"
     ],
@@ -136,23 +133,23 @@
     "name:lit_x_preferred":[
         "Haifos apskritis"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u0430\u0438\u0444\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0939\u0948\u092b\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0425\u0430\u0438\u0444\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Daerah Haifa"
+    ],
+    "name:nld_x_preferred":[
+        "Haifa"
     ],
     "name:nno_x_preferred":[
         "Haifa distrikt"
     ],
     "name:nob_x_preferred":[
         "Haifa-distriktet"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062d\u06cc\u0641\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u06c1\u06cc\u0641\u06c1 \u0636\u0644\u0639"
@@ -163,7 +160,7 @@
     "name:por_x_preferred":[
         "Haifa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Haifa"
     ],
     "name:rus_x_preferred":[
@@ -211,6 +208,9 @@
     "name:yid_x_preferred":[
         "\u05d7\u05d9\u05e4\u05d4 \u05d3\u05d9\u05e1\u05d8\u05e8\u05d9\u05e7\u05d8"
     ],
+    "name:zho_x_preferred":[
+        "\u6d77\u6cd5\u533a"
+    ],
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "meso"
@@ -252,7 +252,7 @@
         }
     ],
     "wof:id":1108720835,
-    "wof:lastmodified":1553718458,
+    "wof:lastmodified":1561760010,
     "wof:name":"Haifa",
     "wof:parent_id":85672535,
     "wof:placetype":"county",

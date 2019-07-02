@@ -26,14 +26,8 @@
     "name:arc_x_preferred":[
         "\u072a\u071d\u072b\u0718\u0722 \u0720\u072c\u0723\u071d\u0718\u0722"
     ],
-    "name:arm_x_preferred":[
-        "\u054c\u056b\u0577\u0578\u0576 \u053c\u0565 \u0551\u056b\u0578\u0576"
-    ],
     "name:aze_x_preferred":[
         "Ri\u015fon LeZion"
-    ],
-    "name:baq_x_preferred":[
-        "Rishon LeZion"
     ],
     "name:bar_x_preferred":[
         "Rischon LeZion"
@@ -53,20 +47,11 @@
     "name:ces_x_preferred":[
         "Ri\u0161on le-Cijon"
     ],
-    "name:chi_x_preferred":[
-        "\u91cc\u96c4\u83b1\u9521\u5b89"
-    ],
-    "name:cze_x_preferred":[
-        "Ri\u0161on le-Cijon"
-    ],
     "name:dan_x_preferred":[
         "Rishon LeZion"
     ],
     "name:deu_x_preferred":[
         "Rischon LeZion"
-    ],
-    "name:dut_x_preferred":[
-        "Rishon LeZion"
     ],
     "name:ell_x_preferred":[
         "\u03a1\u03b9\u03c3\u03cc\u03bd \u039b\u03b5 \u0396\u03b9\u03cc\u03bd"
@@ -101,23 +86,11 @@
     "name:fra_x_variant":[
         "Rishon LeZion"
     ],
-    "name:fre_x_preferred":[
-        "Rishon LeZion"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d8\u10e8\u10dd\u10dc \u10da\u10d4\u10ea\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rischon LeZion"
-    ],
     "name:glg_x_preferred":[
         "Rishon LeZion"
     ],
     "name:glv_x_preferred":[
         "Rishon LeZion"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03b9\u03c3\u03cc\u03bd \u039b\u03b5 \u0396\u03b9\u03cc\u03bd"
     ],
     "name:gsw_x_preferred":[
         "Rischon LeZion"
@@ -137,6 +110,9 @@
     "name:hun_x_preferred":[
         "Ris\u00f3n Lecij\u00f3n"
     ],
+    "name:hye_x_preferred":[
+        "\u054c\u056b\u0577\u0578\u0576 \u053c\u0565 \u0551\u056b\u0578\u0576"
+    ],
     "name:ind_x_preferred":[
         "Rishon LeZion"
     ],
@@ -152,6 +128,9 @@
     "name:kan_x_preferred":[
         "\u0cb0\u0cbf\u0cb7\u0cca\u0ca8\u0ccd \u0cb2\u0cc0\u0c9d\u0cbf\u0caf\u0cbe\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d8\u10e8\u10dd\u10dc \u10da\u10d4\u10ea\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub9ac\uc200\ub808\uc9c0\uc628"
     ],
@@ -164,7 +143,7 @@
     "name:mar_x_preferred":[
         "\u0930\u093f\u0936\u094b\u0928 \u0932\u0947\u0924\u094d\u0938\u093f\u092f\u094b\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Rishon LeZion"
     ],
     "name:nah_x_preferred":[
@@ -172,6 +151,9 @@
     ],
     "name:nld_x_preferred":[
         "Risjon Letsion"
+    ],
+    "name:nld_x_variant":[
+        "Rishon LeZion"
     ],
     "name:nno_x_preferred":[
         "Rishon LeZion"
@@ -182,9 +164,6 @@
     "name:nor_x_preferred":[
         "Rishon LeZion"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u06cc\u0634\u0648\u0646 \u0644\u062a\u0633\u06cc\u0648\u0646"
-    ],
     "name:pol_x_preferred":[
         "Riszon le-Cijjon"
     ],
@@ -192,9 +171,6 @@
         "Rishon LeZion"
     ],
     "name:ron_x_preferred":[
-        "Ri\u0219on Le-\u021aion"
-    ],
-    "name:rum_x_preferred":[
         "Ri\u0219on Le-\u021aion"
     ],
     "name:rus_x_preferred":[
@@ -308,7 +284,7 @@
         }
     ],
     "wof:id":421197319,
-    "wof:lastmodified":1549931479,
+    "wof:lastmodified":1561760031,
     "wof:name":"Rishon LeZion",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

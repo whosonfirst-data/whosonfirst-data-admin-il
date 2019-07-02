@@ -22,17 +22,8 @@
     "name:ces_x_preferred":[
         "Bejt \u0160eme\u0161"
     ],
-    "name:chi_x_preferred":[
-        "\u8c9d\u7279\u8b1d\u6885\u4ec0"
-    ],
-    "name:cze_x_preferred":[
-        "Bejt \u0160eme\u0161"
-    ],
     "name:deu_x_preferred":[
         "Bet Schemesch"
-    ],
-    "name:dut_x_preferred":[
-        "Bet Shemesh"
     ],
     "name:eng_x_preferred":[
         "Bet Shemesh"
@@ -42,15 +33,6 @@
     ],
     "name:fra_x_preferred":[
         "Bet Shemesh"
-    ],
-    "name:fre_x_preferred":[
-        "Bet Shemesh"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10d8\u10d7-\u10e8\u10d4\u10db\u10d4\u10e8\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Bet Schemesch"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05ea \u05e9\u05de\u05e9"
@@ -91,9 +73,6 @@
     "name:nor_x_preferred":[
         "Beit Shemesh"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u062a \u0634\u0645\u0634"
-    ],
     "name:pol_x_preferred":[
         "Bet Szemesz"
     ],
@@ -109,9 +88,6 @@
     ],
     "name:ron_x_variant":[
         "Beit \u015eeme\u0219"
-    ],
-    "name:rum_x_preferred":[
-        "Beit \u0218eme\u0219"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0439\u0442-\u0428\u0435\u043c\u0435\u0448"
@@ -205,7 +181,7 @@
         }
     ],
     "wof:id":421202185,
-    "wof:lastmodified":1549930399,
+    "wof:lastmodified":1561760022,
     "wof:name":"Bet Shemesh",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

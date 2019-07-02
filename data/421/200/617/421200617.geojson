@@ -19,22 +19,19 @@
     "name:ces_x_preferred":[
         "Balfourija"
     ],
-    "name:cze_x_preferred":[
-        "Balfourija"
-    ],
-    "name:dut_x_preferred":[
-        "Balfouria"
-    ],
     "name:eng_x_preferred":[
         "Balfouria"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Balfouria"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05dc\u05e4\u05d5\u05e8\u05d9\u05d4"
     ],
     "name:ita_x_preferred":[
+        "Balfouria"
+    ],
+    "name:nld_x_preferred":[
         "Balfouria"
     ],
     "name:nno_x_preferred":[
@@ -96,7 +93,7 @@
         }
     ],
     "wof:id":421200617,
-    "wof:lastmodified":1549930397,
+    "wof:lastmodified":1561760032,
     "wof:name":"Balfouriyya",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

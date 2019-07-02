@@ -19,14 +19,11 @@
     "name:ces_x_preferred":[
         "Kfar Aza"
     ],
-    "name:cze_x_preferred":[
-        "Kfar Aza"
+    "name:deu_x_preferred":[
+        "Kfar Azza"
     ],
     "name:eng_x_preferred":[
         "Kfar Aza"
-    ],
-    "name:ger_x_preferred":[
-        "Kfar Azza"
     ],
     "name:heb_x_preferred":[
         "\u05db\u05e4\u05e8 \u05e2\u05d6\u05d4"
@@ -86,7 +83,7 @@
         }
     ],
     "wof:id":421184811,
-    "wof:lastmodified":1549930357,
+    "wof:lastmodified":1561760033,
     "wof:name":"Kefar Azza",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

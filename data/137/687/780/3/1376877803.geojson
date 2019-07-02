@@ -16,17 +16,11 @@
     "name:ara_x_preferred":[
         "\u062c\u0641\u0639\u0627\u062a \u0634\u0645\u0648\u0626\u064a\u0644"
     ],
-    "name:arm_x_preferred":[
-        "\u0533\u056b\u057e\u0561\u0569 \u0547\u0574\u0578\u0582\u0565\u056c"
-    ],
-    "name:chi_x_preferred":[
-        "\u5409\u592b\u963f\u7279\u4ec0\u7a46\u57c3\u723e"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Giv'at \u0160mu'el"
     ],
-    "name:dut_x_preferred":[
-        "Giv'at Shmuel"
+    "name:deu_x_preferred":[
+        "Givat Schmuel"
     ],
     "name:eng_x_preferred":[
         "Giv\u2018at Shmuel"
@@ -38,11 +32,8 @@
         "Givat Shmu\u2019el",
         "Giv'at Shmuel"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Giv'at Shmuel"
-    ],
-    "name:ger_x_preferred":[
-        "Givat Schmuel"
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05d1\u05e2\u05ea \u05e9\u05de\u05d5\u05d0\u05dc"
@@ -53,7 +44,13 @@
     "name:hun_x_preferred":[
         "Giv'at Shmuel"
     ],
+    "name:hye_x_preferred":[
+        "\u0533\u056b\u057e\u0561\u0569 \u0547\u0574\u0578\u0582\u0565\u056c"
+    ],
     "name:ind_x_preferred":[
+        "Giv'at Shmuel"
+    ],
+    "name:nld_x_preferred":[
         "Giv'at Shmuel"
     ],
     "name:nno_x_preferred":[
@@ -83,6 +80,9 @@
     "name:yid_x_preferred":[
         "\u05d2\u05d1\u05e2\u05ea \u05e9\u05de\u05d5\u05d0\u05dc"
     ],
+    "name:zho_x_preferred":[
+        "\u5409\u592b\u963f\u7279\u4ec0\u7a46\u57c3\u723e"
+    ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":294981,
@@ -105,11 +105,11 @@
     "src:population":"quattroshapes",
     "wd:wordcount":603,
     "wof:belongsto":[
+        85672541,
         102191569,
         85632315,
         421202049,
-        1108720821,
-        85672541
+        1108720821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":1376877803,
-    "wof:lastmodified":1549930739,
+    "wof:lastmodified":1561760013,
     "wof:name":"Givat Shemu'el",
     "wof:parent_id":421202049,
     "wof:placetype":"neighbourhood",

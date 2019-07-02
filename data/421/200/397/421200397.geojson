@@ -19,12 +19,6 @@
     "name:ces_x_preferred":[
         "Uzejr"
     ],
-    "name:cze_x_preferred":[
-        "Uzejr"
-    ],
-    "name:dut_x_preferred":[
-        "Uzeir"
-    ],
     "name:eng_x_preferred":[
         "Uzeir"
     ],
@@ -98,7 +92,7 @@
         }
     ],
     "wof:id":421200397,
-    "wof:lastmodified":1549930397,
+    "wof:lastmodified":1561760032,
     "wof:name":"Uzeir",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

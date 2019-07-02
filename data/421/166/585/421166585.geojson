@@ -19,9 +19,6 @@
     "name:ces_x_preferred":[
         "Ajlabun"
     ],
-    "name:cze_x_preferred":[
-        "Ajlabun"
-    ],
     "name:dan_x_preferred":[
         "Eilabun"
     ],
@@ -33,12 +30,6 @@
     ],
     "name:fra_x_preferred":[
         "Eilabun"
-    ],
-    "name:fre_x_preferred":[
-        "Eilabun"
-    ],
-    "name:ger_x_preferred":[
-        "Eilaboun"
     ],
     "name:heb_x_preferred":[
         "\u05e2\u05d9\u05d9\u05dc\u05d1\u05d5\u05df"
@@ -123,7 +114,7 @@
         }
     ],
     "wof:id":421166585,
-    "wof:lastmodified":1549930308,
+    "wof:lastmodified":1561760015,
     "wof:name":"Eilabun",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

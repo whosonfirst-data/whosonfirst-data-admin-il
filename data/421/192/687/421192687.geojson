@@ -13,13 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u0160a'ar ha-Amakim"
     ],
     "name:eng_x_preferred":[
         "Sha'ar HaAmakim"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Shaar-Haamakim"
     ],
     "name:heb_x_preferred":[
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":421192687,
-    "wof:lastmodified":1549930378,
+    "wof:lastmodified":1561760015,
     "wof:name":"Shaar HaAmaqim",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

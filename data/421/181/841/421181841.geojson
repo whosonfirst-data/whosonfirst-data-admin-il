@@ -16,20 +16,17 @@
     "name:ces_x_preferred":[
         "Menucha"
     ],
-    "name:cze_x_preferred":[
-        "Menucha"
-    ],
     "name:eng_x_preferred":[
         "Menuha"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d4\u10dc\u10d8\u10ee\u10d0"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e0\u05d5\u05d7\u05d4"
     ],
     "name:heb_x_variant":[
         "Menu\u1e96a"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10dc\u10d8\u10ee\u10d0"
     ],
     "name:nno_x_preferred":[
         "Menuha"
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":421181841,
-    "wof:lastmodified":1549930346,
+    "wof:lastmodified":1561760027,
     "wof:name":"Menuha",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

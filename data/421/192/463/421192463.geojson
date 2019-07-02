@@ -16,16 +16,10 @@
     "name:ces_x_preferred":[
         "Sde Ja'akov"
     ],
-    "name:cze_x_preferred":[
-        "Sde Ja'akov"
-    ],
     "name:eng_x_preferred":[
         "Sde Ya'akov"
     ],
     "name:fra_x_preferred":[
-        "Sd\u00e9-Yaakov"
-    ],
-    "name:fre_x_preferred":[
         "Sd\u00e9-Yaakov"
     ],
     "name:heb_x_preferred":[
@@ -87,7 +81,7 @@
         }
     ],
     "wof:id":421192463,
-    "wof:lastmodified":1549930374,
+    "wof:lastmodified":1561760015,
     "wof:name":"Sede Yaaqov",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

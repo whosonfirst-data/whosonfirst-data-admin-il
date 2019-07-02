@@ -16,17 +16,11 @@
     "name:ces_x_preferred":[
         "Matat"
     ],
-    "name:cze_x_preferred":[
-        "Matat"
-    ],
     "name:deu_x_preferred":[
         "Matat"
     ],
     "name:eng_x_preferred":[
         "Mattat"
-    ],
-    "name:ger_x_preferred":[
-        "Matat"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05ea\u05ea"
@@ -87,7 +81,7 @@
         }
     ],
     "wof:id":421203201,
-    "wof:lastmodified":1549930403,
+    "wof:lastmodified":1561760021,
     "wof:name":"Matat",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

@@ -16,20 +16,17 @@
     "name:ces_x_preferred":[
         "Sapir"
     ],
-    "name:cze_x_preferred":[
-        "Sapir"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sapir"
     ],
     "name:eng_x_preferred":[
         "Sapir"
     ],
-    "name:ger_x_preferred":[
-        "Sapir"
-    ],
     "name:heb_x_preferred":[
         "\u05e1\u05e4\u05d9\u05e8"
+    ],
+    "name:nld_x_preferred":[
+        "Sapir"
     ],
     "name:nno_x_preferred":[
         "Sapir i Israel"
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":421192685,
-    "wof:lastmodified":1549930376,
+    "wof:lastmodified":1561760016,
     "wof:name":"Sappir",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

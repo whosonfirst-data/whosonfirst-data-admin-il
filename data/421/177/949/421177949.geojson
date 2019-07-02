@@ -25,16 +25,7 @@
     "name:ces_x_preferred":[
         "Sachnin"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u8d6b\u5be7"
-    ],
-    "name:cze_x_preferred":[
-        "Sachnin"
-    ],
     "name:deu_x_preferred":[
-        "Sachnin"
-    ],
-    "name:dut_x_preferred":[
         "Sachnin"
     ],
     "name:eng_x_preferred":[
@@ -45,15 +36,6 @@
     ],
     "name:fra_x_preferred":[
         "Sakhnin"
-    ],
-    "name:fre_x_preferred":[
-        "Sakhnin"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10ee\u10dc\u10d8\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Sachnin"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d7'\u05e0\u05d9\u05df"
@@ -172,7 +154,7 @@
         }
     ],
     "wof:id":421177949,
-    "wof:lastmodified":1549930332,
+    "wof:lastmodified":1561760035,
     "wof:name":"Sakhnin",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

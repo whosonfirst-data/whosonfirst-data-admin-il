@@ -16,12 +16,6 @@
     "name:ces_x_preferred":[
         "\u0160ejch Danun"
     ],
-    "name:cze_x_preferred":[
-        "\u0160ejch Danun"
-    ],
-    "name:dut_x_preferred":[
-        "Sheikh Danun"
-    ],
     "name:eng_x_preferred":[
         "Sheikh Danun"
     ],
@@ -33,6 +27,9 @@
         "\u05d0 \u05e9\u05d9\u05d7\u2019 \u05d3\u05e0\u05d5\u05df",
         "Esh Sheikh D\u0101w\u016bd",
         "\u05d0 \u05e9\u05d9\u05d7\u2019 \u05d3\u05d0\u05d5\u05d3"
+    ],
+    "name:nld_x_preferred":[
+        "Sheikh Danun"
     ],
     "name:nno_x_preferred":[
         "Sheikh Danun"
@@ -94,7 +91,7 @@
         }
     ],
     "wof:id":421199141,
-    "wof:lastmodified":1549930390,
+    "wof:lastmodified":1561760031,
     "wof:name":"Esh Sheikh Dannun",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

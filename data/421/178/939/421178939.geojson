@@ -28,29 +28,14 @@
     "name:ces_x_preferred":[
         "Ne\u0161er"
     ],
-    "name:chi_x_preferred":[
-        "\u5185\u8c22\u5c14"
-    ],
-    "name:cze_x_preferred":[
-        "Ne\u0161er"
-    ],
     "name:deu_x_preferred":[
         "Nescher"
-    ],
-    "name:dut_x_preferred":[
-        "Nesher"
     ],
     "name:eng_x_preferred":[
         "Nesher"
     ],
     "name:fra_x_preferred":[
         "Nesher"
-    ],
-    "name:fre_x_preferred":[
-        "Nesher"
-    ],
-    "name:ger_x_preferred":[
-        "Nescher"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05e9\u05e8"
@@ -69,6 +54,9 @@
     ],
     "name:lit_x_preferred":[
         "Ne\u0161eras"
+    ],
+    "name:nld_x_preferred":[
+        "Nesher"
     ],
     "name:nno_x_preferred":[
         "Nesher"
@@ -154,7 +142,7 @@
         }
     ],
     "wof:id":421178939,
-    "wof:lastmodified":1549930334,
+    "wof:lastmodified":1561760036,
     "wof:name":"Nesher",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

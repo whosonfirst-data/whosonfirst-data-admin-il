@@ -19,23 +19,20 @@
     "name:ces_x_preferred":[
         "Jirka"
     ],
-    "name:cze_x_preferred":[
-        "Jirka"
-    ],
-    "name:dut_x_preferred":[
-        "Yarka"
-    ],
     "name:eng_x_preferred":[
         "Yarka"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10d0\u10e0\u10e5\u10d0"
     ],
     "name:heb_x_preferred":[
         "\u05d9\u05e8\u05db\u05d0"
     ],
     "name:heb_x_variant":[
         "Yirk\u0101"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d0\u10e0\u10e5\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Yarka"
     ],
     "name:nno_x_preferred":[
         "Yirka"
@@ -102,7 +99,7 @@
         }
     ],
     "wof:id":421187045,
-    "wof:lastmodified":1549930361,
+    "wof:lastmodified":1561760024,
     "wof:name":"Yirka",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

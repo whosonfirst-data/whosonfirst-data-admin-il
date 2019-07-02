@@ -16,16 +16,7 @@
     "name:ces_x_preferred":[
         "Mazkeret Batja"
     ],
-    "name:chi_x_preferred":[
-        "\u9ea5\u7d2e\u5947\u7d0d\u7279\u5df4\u7279\u96c5"
-    ],
-    "name:cze_x_preferred":[
-        "Mazkeret Batja"
-    ],
     "name:deu_x_preferred":[
-        "Mazkeret Batya"
-    ],
-    "name:dut_x_preferred":[
         "Mazkeret Batya"
     ],
     "name:eng_x_preferred":[
@@ -38,14 +29,11 @@
     "name:fra_x_preferred":[
         "Mazkeret Batya"
     ],
-    "name:fre_x_preferred":[
-        "Mazkeret Batya"
-    ],
-    "name:ger_x_preferred":[
-        "Mazkeret Batya"
-    ],
     "name:heb_x_preferred":[
         "\u05de\u05d6\u05db\u05e8\u05ea \u05d1\u05ea\u05d9\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "Mazkeret Batya"
     ],
     "name:nno_x_preferred":[
         "Mazkeret Batya"
@@ -64,6 +52,9 @@
     ],
     "name:unk_x_variant":[
         "Mazkeret Batyah"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ea5\u7d2e\u5947\u7d0d\u7279\u5df4\u7279\u96c5"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -113,7 +104,7 @@
         }
     ],
     "wof:id":421167849,
-    "wof:lastmodified":1549930326,
+    "wof:lastmodified":1561760018,
     "wof:name":"Mazkeret Batya",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

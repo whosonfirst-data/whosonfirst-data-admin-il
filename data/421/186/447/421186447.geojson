@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Ge'a"
     ],
-    "name:cze_x_preferred":[
-        "Ge'a"
-    ],
     "name:eng_x_preferred":[
         "Ge'a"
     ],
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":421186447,
-    "wof:lastmodified":1549930360,
+    "wof:lastmodified":1561760027,
     "wof:name":"Ge'a",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

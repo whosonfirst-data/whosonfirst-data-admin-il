@@ -16,25 +16,13 @@
     "name:ara_x_preferred":[
         "\u0645\u062a\u0633\u0628\u064a \u0631\u064a\u0645\u0648\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Mitzpe Ramon"
-    ],
     "name:cat_x_preferred":[
         "Mitsp\u00e9 Ramon"
     ],
     "name:ces_x_preferred":[
         "Micpe Ramon"
     ],
-    "name:chi_x_preferred":[
-        "\u5bc6\u652f\u4f69\u62c9\u8499"
-    ],
-    "name:cze_x_preferred":[
-        "Micpe Ramon"
-    ],
     "name:deu_x_preferred":[
-        "Mitzpe Ramon"
-    ],
-    "name:dut_x_preferred":[
         "Mitzpe Ramon"
     ],
     "name:eng_x_preferred":[
@@ -44,12 +32,6 @@
         "Mitzpe Ramon"
     ],
     "name:fra_x_preferred":[
-        "Mitzpe Ramon"
-    ],
-    "name:fre_x_preferred":[
-        "Mitzpe Ramon"
-    ],
-    "name:ger_x_preferred":[
         "Mitzpe Ramon"
     ],
     "name:heb_x_preferred":[
@@ -64,6 +46,9 @@
     "name:lit_x_preferred":[
         "Micpe Ramonas"
     ],
+    "name:nld_x_preferred":[
+        "Mitzpe Ramon"
+    ],
     "name:nno_x_preferred":[
         "Mitzpe Ramon"
     ],
@@ -71,9 +56,6 @@
         "Micpe Ramon"
     ],
     "name:ron_x_preferred":[
-        "Mi\u021bpe Ramon"
-    ],
-    "name:rum_x_preferred":[
         "Mi\u021bpe Ramon"
     ],
     "name:rus_x_preferred":[
@@ -84,6 +66,9 @@
     ],
     "name:unk_x_variant":[
         "Ma\u1e25ane Ramon"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bc6\u652f\u4f69\u62c9\u8499"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -132,7 +117,7 @@
         }
     ],
     "wof:id":421172917,
-    "wof:lastmodified":1553816363,
+    "wof:lastmodified":1561760027,
     "wof:name":"Mizpe Ramon",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

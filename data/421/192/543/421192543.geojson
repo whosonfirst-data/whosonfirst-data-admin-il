@@ -16,16 +16,10 @@
     "name:ces_x_preferred":[
         "\u0160a'ar ha-Golan"
     ],
-    "name:cze_x_preferred":[
-        "\u0160a'ar ha-Golan"
-    ],
     "name:eng_x_preferred":[
         "Sha'ar HaGolan"
     ],
     "name:fra_x_preferred":[
-        "Shaar-Hagolan"
-    ],
-    "name:fre_x_preferred":[
         "Shaar-Hagolan"
     ],
     "name:heb_x_preferred":[
@@ -86,7 +80,7 @@
         }
     ],
     "wof:id":421192543,
-    "wof:lastmodified":1549930375,
+    "wof:lastmodified":1561760016,
     "wof:name":"Shaar HaGolan",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

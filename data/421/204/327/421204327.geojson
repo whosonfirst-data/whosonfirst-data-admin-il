@@ -16,26 +16,20 @@
     "name:ces_x_preferred":[
         "Zecharja"
     ],
-    "name:cze_x_preferred":[
-        "Zecharja"
-    ],
     "name:deu_x_preferred":[
-        "Zekharia"
-    ],
-    "name:dut_x_preferred":[
         "Zekharia"
     ],
     "name:eng_x_preferred":[
         "Zekharia"
     ],
-    "name:fre_x_preferred":[
-        "Zekharia"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Zekharia"
     ],
     "name:heb_x_preferred":[
         "\u05d6\u05db\u05e8\u05d9\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "Zekharia"
     ],
     "name:nno_x_preferred":[
         "Zekharia"
@@ -92,7 +86,7 @@
         }
     ],
     "wof:id":421204327,
-    "wof:lastmodified":1549930404,
+    "wof:lastmodified":1561760020,
     "wof:name":"Zekharya",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

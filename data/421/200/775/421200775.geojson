@@ -16,23 +16,17 @@
     "name:ces_x_preferred":[
         "Ramat David"
     ],
-    "name:cze_x_preferred":[
-        "Ramat David"
-    ],
-    "name:dut_x_preferred":[
-        "Ramat David"
-    ],
     "name:eng_x_preferred":[
         "Ramat David"
     ],
     "name:fra_x_preferred":[
         "Ramat-David"
     ],
-    "name:fre_x_preferred":[
-        "Ramat-David"
-    ],
     "name:heb_x_preferred":[
         "\u05e8\u05de\u05ea \u05d3\u05d5\u05d3"
+    ],
+    "name:nld_x_preferred":[
+        "Ramat David"
     ],
     "name:nno_x_preferred":[
         "Ramat David"
@@ -90,7 +84,7 @@
         }
     ],
     "wof:id":421200775,
-    "wof:lastmodified":1549930398,
+    "wof:lastmodified":1561760032,
     "wof:name":"Ramat Dawid",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

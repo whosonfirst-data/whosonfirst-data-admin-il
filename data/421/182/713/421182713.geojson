@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Bejt Zaid"
     ],
-    "name:cze_x_preferred":[
-        "Bejt Zaid"
-    ],
     "name:eng_x_preferred":[
         "Beit Zaid"
     ],
@@ -76,7 +73,7 @@
         }
     ],
     "wof:id":421182713,
-    "wof:lastmodified":1549930349,
+    "wof:lastmodified":1561760036,
     "wof:name":"Bet Zeid",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

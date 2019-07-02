@@ -16,26 +16,20 @@
     "name:ces_x_preferred":[
         "Ejn Karmel"
     ],
-    "name:cze_x_preferred":[
-        "Ejn Karmel"
-    ],
     "name:deu_x_preferred":[
         "En Karmel"
-    ],
-    "name:dut_x_preferred":[
-        "Ein Carmel"
     ],
     "name:eng_x_preferred":[
         "Ein Carmel"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ein Carmel"
-    ],
-    "name:ger_x_preferred":[
-        "En Karmel"
     ],
     "name:heb_x_preferred":[
         "\u05e2\u05d9\u05df \u05db\u05e8\u05de\u05dc"
+    ],
+    "name:nld_x_preferred":[
+        "Ein Carmel"
     ],
     "name:nno_x_preferred":[
         "Ein Karmel"
@@ -99,7 +93,7 @@
         }
     ],
     "wof:id":421169629,
-    "wof:lastmodified":1549930321,
+    "wof:lastmodified":1561760019,
     "wof:name":"En Karmel",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

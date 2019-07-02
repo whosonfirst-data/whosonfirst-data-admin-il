@@ -29,7 +29,7 @@
     "name:ces_x_preferred":[
         "Oblastn\u00ed rada Misgav"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "Jisgav"
     ],
     "name:eng_x_preferred":[
@@ -85,11 +85,11 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
+        85672549,
         102191569,
         85632315,
         1125955239,
-        1108720837,
-        85672549
+        1108720837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930543,
+    "wof:lastmodified":1561760003,
     "wof:name":"Yisgav",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

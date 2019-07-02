@@ -24,22 +24,22 @@
     "name:cat_x_preferred":[
         "Nain"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Najn"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Na\u00efn"
     ],
     "name:eng_x_preferred":[
         "Nein"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
         "Na\u00efm"
     ],
     "name:fry_x_preferred":[
-        "Na\u00efn"
-    ],
-    "name:ger_x_preferred":[
         "Na\u00efn"
     ],
     "name:heb_x_preferred":[
@@ -55,11 +55,11 @@
     "name:jpn_x_preferred":[
         "\u30ca\u30a4\u30f3"
     ],
+    "name:nld_x_preferred":[
+        "Na\u00efn"
+    ],
     "name:nno_x_preferred":[
         "Nein"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u06cc\u0646"
     ],
     "name:pol_x_preferred":[
         "Najn"
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":890454129,
-    "wof:lastmodified":1549930365,
+    "wof:lastmodified":1561760039,
     "wof:name":"Nein",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

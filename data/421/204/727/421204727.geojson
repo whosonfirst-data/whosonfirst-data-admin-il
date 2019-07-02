@@ -16,20 +16,17 @@
     "name:ara_x_preferred":[
         "\u0631\u0648\u0634 \u0628\u064a\u0646\u0627"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ro\u0161 Pina"
     ],
-    "name:dut_x_preferred":[
-        "Rosh Pinna"
+    "name:deu_x_preferred":[
+        "Rosch Pina"
     ],
     "name:eng_x_preferred":[
         "Rosh Pinna"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Rosh Pina"
-    ],
-    "name:ger_x_preferred":[
-        "Rosch Pina"
     ],
     "name:gsw_x_preferred":[
         "Rosch Pina"
@@ -46,13 +43,16 @@
     "name:jpn_x_preferred":[
         "\u30ed\u30b7\u30e5\u30fb\u30d4\u30ca"
     ],
+    "name:nld_x_preferred":[
+        "Rosh Pinna"
+    ],
     "name:nno_x_preferred":[
         "Rosh Pinna"
     ],
     "name:pol_x_preferred":[
         "Rosz Pina"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ro\u0219 Pina"
     ],
     "name:rus_x_preferred":[
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":421204727,
-    "wof:lastmodified":1549930406,
+    "wof:lastmodified":1561760020,
     "wof:name":"Rosh Pinna",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

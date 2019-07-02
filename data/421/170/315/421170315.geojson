@@ -16,19 +16,10 @@
     "name:ara_x_preferred":[
         "\u0643\u0631\u064a\u0627\u062a \u0622\u062a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u056b\u0580\u0575\u0561\u057f \u0531\u057f\u0561"
-    ],
     "name:cat_x_preferred":[
         "Qiryat Atta"
     ],
     "name:ces_x_preferred":[
-        "Kirjat Ata"
-    ],
-    "name:chi_x_preferred":[
-        "\u963f\u5854\u5e02"
-    ],
-    "name:cze_x_preferred":[
         "Kirjat Ata"
     ],
     "name:dan_x_preferred":[
@@ -37,7 +28,7 @@
     "name:deu_x_preferred":[
         "Kiryat Ata"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Kirjat Ata"
     ],
     "name:eng_x_preferred":[
@@ -53,17 +44,14 @@
     "name:fra_x_preferred":[
         "Kiryat-Ata"
     ],
-    "name:fre_x_preferred":[
-        "Kiryat-Ata"
-    ],
-    "name:ger_x_preferred":[
-        "Kirjat Ata"
-    ],
     "name:heb_x_preferred":[
         "\u05e7\u05e8\u05d9\u05d9\u05ea \u05d0\u05ea\u05d0"
     ],
     "name:heb_x_variant":[
         "\u05e7\u05e8\u05d9\u05ea \u05d0\u05ea\u05d0"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u056b\u0580\u0575\u0561\u057f \u0531\u057f\u0561"
     ],
     "name:ind_x_preferred":[
         "Kiryat Ata"
@@ -79,9 +67,6 @@
     ],
     "name:nno_x_preferred":[
         "Kiryat Ata"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0631\u06cc\u0627\u062a \u0622\u062a\u0627"
     ],
     "name:pol_x_preferred":[
         "Kirjat Atta"
@@ -172,7 +157,7 @@
         }
     ],
     "wof:id":421170315,
-    "wof:lastmodified":1549930313,
+    "wof:lastmodified":1561760034,
     "wof:name":"Qiryat Ata",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

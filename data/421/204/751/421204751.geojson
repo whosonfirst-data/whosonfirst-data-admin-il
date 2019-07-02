@@ -16,12 +16,6 @@
     "name:ces_x_preferred":[
         "Bnej Cijon"
     ],
-    "name:cze_x_preferred":[
-        "Bnej Cijon"
-    ],
-    "name:dut_x_preferred":[
-        "Bnei Zion"
-    ],
     "name:eng_x_preferred":[
         "Bnei Zion"
     ],
@@ -31,6 +25,9 @@
     "name:heb_x_variant":[
         "Ben\u00e9 \u1e94iyyon",
         "Ben\u00e9 Tsiyyon"
+    ],
+    "name:nld_x_preferred":[
+        "Bnei Zion"
     ],
     "name:nno_x_preferred":[
         "Bnei Zion"
@@ -90,7 +87,7 @@
         }
     ],
     "wof:id":421204751,
-    "wof:lastmodified":1549930406,
+    "wof:lastmodified":1561760020,
     "wof:name":"Bene Ziyyon",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

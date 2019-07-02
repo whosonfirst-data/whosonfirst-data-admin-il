@@ -22,26 +22,23 @@
     "name:cat_x_preferred":[
         "Modiin-Maccabim-Reut"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u8fea\u56e0\u99ac\u52a0\u6bd4\u52d2\u7279"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Modi'in-Makabim-Re'ut"
     ],
     "name:dan_x_preferred":[
         "Modi'in-Maccabim-Re'ut"
     ],
-    "name:dut_x_preferred":[
-        "Modi'ien-Makkabiem-Re'oet"
+    "name:deu_x_preferred":[
+        "Modi\u2019in"
     ],
     "name:eng_x_preferred":[
         "Modi'in-Maccabim-Re'ut"
     ],
-    "name:fre_x_preferred":[
-        "Modiin-Maccabim-Reout"
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u062f\u06cc\u0639\u06cc\u0646-\u0645\u06a9\u0627\u0628\u06cc\u0645-\u0631\u06cc\u0639\u0648\u062a"
     ],
-    "name:ger_x_preferred":[
-        "Modi\u2019in"
+    "name:fra_x_preferred":[
+        "Modiin-Maccabim-Reout"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df-\u05de\u05db\u05d1\u05d9\u05dd-\u05e8\u05e2\u05d5\u05ea"
@@ -55,11 +52,11 @@
     "name:lad_x_preferred":[
         "Modi'in"
     ],
+    "name:nld_x_preferred":[
+        "Modi'ien-Makkabiem-Re'oet"
+    ],
     "name:nno_x_preferred":[
         "Modi'in-Maccabim-Re'ut"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u062f\u06cc\u0639\u06cc\u0646-\u0645\u06a9\u0627\u0628\u06cc\u0645-\u0631\u06cc\u0639\u0648\u062a"
     ],
     "name:pol_x_preferred":[
         "Modi'in-Maccabim-Re'ut"
@@ -96,6 +93,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u8fea\u56e0\u99ac\u52a0\u6bd4\u52d2\u7279"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -146,7 +146,7 @@
         }
     ],
     "wof:id":421193759,
-    "wof:lastmodified":1549930384,
+    "wof:lastmodified":1561760018,
     "wof:name":"Ramat Modi'in",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

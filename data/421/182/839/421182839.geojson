@@ -16,17 +16,14 @@
     "name:ces_x_preferred":[
         "Abirim"
     ],
-    "name:cze_x_preferred":[
-        "Abirim"
-    ],
-    "name:dut_x_preferred":[
-        "Abirim"
-    ],
     "name:eng_x_preferred":[
         "Abirim"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d1\u05d9\u05e8\u05d9\u05dd"
+    ],
+    "name:nld_x_preferred":[
+        "Abirim"
     ],
     "name:nno_x_preferred":[
         "Abirim"
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":421182839,
-    "wof:lastmodified":1549930350,
+    "wof:lastmodified":1561760037,
     "wof:name":"Abirim",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

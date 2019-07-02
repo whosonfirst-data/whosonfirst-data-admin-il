@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Michmoret"
     ],
-    "name:cze_x_preferred":[
-        "Michmoret"
-    ],
     "name:eng_x_preferred":[
         "Mikhmoret"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421192461,
-    "wof:lastmodified":1549930374,
+    "wof:lastmodified":1561760017,
     "wof:name":"Mikhmoret",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

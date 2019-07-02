@@ -19,9 +19,6 @@
     "name:ces_x_preferred":[
         "Bejt Janaj"
     ],
-    "name:cze_x_preferred":[
-        "Bejt Janaj"
-    ],
     "name:eng_x_preferred":[
         "Beit Yanai"
     ],
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":421190773,
-    "wof:lastmodified":1549930371,
+    "wof:lastmodified":1561760030,
     "wof:name":"Bet Yannay",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

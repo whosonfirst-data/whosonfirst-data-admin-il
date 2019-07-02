@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Zejtan"
     ],
-    "name:cze_x_preferred":[
-        "Zejtan"
-    ],
     "name:eng_x_preferred":[
         "Zeitan"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421180169,
-    "wof:lastmodified":1549930337,
+    "wof:lastmodified":1561760023,
     "wof:name":"Zetan",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Nir Jisra'el"
     ],
-    "name:cze_x_preferred":[
-        "Nir Jisra'el"
-    ],
     "name:eng_x_preferred":[
         "Nir Yisrael"
     ],
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":421182647,
-    "wof:lastmodified":1549930349,
+    "wof:lastmodified":1561760037,
     "wof:name":"Nir Israel",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

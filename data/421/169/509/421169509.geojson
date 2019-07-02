@@ -16,12 +16,6 @@
     "name:ces_x_preferred":[
         "Kanot"
     ],
-    "name:cze_x_preferred":[
-        "Kanot"
-    ],
-    "name:dut_x_preferred":[
-        "Kannot"
-    ],
     "name:eng_x_preferred":[
         "Kannot"
     ],
@@ -84,7 +78,7 @@
         }
     ],
     "wof:id":421169509,
-    "wof:lastmodified":1549930318,
+    "wof:lastmodified":1561760019,
     "wof:name":"Kannot",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

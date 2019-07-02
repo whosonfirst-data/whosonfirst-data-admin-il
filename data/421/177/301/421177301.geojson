@@ -16,12 +16,6 @@
     "name:ces_x_preferred":[
         "Kfar Glikson"
     ],
-    "name:cze_x_preferred":[
-        "Kfar Glikson"
-    ],
-    "name:dut_x_preferred":[
-        "Kfar Glikson"
-    ],
     "name:eng_x_preferred":[
         "Kfar Glikson"
     ],
@@ -86,7 +80,7 @@
         }
     ],
     "wof:id":421177301,
-    "wof:lastmodified":1549930331,
+    "wof:lastmodified":1561760034,
     "wof:name":"Kefar Glickson",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

@@ -16,23 +16,20 @@
     "name:ces_x_preferred":[
         "Evron"
     ],
-    "name:cze_x_preferred":[
-        "Evron"
-    ],
-    "name:dut_x_preferred":[
-        "Evron"
-    ],
     "name:eng_x_preferred":[
         "Evron"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10d5\u10e0\u10dd\u10dc\u10d8"
     ],
     "name:heb_x_preferred":[
         "\u05e2\u05d1\u05e8\u05d5\u05df"
     ],
     "name:heb_x_variant":[
         "\u2018Evron"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10d5\u10e0\u10dd\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Evron"
     ],
     "name:nno_x_preferred":[
         "Evron i Israel"
@@ -90,7 +87,7 @@
         }
     ],
     "wof:id":421180505,
-    "wof:lastmodified":1549930339,
+    "wof:lastmodified":1561760023,
     "wof:name":"Evron",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

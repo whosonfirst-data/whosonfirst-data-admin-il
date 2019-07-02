@@ -16,12 +16,6 @@
     "name:ces_x_preferred":[
         "Giv'at \u0160eme\u0161"
     ],
-    "name:cze_x_preferred":[
-        "Giv'at \u0160eme\u0161"
-    ],
-    "name:dut_x_preferred":[
-        "Givat Shemesh"
-    ],
     "name:eng_x_preferred":[
         "Givat Shemesh"
     ],
@@ -30,6 +24,9 @@
     ],
     "name:heb_x_variant":[
         "Giv\u2018at Shemesh"
+    ],
+    "name:nld_x_preferred":[
+        "Givat Shemesh"
     ],
     "name:nno_x_preferred":[
         "Givat Shemesh"
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":421176695,
-    "wof:lastmodified":1549930323,
+    "wof:lastmodified":1561760037,
     "wof:name":"Givat Shemesh",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

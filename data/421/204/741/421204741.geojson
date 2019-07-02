@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Giv'at Chen"
     ],
-    "name:cze_x_preferred":[
-        "Giv'at Chen"
-    ],
     "name:eng_x_preferred":[
         "Givat Hen"
     ],
@@ -90,7 +87,7 @@
         }
     ],
     "wof:id":421204741,
-    "wof:lastmodified":1549930405,
+    "wof:lastmodified":1561760020,
     "wof:name":"Givat Hen",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

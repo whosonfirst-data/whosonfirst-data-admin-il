@@ -16,16 +16,10 @@
     "name:ces_x_preferred":[
         "Neve Ur"
     ],
-    "name:cze_x_preferred":[
-        "Neve Ur"
-    ],
     "name:eng_x_preferred":[
         "Neve Ur"
     ],
     "name:fra_x_preferred":[
-        "Neve Ur"
-    ],
-    "name:fre_x_preferred":[
         "Neve Ur"
     ],
     "name:heb_x_preferred":[
@@ -94,7 +88,7 @@
         }
     ],
     "wof:id":421179697,
-    "wof:lastmodified":1549930337,
+    "wof:lastmodified":1561760036,
     "wof:name":"Newe Ur",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

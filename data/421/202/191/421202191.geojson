@@ -16,9 +16,6 @@
     "name:ces_x_preferred":[
         "Neta'jim"
     ],
-    "name:cze_x_preferred":[
-        "Neta'jim"
-    ],
     "name:eng_x_preferred":[
         "Neta'im"
     ],
@@ -80,7 +77,7 @@
         }
     ],
     "wof:id":421202191,
-    "wof:lastmodified":1549930399,
+    "wof:lastmodified":1561760022,
     "wof:name":"Netaim",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

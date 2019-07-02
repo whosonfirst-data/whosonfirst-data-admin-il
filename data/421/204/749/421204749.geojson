@@ -22,13 +22,7 @@
     "name:arg_x_preferred":[
         "Safet"
     ],
-    "name:arm_x_preferred":[
-        "\u0551\u0586\u0561\u0569"
-    ],
     "name:aze_x_preferred":[
-        "Safed"
-    ],
-    "name:baq_x_preferred":[
         "Safed"
     ],
     "name:ben_x_preferred":[
@@ -40,17 +34,20 @@
     "name:cat_x_preferred":[
         "Safed"
     ],
-    "name:chi_x_preferred":[
-        "\u91c7\u6cd5\u7279"
+    "name:ces_x_preferred":[
+        "Safed"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Safed"
     ],
     "name:dan_x_preferred":[
         "Safad"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Safed"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c6\u03ad\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Sfat"
@@ -66,26 +63,20 @@
     "name:est_x_preferred":[
         "Tsfat"
     ],
+    "name:eus_x_preferred":[
+        "Safed"
+    ],
     "name:fas_x_preferred":[
         "\u0635\u0641\u062f"
     ],
     "name:fin_x_preferred":[
         "Safed"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Safed"
     ],
     "name:fry_x_preferred":[
         "Safed"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ea\u10e4\u10d0\u10d7\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Safed"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03c6\u03ad\u03bd\u03c4"
     ],
     "name:gsw_x_preferred":[
         "Safed"
@@ -98,6 +89,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0938\u092b\u093c\u0947\u0926"
+    ],
+    "name:hye_x_preferred":[
+        "\u0551\u0586\u0561\u0569"
     ],
     "name:ind_x_preferred":[
         "Safed"
@@ -129,13 +123,16 @@
     "name:lit_x_preferred":[
         "Safedas"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u0444\u0435\u0434"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u092b\u0947\u0921"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u0444\u0435\u0434"
+    ],
+    "name:msa_x_preferred":[
+        "Safed"
+    ],
+    "name:nld_x_preferred":[
         "Safed"
     ],
     "name:nno_x_preferred":[
@@ -144,16 +141,13 @@
     "name:nob_x_preferred":[
         "Safed"
     ],
-    "name:per_x_preferred":[
-        "\u0635\u0641\u062f"
-    ],
     "name:pol_x_preferred":[
         "Safed"
     ],
     "name:por_x_preferred":[
         "Safed"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Safed"
     ],
     "name:rus_x_preferred":[
@@ -166,9 +160,6 @@
         "\u0dc3\u0dc6\u0dd9\u0da9\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Cfat"
-    ],
-    "name:slo_x_preferred":[
         "Cfat"
     ],
     "name:slv_x_preferred":[
@@ -214,9 +205,6 @@
         "Safed"
     ],
     "name:war_x_preferred":[
-        "Safed"
-    ],
-    "name:wel_x_preferred":[
         "Safed"
     ],
     "name:yid_x_preferred":[
@@ -272,7 +260,7 @@
         }
     ],
     "wof:id":421204749,
-    "wof:lastmodified":1549930407,
+    "wof:lastmodified":1561760020,
     "wof:name":"Zefat",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

@@ -16,9 +16,6 @@
     "name:ara_x_preferred":[
         "\u0639\u062a\u0644\u064a\u062a"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u057f\u056c\u056b\u057f"
-    ],
     "name:bel_x_preferred":[
         "\u0410\u0442\u043b\u0456\u0442"
     ],
@@ -28,28 +25,13 @@
     "name:ces_x_preferred":[
         "Atlit"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u7279\u91cc\u7279"
-    ],
-    "name:cze_x_preferred":[
-        "Atlit"
-    ],
     "name:deu_x_preferred":[
-        "Atlit"
-    ],
-    "name:dut_x_preferred":[
         "Atlit"
     ],
     "name:eng_x_preferred":[
         "Atlit"
     ],
     "name:fra_x_preferred":[
-        "Atlit"
-    ],
-    "name:fre_x_preferred":[
-        "Atlit"
-    ],
-    "name:ger_x_preferred":[
         "Atlit"
     ],
     "name:heb_x_preferred":[
@@ -63,6 +45,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30c8\u30ea\u30c3\u30c8"
+    ],
+    "name:nld_x_preferred":[
+        "Atlit"
     ],
     "name:nno_x_preferred":[
         "Atlit"
@@ -84,6 +69,9 @@
     ],
     "name:unk_x_variant":[
         "\u2018Athl\u012bth"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u7279\u91cc\u7279"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -133,7 +121,7 @@
         }
     ],
     "wof:id":421166365,
-    "wof:lastmodified":1553816354,
+    "wof:lastmodified":1561760014,
     "wof:name":"Atlit",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

@@ -19,12 +19,6 @@
     "name:ces_x_preferred":[
         "Iksal"
     ],
-    "name:cze_x_preferred":[
-        "Iksal"
-    ],
-    "name:dut_x_preferred":[
-        "Iksal"
-    ],
     "name:eng_x_preferred":[
         "Iksal"
     ],
@@ -35,6 +29,9 @@
         "Iks\u0101l",
         "\u05d0\u05db\u05e1\u05dc",
         "\u05db\u05e1\u05dc\u05d5\u05ea \u05ea\u05d1\u05d5\u05e8"
+    ],
+    "name:nld_x_preferred":[
+        "Iksal"
     ],
     "name:nno_x_preferred":[
         "Iksal"
@@ -99,7 +96,7 @@
         }
     ],
     "wof:id":421182791,
-    "wof:lastmodified":1549930350,
+    "wof:lastmodified":1561760036,
     "wof:name":"Iksal",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

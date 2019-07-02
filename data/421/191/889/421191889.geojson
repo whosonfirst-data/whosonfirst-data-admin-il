@@ -16,20 +16,11 @@
     "name:ces_x_preferred":[
         "Ge\u0161er"
     ],
-    "name:cze_x_preferred":[
-        "Ge\u0161er"
-    ],
     "name:deu_x_preferred":[
         "Gescher"
     ],
-    "name:dut_x_preferred":[
-        "Gesher"
-    ],
     "name:eng_x_preferred":[
         "Gesher"
-    ],
-    "name:ger_x_preferred":[
-        "Gescher"
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05e9\u05e8"
@@ -93,7 +84,7 @@
         }
     ],
     "wof:id":421191889,
-    "wof:lastmodified":1549930379,
+    "wof:lastmodified":1561760029,
     "wof:name":"Gesher",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

@@ -16,20 +16,17 @@
     "name:ces_x_preferred":[
         "Lavon"
     ],
-    "name:cze_x_preferred":[
-        "Lavon"
-    ],
-    "name:dut_x_preferred":[
-        "Lavon"
-    ],
     "name:eng_x_preferred":[
         "Lavon"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lavon"
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d1\u05d5\u05df"
+    ],
+    "name:nld_x_preferred":[
+        "Lavon"
     ],
     "name:nno_x_preferred":[
         "Lavon i Israel"
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":421174607,
-    "wof:lastmodified":1549930321,
+    "wof:lastmodified":1561760023,
     "wof:name":"Lavon",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

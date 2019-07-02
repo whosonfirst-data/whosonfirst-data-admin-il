@@ -19,16 +19,10 @@
     "name:ces_x_preferred":[
         "Mi'ilja"
     ],
-    "name:cze_x_preferred":[
-        "Mi'ilja"
-    ],
     "name:eng_x_preferred":[
         "Mi'ilya"
     ],
     "name:fra_x_preferred":[
-        "Mhalia"
-    ],
-    "name:fre_x_preferred":[
         "Mhalia"
     ],
     "name:heb_x_preferred":[
@@ -107,7 +101,7 @@
         }
     ],
     "wof:id":421177361,
-    "wof:lastmodified":1549930331,
+    "wof:lastmodified":1561760035,
     "wof:name":"Miilya",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

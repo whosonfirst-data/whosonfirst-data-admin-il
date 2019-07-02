@@ -16,12 +16,6 @@
     "name:ces_x_preferred":[
         "Misgav Am"
     ],
-    "name:cze_x_preferred":[
-        "Misgav Am"
-    ],
-    "name:dut_x_preferred":[
-        "Misgav Am"
-    ],
     "name:eng_x_preferred":[
         "Misgav Am"
     ],
@@ -30,6 +24,9 @@
     ],
     "name:heb_x_variant":[
         "Misgav \u2018Am"
+    ],
+    "name:nld_x_preferred":[
+        "Misgav Am"
     ],
     "name:nno_x_preferred":[
         "Misgav Am"
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":421166631,
-    "wof:lastmodified":1549930312,
+    "wof:lastmodified":1561760015,
     "wof:name":"Misgav Am",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",
