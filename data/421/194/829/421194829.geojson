@@ -16,6 +16,12 @@
     "name:ara_x_preferred":[
         "\u0645\u062c\u062f\u0648"
     ],
+    "name:bel_x_preferred":[
+        "\u041c\u0435\u0433\u0456\u0434\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Megiddo"
+    ],
     "name:ces_x_preferred":[
         "Megido"
     ],
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421194829,
-    "wof:lastmodified":1561760017,
+    "wof:lastmodified":1563315063,
     "wof:name":"Megiddo",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

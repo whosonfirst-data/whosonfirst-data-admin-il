@@ -39,6 +39,9 @@
     "name:pol_x_preferred":[
         "Ma\u2019ejan Baruch"
     ],
+    "name:pol_x_variant":[
+        "Majan Baruch"
+    ],
     "name:unk_x_variant":[
         "Mayan Baruch"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421187551,
-    "wof:lastmodified":1561760024,
+    "wof:lastmodified":1563315119,
     "wof:name":"Mayan Barukh",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

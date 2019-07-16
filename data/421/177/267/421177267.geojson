@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u062d\u0646\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Deir \u1e24ann\u0101"
+    ],
     "name:ces_x_preferred":[
         "Dejr Channa"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "Kefar Yohanah"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ee3\u723e\u6f22\u7d0d"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421177267,
-    "wof:lastmodified":1561760035,
+    "wof:lastmodified":1563315222,
     "wof:name":"Deir Hanna",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "name:ces_x_preferred":[
         "Chagor"
     ],
+    "name:deu_x_preferred":[
+        "Chagor"
+    ],
     "name:eng_x_preferred":[
         "Hagor"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421169397,
-    "wof:lastmodified":1561760018,
+    "wof:lastmodified":1563315073,
     "wof:name":"Hagor",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

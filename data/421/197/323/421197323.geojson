@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Netivot"
     ],
+    "name:ceb_x_preferred":[
+        "Netivot"
+    ],
     "name:ces_x_preferred":[
         "Netivot"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:pol_x_preferred":[
         "Netiwot"
+    ],
+    "name:pol_x_variant":[
+        "Netivot"
     ],
     "name:por_x_preferred":[
         "Netivot"
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":421197323,
-    "wof:lastmodified":1561760030,
+    "wof:lastmodified":1563315176,
     "wof:name":"Netivot",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

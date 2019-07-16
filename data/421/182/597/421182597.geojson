@@ -46,8 +46,14 @@
     "name:pol_x_preferred":[
         "Nir Dawid"
     ],
+    "name:pol_x_variant":[
+        "Nir David"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0438\u0440-\u0414\u0430\u0432\u0438\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Nir David"
     ],
     "name:unk_x_variant":[
         "Nir David"
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421182597,
-    "wof:lastmodified":1561760037,
+    "wof:lastmodified":1563315241,
     "wof:name":"Nir Dawid",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

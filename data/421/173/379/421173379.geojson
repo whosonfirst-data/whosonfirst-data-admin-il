@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Bustan HaGalil"
+    ],
     "name:ces_x_preferred":[
         "Bustan ha-Galil"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:pol_x_preferred":[
         "Bustan HaGalil"
+    ],
+    "name:pol_x_variant":[
+        "Bustan ha-Galil"
     ],
     "name:swe_x_preferred":[
         "Bustan HaGalil"
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":421173379,
-    "wof:lastmodified":1561760025,
+    "wof:lastmodified":1563315128,
     "wof:name":"Bustan HaGalil",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

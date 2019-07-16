@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0625\u0644\u0639\u0632\u0631\u064a"
+    ],
     "name:ces_x_preferred":[
         "Bejt El'azari"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421185193,
-    "wof:lastmodified":1561760038,
+    "wof:lastmodified":1563315254,
     "wof:name":"Bet Elazari",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

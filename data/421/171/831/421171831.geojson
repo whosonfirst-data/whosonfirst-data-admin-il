@@ -16,7 +16,13 @@
     "name:ces_x_preferred":[
         "Chavacelet ha-\u0160aron"
     ],
+    "name:deu_x_preferred":[
+        "Chawazelet HaScharon"
+    ],
     "name:eng_x_preferred":[
+        "Havatzelet HaSharon"
+    ],
+    "name:fra_x_preferred":[
         "Havatzelet HaSharon"
     ],
     "name:heb_x_preferred":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":421171831,
-    "wof:lastmodified":1561760038,
+    "wof:lastmodified":1563315252,
     "wof:name":"Havazzelet HaSharon",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

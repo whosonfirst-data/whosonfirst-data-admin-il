@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Ya'ara"
     ],
+    "name:fra_x_preferred":[
+        "Ya'ara"
+    ],
     "name:heb_x_preferred":[
         "Ya\u2018ara"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421178389,
-    "wof:lastmodified":1561760036,
+    "wof:lastmodified":1563315237,
     "wof:name":"Yaara",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

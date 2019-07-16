@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Tayibe"
     ],
+    "name:ceb_x_preferred":[
+        "E\u1e6d \u1e6caiyiba"
+    ],
     "name:ces_x_preferred":[
         "Tajbe"
     ],
@@ -42,6 +45,9 @@
         "\u05d8\u05d9\u05d9\u05d1\u05d4"
     ],
     "name:ind_x_preferred":[
+        "Tayibe"
+    ],
+    "name:ita_x_preferred":[
         "Tayibe"
     ],
     "name:lad_x_preferred":[
@@ -85,6 +91,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0637\u06cc\u0628\u06c1\u060c \u0627\u0633\u0631\u0627\u0626\u06cc\u0644"
+    ],
+    "name:urd_x_variant":[
+        "\u0637\u06cc\u0628\u06c1"
     ],
     "name:vie_x_preferred":[
         "Tayibe"
@@ -139,7 +148,7 @@
         }
     ],
     "wof:id":421193191,
-    "wof:lastmodified":1561760018,
+    "wof:lastmodified":1563315068,
     "wof:name":"Et Taiyiba",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

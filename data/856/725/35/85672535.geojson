@@ -42,6 +42,9 @@
     "name:bar_x_preferred":[
         "Beziak Haifa"
     ],
+    "name:bel_x_preferred":[
+        "\u0425\u0430\u0439\u0444\u0441\u043a\u0430\u044f \u0430\u043a\u0440\u0443\u0433\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09be\u0987\u09ab\u09be \u099c\u09c7\u09b2\u09be"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:cat_x_preferred":[
         "Districte de Haifa"
+    ],
+    "name:ceb_x_preferred":[
+        "Haifa"
     ],
     "name:ces_x_preferred":[
         "Haifsk\u00fd distrikt"
@@ -95,6 +101,9 @@
     "name:fra_x_variant":[
         "district de Ha\u00effa"
     ],
+    "name:frr_x_preferred":[
+        "Haifa"
+    ],
     "name:glv_x_preferred":[
         "Slyst Haifa"
     ],
@@ -115,6 +124,9 @@
     "name:hrv_x_preferred":[
         "Okrug Haifa"
     ],
+    "name:hun_x_preferred":[
+        "Haifai k\u00f6rzet"
+    ],
     "name:hye_x_preferred":[
         "\u0540\u0561\u0575\u0586\u0561\u0575\u056b \u0574\u0561\u0580\u0566"
     ],
@@ -133,8 +145,14 @@
     "name:kat_x_preferred":[
         "\u10ee\u10d0\u10d8\u10e4\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
+    "name:kaz_x_preferred":[
+        "\u0425\u0430\u0439\u0444\u0430 \u043e\u043a\u0440\u0443\u0433\u0456"
+    ],
     "name:kor_x_preferred":[
         "\ud558\uc774\ud30c \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ud558\uc774\ud30c\uad6c"
     ],
     "name:lav_x_preferred":[
         "Haifas apgabals"
@@ -171,6 +189,9 @@
     ],
     "name:pol_x_preferred":[
         "Hajfa"
+    ],
+    "name:pol_x_variant":[
+        "Dystrykt Hajfy"
     ],
     "name:por_x_preferred":[
         "Haifa"
@@ -353,7 +374,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1561760004,
+    "wof:lastmodified":1563314950,
     "wof:name":"Haifa",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

@@ -19,6 +19,9 @@
     "name:als_x_preferred":[
         "Akkon"
     ],
+    "name:ang_x_preferred":[
+        "Acre"
+    ],
     "name:ara_x_preferred":[
         "\u0639\u0643\u0627"
     ],
@@ -34,6 +37,9 @@
     "name:aze_x_preferred":[
         "\u018fkka"
     ],
+    "name:aze_x_variant":[
+        "Akka"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u043a\u0430"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:cat_x_preferred":[
         "Acre"
+    ],
+    "name:ceb_x_preferred":[
+        "\u2018Akko"
     ],
     "name:ces_x_preferred":[
         "Akko"
@@ -150,6 +159,9 @@
     "name:kor_x_preferred":[
         "\uc544\ucf54"
     ],
+    "name:kur_x_preferred":[
+        "Eka"
+    ],
     "name:lad_x_preferred":[
         "Akre"
     ],
@@ -161,6 +173,9 @@
     ],
     "name:lit_x_preferred":[
         "Akas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d0f\u0d15\u0d4d\u0d15\u0d7c"
     ],
     "name:mar_x_preferred":[
         "\u090f\u0915\u0930"
@@ -236,6 +251,9 @@
     ],
     "name:tgl_x_preferred":[
         "Lungsod ng Acre"
+    ],
+    "name:tgl_x_variant":[
+        "Acre"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e2d\u0e40\u0e04\u0e2d\u0e23\u0e4c"
@@ -320,7 +338,7 @@
         }
     ],
     "wof:id":421202497,
-    "wof:lastmodified":1561760021,
+    "wof:lastmodified":1563315097,
     "wof:name":"Acre",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

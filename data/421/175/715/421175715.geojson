@@ -37,6 +37,9 @@
     "name:pol_x_preferred":[
         "Ramat ha-Kowesz"
     ],
+    "name:pol_x_variant":[
+        "Ramat HaKovesh"
+    ],
     "name:por_x_preferred":[
         "Ramat Hakovesh"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421175715,
-    "wof:lastmodified":1561760028,
+    "wof:lastmodified":1563315154,
     "wof:name":"Ramat HaKovesh",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

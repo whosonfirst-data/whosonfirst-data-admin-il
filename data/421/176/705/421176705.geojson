@@ -31,6 +31,9 @@
     "name:pol_x_preferred":[
         "Lawi"
     ],
+    "name:pol_x_variant":[
+        "Lavi"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0430\u0432\u0438"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421176705,
-    "wof:lastmodified":1561760037,
+    "wof:lastmodified":1563315245,
     "wof:name":"Lavi",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

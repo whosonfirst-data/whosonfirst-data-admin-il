@@ -43,11 +43,17 @@
     "name:pol_x_preferred":[
         "Bet Alfa"
     ],
+    "name:pol_x_variant":[
+        "Beit Alfa"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0439\u0442-\u0410\u043b\u044c\u0444\u0430"
     ],
     "name:spa_x_preferred":[
         "Beit Alfa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0439\u0442-\u0410\u043b\u044c\u0444\u0430"
     ],
     "name:unk_x_variant":[
         "Beit Alfa"
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421203107,
-    "wof:lastmodified":1561760021,
+    "wof:lastmodified":1563315090,
     "wof:name":"Beit Jala",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

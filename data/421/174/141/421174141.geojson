@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Gonen"
+    ],
     "name:ces_x_preferred":[
         "Gonen"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421174141,
-    "wof:lastmodified":1561760023,
+    "wof:lastmodified":1563315111,
     "wof:name":"Gonen",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:pol_x_preferred":[
         "Etanim"
     ],
+    "name:pol_x_variant":[
+        "Ejtanim"
+    ],
     "name:unk_x_variant":[
         "Eitanim"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421183517,
-    "wof:lastmodified":1561760035,
+    "wof:lastmodified":1563315228,
     "wof:name":"Etanim",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "name:ces_x_preferred":[
         "Kfar Dani'el"
     ],
+    "name:ces_x_variant":[
+        "Kfar Danijel"
+    ],
     "name:eng_x_preferred":[
         "Kfar Daniel"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421176701,
-    "wof:lastmodified":1561760037,
+    "wof:lastmodified":1563315243,
     "wof:name":"Kefar Daniyyel",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

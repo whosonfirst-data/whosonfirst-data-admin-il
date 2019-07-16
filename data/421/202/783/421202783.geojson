@@ -16,6 +16,12 @@
     "name:ara_x_preferred":[
         "\u0625\u0628\u0637\u0646\u060c \u062d\u064a\u0641\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u0628\u0637\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Ib\u1e6d\u012bn"
+    ],
     "name:ces_x_preferred":[
         "Ibtin"
     ],
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421202783,
-    "wof:lastmodified":1561760021,
+    "wof:lastmodified":1563315100,
     "wof:name":"Ibtin",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

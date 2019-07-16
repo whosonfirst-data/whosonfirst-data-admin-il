@@ -27,11 +27,17 @@
     "name:cat_x_preferred":[
         "Ariel"
     ],
+    "name:ceb_x_preferred":[
+        "Ariel"
+    ],
     "name:ces_x_preferred":[
         "Ariel"
     ],
     "name:deu_x_preferred":[
         "Ariel"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03b9\u03ad\u03bb"
     ],
     "name:eng_x_preferred":[
         "Ariel"
@@ -111,6 +117,9 @@
     "name:vie_x_preferred":[
         "Ariel"
     ],
+    "name:war_x_preferred":[
+        "Ariel"
+    ],
     "name:yid_x_preferred":[
         "\u05d0\u05e8\u05d9\u05d0\u05dc"
     ],
@@ -164,7 +173,7 @@
         }
     ],
     "wof:id":890452103,
-    "wof:lastmodified":1561760039,
+    "wof:lastmodified":1563315260,
     "wof:name":"Ariel",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

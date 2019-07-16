@@ -25,6 +25,9 @@
     "name:heb_x_variant":[
         "Avi\u2019el"
     ],
+    "name:ind_x_preferred":[
+        "Aviel"
+    ],
     "name:kat_x_preferred":[
         "\u10d0\u10d5\u10d8\u10d4\u10da"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:pol_x_preferred":[
         "Awi\u2019el"
+    ],
+    "name:pol_x_variant":[
+        "Avi'el"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0432\u0438\u044d\u043b\u044c"
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421203891,
-    "wof:lastmodified":1561760021,
+    "wof:lastmodified":1563315091,
     "wof:name":"Avi'el",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

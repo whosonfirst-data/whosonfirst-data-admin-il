@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Tzova"
     ],
+    "name:fra_x_preferred":[
+        "Palmach-Tzuva"
+    ],
     "name:heb_x_preferred":[
         "\u05e6\u05d5\u05d1\u05d4"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421204331,
-    "wof:lastmodified":1561760019,
+    "wof:lastmodified":1563315080,
     "wof:name":"Zova",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

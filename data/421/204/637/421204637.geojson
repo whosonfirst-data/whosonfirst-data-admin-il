@@ -19,10 +19,19 @@
     "name:cat_x_preferred":[
         "Bet Jan"
     ],
+    "name:ceb_x_preferred":[
+        "Beit Jann"
+    ],
     "name:ces_x_preferred":[
         "Bejt D\u017ean"
     ],
     "name:deu_x_preferred":[
+        "Beit Jann"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Jann"
+    ],
+    "name:fin_x_preferred":[
         "Beit Jann"
     ],
     "name:heb_x_preferred":[
@@ -31,16 +40,31 @@
     "name:heb_x_variant":[
         "\u05d1\u05d9\u05ea \u05d2\u2019\u05df"
     ],
+    "name:hun_x_preferred":[
+        "Beit Jann"
+    ],
+    "name:nld_x_preferred":[
+        "Beit Jann"
+    ],
     "name:nno_x_preferred":[
         "Beit Jann"
     ],
     "name:pol_x_preferred":[
         "Bet D\u017can"
     ],
+    "name:pol_x_variant":[
+        "Beit D\u017can"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0439\u0442-\u0414\u0436\u0430\u043d"
     ],
     "name:sco_x_preferred":[
+        "Beit Jann"
+    ],
+    "name:spa_x_preferred":[
+        "Bet Jan"
+    ],
+    "name:swe_x_preferred":[
         "Beit Jann"
     ],
     "name:unk_x_variant":[
@@ -94,7 +118,7 @@
         }
     ],
     "wof:id":421204637,
-    "wof:lastmodified":1549930405,
+    "wof:lastmodified":1563315086,
     "wof:name":"Beit Jann",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

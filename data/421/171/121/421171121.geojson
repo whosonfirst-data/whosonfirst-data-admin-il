@@ -16,11 +16,17 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u062d\u0648\u0636"
     ],
+    "name:ceb_x_preferred":[
+        "\u2018En Hod"
+    ],
     "name:ces_x_preferred":[
         "Ejn Hod"
     ],
     "name:deu_x_preferred":[
         "En Hod"
+    ],
+    "name:eng_x_preferred":[
+        "Ein Hod"
     ],
     "name:fra_x_preferred":[
         "Ein Hod"
@@ -28,14 +34,23 @@
     "name:heb_x_preferred":[
         "\u05e2\u05d9\u05df \u05d4\u05d5\u05d3"
     ],
+    "name:nld_x_preferred":[
+        "Ein Hod"
+    ],
     "name:nno_x_preferred":[
         "Ein Hod"
     ],
     "name:pol_x_preferred":[
         "En Hod"
     ],
+    "name:pol_x_variant":[
+        "Ein Hod"
+    ],
     "name:spa_x_preferred":[
         "Ein Hod"
+    ],
+    "name:swe_x_preferred":[
+        "\u2018En Hod"
     ],
     "name:unk_x_variant":[
         "Ain Hod"
@@ -87,7 +102,7 @@
         }
     ],
     "wof:id":421171121,
-    "wof:lastmodified":1549930305,
+    "wof:lastmodified":1563315250,
     "wof:name":"En Hod",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

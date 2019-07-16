@@ -31,6 +31,9 @@
     "name:pol_x_preferred":[
         "Bet Chananja"
     ],
+    "name:pol_x_variant":[
+        "Beit Hanania"
+    ],
     "name:unk_x_variant":[
         "Beit Hananyah"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421179689,
-    "wof:lastmodified":1561760036,
+    "wof:lastmodified":1563315233,
     "wof:name":"Bet Hananya",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

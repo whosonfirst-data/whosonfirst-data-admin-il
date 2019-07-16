@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041d\u0438\u0440\u0438\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Nirit"
+    ],
     "name:ces_x_preferred":[
         "Nirit"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421193659,
-    "wof:lastmodified":1561760018,
+    "wof:lastmodified":1563315067,
     "wof:name":"Mirit",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

@@ -40,6 +40,9 @@
     "name:pol_x_preferred":[
         "Jirka"
     ],
+    "name:pol_x_variant":[
+        "Alummot"
+    ],
     "name:rus_x_preferred":[
         "\u042f\u0440\u043a\u0430"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421187045,
-    "wof:lastmodified":1561760024,
+    "wof:lastmodified":1563315125,
     "wof:name":"Yirka",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

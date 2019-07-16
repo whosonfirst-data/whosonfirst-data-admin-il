@@ -37,8 +37,17 @@
     "name:pol_x_preferred":[
         "Gan Szemu\u2019el"
     ],
+    "name:pol_x_variant":[
+        "Gan Szmuel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043d-\u0428\u043c\u0443\u044d\u043b\u044c"
+    ],
     "name:unk_x_variant":[
         "Ganshmuel"
+    ],
+    "name:zho_x_preferred":[
+        "\u65bd\u59c6\u723e\u5712"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":421174385,
-    "wof:lastmodified":1561760023,
+    "wof:lastmodified":1563315109,
     "wof:name":"Gan Shemu'el",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

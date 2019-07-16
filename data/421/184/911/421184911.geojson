@@ -22,11 +22,15 @@
     "name:epo_x_preferred":[
         "Cafririm"
     ],
+    "name:fra_x_preferred":[
+        "Tzafririm"
+    ],
     "name:heb_x_preferred":[
         "\u05e6\u05e4\u05e8\u05d9\u05e8\u05d9\u05dd"
     ],
     "name:heb_x_variant":[
-        "\u1e94afririm"
+        "\u1e94afririm",
+        "Bet Zevi"
     ],
     "name:nld_x_preferred":[
         "Tzafririm"
@@ -36,6 +40,9 @@
     ],
     "name:pol_x_preferred":[
         "Cafririm"
+    ],
+    "name:pol_x_variant":[
+        "Zafririm"
     ],
     "name:unk_x_variant":[
         "Tsafririm"
@@ -87,7 +94,7 @@
         }
     ],
     "wof:id":421184911,
-    "wof:lastmodified":1561760034,
+    "wof:lastmodified":1563315214,
     "wof:name":"Zafririm",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

@@ -13,14 +13,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062c\u062f\u0644"
+    ],
     "name:ces_x_preferred":[
+        "Migdal"
+    ],
+    "name:eng_x_preferred":[
         "Migdal"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d2\u05d3\u05dc"
     ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30b0\u30c0\u30eb"
+    ],
     "name:lit_x_preferred":[
         "Magdala"
+    ],
+    "name:nld_x_preferred":[
+        "Migdal"
     ],
     "name:nno_x_preferred":[
         "Migdal i Israel"
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":421192459,
-    "wof:lastmodified":1549930373,
+    "wof:lastmodified":1563315060,
     "wof:name":"Migdal",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

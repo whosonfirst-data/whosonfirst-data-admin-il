@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Rekhassim"
     ],
+    "name:ceb_x_preferred":[
+        "Rekhasim"
+    ],
     "name:ces_x_preferred":[
         "Rechasim"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421197321,
-    "wof:lastmodified":1561760031,
+    "wof:lastmodified":1563315181,
     "wof:name":"Rekhasim",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

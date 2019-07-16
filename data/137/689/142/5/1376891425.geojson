@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Even Sappir"
+    ],
     "name:ces_x_preferred":[
         "Even Sapir"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:pol_x_preferred":[
         "Ewen Sappir"
+    ],
+    "name:pol_x_variant":[
+        "Even Sappir"
     ],
     "name:swe_x_preferred":[
         "Even Sappir"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1376891425,
-    "wof:lastmodified":1561760012,
+    "wof:lastmodified":1563315024,
     "wof:name":"Even Sappir",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

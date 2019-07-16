@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Gan Yavne"
+    ],
     "name:ces_x_preferred":[
         "Gan Javne"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421204737,
-    "wof:lastmodified":1561760019,
+    "wof:lastmodified":1563315081,
     "wof:name":"Gan Yavne",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "name:ces_x_preferred":[
         "Chosen"
     ],
+    "name:deu_x_preferred":[
+        "Chosen"
+    ],
     "name:eng_x_preferred":[
         "Hosen"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421189773,
-    "wof:lastmodified":1561760026,
+    "wof:lastmodified":1563315134,
     "wof:name":"Hosen",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

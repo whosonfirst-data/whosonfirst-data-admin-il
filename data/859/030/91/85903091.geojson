@@ -32,13 +32,20 @@
         "Bet HaKerem"
     ],
     "name:eng_x_variant":[
-        "Beit Hakerem"
+        "Beit Hakerem",
+        "Beit HaKerem"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05ea \u05d4\u05db\u05e8\u05dd"
     ],
+    "name:ind_x_preferred":[
+        "Beit HaKerem"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u0435\u0438\u0442 \u0425\u0430\u043a\u0435\u0440\u0435\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0439\u0442-\u0445\u0430-\u041a\u0435\u0440\u0435\u043c"
     ],
     "name:unk_x_variant":[
         "Beit Hakerem",
@@ -77,11 +84,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":523,
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930537,
+    "wof:lastmodified":1563314937,
     "wof:name":"Bet HaKerem",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

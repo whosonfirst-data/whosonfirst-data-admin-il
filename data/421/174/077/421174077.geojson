@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0632\u062e\u0631\u0648\u0646 \u064a\u0639\u0643\u0648\u0641"
     ],
+    "name:cat_x_preferred":[
+        "Zichron Yaakov"
+    ],
     "name:ces_x_preferred":[
         "Zichron Ja'akov"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:pol_x_preferred":[
         "Zichron Ja\u2019akow"
+    ],
+    "name:pol_x_variant":[
+        "Zichron Ja'akow"
     ],
     "name:por_x_preferred":[
         "Zihron Yaakov"
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":421174077,
-    "wof:lastmodified":1561760022,
+    "wof:lastmodified":1563315106,
     "wof:name":"Zikhron Yaaqov",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

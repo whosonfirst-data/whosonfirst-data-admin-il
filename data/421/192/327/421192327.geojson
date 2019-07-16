@@ -37,6 +37,9 @@
     "name:pol_x_preferred":[
         "Allonim"
     ],
+    "name:pol_x_variant":[
+        "Alonim"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u043e\u043d\u0438\u043c"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421192327,
-    "wof:lastmodified":1561760017,
+    "wof:lastmodified":1563315060,
     "wof:name":"Allonim",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Talpiyot"
     ],
+    "name:eng_x_variant":[
+        "Talpiot"
+    ],
     "name:fra_x_preferred":[
         "Talpiot"
     ],
@@ -153,7 +156,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561760004,
+    "wof:lastmodified":1563314949,
     "wof:name":"Talpiyot",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

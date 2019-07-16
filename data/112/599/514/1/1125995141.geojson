@@ -19,8 +19,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0631\u0641\u0627\u0641\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u0435\u0432\u0430\u0432\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Revava"
     ],
     "name:ces_x_preferred":[
         "Revava"
@@ -48,6 +54,9 @@
     ],
     "name:swe_x_preferred":[
         "Revava"
+    ],
+    "name:swe_x_variant":[
+        "Oranit"
     ],
     "qs_pg:aaroncc":"IL",
     "qs_pg:gn_country":"IL",
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":1125995141,
-    "wof:lastmodified":1561760040,
+    "wof:lastmodified":1563315268,
     "wof:name":"Revava",
     "wof:parent_id":1091913173,
     "wof:placetype":"locality",

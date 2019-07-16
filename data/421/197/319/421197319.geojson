@@ -17,6 +17,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Rishon LeZion"
+    ],
     "name:als_x_preferred":[
         "Rischon LeZion"
     ],
@@ -35,6 +38,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0420\u044b\u0448\u043e\u043d-\u043b\u0435-\u0426\u044b\u0451\u043d"
     ],
+    "name:bel_x_variant":[
+        "\u0420\u044b\u0448\u043e\u043d-\u043b\u0435-\u0426\u044b\u0451\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u09bf\u09b6\u09a8 \u09b2\u09c7\u099c\u09bf\u0993\u09a8"
     ],
@@ -43,6 +49,9 @@
     ],
     "name:cat_x_preferred":[
         "Rixon le-Tsiyyon"
+    ],
+    "name:ceb_x_preferred":[
+        "Rishon Le\u1e94iyyon"
     ],
     "name:ces_x_preferred":[
         "Ri\u0161on le-Cijon"
@@ -173,6 +182,9 @@
     "name:ron_x_preferred":[
         "Ri\u0219on Le-\u021aion"
     ],
+    "name:ron_x_variant":[
+        "Rishon Letzion"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u0438\u0448\u043e\u043d-\u043b\u0435-\u0426\u0438\u043e\u043d"
     ],
@@ -183,6 +195,9 @@
         "\u0dbb\u0dd2\u0dc1\u0ddd\u0db1\u0dca \u0dbd\u0dda\u0dc3\u0dd2\u0dba\u0ddc\u0db1\u0dca"
     ],
     "name:slv_x_preferred":[
+        "Rishon LeZion"
+    ],
+    "name:som_x_preferred":[
         "Rishon LeZion"
     ],
     "name:spa_x_preferred":[
@@ -284,7 +299,7 @@
         }
     ],
     "wof:id":421197319,
-    "wof:lastmodified":1561760031,
+    "wof:lastmodified":1563315181,
     "wof:name":"Rishon LeZion",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

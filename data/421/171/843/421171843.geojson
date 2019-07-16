@@ -34,6 +34,9 @@
     "name:pol_x_preferred":[
         "Tel Josef"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043b\u044c-\u0419\u043e\u0441\u0435\u0444"
+    ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":293334,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421171843,
-    "wof:lastmodified":1561760038,
+    "wof:lastmodified":1563315249,
     "wof:name":"Tel Yosef",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

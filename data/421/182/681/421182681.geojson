@@ -89,11 +89,17 @@
     "name:nno_x_preferred":[
         "Nan"
     ],
+    "name:nno_x_variant":[
+        "Na'an"
+    ],
     "name:nor_x_preferred":[
         "Nanbr\u00f8d"
     ],
     "name:pol_x_preferred":[
         "Naan"
+    ],
+    "name:pol_x_variant":[
+        "Na'an"
     ],
     "name:por_x_preferred":[
         "Naan"
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":421182681,
-    "wof:lastmodified":1561760036,
+    "wof:lastmodified":1563315238,
     "wof:name":"Naan",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

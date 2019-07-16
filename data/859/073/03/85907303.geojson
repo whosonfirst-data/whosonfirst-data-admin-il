@@ -31,11 +31,17 @@
     "name:dan_x_preferred":[
         "Florentine"
     ],
+    "name:dan_x_variant":[
+        "Florentin"
+    ],
     "name:deu_x_preferred":[
         "Florentine"
     ],
     "name:eng_x_preferred":[
         "Florentine"
+    ],
+    "name:eng_x_variant":[
+        "Florentin"
     ],
     "name:fra_x_preferred":[
         "Florentine"
@@ -77,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561760003,
+    "wof:lastmodified":1563314939,
     "wof:name":"Florentine",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

@@ -32,8 +32,14 @@
     "name:eng_x_preferred":[
         "Ge'ulim"
     ],
+    "name:eng_x_variant":[
+        "Baka"
+    ],
     "name:heb_x_preferred":[
         "\u05d2\u05d0\u05d5\u05dc\u05d9\u05dd"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05e7\u05e2\u05d4"
     ],
     "name:ind_x_preferred":[
         "Baka"
@@ -43,6 +49,9 @@
     ],
     "name:pol_x_preferred":[
         "Ge'ulim"
+    ],
+    "name:pol_x_variant":[
+        "Geulim"
     ],
     "name:yid_x_preferred":[
         "\u05d1\u05e7\u05e2\u05d4"
@@ -98,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561760003,
+    "wof:lastmodified":1563314944,
     "wof:name":"Ge'ulim",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

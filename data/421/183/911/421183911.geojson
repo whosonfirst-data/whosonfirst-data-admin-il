@@ -16,11 +16,26 @@
     "name:ara_x_preferred":[
         "\u0637\u0645\u0631\u0629"
     ],
+    "name:bre_x_preferred":[
+        "Tamra"
+    ],
+    "name:cat_x_preferred":[
+        "Tamra"
+    ],
+    "name:ceb_x_preferred":[
+        "Tamra"
+    ],
     "name:ces_x_preferred":[
         "Tamra"
     ],
     "name:deu_x_preferred":[
         "Tamra"
+    ],
+    "name:eng_x_preferred":[
+        "Tamra"
+    ],
+    "name:fas_x_preferred":[
+        "\u0637\u0645\u0631\u0647"
     ],
     "name:fra_x_preferred":[
         "Tamra"
@@ -46,6 +61,9 @@
     "name:nno_x_preferred":[
         "Tamra"
     ],
+    "name:nob_x_preferred":[
+        "Tamra"
+    ],
     "name:nor_x_preferred":[
         "Tamra"
     ],
@@ -55,6 +73,9 @@
     "name:por_x_preferred":[
         "Tamra"
     ],
+    "name:ron_x_preferred":[
+        "Tamra"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u043c\u0440\u0430"
     ],
@@ -62,6 +83,9 @@
         "Tamra"
     ],
     "name:spa_x_preferred":[
+        "Tamra"
+    ],
+    "name:swe_x_preferred":[
         "Tamra"
     ],
     "name:tam_x_preferred":[
@@ -135,7 +159,7 @@
         }
     ],
     "wof:id":421183911,
-    "wof:lastmodified":1549930354,
+    "wof:lastmodified":1563315230,
     "wof:name":"Tamra",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

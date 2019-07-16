@@ -37,6 +37,9 @@
     "name:heb_x_variant":[
         "Eshta\u2019ol"
     ],
+    "name:ind_x_preferred":[
+        "Esytaol"
+    ],
     "name:ita_x_preferred":[
         "Eshtaol"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:pol_x_preferred":[
         "Eszta\u2019ol"
+    ],
+    "name:pol_x_variant":[
+        "Esztaol"
     ],
     "name:por_x_preferred":[
         "Eshtaol"
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":421174383,
-    "wof:lastmodified":1561760023,
+    "wof:lastmodified":1563315109,
     "wof:name":"Eshta'ol",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

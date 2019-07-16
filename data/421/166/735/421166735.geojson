@@ -31,6 +31,9 @@
     "name:pol_x_preferred":[
         "Ha-Jogew"
     ],
+    "name:pol_x_variant":[
+        "HaJogev"
+    ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":294826,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421166735,
-    "wof:lastmodified":1561760015,
+    "wof:lastmodified":1563315047,
     "wof:name":"HaYogev",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

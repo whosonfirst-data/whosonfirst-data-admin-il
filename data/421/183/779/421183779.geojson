@@ -13,11 +13,48 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062d\u0637\u064a\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Hattin"
+    ],
+    "name:deu_x_preferred":[
+        "Hittin"
+    ],
+    "name:eng_x_preferred":[
+        "Hittin"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u0637\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Hattin"
+    ],
     "name:heb_x_preferred":[
         "Kefar H\u0331ittim"
     ],
     "name:heb_x_variant":[
-        "\u05db\u05e4\u05e8 \u05d7\u05d8\u05d9\u05dd"
+        "\u05db\u05e4\u05e8 \u05d7\u05d8\u05d9\u05dd",
+        "\u05d7\u05d9\u05d8\u05d9\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Hittin"
+    ],
+    "name:nld_x_preferred":[
+        "Hittin"
+    ],
+    "name:nob_x_preferred":[
+        "Hittin"
+    ],
+    "name:pol_x_preferred":[
+        "Hittin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0442\u0442\u0438\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "H\u0131ttin"
     ],
     "name:unk_x_variant":[
         "Kefar Hitim"
@@ -68,7 +105,7 @@
         }
     ],
     "wof:id":421183779,
-    "wof:lastmodified":1549930353,
+    "wof:lastmodified":1563315229,
     "wof:name":"Kefar Hittim",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "name:afr_x_preferred":[
         "Nasaret"
     ],
+    "name:amh_x_preferred":[
+        "\u1293\u12dd\u122c\u1275\u1363 \u12a5\u1235\u122b\u12a4\u120d"
+    ],
     "name:ang_x_preferred":[
         "Nazar\u0113th"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0646\u0627\u0635\u0631\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Nazaret"
     ],
     "name:aze_x_preferred":[
         "Nazaret"
@@ -58,6 +64,9 @@
     ],
     "name:cdo_x_preferred":[
         "N\u0101-s\u00e1k-l\u0115k"
+    ],
+    "name:ceb_x_preferred":[
+        "Nazaret"
     ],
     "name:ces_x_preferred":[
         "Nazaret"
@@ -131,6 +140,9 @@
     "name:grn_x_preferred":[
         "Nasare"
     ],
+    "name:gsw_x_preferred":[
+        "Nazareth"
+    ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0a9d\u0abe\u0ab0\u0ac7\u0aa5"
     ],
@@ -160,6 +172,9 @@
     ],
     "name:ind_x_preferred":[
         "Nazaret"
+    ],
+    "name:inh_x_preferred":[
+        "\u041d\u0430\u0437\u0430\u0440\u0435\u0442"
     ],
     "name:isl_x_preferred":[
         "Nasaret"
@@ -301,6 +316,9 @@
     ],
     "name:tgl_x_preferred":[
         "Lungsod ng Nazaret"
+    ],
+    "name:tgl_x_variant":[
+        "Nasaret"
     ],
     "name:tha_x_preferred":[
         "\u0e19\u0e32\u0e0b\u0e32\u0e40\u0e23\u0e18"
@@ -480,7 +498,7 @@
         }
     ],
     "wof:id":421175077,
-    "wof:lastmodified":1561760028,
+    "wof:lastmodified":1563315150,
     "wof:name":"Nazareth",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

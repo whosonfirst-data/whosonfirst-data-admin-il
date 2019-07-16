@@ -37,6 +37,9 @@
     "name:pol_x_preferred":[
         "Giwat Amal Bet"
     ],
+    "name:pol_x_variant":[
+        "Givat Amal Bet"
+    ],
     "name:unk_x_variant":[
         "Giv'at Amal Bet"
     ],
@@ -67,11 +70,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":121,
     "wof:belongsto":[
+        85672549,
         102191569,
         85632315,
         1125955239,
-        1108720837,
-        85672549
+        1108720837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930545,
+    "wof:lastmodified":1563314947,
     "wof:name":"Giv'at Amal Bet",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

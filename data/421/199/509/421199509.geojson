@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Sharona"
+    ],
     "name:ces_x_preferred":[
         "\u0160arona"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421199509,
-    "wof:lastmodified":1561760031,
+    "wof:lastmodified":1563315190,
     "wof:name":"Sharona",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

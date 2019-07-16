@@ -22,6 +22,9 @@
     "name:heb_x_preferred":[
         "\u05e8\u05d2\u05d1\u05d4"
     ],
+    "name:ita_x_preferred":[
+        "Regba"
+    ],
     "name:nno_x_preferred":[
         "Regba"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421199503,
-    "wof:lastmodified":1561760031,
+    "wof:lastmodified":1563315182,
     "wof:name":"Regba",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

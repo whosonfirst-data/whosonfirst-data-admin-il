@@ -34,8 +34,14 @@
     "name:pol_x_preferred":[
         "Bet Oren"
     ],
+    "name:pol_x_variant":[
+        "Beit Oren"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0439\u0442-\u041e\u0440\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0439\u0442 \u041e\u0440\u0435\u043d"
     ],
     "name:unk_x_variant":[
         "Beit Oren"
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421179691,
-    "wof:lastmodified":1561760036,
+    "wof:lastmodified":1563315234,
     "wof:name":"Bet Oren",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

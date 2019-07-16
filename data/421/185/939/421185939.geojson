@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Ir ha-Karmel"
     ],
+    "name:ceb_x_preferred":[
+        "D\u0101liyat el Karmil"
+    ],
     "name:ces_x_preferred":[
         "Ir Karmel"
     ],
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421185939,
-    "wof:lastmodified":1561760038,
+    "wof:lastmodified":1563315254,
     "wof:name":"Daliyat el Karmil",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

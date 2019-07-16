@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Ness Tsiona"
     ],
+    "name:ceb_x_preferred":[
+        "Ness Ziona"
+    ],
     "name:ces_x_preferred":[
         "Nes Cijona"
     ],
@@ -70,6 +73,9 @@
     "name:pol_x_preferred":[
         "Nes Cijjona"
     ],
+    "name:pol_x_variant":[
+        "Ness Syjona"
+    ],
     "name:por_x_preferred":[
         "Ness Ziona"
     ],
@@ -96,6 +102,9 @@
     ],
     "name:tur_x_preferred":[
         "Nes Ziona"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0441-\u0426\u0456\u043e\u043d\u0430"
     ],
     "name:unk_x_variant":[
         "W\u0101di Hunein"
@@ -162,7 +171,7 @@
         }
     ],
     "wof:id":421192657,
-    "wof:lastmodified":1561760016,
+    "wof:lastmodified":1563315053,
     "wof:name":"Nes Ziyyona",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

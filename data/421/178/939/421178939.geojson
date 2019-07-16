@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Neixer"
     ],
+    "name:ceb_x_preferred":[
+        "Nesher"
+    ],
     "name:ces_x_preferred":[
         "Ne\u0161er"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:eng_x_preferred":[
         "Nesher"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0634\u0631"
     ],
     "name:fra_x_preferred":[
         "Nesher"
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":421178939,
-    "wof:lastmodified":1561760036,
+    "wof:lastmodified":1563315236,
     "wof:name":"Nesher",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Bais Yaakov"
+    ],
+    "name:eng_x_preferred":[
+        "Bais Yaakov"
+    ],
     "name:fra_x_preferred":[
         "Beit Yaakov"
     ],
@@ -30,6 +36,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0439\u0442-\u042f\u0430\u043a\u043e\u0432"
+    ],
+    "name:spa_x_preferred":[
+        "Bais Yaakov"
     ],
     "name:yid_x_preferred":[
         "\u05d1\u05d9\u05ea \u05d9\u05e2\u05e7\u05d1"
@@ -55,11 +64,11 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":1133,
     "wof:belongsto":[
+        85672549,
         102191569,
         85632315,
         1125955239,
-        1108720837,
-        85672549
+        1108720837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":421201077,
-    "wof:lastmodified":1549930549,
+    "wof:lastmodified":1563315206,
     "wof:name":"Beit Ya'akov",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

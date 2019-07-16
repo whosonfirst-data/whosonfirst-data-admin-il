@@ -13,11 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Beit Shemesh"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0634\u064a\u0645\u0634"
     ],
     "name:cat_x_preferred":[
         "Betx\u00e8meix"
+    ],
+    "name:ceb_x_preferred":[
+        "Bet Shemesh"
     ],
     "name:ces_x_preferred":[
         "Bejt \u0160eme\u0161"
@@ -28,8 +34,14 @@
     "name:eng_x_preferred":[
         "Bet Shemesh"
     ],
+    "name:eng_x_variant":[
+        "Beit Shemesh"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u06cc\u062a \u0634\u0645\u0634"
+    ],
+    "name:fin_x_preferred":[
+        "Bet Shemesh"
     ],
     "name:fra_x_preferred":[
         "Bet Shemesh"
@@ -83,6 +95,9 @@
     "name:por_x_preferred":[
         "Bete-Semes"
     ],
+    "name:por_x_variant":[
+        "Bet Shemesh"
+    ],
     "name:ron_x_preferred":[
         "Beit \u0218eme\u0219"
     ],
@@ -108,6 +123,9 @@
         "Bet Shemesh"
     ],
     "name:tgl_x_preferred":[
+        "Beit Shemesh"
+    ],
+    "name:tur_x_preferred":[
         "Beit Shemesh"
     ],
     "name:ukr_x_preferred":[
@@ -181,7 +199,7 @@
         }
     ],
     "wof:id":421202185,
-    "wof:lastmodified":1561760022,
+    "wof:lastmodified":1563315103,
     "wof:name":"Bet Shemesh",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

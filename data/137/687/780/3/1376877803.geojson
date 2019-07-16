@@ -16,6 +16,15 @@
     "name:ara_x_preferred":[
         "\u062c\u0641\u0639\u0627\u062a \u0634\u0645\u0648\u0626\u064a\u0644"
     ],
+    "name:bak_x_preferred":[
+        "\u0413\u0438\u0432\u0430\u0442-\u0428\u043c\u0443\u044d\u043b\u044c"
+    ],
+    "name:cat_x_preferred":[
+        "Guivat Shmuel"
+    ],
+    "name:ceb_x_preferred":[
+        "Giv\u2018at Shemu'\u00e9l"
+    ],
     "name:ces_x_preferred":[
         "Giv'at \u0160mu'el"
     ],
@@ -32,7 +41,13 @@
         "Givat Shmu\u2019el",
         "Giv'at Shmuel"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u06cc\u0648\u0622\u062a \u0627\u0634\u0645\u0648\u0626\u0644"
+    ],
     "name:fra_x_preferred":[
+        "Giv'at Shmuel"
+    ],
+    "name:glg_x_preferred":[
         "Giv'at Shmuel"
     ],
     "name:heb_x_preferred":[
@@ -48,6 +63,9 @@
         "\u0533\u056b\u057e\u0561\u0569 \u0547\u0574\u0578\u0582\u0565\u056c"
     ],
     "name:ind_x_preferred":[
+        "Giv'at Shmuel"
+    ],
+    "name:ita_x_preferred":[
         "Giv'at Shmuel"
     ],
     "name:nld_x_preferred":[
@@ -67,6 +85,15 @@
     ],
     "name:sco_x_preferred":[
         "Giv'at Shmuel"
+    ],
+    "name:spa_x_preferred":[
+        "Guivat Shmuel"
+    ],
+    "name:swe_x_preferred":[
+        "Giv\u2018at Shemu'\u00e9l"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0456\u0432\u0430\u0442-\u0428\u043c\u0443\u0435\u043b\u044c"
     ],
     "name:urd_x_preferred":[
         "\u062c\u0641\u0639\u0627\u062a \u0634\u0645\u0648\u0626\u06cc\u0644"
@@ -132,7 +159,7 @@
         }
     ],
     "wof:id":1376877803,
-    "wof:lastmodified":1561760013,
+    "wof:lastmodified":1563315030,
     "wof:name":"Givat Shemu'el",
     "wof:parent_id":421202049,
     "wof:placetype":"neighbourhood",

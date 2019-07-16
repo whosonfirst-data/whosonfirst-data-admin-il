@@ -16,6 +16,12 @@
     "name:ara_x_preferred":[
         "\u0631\u0648\u0634 \u0628\u064a\u0646\u0627"
     ],
+    "name:cat_x_preferred":[
+        "Roix Pin\u00e0"
+    ],
+    "name:ceb_x_preferred":[
+        "Rosh Pinna"
+    ],
     "name:ces_x_preferred":[
         "Ro\u0161 Pina"
     ],
@@ -57,6 +63,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0420\u043e\u0448-\u041f\u0438\u043d\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Rosh Pin\u00e1"
     ],
     "name:swe_x_preferred":[
         "Rosh Pinna"
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":421204727,
-    "wof:lastmodified":1561760020,
+    "wof:lastmodified":1563315088,
     "wof:name":"Rosh Pinna",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

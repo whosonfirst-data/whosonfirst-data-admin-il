@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u0441\u0443\u0444\u0438\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Kissufim"
+    ],
     "name:ces_x_preferred":[
         "Kisufim"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421189415,
-    "wof:lastmodified":1561760025,
+    "wof:lastmodified":1563315130,
     "wof:name":"Kissufim",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

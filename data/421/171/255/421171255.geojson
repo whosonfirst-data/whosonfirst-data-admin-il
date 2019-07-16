@@ -38,6 +38,9 @@
     "name:pol_x_preferred":[
         "Ruhama"
     ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0445\u0430\u043c\u0430"
+    ],
     "name:unk_x_variant":[
         "Jammama"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421171255,
-    "wof:lastmodified":1561760038,
+    "wof:lastmodified":1563315252,
     "wof:name":"Ruhama",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

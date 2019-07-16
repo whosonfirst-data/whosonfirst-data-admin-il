@@ -24,14 +24,23 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
+    "name:ara_x_preferred":[
+        "\u064a\u0645\u064a\u0646 \u0645\u0648\u0634\u064a\u0647"
+    ],
     "name:ces_x_preferred":[
         "Jemin Mo\u0161e"
     ],
     "name:eng_x_preferred":[
         "Yemin Moshe"
     ],
+    "name:fra_x_preferred":[
+        "Yemin Mosh\u00e9"
+    ],
     "name:heb_x_preferred":[
         "\u05d9\u05de\u05d9\u05df \u05de\u05e9\u05d4"
+    ],
+    "name:ind_x_preferred":[
+        "Yemin Moshe"
     ],
     "name:mkd_x_preferred":[
         "\u0408\u0435\u043c\u0438\u043d \u041c\u043e\u0448\u0435"
@@ -75,11 +84,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":607,
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930559,
+    "wof:lastmodified":1563314928,
     "wof:name":"Yemin Moshe",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

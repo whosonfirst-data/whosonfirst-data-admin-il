@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0413\u0438\u043b\u0430\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Gilat"
+    ],
     "name:ces_x_preferred":[
         "Gilat"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421192915,
-    "wof:lastmodified":1561760016,
+    "wof:lastmodified":1563315055,
     "wof:name":"Gilat",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

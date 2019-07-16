@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0641\u0648\u0644\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Afula"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09ab\u09cb\u09b2\u09be"
     ],
@@ -24,6 +27,9 @@
     ],
     "name:cat_x_preferred":[
         "Afula"
+    ],
+    "name:ceb_x_preferred":[
+        "\u2018Afula"
     ],
     "name:ces_x_preferred":[
         "Afula"
@@ -45,6 +51,9 @@
         "El \u2018Aff\u016ble",
         "Affula",
         "\u2018Afula",
+        "Afula"
+    ],
+    "name:eus_x_preferred":[
         "Afula"
     ],
     "name:fas_x_preferred":[
@@ -167,6 +176,9 @@
     "name:vie_x_preferred":[
         "Afula"
     ],
+    "name:war_x_preferred":[
+        "Afula"
+    ],
     "name:yid_x_preferred":[
         "\u05e2\u05e4\u05d5\u05dc\u05d4"
     ],
@@ -222,7 +234,7 @@
         }
     ],
     "wof:id":421174085,
-    "wof:lastmodified":1561760022,
+    "wof:lastmodified":1563315106,
     "wof:name":"Afula",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

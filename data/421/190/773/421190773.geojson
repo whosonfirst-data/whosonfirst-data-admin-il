@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Beit Yanai"
     ],
+    "name:fra_x_preferred":[
+        "Beit Yanai"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05ea \u05d9\u05e0\u05d0\u05d9"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421190773,
-    "wof:lastmodified":1561760030,
+    "wof:lastmodified":1563315174,
     "wof:name":"Bet Yannay",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

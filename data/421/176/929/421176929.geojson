@@ -19,8 +19,14 @@
     "name:cat_x_preferred":[
         "Tirat Carmel"
     ],
+    "name:ceb_x_preferred":[
+        "Tirat Karmel"
+    ],
     "name:ces_x_preferred":[
         "Tirat Karmel"
+    ],
+    "name:dan_x_preferred":[
+        "Tirat Carmel"
     ],
     "name:deu_x_preferred":[
         "Tirat Carmel"
@@ -48,6 +54,9 @@
         "\u054f\u056b\u0580\u0561\u0569 \u0554\u0561\u0580\u0574\u0565\u056c"
     ],
     "name:ind_x_preferred":[
+        "Tirat Carmel"
+    ],
+    "name:ita_x_preferred":[
         "Tirat Carmel"
     ],
     "name:jpn_x_preferred":[
@@ -91,6 +100,9 @@
         "\u0637\u06cc\u0631\u06c1 \u0627\u0644\u06a9\u0631\u0645\u0644"
     ],
     "name:vie_x_preferred":[
+        "Tirat Carmel"
+    ],
+    "name:war_x_preferred":[
         "Tirat Carmel"
     ],
     "name:yid_x_preferred":[
@@ -149,7 +161,7 @@
         }
     ],
     "wof:id":421176929,
-    "wof:lastmodified":1561760037,
+    "wof:lastmodified":1563315247,
     "wof:name":"Tirat Karmel",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

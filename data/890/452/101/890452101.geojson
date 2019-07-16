@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u0435\u0432"
     ],
+    "name:ceb_x_preferred":[
+        "Dolev"
+    ],
     "name:ces_x_preferred":[
         "Dolev"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":890452101,
-    "wof:lastmodified":1561760039,
+    "wof:lastmodified":1563315260,
     "wof:name":"Dolev",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

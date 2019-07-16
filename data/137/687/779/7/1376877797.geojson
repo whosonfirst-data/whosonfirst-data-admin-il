@@ -43,6 +43,9 @@
     "name:pol_x_preferred":[
         "Ramat Awiw"
     ],
+    "name:pol_x_variant":[
+        "Ramat Aviv"
+    ],
     "name:por_x_preferred":[
         "Ramat Aviv"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:unk_x_variant":[
         "Ramut Aviv"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u9a6c\u7279\u00b7\u963f\u7ef4\u592b"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPLX",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1376877797,
-    "wof:lastmodified":1561760013,
+    "wof:lastmodified":1563315027,
     "wof:name":"Ramat Aviv",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

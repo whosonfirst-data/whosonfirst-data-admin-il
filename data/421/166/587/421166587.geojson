@@ -16,6 +16,9 @@
     "name:ces_x_preferred":[
         "Kfar ha-Nasi"
     ],
+    "name:deu_x_preferred":[
+        "Kfar Hanassi"
+    ],
     "name:eng_x_preferred":[
         "Kfar HaNassi"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:pol_x_preferred":[
         "Kefar ha-Nasi"
+    ],
+    "name:pol_x_variant":[
+        "Kfar HaNassi"
     ],
     "name:unk_x_variant":[
         "Mansurah"
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":421166587,
-    "wof:lastmodified":1561760014,
+    "wof:lastmodified":1563315045,
     "wof:name":"Kefar HaNasi",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

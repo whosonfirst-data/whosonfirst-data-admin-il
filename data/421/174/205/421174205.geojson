@@ -17,6 +17,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Herzliya"
+    ],
     "name:ara_x_preferred":[
         "\u0647\u0631\u062a\u0633\u0644\u064a\u0627"
     ],
@@ -29,6 +32,9 @@
     "name:cat_x_preferred":[
         "Hertseliyya"
     ],
+    "name:ceb_x_preferred":[
+        "Herzliyya"
+    ],
     "name:ces_x_preferred":[
         "Herzlija"
     ],
@@ -37,6 +43,9 @@
     ],
     "name:deu_x_preferred":[
         "Herzlia"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b5\u03c1\u03c4\u03c3\u03bb\u03b9\u03b3\u03b9\u03ac"
     ],
     "name:eng_x_preferred":[
         "Hertsliyah"
@@ -55,6 +64,9 @@
     "name:fas_x_preferred":[
         "\u0647\u0631\u062a\u0632\u0644\u06cc\u0627"
     ],
+    "name:fin_x_preferred":[
+        "Herzliyya"
+    ],
     "name:fra_x_preferred":[
         "Herzliya"
     ],
@@ -70,6 +82,9 @@
     ],
     "name:hun_x_preferred":[
         "Herzlia"
+    ],
+    "name:hun_x_variant":[
+        "Herzlija"
     ],
     "name:ind_x_preferred":[
         "Herzliyya"
@@ -133,6 +148,9 @@
     ],
     "name:swe_x_preferred":[
         "Herzliya"
+    ],
+    "name:tat_x_preferred":[
+        "\u04ba\u0435\u0440\u0442\u0441\u043b\u0438\u044f"
     ],
     "name:tgl_x_preferred":[
         "Herzliya"
@@ -222,7 +240,7 @@
         }
     ],
     "wof:id":421174205,
-    "wof:lastmodified":1561760022,
+    "wof:lastmodified":1563315108,
     "wof:name":"Herzliya",
     "wof:parent_id":1108720837,
     "wof:placetype":"locality",

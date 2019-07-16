@@ -22,6 +22,9 @@
     "name:deu_x_preferred":[
         "Meron"
     ],
+    "name:eng_x_preferred":[
+        "Meron"
+    ],
     "name:fra_x_preferred":[
         "Meron"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e1\u30ed\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Meron"
     ],
     "name:nno_x_preferred":[
         "Meron i Israel"
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421187149,
-    "wof:lastmodified":1549930362,
+    "wof:lastmodified":1563315127,
     "wof:name":"Meron",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:unk_x_variant":[
         "Tsor\u2018ah Bet"
     ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0631\u0645"
+    ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":293419,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421173395,
-    "wof:lastmodified":1561760025,
+    "wof:lastmodified":1563315129,
     "wof:name":"Tarum",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

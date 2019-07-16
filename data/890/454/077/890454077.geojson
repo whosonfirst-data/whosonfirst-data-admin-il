@@ -24,6 +24,9 @@
     "name:cat_x_preferred":[
         "Lehavim"
     ],
+    "name:ceb_x_preferred":[
+        "Lehavim"
+    ],
     "name:ces_x_preferred":[
         "Lehavim"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890454077,
-    "wof:lastmodified":1561760039,
+    "wof:lastmodified":1563315262,
     "wof:name":"Lehavim",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Tiber\u00edades"
     ],
+    "name:ceb_x_preferred":[
+        "Tiberias"
+    ],
     "name:ces_x_preferred":[
         "Tiberias"
     ],
@@ -294,7 +297,7 @@
         }
     ],
     "wof:id":421180789,
-    "wof:lastmodified":1561760024,
+    "wof:lastmodified":1563315119,
     "wof:name":"Tiberias",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:pol_x_preferred":[
         "Netiv HaSzajara"
     ],
+    "name:pol_x_variant":[
+        "Netiw ha-Szajjara"
+    ],
     "name:unk_x_variant":[
         "Dova"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421194531,
-    "wof:lastmodified":1561760017,
+    "wof:lastmodified":1563315065,
     "wof:name":"Netiv HaShayyara",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

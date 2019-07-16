@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Qiryat Atta"
     ],
+    "name:ceb_x_preferred":[
+        "Qiryat Ata"
+    ],
     "name:ces_x_preferred":[
         "Kirjat Ata"
     ],
@@ -71,6 +74,9 @@
     "name:pol_x_preferred":[
         "Kirjat Atta"
     ],
+    "name:pol_x_variant":[
+        "Kirjat Ata"
+    ],
     "name:por_x_preferred":[
         "Qiryat Atta"
     ],
@@ -89,8 +95,14 @@
     "name:swe_x_preferred":[
         "Qiryat Ata"
     ],
+    "name:szl_x_preferred":[
+        "Kirjat Atta"
+    ],
     "name:tgl_x_preferred":[
         "Kiryat Atta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0440'\u044f\u0442-\u0410\u0442\u0430"
     ],
     "name:unk_x_variant":[
         "Kufritta"
@@ -157,7 +169,7 @@
         }
     ],
     "wof:id":421170315,
-    "wof:lastmodified":1561760034,
+    "wof:lastmodified":1563315217,
     "wof:name":"Qiryat Ata",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

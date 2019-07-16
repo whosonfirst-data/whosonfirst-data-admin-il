@@ -31,6 +31,9 @@
     "name:pol_x_preferred":[
         "Ma\u2019oz Awiw"
     ],
+    "name:pol_x_variant":[
+        "Maoz Aviv"
+    ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPLX",
     "qs:gn_id":8427126,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1376877831,
-    "wof:lastmodified":1561760013,
+    "wof:lastmodified":1563315027,
     "wof:name":"Ma'oz Aviv",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

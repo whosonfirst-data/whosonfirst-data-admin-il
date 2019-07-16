@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0435\u0441\u0438\u043b\u043e\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Mesillot"
+    ],
     "name:ces_x_preferred":[
         "Mesilot"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:pol_x_preferred":[
         "Mesillot"
+    ],
+    "name:pol_x_variant":[
+        "Mesilot"
     ],
     "name:swe_x_preferred":[
         "Mesillot"
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":421189417,
-    "wof:lastmodified":1561760025,
+    "wof:lastmodified":1563315132,
     "wof:name":"Mesillot",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

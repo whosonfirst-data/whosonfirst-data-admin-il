@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0420\u0435\u0432\u0438\u0432\u0438\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Revivim"
+    ],
     "name:ces_x_preferred":[
         "Revivim"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:pol_x_preferred":[
         "Rewiwim"
+    ],
+    "name:pol_x_variant":[
+        "Revivim"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0435\u0432\u0438\u0432\u0438\u043c"
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421166593,
-    "wof:lastmodified":1561760014,
+    "wof:lastmodified":1563315041,
     "wof:name":"Revivim",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

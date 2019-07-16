@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Azor"
     ],
+    "name:ceb_x_preferred":[
+        "Azor"
+    ],
     "name:ces_x_preferred":[
         "Azor"
     ],
@@ -45,6 +48,9 @@
     "name:hun_x_preferred":[
         "Azor"
     ],
+    "name:ita_x_preferred":[
+        "Azor"
+    ],
     "name:kat_x_preferred":[
         "\u10d0\u10d6\u10dd\u10e0\u10d8"
     ],
@@ -57,14 +63,23 @@
     "name:pol_x_preferred":[
         "Azor"
     ],
+    "name:por_x_preferred":[
+        "Azor"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0437\u043e\u0440"
     ],
     "name:sco_x_preferred":[
         "Azor"
     ],
+    "name:spa_x_preferred":[
+        "Azor"
+    ],
     "name:swe_x_preferred":[
         "Azor"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0437\u043e\u0440"
     ],
     "name:wol_x_preferred":[
         "Asor"
@@ -102,7 +117,7 @@
         }
     ],
     "wof:id":890428211,
-    "wof:lastmodified":1561760039,
+    "wof:lastmodified":1563315263,
     "wof:name":"Azor",
     "wof:parent_id":1108720837,
     "wof:placetype":"locality",

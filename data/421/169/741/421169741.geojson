@@ -31,6 +31,9 @@
     "name:pol_x_preferred":[
         "Bar Gijjora"
     ],
+    "name:pol_x_variant":[
+        "Bar Gijora"
+    ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":295562,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421169741,
-    "wof:lastmodified":1561760019,
+    "wof:lastmodified":1563315075,
     "wof:name":"Bar Giyyora",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

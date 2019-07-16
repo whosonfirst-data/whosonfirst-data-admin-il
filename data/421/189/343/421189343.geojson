@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Yesud HaMa\u2018ala"
+    ],
     "name:ces_x_preferred":[
         "Jesud ha-Ma'ala"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:pol_x_preferred":[
         "Jesud ha-Ma\u2019ala"
+    ],
+    "name:pol_x_variant":[
+        "Jesud HaMa'ala"
     ],
     "name:rus_x_preferred":[
         "\u0419\u0435\u0441\u0443\u0434-\u0445\u0430-\u041c\u0430\u0430\u043b\u0430"
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421189343,
-    "wof:lastmodified":1561760026,
+    "wof:lastmodified":1563315134,
     "wof:name":"Yesud HaMaala",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

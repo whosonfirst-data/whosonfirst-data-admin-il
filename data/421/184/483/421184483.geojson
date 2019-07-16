@@ -31,6 +31,9 @@
     "name:pol_x_preferred":[
         "Ma\u2019oz Chajjim"
     ],
+    "name:pol_x_variant":[
+        "Maoz Chaim"
+    ],
     "name:unk_x_variant":[
         "Maoz"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421184483,
-    "wof:lastmodified":1561760033,
+    "wof:lastmodified":1563315211,
     "wof:name":"Maoz Hayyim",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

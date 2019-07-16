@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Beit HaEmek"
     ],
+    "name:fra_x_preferred":[
+        "Beit HaEmek"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05ea \u05d4\u05e2\u05de\u05e7"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421174529,
-    "wof:lastmodified":1561760023,
+    "wof:lastmodified":1563315110,
     "wof:name":"Bet HaEmeq",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:pol_x_preferred":[
         "Talme Elazar"
     ],
+    "name:pol_x_variant":[
+        "Talmei Elazar"
+    ],
     "name:unk_x_variant":[
         "Talmei El\u2019azar"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421202195,
-    "wof:lastmodified":1561760021,
+    "wof:lastmodified":1563315093,
     "wof:name":"Talme Elazar",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

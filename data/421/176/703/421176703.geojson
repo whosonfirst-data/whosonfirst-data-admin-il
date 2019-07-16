@@ -34,6 +34,9 @@
     "name:pol_x_preferred":[
         "Bet Kama"
     ],
+    "name:pol_x_variant":[
+        "Beit Kama"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0439\u0442-\u041a\u0430\u043c\u0430"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421176703,
-    "wof:lastmodified":1561760037,
+    "wof:lastmodified":1563315246,
     "wof:name":"Bet Qama",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

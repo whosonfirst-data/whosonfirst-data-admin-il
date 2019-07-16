@@ -31,6 +31,12 @@
     "name:pol_x_preferred":[
         "Amnun"
     ],
+    "name:pol_x_variant":[
+        "Amnon"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u043d\u0443\u043d"
+    ],
     "name:unk_x_variant":[
         "Amnun"
     ],
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":421199875,
-    "wof:lastmodified":1561760031,
+    "wof:lastmodified":1563315183,
     "wof:name":"Amnon",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

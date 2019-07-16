@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Ramat HaShofet"
+    ],
     "name:ces_x_preferred":[
         "Ramat ha-\u0160ofet"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:pol_x_preferred":[
         "Ramat ha-Szofet"
+    ],
+    "name:pol_x_variant":[
+        "Ramat HaSzofet"
     ],
     "name:swe_x_preferred":[
         "Ramat HaShofet"
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421166739,
-    "wof:lastmodified":1561760014,
+    "wof:lastmodified":1563315042,
     "wof:name":"Ramat HaShofet",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

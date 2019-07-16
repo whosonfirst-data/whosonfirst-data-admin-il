@@ -30,6 +30,9 @@
     "name:pol_x_preferred":[
         "Newe Awiwim"
     ],
+    "name:pol_x_variant":[
+        "Neve Avivim"
+    ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPLX",
     "qs:gn_id":8427125,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1376877805,
-    "wof:lastmodified":1561760013,
+    "wof:lastmodified":1563315030,
     "wof:name":"Neve Avivim",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

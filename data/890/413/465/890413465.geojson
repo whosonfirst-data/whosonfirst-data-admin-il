@@ -18,8 +18,14 @@
     "name:bul_x_preferred":[
         "\u0425\u0430\u0448\u043c\u043e\u043d\u0430\u0438\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Hashmonaim"
+    ],
     "name:ces_x_preferred":[
         "Cha\u0161mona'im"
+    ],
+    "name:deu_x_preferred":[
+        "Chaschmona\u2019im"
     ],
     "name:eng_x_preferred":[
         "Hashmonaim"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":890413465,
-    "wof:lastmodified":1561760038,
+    "wof:lastmodified":1563315256,
     "wof:name":"Hashmonaim",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

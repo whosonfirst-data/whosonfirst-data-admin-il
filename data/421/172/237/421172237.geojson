@@ -37,6 +37,9 @@
     "name:pol_x_preferred":[
         "Kefar Ruppin"
     ],
+    "name:pol_x_variant":[
+        "Kfar Ruppin"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0444\u0430\u0440-\u0420\u0443\u043f\u0438\u043d"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421172237,
-    "wof:lastmodified":1561760027,
+    "wof:lastmodified":1563315141,
     "wof:name":"Kefar Ruppin",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

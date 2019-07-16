@@ -16,6 +16,9 @@
     "name:ces_x_preferred":[
         "Zanoach"
     ],
+    "name:deu_x_preferred":[
+        "Sanoach"
+    ],
     "name:eng_x_preferred":[
         "Zanoah"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:pol_x_preferred":[
         "Zanoach"
+    ],
+    "name:spa_x_preferred":[
+        "Zanoah"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":421199515,
-    "wof:lastmodified":1561760032,
+    "wof:lastmodified":1563315191,
     "wof:name":"Zanoah",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:heb_x_preferred":[
         "\u05de\u05e9\u05de\u05e8 \u05d4\u05e9\u05d1\u05e2\u05d4"
     ],
+    "name:heb_x_variant":[
+        "Shamerat"
+    ],
     "name:nno_x_preferred":[
         "Mishmar HaShiva"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421192655,
-    "wof:lastmodified":1561760016,
+    "wof:lastmodified":1563315057,
     "wof:name":"Mishmar HaShiva",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

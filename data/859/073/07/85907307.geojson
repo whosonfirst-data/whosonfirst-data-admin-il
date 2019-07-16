@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Ha-rakevet"
     ],
+    "name:eng_x_variant":[
+        "HaRakevet"
+    ],
     "name:unk_x_variant":[
         "Ha-rakevet"
     ],
@@ -91,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561760003,
+    "wof:lastmodified":1563314940,
     "wof:name":"Ha-rakevet",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

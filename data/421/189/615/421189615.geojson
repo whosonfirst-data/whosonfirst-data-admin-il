@@ -16,6 +16,9 @@
     "name:ces_x_preferred":[
         "Jesodot"
     ],
+    "name:eng_x_preferred":[
+        "Yesodot"
+    ],
     "name:heb_x_preferred":[
         "\u05d9\u05e1\u05d5\u05d3\u05d5\u05ea"
     ],
@@ -24,6 +27,9 @@
     ],
     "name:pol_x_preferred":[
         "Yesodot"
+    ],
+    "name:swe_x_preferred":[
+        "Mesillot"
     ],
     "name:unk_x_variant":[
         "Umm Kalkha"
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":421189615,
-    "wof:lastmodified":1549930370,
+    "wof:lastmodified":1563315132,
     "wof:name":"Yesodot",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0646\u062d\u0641"
     ],
+    "name:ceb_x_preferred":[
+        "Na\u1e25f"
+    ],
     "name:ces_x_preferred":[
         "Nachf"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421200393,
-    "wof:lastmodified":1561760032,
+    "wof:lastmodified":1563315202,
     "wof:name":"Nahf",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

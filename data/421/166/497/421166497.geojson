@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0634\u064a\u0631\u0641\u0629"
     ],
+    "name:eng_x_preferred":[
+        "Mushayrifa"
+    ],
     "name:heb_x_preferred":[
         "El Musheirif\u0101"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":421166497,
-    "wof:lastmodified":1549930305,
+    "wof:lastmodified":1563315044,
     "wof:name":"Musheirifa",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

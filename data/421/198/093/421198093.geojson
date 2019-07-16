@@ -25,6 +25,9 @@
     "name:cat_x_variant":[
         "Gat"
     ],
+    "name:ceb_x_preferred":[
+        "Qiryat Gat"
+    ],
     "name:ces_x_preferred":[
         "Kirjat Gat"
     ],
@@ -58,6 +61,9 @@
     "name:ita_x_preferred":[
         "Kiryat Gat"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30eb\u30e4\u30c3\u30c8\u30fb\u30ac\u30c8"
+    ],
     "name:kat_x_preferred":[
         "\u10d9\u10d8\u10e0\u10d8\u10d0\u10d7-\u10d2\u10d0\u10d7\u10d8"
     ],
@@ -68,6 +74,9 @@
         "Kirjat Gat"
     ],
     "name:nno_x_preferred":[
+        "Kiryat Gat"
+    ],
+    "name:nob_x_preferred":[
         "Kiryat Gat"
     ],
     "name:nor_x_preferred":[
@@ -94,7 +103,13 @@
     "name:srp_x_preferred":[
         "\u041a\u0438\u0440\u0458\u0430\u0442 \u0413\u0430\u0442"
     ],
+    "name:swe_x_preferred":[
+        "Qiryat Gat"
+    ],
     "name:tgl_x_preferred":[
+        "Kiryat Gat"
+    ],
+    "name:tur_x_preferred":[
         "Kiryat Gat"
     ],
     "name:ukr_x_preferred":[
@@ -117,6 +132,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8fe6\u7279\u9547"
+    ],
+    "name:zho_x_variant":[
+        "\u6c34\u725b\u57ce"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -168,7 +186,7 @@
         }
     ],
     "wof:id":421198093,
-    "wof:lastmodified":1549930390,
+    "wof:lastmodified":1563315162,
     "wof:name":"Qiryat Gat",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

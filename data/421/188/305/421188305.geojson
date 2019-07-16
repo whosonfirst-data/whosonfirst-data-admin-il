@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Tirat Tsev\u00ed"
     ],
+    "name:ceb_x_preferred":[
+        "Tirat \u1e94evi"
+    ],
     "name:ces_x_preferred":[
         "Tirat Cvi"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:pol_x_preferred":[
         "Tirat Cewi"
+    ],
+    "name:pol_x_variant":[
+        "Tirat Cvi"
     ],
     "name:por_x_preferred":[
         "Tirat Tsvi"
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":421188305,
-    "wof:lastmodified":1561760026,
+    "wof:lastmodified":1563315135,
     "wof:name":"Tirat Zevi",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

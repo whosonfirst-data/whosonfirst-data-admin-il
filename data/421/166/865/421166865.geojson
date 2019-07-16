@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "\u1e94ur Hadassa"
+    ],
     "name:ces_x_preferred":[
         "Cur Hadasa"
     ],
@@ -30,6 +33,12 @@
     ],
     "name:pol_x_preferred":[
         "Cur Hadassa"
+    ],
+    "name:pol_x_variant":[
+        "Cur Hadasa"
+    ],
+    "name:swe_x_preferred":[
+        "\u1e94ur Hadassa"
     ],
     "name:unk_x_variant":[
         "Tsur Hadassa"
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":421166865,
-    "wof:lastmodified":1561760015,
+    "wof:lastmodified":1563315048,
     "wof:name":"Zur Hadassa",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

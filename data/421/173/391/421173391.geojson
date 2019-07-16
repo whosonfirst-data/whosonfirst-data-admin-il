@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Netiv HaLamed He"
+    ],
     "name:ces_x_preferred":[
         "Netiv ha-Lamed He"
     ],
@@ -34,14 +37,23 @@
     "name:pol_x_preferred":[
         "Netiw ha-Lamed-He"
     ],
+    "name:pol_x_variant":[
+        "Netiv HaLamed-He"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0435\u0442\u0438\u0432 \u0410-\u041b\u0430\u043c\u0435\u0434-\u0425\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u0435\u0442\u0438\u0432-\u0445\u0430-\u041b\u0430\u043c\u0435\u0434-\u0425\u0435\u0439"
     ],
     "name:swe_x_preferred":[
         "Netiv HaLamed He"
     ],
     "name:unk_x_variant":[
         "Netiv Lah"
+    ],
+    "name:yid_x_preferred":[
+        "\u05de\u05d9\u05e8\u05d5\u05df"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -91,7 +103,7 @@
         }
     ],
     "wof:id":421173391,
-    "wof:lastmodified":1561760025,
+    "wof:lastmodified":1563315127,
     "wof:name":"Netiv HaLamed He",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

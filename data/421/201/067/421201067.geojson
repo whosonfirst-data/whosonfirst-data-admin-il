@@ -37,6 +37,9 @@
     "name:pol_x_preferred":[
         "Awigedor"
     ],
+    "name:pol_x_variant":[
+        "Avigdor"
+    ],
     "name:unk_x_variant":[
         "Ya\u2018el"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421201067,
-    "wof:lastmodified":1561760033,
+    "wof:lastmodified":1563315209,
     "wof:name":"Avigedor",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

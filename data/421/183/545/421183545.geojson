@@ -40,6 +40,9 @@
     "name:pol_x_preferred":[
         "Ammikam"
     ],
+    "name:pol_x_variant":[
+        "Amikam"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043c\u0438\u043a\u0430\u043c"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421183545,
-    "wof:lastmodified":1561760035,
+    "wof:lastmodified":1563315229,
     "wof:name":"Ammiqam",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

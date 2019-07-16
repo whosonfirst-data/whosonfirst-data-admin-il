@@ -19,6 +19,12 @@
     "name:cat_x_preferred":[
         "Yokneam"
     ],
+    "name:cat_x_variant":[
+        "Yokneam Il\u00b7lit"
+    ],
+    "name:ceb_x_preferred":[
+        "Yoqne\u2018am \u2018Illit"
+    ],
     "name:ces_x_preferred":[
         "Jokne'am"
     ],
@@ -80,6 +86,9 @@
     ],
     "name:spa_x_preferred":[
         "Yokneam"
+    ],
+    "name:spa_x_variant":[
+        "Yokneam Illit"
     ],
     "name:swe_x_preferred":[
         "Yoqne\u2018am \u2018Illit"
@@ -148,7 +157,7 @@
         }
     ],
     "wof:id":421202199,
-    "wof:lastmodified":1561760022,
+    "wof:lastmodified":1563315101,
     "wof:name":"Yoqneam Illit",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

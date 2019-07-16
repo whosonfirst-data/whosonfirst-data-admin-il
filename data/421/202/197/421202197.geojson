@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Shefa-'Amr"
     ],
+    "name:eng_x_variant":[
+        "Shfaram"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0641\u0627 \u0627\u0645\u0631"
+    ],
     "name:fra_x_preferred":[
         "Shefa Amr"
     ],
@@ -51,6 +57,9 @@
     ],
     "name:nno_x_preferred":[
         "Shefa-'Amr"
+    ],
+    "name:oss_x_preferred":[
+        "\u0428\u0435\u0444\u0430-\u0410\u043c\u0440"
     ],
     "name:pol_x_preferred":[
         "Szfar'am"
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":421202197,
-    "wof:lastmodified":1561760022,
+    "wof:lastmodified":1563315101,
     "wof:name":"Shefaram",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

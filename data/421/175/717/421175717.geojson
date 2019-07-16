@@ -28,6 +28,9 @@
     "name:pol_x_preferred":[
         "Ramat Razi\u2019el"
     ],
+    "name:pol_x_variant":[
+        "Ramat Razi'el"
+    ],
     "name:unk_x_variant":[
         "Ramat Razi\u2019el"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421175717,
-    "wof:lastmodified":1561760028,
+    "wof:lastmodified":1563315157,
     "wof:name":"Ramat Razi'el",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

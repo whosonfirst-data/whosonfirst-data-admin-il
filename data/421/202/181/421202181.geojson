@@ -18,11 +18,17 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Be'er Sheva"
+    ],
     "name:amh_x_preferred":[
         "\u1264\u122d\u1233\u1264"
     ],
     "name:ara_x_preferred":[
         "\u0628\u0626\u0631 \u0627\u0644\u0633\u0628\u0639"
+    ],
+    "name:ast_x_preferred":[
+        "Beerseba"
     ],
     "name:aze_x_preferred":[
         "Beer-\u015eeva"
@@ -41,6 +47,9 @@
     ],
     "name:cat_x_preferred":[
         "Beerxeba"
+    ],
+    "name:ceb_x_preferred":[
+        "Beersheba"
     ],
     "name:ces_x_preferred":[
         "Beer\u0161eva"
@@ -117,6 +126,9 @@
     ],
     "name:ind_x_preferred":[
         "Bersyeba"
+    ],
+    "name:ind_x_variant":[
+        "Beersheba"
     ],
     "name:ita_x_preferred":[
         "Be'er Sheva"
@@ -425,7 +437,7 @@
         }
     ],
     "wof:id":421202181,
-    "wof:lastmodified":1561760021,
+    "wof:lastmodified":1563315099,
     "wof:name":"Beersheba",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

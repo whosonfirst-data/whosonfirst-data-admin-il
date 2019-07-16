@@ -28,6 +28,9 @@
     "name:heb_x_preferred":[
         "\u05d0\u05d9\u05dc\u05d5\u05ea"
     ],
+    "name:ind_x_preferred":[
+        "Eilot"
+    ],
     "name:nld_x_preferred":[
         "Eilot"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421181209,
-    "wof:lastmodified":1561760027,
+    "wof:lastmodified":1563315147,
     "wof:name":"Elot",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

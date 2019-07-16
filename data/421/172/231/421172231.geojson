@@ -31,6 +31,9 @@
     "name:pol_x_preferred":[
         "Ha-Goszerim"
     ],
+    "name:pol_x_variant":[
+        "HaGoshrim"
+    ],
     "name:unk_x_variant":[
         "Nehalim"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421172231,
-    "wof:lastmodified":1561760026,
+    "wof:lastmodified":1563315141,
     "wof:name":"HaGosherim",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

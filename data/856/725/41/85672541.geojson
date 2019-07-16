@@ -39,6 +39,9 @@
     "name:aze_x_preferred":[
         "\u0130srail m\u0259rk\u0259zi dair\u0259si"
     ],
+    "name:aze_x_variant":[
+        "M\u0259rk\u0259zi dair\u0259si"
+    ],
     "name:bar_x_preferred":[
         "Zentr\u00e4ubeziak"
     ],
@@ -56,6 +59,12 @@
     ],
     "name:cat_x_preferred":[
         "Districte Central"
+    ],
+    "name:cat_x_variant":[
+        "districte Central"
+    ],
+    "name:ceb_x_preferred":[
+        "Central District"
     ],
     "name:ces_x_preferred":[
         "Centr\u00e1ln\u00ed distrikt"
@@ -112,6 +121,9 @@
     "name:hin_x_preferred":[
         "\u092e\u0927\u094d\u092f \u091c\u093f\u0932\u093e"
     ],
+    "name:hun_x_preferred":[
+        "K\u00f6zponti k\u00f6rzet"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0565\u0576\u057f\u0580\u0578\u0576\u0561\u056f\u0561\u0576 \u0574\u0561\u0580\u0566"
     ],
@@ -132,6 +144,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc911\ubd80 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uc911\ubd80\uad6c"
+    ],
+    "name:lad_x_preferred":[
+        "Distrito Sentral"
     ],
     "name:lav_x_preferred":[
         "Centra apgabals"
@@ -156,6 +174,9 @@
     ],
     "name:nob_x_preferred":[
         "Sentral-Israel"
+    ],
+    "name:nob_x_variant":[
+        "Sentraldistriktet"
     ],
     "name:nor_x_preferred":[
         "Sentral-Israel"
@@ -214,6 +235,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0631\u06a9\u0632\u06cc \u0636\u0644\u0639"
+    ],
+    "name:urd_x_variant":[
+        "\u0636\u0644\u0639 \u0648\u0633\u0637\u06cc"
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Trung"
@@ -291,7 +315,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1561760005,
+    "wof:lastmodified":1563314955,
     "wof:name":"Central",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

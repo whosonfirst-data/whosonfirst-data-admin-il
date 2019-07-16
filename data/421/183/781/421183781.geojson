@@ -19,6 +19,9 @@
     "name:deu_x_preferred":[
         "Mashabei Sadeh"
     ],
+    "name:deu_x_variant":[
+        "Maschabe Sade"
+    ],
     "name:eng_x_preferred":[
         "Mashabei Sadeh"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:pol_x_preferred":[
         "Maszabei Sadeh"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0448\u0430\u0431\u0431\u0435-\u0421\u0430\u0434\u0435"
     ],
     "name:unk_x_variant":[
         "Mashabim"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421183781,
-    "wof:lastmodified":1561760036,
+    "wof:lastmodified":1563315231,
     "wof:name":"Mash'abbe Sade",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

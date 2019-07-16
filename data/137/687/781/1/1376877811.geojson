@@ -16,11 +16,17 @@
     "name:cat_x_preferred":[
         "Kefar Xemaryahu"
     ],
+    "name:ceb_x_preferred":[
+        "Kefar Shemaryahu"
+    ],
     "name:ces_x_preferred":[
         "Kfar \u0160marjahu"
     ],
     "name:eng_x_preferred":[
         "Kfar Shmaryahu"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0641\u0631 \u0634\u0645\u0631\u06cc\u0627\u0647\u0648"
     ],
     "name:fra_x_preferred":[
         "Kfar Shemaryahu"
@@ -54,6 +60,9 @@
     ],
     "name:spa_x_preferred":[
         "Kfar Shmaryahu"
+    ],
+    "name:swe_x_preferred":[
+        "Kefar Shemaryahu"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0444\u0430\u0440-\u0428\u043c\u0430\u0440\u044c\u044f\u0433\u0443"
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":1376877811,
-    "wof:lastmodified":1561760013,
+    "wof:lastmodified":1563315029,
     "wof:name":"Kefar Shemaryahu",
     "wof:parent_id":421174205,
     "wof:placetype":"neighbourhood",

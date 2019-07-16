@@ -31,6 +31,9 @@
     "name:unk_x_variant":[
         "Kefar Mordekhai"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0634\u0631"
+    ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":294256,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421199489,
-    "wof:lastmodified":1561760031,
+    "wof:lastmodified":1563315191,
     "wof:name":"Meshar",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",
