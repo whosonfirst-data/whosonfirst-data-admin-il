@@ -36,6 +36,9 @@
     "name:pol_x_preferred":[
         "Newe Etan"
     ],
+    "name:pol_x_variant":[
+        "Neve Eitan"
+    ],
     "name:unk_x_variant":[
         "Neve Eitan"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421197097,
-    "wof:lastmodified":1561760030,
+    "wof:lastmodified":1563315175,
     "wof:name":"Newe Etan",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

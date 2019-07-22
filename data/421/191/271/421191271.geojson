@@ -16,14 +16,26 @@
     "name:ces_x_preferred":[
         "Zichron Mo\u0161e"
     ],
+    "name:eng_x_preferred":[
+        "Zikhron Moshe"
+    ],
     "name:heb_x_preferred":[
         "\u05d6\u05d9\u05db\u05e8\u05d5\u05df \u05de\u05e9\u05d4"
+    ],
+    "name:ind_x_preferred":[
+        "Zikhron Moshe"
+    ],
+    "name:nld_x_preferred":[
+        "Zikhron Moshe"
     ],
     "name:slk_x_preferred":[
         "Zichron Mo\u0161e"
     ],
     "name:yid_x_preferred":[
         "\u05d6\u05db\u05e8\u05d5\u05df \u05de\u05e9\u05d4"
+    ],
+    "name:zho_x_preferred":[
+        "\u7eaa\u5ff5\u6469\u897f"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -46,11 +58,11 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":271,
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":421191271,
-    "wof:lastmodified":1549930549,
+    "wof:lastmodified":1563315168,
     "wof:name":"Zikhron Moshe",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

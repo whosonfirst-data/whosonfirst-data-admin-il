@@ -28,8 +28,14 @@
     "name:ind_x_preferred":[
         "Motza"
     ],
+    "name:ltz_x_preferred":[
+        "Motza"
+    ],
     "name:pol_x_preferred":[
         "Motza"
+    ],
+    "name:por_x_preferred":[
+        "Moza"
     ],
     "name:unk_x_variant":[
         "Mo\u1e95a Ta\u1e96tit"
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":421198161,
-    "wof:lastmodified":1561760028,
+    "wof:lastmodified":1563315159,
     "wof:name":"Moza",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

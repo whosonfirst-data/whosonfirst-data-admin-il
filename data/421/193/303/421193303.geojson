@@ -40,6 +40,12 @@
     "name:pol_x_preferred":[
         "En Szemer"
     ],
+    "name:pol_x_variant":[
+        "Ein Szemer"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0439\u043d-\u0428\u0435\u043c\u0435\u0440"
+    ],
     "name:unk_x_variant":[
         "\u2018Ein Shemer"
     ],
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421193303,
-    "wof:lastmodified":1561760018,
+    "wof:lastmodified":1563315068,
     "wof:name":"En Shemer",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

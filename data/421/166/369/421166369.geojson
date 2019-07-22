@@ -34,6 +34,9 @@
     "name:pol_x_preferred":[
         "Be\u2019er Ora"
     ],
+    "name:pol_x_variant":[
+        "Be'er Ora"
+    ],
     "name:unk_x_variant":[
         "Be\u2019er Ora"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421166369,
-    "wof:lastmodified":1561760015,
+    "wof:lastmodified":1563315047,
     "wof:name":"Be'er Ora",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

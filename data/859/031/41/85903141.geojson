@@ -36,7 +36,8 @@
     ],
     "name:eng_x_variant":[
         "El Wardiye",
-        "Vardiya"
+        "Vardiya",
+        "Vardia"
     ],
     "name:heb_x_preferred":[
         "\u05db\u05e8\u05de\u05dc"
@@ -101,11 +102,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":129,
     "wof:belongsto":[
+        85672535,
         102191569,
         85632315,
         421168693,
-        1108720835,
-        85672535
+        1108720835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -131,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930540,
+    "wof:lastmodified":1563314935,
     "wof:name":"Wardiya",
     "wof:parent_id":421168693,
     "wof:placetype":"neighbourhood",

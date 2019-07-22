@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Oranit"
     ],
+    "name:ceb_x_preferred":[
+        "Oranit"
+    ],
     "name:ces_x_preferred":[
         "Oranit"
     ],
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1125995105,
-    "wof:lastmodified":1561760039,
+    "wof:lastmodified":1563315268,
     "wof:name":"Oranit",
     "wof:parent_id":1091913123,
     "wof:placetype":"locality",

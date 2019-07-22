@@ -28,6 +28,9 @@
     "name:pol_x_preferred":[
         "Allon ha-Galil"
     ],
+    "name:pol_x_variant":[
+        "Alon HaGalil"
+    ],
     "name:unk_x_variant":[
         "Allon HaGalil"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421175125,
-    "wof:lastmodified":1561760028,
+    "wof:lastmodified":1563315158,
     "wof:name":"Alon Hagalil",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

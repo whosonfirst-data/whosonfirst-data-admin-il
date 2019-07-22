@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Kfar Habad"
+    ],
+    "name:ceb_x_preferred":[
+        "Kefar H\u0331abad"
+    ],
     "name:ces_x_preferred":[
         "Kfar Chabad"
     ],
@@ -42,6 +48,12 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0444\u0430\u0440-\u0425\u0430\u0431\u0430\u0434"
+    ],
+    "name:rus_x_variant":[
+        "\u041b\u043e\u0445\u0430\u043c\u0435\u0439-\u0445\u0430-\u0413\u0435\u0442\u0430\u043e\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Kfar Chabad"
     ],
     "name:swe_x_preferred":[
         "Kefar H\u0331abad"
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":421197325,
-    "wof:lastmodified":1561760030,
+    "wof:lastmodified":1563315177,
     "wof:name":"Kefar Habad",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

@@ -36,6 +36,9 @@
     "name:pol_x_preferred":[
         "Ma\u2019ale Gilboa"
     ],
+    "name:pol_x_variant":[
+        "Maale Gilboa"
+    ],
     "name:unk_x_variant":[
         "Maal\u00e9-Hagilbo\u2018a"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421177793,
-    "wof:lastmodified":1561760035,
+    "wof:lastmodified":1563315224,
     "wof:name":"Maale Gilboa",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

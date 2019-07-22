@@ -37,6 +37,9 @@
     "name:pol_x_preferred":[
         "Be\u2019eri"
     ],
+    "name:pol_x_variant":[
+        "Be'eri"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u044d\u0440\u0438"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421201037,
-    "wof:lastmodified":1561760033,
+    "wof:lastmodified":1563315208,
     "wof:name":"Be'eri",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

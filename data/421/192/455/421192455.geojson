@@ -16,11 +16,17 @@
     "name:ces_x_preferred":[
         "Hadas"
     ],
+    "name:eng_x_preferred":[
+        "Hadass"
+    ],
     "name:heb_x_preferred":[
         "\u05d4\u05d3\u05e1#\u05d4\u05d4\u05d3\u05e1 \u05d1\u05d0\u05e8\u05d1\u05e2\u05ea \u05d4\u05de\u05d9\u05e0\u05d9\u05dd"
     ],
     "name:heb_x_variant":[
         "\u05d4\u05d3\u05e1\u05d9\u05dd"
+    ],
+    "name:por_x_preferred":[
+        "Hadass"
     ],
     "name:unk_x_variant":[
         "Hadasim"
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":421192455,
-    "wof:lastmodified":1549930374,
+    "wof:lastmodified":1563315051,
     "wof:name":"Hadassim",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

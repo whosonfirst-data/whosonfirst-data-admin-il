@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0418\u043b\u0430\u043d\u0438\u0439\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Ilaniyya"
+    ],
     "name:ces_x_preferred":[
         "Ilanija"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421169645,
-    "wof:lastmodified":1561760018,
+    "wof:lastmodified":1563315074,
     "wof:name":"Ilaniyya",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

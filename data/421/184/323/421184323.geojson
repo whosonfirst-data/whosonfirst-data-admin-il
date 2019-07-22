@@ -16,6 +16,9 @@
     "name:ces_x_preferred":[
         "Ben \u0160emen"
     ],
+    "name:deu_x_preferred":[
+        "Ben Shemen"
+    ],
     "name:eng_x_preferred":[
         "Ben Shemen"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421184323,
-    "wof:lastmodified":1561760033,
+    "wof:lastmodified":1563315212,
     "wof:name":"Ben Shemen Shikun",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

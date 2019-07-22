@@ -54,6 +54,9 @@
     "name:cat_x_preferred":[
         "Districte del Sud"
     ],
+    "name:ceb_x_preferred":[
+        "Southern District"
+    ],
     "name:ces_x_preferred":[
         "Ji\u017en\u00ed distrikt"
     ],
@@ -104,6 +107,9 @@
         "\u05de\u05d7\u05d5\u05d6 \u05d4\u05d3\u05e8\u05d5\u05dd",
         "\u05d4\u05d3\u05e8\u05d5\u05dd"
     ],
+    "name:hun_x_preferred":[
+        "D\u00e9li k\u00f6rzet"
+    ],
     "name:hye_x_preferred":[
         "\u0540\u0561\u0580\u0561\u057e\u0561\u0575\u056b\u0576 \u0574\u0561\u0580\u0566"
     ],
@@ -121,6 +127,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub0a8\ubd80 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ub0a8\ubd80\uad6c"
     ],
     "name:lav_x_preferred":[
         "Dienvidu apgabals"
@@ -160,6 +169,9 @@
     ],
     "name:rus_x_preferred":[
         "\u042e\u0436\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 \u0418\u0437\u0440\u0430\u0438\u043b\u044f"
+    ],
+    "name:rus_x_variant":[
+        "\u042e\u0436\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"
     ],
     "name:sco_x_preferred":[
         "Soothren Destrict"
@@ -323,7 +335,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1561760005,
+    "wof:lastmodified":1563314954,
     "wof:name":"Southern",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

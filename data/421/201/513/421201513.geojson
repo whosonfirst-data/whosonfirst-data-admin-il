@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u0440\u0434\u0435\u0441\u0438\u0439\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Pardesiyya"
+    ],
     "name:ces_x_preferred":[
         "Pardesija"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421201513,
-    "wof:lastmodified":1561760033,
+    "wof:lastmodified":1563315210,
     "wof:name":"Pardesiyya",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

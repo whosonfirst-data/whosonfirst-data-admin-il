@@ -22,7 +22,13 @@
     "name:cat_x_preferred":[
         "Atlit"
     ],
+    "name:ceb_x_preferred":[
+        "\u2018Atlit"
+    ],
     "name:ces_x_preferred":[
+        "Atlit"
+    ],
+    "name:dan_x_preferred":[
         "Atlit"
     ],
     "name:deu_x_preferred":[
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421166365,
-    "wof:lastmodified":1561760014,
+    "wof:lastmodified":1563315042,
     "wof:name":"Atlit",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

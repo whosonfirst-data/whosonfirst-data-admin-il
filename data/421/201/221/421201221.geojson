@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0414\u0430\u0444\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Dafna"
+    ],
     "name:ces_x_preferred":[
         "Dafna"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421201221,
-    "wof:lastmodified":1561760033,
+    "wof:lastmodified":1563315206,
     "wof:name":"Dafna",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

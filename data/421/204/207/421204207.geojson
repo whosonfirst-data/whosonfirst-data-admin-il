@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Ein Gev"
     ],
+    "name:fin_x_preferred":[
+        "Ein Gev"
+    ],
     "name:fra_x_preferred":[
         "Ein Gev"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421204207,
-    "wof:lastmodified":1561760020,
+    "wof:lastmodified":1563315085,
     "wof:name":"En Gev",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

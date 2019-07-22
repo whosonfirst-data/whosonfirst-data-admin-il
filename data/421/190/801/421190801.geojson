@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "HaZore'a"
     ],
+    "name:fra_x_preferred":[
+        "Hazorea"
+    ],
     "name:heb_x_preferred":[
         "\u05d4\u05d6\u05d5\u05e8\u05e2"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:pol_x_preferred":[
         "Ha-Zorea"
+    ],
+    "name:pol_x_variant":[
+        "HaZorea"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":421190801,
-    "wof:lastmodified":1561760030,
+    "wof:lastmodified":1563315173,
     "wof:name":"HaZorea",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

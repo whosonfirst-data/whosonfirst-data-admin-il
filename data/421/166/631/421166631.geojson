@@ -34,6 +34,9 @@
     "name:pol_x_preferred":[
         "Misgaw Am"
     ],
+    "name:pol_x_variant":[
+        "Misgav Am"
+    ],
     "name:unk_x_variant":[
         "Am Misgav"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421166631,
-    "wof:lastmodified":1561760015,
+    "wof:lastmodified":1563315048,
     "wof:name":"Misgav Am",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:pol_x_preferred":[
         "Me\u2019ir Szefeja"
     ],
+    "name:pol_x_variant":[
+        "Meir Szfeja"
+    ],
     "name:unk_x_variant":[
         "Shefeyah"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421189613,
-    "wof:lastmodified":1561760025,
+    "wof:lastmodified":1563315132,
     "wof:name":"Me'ir Shefeya",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

@@ -13,6 +13,42 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Bejt Alfa"
+    ],
+    "name:deu_x_preferred":[
+        "Bet Alfa"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Alfa"
+    ],
+    "name:fra_x_preferred":[
+        "Be\u00eft-Alfa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05d0\u05dc\u05e4\u05d0"
+    ],
+    "name:nld_x_preferred":[
+        "Beit Alfa"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Alfa"
+    ],
+    "name:nob_x_preferred":[
+        "Beit Alfa"
+    ],
+    "name:pol_x_preferred":[
+        "Beit Alfa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0439\u0442-\u0410\u043b\u044c\u0444\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Beit Alfa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0439\u0442-\u0410\u043b\u044c\u0444\u0430"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -58,7 +94,7 @@
         }
     ],
     "wof:id":421190663,
-    "wof:lastmodified":1549930369,
+    "wof:lastmodified":1563315173,
     "wof:name":"Bet Alfa",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

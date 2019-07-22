@@ -28,8 +28,14 @@
     "name:pol_x_preferred":[
         "Juwal"
     ],
+    "name:pol_x_variant":[
+        "Juval"
+    ],
     "name:unk_x_variant":[
         "Kefar-Yuval"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c24\u74e6"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":421190969,
-    "wof:lastmodified":1561760030,
+    "wof:lastmodified":1563315172,
     "wof:name":"Yuval",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

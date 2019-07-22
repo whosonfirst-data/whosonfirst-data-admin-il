@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0641\u0631\u0627\u062f\u064a\u0645"
+    ],
+    "name:ceb_x_preferred":[
+        "Kefar Weradim"
+    ],
     "name:ces_x_preferred":[
         "Kfar Vradim"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:spa_x_preferred":[
         "Kfar Vradim"
+    ],
+    "name:swe_x_preferred":[
+        "Kefar Weradim"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":421197349,
-    "wof:lastmodified":1561760030,
+    "wof:lastmodified":1563315176,
     "wof:name":"Kefar Weradim",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

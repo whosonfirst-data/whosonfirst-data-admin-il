@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Dor"
     ],
+    "name:fra_x_preferred":[
+        "Dor"
+    ],
     "name:heb_x_preferred":[
         "\u05d3\u05d5\u05e8"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421189313,
-    "wof:lastmodified":1561760025,
+    "wof:lastmodified":1563315131,
     "wof:name":"Dor",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

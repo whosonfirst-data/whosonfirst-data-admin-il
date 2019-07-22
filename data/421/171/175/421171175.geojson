@@ -37,6 +37,9 @@
     "name:unk_x_variant":[
         "Kefar Witkin"
     ],
+    "name:zho_x_preferred":[
+        "\u514b\u6cd5\u7dad\u7279\u91d1"
+    ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":294498,
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421171175,
-    "wof:lastmodified":1561760038,
+    "wof:lastmodified":1563315250,
     "wof:name":"Kefar Vitkin",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:pol_x_preferred":[
         "Ne\u2019ot Mordechaj"
     ],
+    "name:pol_x_variant":[
+        "Neot Mordechaj"
+    ],
     "name:unk_x_variant":[
         "Neot Mordekhai"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421187145,
-    "wof:lastmodified":1561760024,
+    "wof:lastmodified":1563315122,
     "wof:name":"Ne'ot Mordekhay",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:pol_x_preferred":[
         "Macuva"
     ],
+    "name:pol_x_variant":[
+        "Maccuwa"
+    ],
     "name:unk_x_variant":[
         "Massouba"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421187557,
-    "wof:lastmodified":1561760024,
+    "wof:lastmodified":1563315121,
     "wof:name":"Mazzuva",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

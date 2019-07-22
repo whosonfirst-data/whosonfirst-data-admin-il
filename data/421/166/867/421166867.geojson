@@ -37,6 +37,9 @@
     "name:pol_x_preferred":[
         "Kamon"
     ],
+    "name:pol_x_variant":[
+        "Kammon"
+    ],
     "name:spa_x_preferred":[
         "Kamon"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421166867,
-    "wof:lastmodified":1561760014,
+    "wof:lastmodified":1563315044,
     "wof:name":"Kammon",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

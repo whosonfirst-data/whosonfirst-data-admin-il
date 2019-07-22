@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u062d\u0631\u0641\u064a\u0634"
     ],
+    "name:ceb_x_preferred":[
+        "\u1e24urfeish"
+    ],
     "name:ces_x_preferred":[
         "Churfej\u0161"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421196883,
-    "wof:lastmodified":1561760029,
+    "wof:lastmodified":1563315165,
     "wof:name":"Hurfeish",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

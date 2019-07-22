@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Ramat Ha-tayasim"
     ],
+    "name:eng_x_variant":[
+        "Ramat HaTayasim"
+    ],
     "name:heb_x_preferred":[
         "\u05e8\u05de\u05ea \u05d4\u05d8\u05d9\u05d9\u05e1\u05d9\u05dd"
     ],
@@ -64,11 +67,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":40,
     "wof:belongsto":[
+        85672549,
         102191569,
         85632315,
         1125955239,
-        1108720837,
-        85672549
+        1108720837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930548,
+    "wof:lastmodified":1563314945,
     "wof:name":"Ramat Ha-tayasim",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

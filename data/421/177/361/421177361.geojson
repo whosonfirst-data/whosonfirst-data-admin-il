@@ -16,6 +16,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0639\u0644\u064a\u0627"
     ],
+    "name:cat_x_preferred":[
+        "Mi'ilya"
+    ],
+    "name:ceb_x_preferred":[
+        "Mi\u2018ily\u0101"
+    ],
     "name:ces_x_preferred":[
         "Mi'ilja"
     ],
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421177361,
-    "wof:lastmodified":1561760035,
+    "wof:lastmodified":1563315224,
     "wof:name":"Miilya",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

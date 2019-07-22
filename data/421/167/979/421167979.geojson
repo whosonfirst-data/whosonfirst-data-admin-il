@@ -28,8 +28,14 @@
     "name:pol_x_preferred":[
         "Nir Cvi"
     ],
+    "name:pol_x_variant":[
+        "Nir Cewi"
+    ],
     "name:unk_x_variant":[
         "Kefar Argentina"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u6885\u723e"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":421167979,
-    "wof:lastmodified":1561760018,
+    "wof:lastmodified":1563315071,
     "wof:name":"Nir Zevi",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

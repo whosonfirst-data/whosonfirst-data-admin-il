@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Nahariyya"
     ],
+    "name:ceb_x_preferred":[
+        "Nahariya"
+    ],
     "name:ces_x_preferred":[
         "Naharija"
     ],
@@ -116,6 +119,9 @@
     "name:spa_x_preferred":[
         "Nahariya"
     ],
+    "name:srd_x_preferred":[
+        "Nahariya"
+    ],
     "name:srp_x_preferred":[
         "\u041d\u0430\u0445\u0430\u0440\u0438\u0458\u0430"
     ],
@@ -138,6 +144,9 @@
         "\u0646\u06c1\u0627\u0631\u06cc\u0627"
     ],
     "name:vie_x_preferred":[
+        "Nahariya"
+    ],
+    "name:war_x_preferred":[
         "Nahariya"
     ],
     "name:yid_x_preferred":[
@@ -196,7 +205,7 @@
         }
     ],
     "wof:id":421187755,
-    "wof:lastmodified":1561760024,
+    "wof:lastmodified":1563315120,
     "wof:name":"Nahariya",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

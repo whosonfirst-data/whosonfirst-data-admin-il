@@ -31,6 +31,9 @@
     "name:pol_x_preferred":[
         "Ha-Bonim"
     ],
+    "name:pol_x_variant":[
+        "HaBonim"
+    ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":294955,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421192457,
-    "wof:lastmodified":1561760016,
+    "wof:lastmodified":1563315058,
     "wof:name":"HaBonim",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

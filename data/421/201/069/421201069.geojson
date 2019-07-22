@@ -25,6 +25,9 @@
     "name:nno_x_preferred":[
         "Kfar Yehoshua"
     ],
+    "name:nob_x_preferred":[
+        "Kfar Yehoshua"
+    ],
     "name:nor_x_preferred":[
         "Kfar Yehoshua"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421201069,
-    "wof:lastmodified":1561760033,
+    "wof:lastmodified":1563315209,
     "wof:name":"Kefar Yehoshua",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

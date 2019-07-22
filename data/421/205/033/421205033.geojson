@@ -31,6 +31,9 @@
     "name:pol_x_preferred":[
         "Kefar Jechezkel"
     ],
+    "name:pol_x_variant":[
+        "Kfar Jehezkel"
+    ],
     "name:unk_x_variant":[
         "Tiv\u2018on"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421205033,
-    "wof:lastmodified":1561760022,
+    "wof:lastmodified":1563315105,
     "wof:name":"Kefar Yehezqel",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

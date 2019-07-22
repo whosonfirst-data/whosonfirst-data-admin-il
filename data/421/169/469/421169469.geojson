@@ -13,10 +13,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Ra'anana"
+    ],
     "name:ara_x_preferred":[
         "\u0631\u0639\u0646\u0627\u0646\u0627"
     ],
     "name:cat_x_preferred":[
+        "Ra'anana"
+    ],
+    "name:ceb_x_preferred":[
         "Ra'anana"
     ],
     "name:ces_x_preferred":[
@@ -30,6 +36,9 @@
     ],
     "name:deu_x_variant":[
         "Ra\u2019anana"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03bd\u03b1\u03bd\u03ac"
     ],
     "name:eng_x_preferred":[
         "Ra\u2018anana"
@@ -59,6 +68,9 @@
         "Ra'anana"
     ],
     "name:hye_x_preferred":[
+        "\u054c\u0561\u0561\u0576\u0561\u0576\u0561"
+    ],
+    "name:hyw_x_preferred":[
         "\u054c\u0561\u0561\u0576\u0561\u0576\u0561"
     ],
     "name:ind_x_preferred":[
@@ -97,6 +109,9 @@
     "name:pol_x_preferred":[
         "Ra\u2019anana"
     ],
+    "name:pol_x_variant":[
+        "Ra'anana"
+    ],
     "name:por_x_preferred":[
         "Ra'anana"
     ],
@@ -117,6 +132,9 @@
     ],
     "name:tgl_x_preferred":[
         "Raanana"
+    ],
+    "name:tur_x_preferred":[
+        "Ra'anana"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0430\u043d\u0430\u043d\u0430"
@@ -186,7 +204,7 @@
         }
     ],
     "wof:id":421169469,
-    "wof:lastmodified":1561760019,
+    "wof:lastmodified":1563315078,
     "wof:name":"Ra'anana",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

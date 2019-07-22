@@ -16,11 +16,17 @@
     "name:ces_x_preferred":[
         "Bajit va-Gan"
     ],
+    "name:eng_x_preferred":[
+        "Bayit VeGan"
+    ],
     "name:fra_x_preferred":[
         "Bayit VeGan"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05ea \u05d5\u05d2\u05df"
+    ],
+    "name:ind_x_preferred":[
+        "Bayit VeGan"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0430\u0438\u0442 \u0412\u0435\u0433\u0430\u043d"
@@ -52,11 +58,11 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":445,
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":421203893,
-    "wof:lastmodified":1549930551,
+    "wof:lastmodified":1563315089,
     "wof:name":"Bayit Wegan",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

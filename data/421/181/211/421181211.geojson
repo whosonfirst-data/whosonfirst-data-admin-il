@@ -28,6 +28,9 @@
     "name:pol_x_preferred":[
         "En Ajjala"
     ],
+    "name:pol_x_variant":[
+        "Ein Ajala"
+    ],
     "name:unk_x_variant":[
         "Ain Ayala"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421181211,
-    "wof:lastmodified":1561760027,
+    "wof:lastmodified":1563315144,
     "wof:name":"En Ayyala",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

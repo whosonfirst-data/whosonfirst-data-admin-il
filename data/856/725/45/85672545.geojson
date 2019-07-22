@@ -57,6 +57,9 @@
     "name:cat_x_preferred":[
         "Districte del Nord"
     ],
+    "name:ceb_x_preferred":[
+        "Northern District"
+    ],
     "name:ces_x_preferred":[
         "Severn\u00ed distrikt"
     ],
@@ -116,6 +119,9 @@
     "name:hin_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930\u0940 \u091c\u093f\u0932\u093e"
     ],
+    "name:hun_x_preferred":[
+        "\u00c9szaki k\u00f6rzet"
+    ],
     "name:hye_x_preferred":[
         "\u0540\u0575\u0578\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u0574\u0561\u0580\u0566"
     ],
@@ -139,6 +145,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubd81\ubd80 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ubd81\ubd80\uad6c"
     ],
     "name:lad_x_preferred":[
         "Distrito del Norte"
@@ -357,7 +366,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1561760004,
+    "wof:lastmodified":1563314952,
     "wof:name":"Northern",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Elkosh"
     ],
+    "name:fra_x_preferred":[
+        "Elkosh"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05dc\u05e7\u05d5\u05e9"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421171399,
-    "wof:lastmodified":1561760037,
+    "wof:lastmodified":1563315248,
     "wof:name":"Elqosh",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

@@ -15,6 +15,51 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0456\u0434\u0440\u044d\u0448\u044d\u0442 \u0411\u0435\u043d-\u0413\u0443\u0440\u044b\u0451\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Midreshet Ben-Gurion"
+    ],
+    "name:ceb_x_preferred":[
+        "Midreshet Ben-Gurion"
+    ],
+    "name:ces_x_preferred":[
+        "Midre\u0161et Ben Gurion"
+    ],
+    "name:dan_x_preferred":[
+        "Midreshet Ben-Gurion"
+    ],
+    "name:eng_x_preferred":[
+        "Midreshet Ben-Gurion"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d3\u05e8\u05e9\u05ea \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df"
+    ],
+    "name:nld_x_preferred":[
+        "Midreshet Ben-Gurion"
+    ],
+    "name:nno_x_preferred":[
+        "Midreshet Ben-Gurion"
+    ],
+    "name:nob_x_preferred":[
+        "Midreshet Ben-Gurion"
+    ],
+    "name:pol_x_preferred":[
+        "Midreszet Ben Gurion"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0434\u0440\u0435\u0448\u0435\u0442 \u0411\u0435\u043d-\u0413\u0443\u0440\u0438\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Midreshet Ben-Guri\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "Midreshet Ben-Gurion"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u5fb7\u5e0c\u7279\u672c-\u53e4\u91cc\u5b89"
+    ],
     "qs:name":"Midreshet Ben-Gurion",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -48,7 +93,7 @@
         }
     ],
     "wof:id":890454337,
-    "wof:lastmodified":1549930366,
+    "wof:lastmodified":1563315261,
     "wof:name":"Midreshet Ben-Gurion",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

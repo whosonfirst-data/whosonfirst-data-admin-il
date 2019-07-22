@@ -31,6 +31,9 @@
     "name:pol_x_preferred":[
         "Hosza\u2019aja"
     ],
+    "name:pol_x_variant":[
+        "Hosza'aja"
+    ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":386169,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421175713,
-    "wof:lastmodified":1561760028,
+    "wof:lastmodified":1563315154,
     "wof:name":"Hoshaya",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

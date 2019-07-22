@@ -16,6 +16,9 @@
     "name:ces_x_preferred":[
         "Kfar Truman"
     ],
+    "name:deu_x_preferred":[
+        "Kfar Truman"
+    ],
     "name:eng_x_preferred":[
         "Kfar Truman"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421203613,
-    "wof:lastmodified":1561760021,
+    "wof:lastmodified":1563315090,
     "wof:name":"Kefar Truman",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

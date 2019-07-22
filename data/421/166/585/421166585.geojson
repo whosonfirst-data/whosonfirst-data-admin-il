@@ -16,8 +16,14 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0644\u0628\u0648\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "\u2018Eilabun"
+    ],
     "name:ces_x_preferred":[
         "Ajlabun"
+    ],
+    "name:ces_x_variant":[
+        "Ajlab\u00fan"
     ],
     "name:dan_x_preferred":[
         "Eilabun"
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":421166585,
-    "wof:lastmodified":1561760015,
+    "wof:lastmodified":1563315049,
     "wof:name":"Eilabun",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:pol_x_preferred":[
         "Geszer ha-Ziw"
     ],
+    "name:pol_x_variant":[
+        "Geszer HaZiv"
+    ],
     "name:unk_x_variant":[
         "Gesher Haziv"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421191893,
-    "wof:lastmodified":1561760029,
+    "wof:lastmodified":1563315167,
     "wof:name":"Gesher HaZiw",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

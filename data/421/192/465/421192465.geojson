@@ -34,6 +34,9 @@
     "name:pol_x_preferred":[
         "Jizre\u2019el"
     ],
+    "name:pol_x_variant":[
+        "Jizreel"
+    ],
     "name:unk_x_variant":[
         "Jezreel"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421192465,
-    "wof:lastmodified":1561760016,
+    "wof:lastmodified":1563315054,
     "wof:name":"Yizreel",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

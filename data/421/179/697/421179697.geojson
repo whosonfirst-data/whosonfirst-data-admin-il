@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "New\u00e9 Ur"
+    ],
     "name:ces_x_preferred":[
         "Neve Ur"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:pol_x_preferred":[
         "Newe Ur"
+    ],
+    "name:pol_x_variant":[
+        "Neve Ur"
     ],
     "name:swe_x_preferred":[
         "New\u00e9 Ur"
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421179697,
-    "wof:lastmodified":1561760036,
+    "wof:lastmodified":1563315234,
     "wof:name":"Newe Ur",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

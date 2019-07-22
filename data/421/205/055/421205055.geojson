@@ -55,6 +55,9 @@
     "name:hrv_x_preferred":[
         "Jabna"
     ],
+    "name:hun_x_preferred":[
+        "Jawne"
+    ],
     "name:ind_x_preferred":[
         "Yamnia"
     ],
@@ -115,6 +118,9 @@
     "name:urd_x_preferred":[
         "\u06cc\u0648\u0646\u06d2"
     ],
+    "name:urd_x_variant":[
+        "\u06cc\u0641\u0646\u06c1"
+    ],
     "name:vie_x_preferred":[
         "Yavne"
     ],
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":421205055,
-    "wof:lastmodified":1561760022,
+    "wof:lastmodified":1563315104,
     "wof:name":"Yavne",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

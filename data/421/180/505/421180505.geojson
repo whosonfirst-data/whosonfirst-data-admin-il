@@ -37,8 +37,14 @@
     "name:pol_x_preferred":[
         "Evron"
     ],
+    "name:pol_x_variant":[
+        "Ewron"
+    ],
     "name:unk_x_variant":[
         "Ga\u2018aton"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5fb7\u6d1b\u7279"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421180505,
-    "wof:lastmodified":1561760023,
+    "wof:lastmodified":1563315113,
     "wof:name":"Evron",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

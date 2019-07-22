@@ -40,6 +40,9 @@
     "name:pol_x_preferred":[
         "Nes Amim"
     ],
+    "name:pol_x_variant":[
+        "Nes Ammim"
+    ],
     "name:unk_x_variant":[
         "Nes Amim"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421169649,
-    "wof:lastmodified":1561760019,
+    "wof:lastmodified":1563315076,
     "wof:name":"Nes Ammim",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

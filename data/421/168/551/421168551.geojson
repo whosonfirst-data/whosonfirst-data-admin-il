@@ -22,6 +22,9 @@
     "name:deu_x_preferred":[
         "Givat Brenner"
     ],
+    "name:deu_x_variant":[
+        "Giw'at Brenner"
+    ],
     "name:eng_x_preferred":[
         "Givat Brenner"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0413\u0438\u0432\u0430\u0442-\u0411\u0440\u0435\u043d\u0435\u0440"
+    ],
+    "name:rus_x_variant":[
+        "Givat Brenner"
     ],
     "name:unk_x_variant":[
         "Giv\u2018at-Brener"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421168551,
-    "wof:lastmodified":1561760013,
+    "wof:lastmodified":1563315033,
     "wof:name":"Givat Brenner",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

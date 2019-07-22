@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0413\u0430\u0437\u0438\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Gazit"
+    ],
     "name:ces_x_preferred":[
         "Gazit"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421194155,
-    "wof:lastmodified":1561760017,
+    "wof:lastmodified":1563315065,
     "wof:name":"Gazit",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "New\u00e9 Yam"
+    ],
     "name:ces_x_preferred":[
         "Neve Jam"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:pol_x_preferred":[
         "Newe Jam"
+    ],
+    "name:pol_x_variant":[
+        "Neve Jam"
     ],
     "name:swe_x_preferred":[
         "New\u00e9 Yam"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421173393,
-    "wof:lastmodified":1561760025,
+    "wof:lastmodified":1563315129,
     "wof:name":"Newe Yam",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

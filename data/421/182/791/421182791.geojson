@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0625\u0643\u0633\u0627\u0644"
     ],
+    "name:ceb_x_preferred":[
+        "Iks\u0101l"
+    ],
     "name:ces_x_preferred":[
         "Iksal"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0418\u043a\u0441\u0430\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Iksal"
     ],
     "name:swe_x_preferred":[
         "Iks\u0101l"
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421182791,
-    "wof:lastmodified":1561760036,
+    "wof:lastmodified":1563315237,
     "wof:name":"Iksal",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

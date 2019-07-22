@@ -13,14 +13,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u062f\u064a\u0633 \u062d\u0646\u0627-\u0643\u0631\u0643\u0648\u0631"
+    ],
+    "name:cat_x_preferred":[
+        "Pardes Hanna-Karkur"
+    ],
+    "name:ces_x_preferred":[
+        "Pardes Chana-Karkur"
+    ],
+    "name:deu_x_preferred":[
+        "Pardes Hanna-Karkur"
+    ],
+    "name:eng_x_preferred":[
+        "Pardes Hanna-Karkur"
+    ],
+    "name:fra_x_preferred":[
+        "Pardes Hanna-Karkur"
+    ],
     "name:heb_x_preferred":[
         "Pard\u00e9s H\u0331anna Karkur"
     ],
     "name:heb_x_variant":[
-        "\u05e4\u05e8\u05d3\u05e1 \u05d7\u05e0\u05d4 \u05db\u05e8\u05db\u05d5\u05e8"
+        "\u05e4\u05e8\u05d3\u05e1 \u05d7\u05e0\u05d4 \u05db\u05e8\u05db\u05d5\u05e8",
+        "\u05e4\u05e8\u05d3\u05e1 \u05d7\u05e0\u05d4-\u05db\u05e8\u05db\u05d5\u05e8"
+    ],
+    "name:ita_x_preferred":[
+        "Pardes Hanna-Karkur"
+    ],
+    "name:nld_x_preferred":[
+        "Pardes Hanna-Karkur"
+    ],
+    "name:nno_x_preferred":[
+        "Pardes Hanna-Karkur"
+    ],
+    "name:pol_x_preferred":[
+        "Pardes Hanna-Karkur"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u0434\u0435\u0441-\u0425\u0430\u043d\u0430-\u041a\u0430\u0440\u043a\u0443\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Pardes Hanna-Karkur"
+    ],
+    "name:spa_x_preferred":[
+        "Pardes Hanna-Karkur"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0434\u0435\u0441-\u0425\u0430\u043d\u0430-\u041a\u0430\u0440\u043a\u0443\u0440"
     ],
     "name:unk_x_variant":[
         "Pardes Hanah"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e4\u05e8\u05d3\u05e1 \u05d7\u05e0\u05d4-\u05db\u05e8\u05db\u05d5\u05e8"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -68,7 +114,7 @@
         }
     ],
     "wof:id":421187753,
-    "wof:lastmodified":1549930364,
+    "wof:lastmodified":1563315121,
     "wof:name":"Pardes Hanna",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

@@ -27,7 +27,8 @@
     ],
     "name:heb_x_variant":[
         "Allon\u00e9 Abba",
-        "\u05d0\u05dc\u05d5\u05df \u05d0\u05d1\u05d0"
+        "\u05d0\u05dc\u05d5\u05df \u05d0\u05d1\u05d0",
+        "Givat Zeev"
     ],
     "name:nld_x_preferred":[
         "Alonei Abba"
@@ -37,6 +38,12 @@
     ],
     "name:pol_x_preferred":[
         "Allone Abba"
+    ],
+    "name:pol_x_variant":[
+        "Alonej Aba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u043e\u043d\u0435\u0439-\u0410\u0431\u0431\u0430"
     ],
     "name:unk_x_variant":[
         "Waldheim"
@@ -90,7 +97,7 @@
         }
     ],
     "wof:id":421180775,
-    "wof:lastmodified":1561760024,
+    "wof:lastmodified":1563315118,
     "wof:name":"Allone Abba",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

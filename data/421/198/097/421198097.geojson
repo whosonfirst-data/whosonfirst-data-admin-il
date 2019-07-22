@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Ein Bokek"
     ],
+    "name:fin_x_preferred":[
+        "Ein Bokek"
+    ],
     "name:heb_x_preferred":[
         "\u05e2\u05d9\u05df \u05d1\u05d5\u05e7\u05e7"
     ],
@@ -48,6 +51,12 @@
     ],
     "name:rus_x_preferred":[
         "\u042d\u0439\u043d-\u0411\u043e\u043a\u0435\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Ein Bokek"
+    ],
+    "name:swe_x_preferred":[
+        "Ginnosar"
     ],
     "name:ukr_x_preferred":[
         "\u0415\u0439\u043d-\u0411\u043e\u043a\u0435\u043a"
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":421198097,
-    "wof:lastmodified":1561760028,
+    "wof:lastmodified":1563315159,
     "wof:name":"En Boqeq",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

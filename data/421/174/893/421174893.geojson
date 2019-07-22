@@ -22,8 +22,17 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u0439\u0442 \u0428\u0435\u0430\u043d"
     ],
+    "name:bul_x_variant":[
+        "\u0411\u0435\u0439\u0442-\u0428\u0435\u0430\u043d"
+    ],
     "name:cat_x_preferred":[
         "Bet-Xean"
+    ],
+    "name:cat_x_variant":[
+        "Beit She'an"
+    ],
+    "name:ceb_x_preferred":[
+        "Bet She'an"
     ],
     "name:ces_x_preferred":[
         "Bejt \u0160e'an"
@@ -109,8 +118,14 @@
     "name:pol_x_preferred":[
         "Bet Sze\u2019an"
     ],
+    "name:pol_x_variant":[
+        "Bet Sze'an"
+    ],
     "name:por_x_preferred":[
         "Bete-Se\u00e3"
+    ],
+    "name:por_x_variant":[
+        "Beit She'an"
     ],
     "name:ron_x_preferred":[
         "Beit \u0218e'an"
@@ -204,7 +219,7 @@
         }
     ],
     "wof:id":421174893,
-    "wof:lastmodified":1561760022,
+    "wof:lastmodified":1563315107,
     "wof:name":"Bet She'an",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

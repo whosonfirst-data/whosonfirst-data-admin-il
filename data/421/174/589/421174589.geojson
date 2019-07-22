@@ -22,11 +22,23 @@
     "name:dan_x_preferred":[
         "Givat Ram"
     ],
+    "name:deu_x_preferred":[
+        "Givat Ram"
+    ],
+    "name:eng_x_preferred":[
+        "Givat Ram"
+    ],
     "name:fra_x_preferred":[
         "Guivat Ram"
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05d1\u05e2\u05ea \u05e8\u05dd"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u056b\u057e\u0561\u057f \u054c\u0561\u0574"
+    ],
+    "name:ind_x_preferred":[
+        "Givat Ram"
     ],
     "name:isl_x_preferred":[
         "Givat Ram"
@@ -45,6 +57,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0438\u0432\u0430\u0442 \u0420\u0430\u043c"
+    ],
+    "name:ukr_x_variant":[
+        "\u0490\u0456\u0432\u0430\u0442-\u0420\u0430\u043c"
     ],
     "name:yid_x_preferred":[
         "\u05d2\u05d1\u05e2\u05ea \u05e8\u05dd"
@@ -73,11 +88,11 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":624,
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +115,7 @@
         }
     ],
     "wof:id":421174589,
-    "wof:lastmodified":1549930536,
+    "wof:lastmodified":1563315110,
     "wof:name":"Giv\u2019at Ram",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

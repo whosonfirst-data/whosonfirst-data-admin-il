@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Maalot-Tarxiha"
     ],
+    "name:ceb_x_preferred":[
+        "Maalot Tarsh\u012bh\u0101"
+    ],
     "name:ces_x_preferred":[
         "Ma'alot-Tar\u0161icha"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e2\u05dc\u05d5\u05ea \u05ea\u05e8\u05e9\u05d9\u05d7\u05d0"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05e2\u05dc\u05d5\u05ea-\u05ea\u05e8\u05e9\u05d9\u05d7\u05d0"
     ],
     "name:hun_x_preferred":[
         "Ma\u2019alot"
@@ -147,7 +153,7 @@
         }
     ],
     "wof:id":1125841901,
-    "wof:lastmodified":1561760040,
+    "wof:lastmodified":1563315272,
     "wof:name":"maalot Tarsh\u012bh\u0101",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

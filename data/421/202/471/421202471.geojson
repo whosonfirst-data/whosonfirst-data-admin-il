@@ -16,6 +16,9 @@
     "name:ces_x_preferred":[
         "Chamadja"
     ],
+    "name:deu_x_preferred":[
+        "Chamadja"
+    ],
     "name:eng_x_preferred":[
         "Hamadia"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:pol_x_preferred":[
         "Chamadja"
+    ],
+    "name:pol_x_variant":[
+        "Hamadia"
     ],
     "name:unk_x_variant":[
         "Hamadiyah"
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":421202471,
-    "wof:lastmodified":1561760021,
+    "wof:lastmodified":1563315094,
     "wof:name":"Hamadya",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

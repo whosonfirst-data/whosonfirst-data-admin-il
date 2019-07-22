@@ -47,6 +47,9 @@
     "name:pol_x_preferred":[
         "Lochamej HaGeta'ot"
     ],
+    "name:pol_x_variant":[
+        "Lochame ha-Geta\u2019ot"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u043e\u0445\u0430\u043c\u0435\u0439-\u0445\u0430-\u0433\u0435\u0442\u0430\u043e\u0442"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421197181,
-    "wof:lastmodified":1561760030,
+    "wof:lastmodified":1563315176,
     "wof:name":"Lohame HaGeta'ot",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

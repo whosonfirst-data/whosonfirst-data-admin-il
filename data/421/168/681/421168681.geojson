@@ -21,6 +21,9 @@
     "name:ace_x_preferred":[
         "Al-Quds"
     ],
+    "name:afr_x_preferred":[
+        "Jerusalem"
+    ],
     "name:akk_x_preferred":[
         "Uru\u0161alim"
     ],
@@ -59,6 +62,9 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u0642\u062f\u0633"
     ],
+    "name:asm_x_preferred":[
+        "\u099c\u09c7\u09f0\u09c1\u099c\u09be\u09b2\u09c7\u09ae"
+    ],
     "name:ast_x_preferred":[
         "Xerusal\u00e9n"
     ],
@@ -74,14 +80,26 @@
     "name:bak_x_preferred":[
         "\u0418\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c"
     ],
+    "name:bam_x_preferred":[
+        "Jerusalem"
+    ],
+    "name:bar_x_preferred":[
+        "Jerusalem"
+    ],
     "name:bcl_x_preferred":[
         "Herusalem"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0406\u0435\u0440\u0443\u0441\u0430\u043b\u0456\u043c"
     ],
+    "name:bel_x_variant":[
+        "\u0406\u0435\u0440\u0443\u0441\u0430\u043b\u0456\u043c"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09c7\u09b0\u09c1\u09b8\u09be\u09b2\u09c7\u09ae"
+    ],
+    "name:bho_x_preferred":[
+        "\u091c\u0947\u0930\u0942\u0938\u0932\u092e"
     ],
     "name:bih_x_preferred":[
         "\u091c\u0947\u0930\u0942\u0938\u0932\u092e"
@@ -91,6 +109,9 @@
     ],
     "name:bod_x_preferred":[
         "\u0f47\u0f7a\u0f0b\u0f62\u0f74\u0f0b\u0f66\u0f0b\u0f63\u0f7a\u0f58\u0f0d"
+    ],
+    "name:bos_x_preferred":[
+        "Jerusalem"
     ],
     "name:bre_x_preferred":[
         "Jeruzalem"
@@ -113,6 +134,9 @@
     "name:ces_x_preferred":[
         "Jeruzal\u00e9m"
     ],
+    "name:cha_x_preferred":[
+        "Jerusalem"
+    ],
     "name:che_x_preferred":[
         "\u041a\u044a\u0443\u0434\u0441-\u0413\u04c0\u0430\u043b\u0430"
     ],
@@ -125,6 +149,15 @@
     "name:ckb_x_preferred":[
         "\u0626\u0648\u0631\u0634\u06d5\u0644\u06cc\u0645"
     ],
+    "name:ckb_x_variant":[
+        "\u0626\u06c6\u0631\u0634\u06d5\u0644\u06cc\u0645"
+    ],
+    "name:cor_x_preferred":[
+        "Jerusalem"
+    ],
+    "name:cos_x_preferred":[
+        "Gerusaleme"
+    ],
     "name:crh_x_preferred":[
         "Qudus"
     ],
@@ -133,6 +166,9 @@
     ],
     "name:cym_x_preferred":[
         "Jeriwsalem"
+    ],
+    "name:cym_x_variant":[
+        "Jerwsalem"
     ],
     "name:dan_x_preferred":[
         "Jerusalem"
@@ -148,6 +184,9 @@
     ],
     "name:dsb_x_preferred":[
         "Jeruzalem"
+    ],
+    "name:dty_x_preferred":[
+        "\u091c\u0947\u0930\u0941\u0936\u0932\u092e"
     ],
     "name:ell_x_preferred":[
         "\u0399\u03b5\u03c1\u03bf\u03c5\u03c3\u03b1\u03bb\u03ae\u03bc"
@@ -189,8 +228,14 @@
     "name:fra_x_preferred":[
         "J\u00e9rusalem"
     ],
+    "name:frr_x_preferred":[
+        "Jerusalem"
+    ],
     "name:fry_x_preferred":[
         "Jeruzalim"
+    ],
+    "name:fur_x_preferred":[
+        "Jerusalem"
     ],
     "name:gan_x_preferred":[
         "\u8036\u8def\u6492\u51b7"
@@ -203,6 +248,9 @@
     ],
     "name:glg_x_preferred":[
         "Xerusal\u00e9n"
+    ],
+    "name:glv_x_preferred":[
+        "Jerusalem"
     ],
     "name:got_x_preferred":[
         "\ud800\udf39\ud800\udf30\ud800\udf39\ud800\udf42\ud800\udf3f\ud800\udf43\ud800\udf30\ud800\udf3f\ud800\udf3b\ud800\udf45\ud800\udf3c\ud800\udf30"
@@ -225,8 +273,17 @@
     "name:grn_x_preferred":[
         "Herusal\u1ebd"
     ],
+    "name:gsw_x_preferred":[
+        "Jerusalem"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9c\u0ac7\u0ab0\u0ac1\u0ab8\u0ab2\u0ac7\u0aae"
+    ],
     "name:hak_x_preferred":[
         "Y\u00e2-lu-sat-l\u00e2ng"
+    ],
+    "name:haw_x_preferred":[
+        "Ielukalema"
     ],
     "name:hbs_x_preferred":[
         "Ur\u0161alimmu"
@@ -256,6 +313,12 @@
         "\u05d4\u05b7\u05e7\u05b9\u05bc\u05d3\u05b6\u05e9\u05c1",
         "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
     ],
+    "name:hif_x_preferred":[
+        "Jerusalem"
+    ],
+    "name:hil_x_preferred":[
+        "Herusalem"
+    ],
     "name:hin_x_preferred":[
         "\u092f\u0930\u0941\u0936\u0932\u092e"
     ],
@@ -271,20 +334,35 @@
     "name:hye_x_preferred":[
         "\u0535\u0580\u0578\u0582\u057d\u0561\u0572\u0565\u0574"
     ],
+    "name:ibo_x_preferred":[
+        "Jerusalem"
+    ],
     "name:ido_x_preferred":[
         "Ierusalem"
+    ],
+    "name:ile_x_preferred":[
+        "Jerusalem"
     ],
     "name:ilo_x_preferred":[
         "Herusalem"
     ],
+    "name:ina_x_preferred":[
+        "Jerusalem"
+    ],
     "name:ind_x_preferred":[
         "Yerusalem"
+    ],
+    "name:inh_x_preferred":[
+        "\u0411\u0430\u0439\u0442\u0443\u043b\u043c\u0430\u043a\u044a\u0434\u0438\u0441"
     ],
     "name:isl_x_preferred":[
         "Jer\u00fasalem"
     ],
     "name:ita_x_preferred":[
         "Gerusalemme"
+    ],
+    "name:jam_x_preferred":[
+        "Jiruusalem"
     ],
     "name:jav_x_preferred":[
         "Y\u00e9rusalem"
@@ -298,6 +376,9 @@
     "name:kab_x_preferred":[
         "Orcalim"
     ],
+    "name:kal_x_preferred":[
+        "Jerusalem"
+    ],
     "name:kan_x_preferred":[
         "\u0c9c\u0cc6\u0cb0\u0cc1\u0cb8\u0cb2\u0cc6\u0c82"
     ],
@@ -307,8 +388,17 @@
     "name:kaz_x_preferred":[
         "\u0418\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c"
     ],
+    "name:kaz_x_variant":[
+        "\u04d8\u043b-\u049a\u04b1\u0434\u044b\u0441"
+    ],
+    "name:kbp_x_preferred":[
+        "Jeruzal\u025bm"
+    ],
     "name:khm_x_preferred":[
         "\u0ec0\u0ea2\u200b\u0ea3\u0eb9\u200b\u0e8a\u0eb2\u200b\u0ec0\u0ea5\u0eb1\u0ea1"
+    ],
+    "name:kik_x_preferred":[
+        "Jerusalem"
     ],
     "name:kin_x_preferred":[
         "Yerusalemu"
@@ -349,6 +439,9 @@
     "name:lez_x_preferred":[
         "\u0418\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c"
     ],
+    "name:lfn_x_preferred":[
+        "Ieruxalim"
+    ],
     "name:lij_x_preferred":[
         "Gerusalemme"
     ],
@@ -364,11 +457,17 @@
     "name:lmo_x_preferred":[
         "Ger\u00fcsalem"
     ],
+    "name:lrc_x_preferred":[
+        "\u0626\u0648\u0659\u0631\u0634\u0623\u0644\u06cc\u0645"
+    ],
     "name:ltz_x_preferred":[
         "Jerusalem"
     ],
     "name:lzh_x_preferred":[
         "\u8036\u8def\u6492\u51b7"
+    ],
+    "name:mai_x_preferred":[
+        "\u091c\u0947\u0930\u0941\u0938\u0947\u0932\u092e"
     ],
     "name:mal_x_preferred":[
         "\u0d1c\u0d46\u0d31\u0d41\u0d38\u0d32\u0d47\u0d02"
@@ -385,6 +484,12 @@
     "name:mkd_x_preferred":[
         "\u0415\u0440\u0443\u0441\u0430\u043b\u0438\u043c"
     ],
+    "name:mlg_x_preferred":[
+        "Jerusalem"
+    ],
+    "name:mlt_x_preferred":[
+        "\u0120erusalemm"
+    ],
     "name:mon_x_preferred":[
         "\u0418\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c"
     ],
@@ -400,6 +505,12 @@
     "name:mya_x_preferred":[
         "\u1002\u103b\u1031\u101b\u102f\u1006\u101c\u1004\u103a\u1019\u103c\u102d\u102f\u1037"
     ],
+    "name:myv_x_preferred":[
+        "\u0418\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0627\u0648\u0631\u0634\u0644\u06cc\u0645"
+    ],
     "name:nah_x_preferred":[
         "Ierusalem"
     ],
@@ -409,6 +520,9 @@
     "name:nap_x_preferred":[
         "Gierusalemme"
     ],
+    "name:nds_x_preferred":[
+        "Jerusalem"
+    ],
     "name:nep_x_preferred":[
         "\u091c\u0947\u0930\u0941\u0938\u0947\u0932\u092e"
     ],
@@ -416,6 +530,9 @@
         "Jeruzalem"
     ],
     "name:nno_x_preferred":[
+        "Jerusalem"
+    ],
+    "name:nob_x_preferred":[
         "Jerusalem"
     ],
     "name:non_x_preferred":[
@@ -428,14 +545,23 @@
     "name:nor_x_preferred":[
         "Jerusalem"
     ],
+    "name:nov_x_preferred":[
+        "Jerusalem"
+    ],
     "name:nrm_x_preferred":[
         "J\u00e9rusalem"
+    ],
+    "name:nya_x_preferred":[
+        "Jerusalem"
     ],
     "name:oci_x_preferred":[
         "Jerusal\u00e8m"
     ],
     "name:ori_x_preferred":[
         "\u0b1c\u0b47\u0b30\u0b41\u0b38\u0b3e\u0b32\u0b47\u0b2e"
+    ],
+    "name:ori_x_variant":[
+        "\u0b1c\u0b47\u0b30\u0b41\u0b1c\u0b47\u0b32\u0b2e"
     ],
     "name:oss_x_preferred":[
         "\u0418\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c"
@@ -446,11 +572,17 @@
     "name:pap_x_preferred":[
         "Herusalem"
     ],
+    "name:pih_x_preferred":[
+        "Jerusalem"
+    ],
     "name:pms_x_preferred":[
         "Gerusalem"
     ],
     "name:pnb_x_preferred":[
         "\u06cc\u0631\u0648\u0634\u0644\u0645"
+    ],
+    "name:pnt_x_preferred":[
+        "\u0399\u03b5\u03c1\u03bf\u03c5\u03c3\u03b1\u03bb\u03ae\u03bc"
     ],
     "name:pol_x_preferred":[
         "Jerozolima"
@@ -461,6 +593,12 @@
     "name:pus_x_preferred":[
         "\u0628\u064a\u062a \u0627\u0644\u0645\u0642\u062f\u0633"
     ],
+    "name:que_x_preferred":[
+        "Yerushalayim"
+    ],
+    "name:rmy_x_preferred":[
+        "Jerusalem"
+    ],
     "name:roh_x_preferred":[
         "Jerusalem"
     ],
@@ -470,17 +608,29 @@
     "name:rue_x_preferred":[
         "\u0404\u0440\u0443\u0441\u0430\u043b\u0438\u043c"
     ],
+    "name:run_x_preferred":[
+        "Jerusalem"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c"
     ],
     "name:sah_x_preferred":[
         "\u0418\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c"
     ],
+    "name:sat_x_preferred":[
+        "\u1c61\u1c6e\u1c68\u1c69\u1c65\u1c5f\u1c5e\u1c64\u1c62"
+    ],
     "name:scn_x_preferred":[
         "Girusalemmi"
     ],
+    "name:sco_x_preferred":[
+        "Jerusalem"
+    ],
     "name:sgs_x_preferred":[
         "Jerozal\u0117"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da2\u0dd9\u0dbb\u0dd4\u0dc3\u0dbd\u0db8"
     ],
     "name:slk_x_preferred":[
         "Jeruzalem"
@@ -490,6 +640,12 @@
     ],
     "name:smo_x_preferred":[
         "Ierusalema"
+    ],
+    "name:sna_x_preferred":[
+        "Jerusalem"
+    ],
+    "name:snd_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0645\u0642\u062f\u0633"
     ],
     "name:som_x_preferred":[
         "Qudus"
@@ -503,8 +659,14 @@
     "name:srd_x_preferred":[
         "Gerusalemme"
     ],
+    "name:srn_x_preferred":[
+        "Jerusalem"
+    ],
     "name:srp_x_preferred":[
         "\u0408\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c"
+    ],
+    "name:stq_x_preferred":[
+        "Jerusalem"
     ],
     "name:sun_x_preferred":[
         "Yerusalem"
@@ -527,8 +689,14 @@
     "name:tam_x_preferred":[
         "\u0b8e\u0bb0\u0bc1\u0b9a\u0bb2\u0bc7\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0baf\u0bc6\u0bb0\u0bc2\u0b9a\u0bb2\u0bae\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u0418\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c"
+    ],
+    "name:tat_x_variant":[
+        "\u041a\u043e\u0442\u0434\u0443\u0441"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c46\u0c30\u0c42\u0c38\u0c32\u0c47\u0c02"
@@ -551,6 +719,9 @@
     "name:tuk_x_preferred":[
         "I\u00fderusalim"
     ],
+    "name:tum_x_preferred":[
+        "Jerusalem"
+    ],
     "name:tur_x_preferred":[
         "Kud\u00fcs"
     ],
@@ -559,6 +730,9 @@
     ],
     "name:uig_x_preferred":[
         "\u0642\u06c7\u062f\u0633"
+    ],
+    "name:uig_x_variant":[
+        "\u064a\u06d0\u0631\u06c7\u0633\u0627\u0644\u06d0\u0645"
     ],
     "name:ukr_x_preferred":[
         "\u0404\u0440\u0443\u0441\u0430\u043b\u0438\u043c"
@@ -584,14 +758,29 @@
     "name:vol_x_preferred":[
         "Hierusalem"
     ],
+    "name:vro_x_preferred":[
+        "Jeruusalemm"
+    ],
     "name:war_x_preferred":[
         "Jerusal\u00e9n"
+    ],
+    "name:war_x_variant":[
+        "Jerusalem"
     ],
     "name:wln_x_preferred":[
         "Djeruzalem"
     ],
+    "name:wol_x_preferred":[
+        "Jerusalem"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8036\u8def\u6492\u51b7"
+    ],
     "name:xho_x_preferred":[
         "IJerusalem"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d8\u10d4\u10e0\u10e3\u10e1\u10d0\u10da\u10d8\u10db\u10d8"
     ],
     "name:yid_x_preferred":[
         "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
@@ -607,6 +796,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8036\u8def\u6492\u51b7"
+    ],
+    "name:zul_x_preferred":[
+        "IYerusalem"
     ],
     "ne:ADM0CAP":1.0,
     "ne:ADM0NAME":"Israel",
@@ -756,7 +948,7 @@
         }
     ],
     "wof:id":421168681,
-    "wof:lastmodified":1552515594,
+    "wof:lastmodified":1563315037,
     "wof:name":"Jerusalem",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -51,6 +51,9 @@
     "name:pol_x_preferred":[
         "Ar-Rihanija"
     ],
+    "name:pol_x_variant":[
+        "Richanija"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u0435\u0439\u0445\u0430\u043d\u0438\u044f"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421188447,
-    "wof:lastmodified":1561760026,
+    "wof:lastmodified":1563315135,
     "wof:name":"Rihaniya",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0645\u064a\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0639\u0645\u064a\u0631"
+    ],
     "name:aze_x_preferred":[
         "\u018fmir"
     ],
@@ -161,6 +164,9 @@
     "name:pol_x_preferred":[
         "Emir"
     ],
+    "name:pol_x_variant":[
+        "Amir"
+    ],
     "name:por_x_preferred":[
         "Emir"
     ],
@@ -169,6 +175,9 @@
     ],
     "name:rus_x_preferred":[
         "\u042d\u043c\u0438\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043c\u0438\u0440"
     ],
     "name:sco_x_preferred":[
         "Emir"
@@ -255,7 +264,7 @@
         }
     ],
     "wof:id":421199139,
-    "wof:lastmodified":1561760031,
+    "wof:lastmodified":1563315190,
     "wof:name":"Amir",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

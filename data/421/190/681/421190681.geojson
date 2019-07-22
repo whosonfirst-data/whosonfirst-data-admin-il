@@ -13,13 +13,202 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Deganja"
+    ],
+    "name:arg_x_preferred":[
+        "Deganja"
+    ],
+    "name:ast_x_preferred":[
+        "Deganja"
+    ],
+    "name:bar_x_preferred":[
+        "Deganja"
+    ],
+    "name:bre_x_preferred":[
+        "Deganja"
+    ],
+    "name:cat_x_preferred":[
+        "Deganja"
+    ],
     "name:ces_x_preferred":[
+        "Deganja"
+    ],
+    "name:cos_x_preferred":[
+        "Deganja"
+    ],
+    "name:cym_x_preferred":[
+        "Deganja"
+    ],
+    "name:dan_x_preferred":[
+        "Deganja"
+    ],
+    "name:deu_x_preferred":[
+        "Deganja"
+    ],
+    "name:eng_x_preferred":[
+        "Degania"
+    ],
+    "name:epo_x_preferred":[
+        "Deganja"
+    ],
+    "name:est_x_preferred":[
+        "Deganja"
+    ],
+    "name:eus_x_preferred":[
+        "Deganja"
+    ],
+    "name:fin_x_preferred":[
+        "Deganja"
+    ],
+    "name:fra_x_preferred":[
+        "Deganja"
+    ],
+    "name:frp_x_preferred":[
+        "Deganja"
+    ],
+    "name:fur_x_preferred":[
+        "Deganja"
+    ],
+    "name:gla_x_preferred":[
+        "Deganja"
+    ],
+    "name:gle_x_preferred":[
+        "Deganja"
+    ],
+    "name:glg_x_preferred":[
+        "Deganja"
+    ],
+    "name:gsw_x_preferred":[
         "Deganja"
     ],
     "name:heb_x_preferred":[
         "\u05d3\u05d2\u05e0\u05d9\u05d4"
     ],
+    "name:hrv_x_preferred":[
+        "Deganja"
+    ],
+    "name:ido_x_preferred":[
+        "Deganja"
+    ],
+    "name:ile_x_preferred":[
+        "Deganja"
+    ],
+    "name:ina_x_preferred":[
+        "Deganja"
+    ],
+    "name:ind_x_preferred":[
+        "Deganja"
+    ],
+    "name:isl_x_preferred":[
+        "Deganja"
+    ],
+    "name:ita_x_preferred":[
+        "Deganja"
+    ],
+    "name:kon_x_preferred":[
+        "Deganja"
+    ],
+    "name:lij_x_preferred":[
+        "Deganja"
+    ],
+    "name:lim_x_preferred":[
+        "Deganja"
+    ],
+    "name:ltz_x_preferred":[
+        "Deganja"
+    ],
+    "name:min_x_preferred":[
+        "Deganja"
+    ],
+    "name:mlg_x_preferred":[
+        "Deganja"
+    ],
+    "name:msa_x_preferred":[
+        "Deganja"
+    ],
+    "name:nap_x_preferred":[
+        "Deganja"
+    ],
+    "name:nds_x_preferred":[
+        "Deganja"
+    ],
+    "name:nld_x_preferred":[
+        "Deganja"
+    ],
+    "name:nno_x_preferred":[
+        "Deganja"
+    ],
+    "name:nob_x_preferred":[
+        "Deganja"
+    ],
+    "name:nrm_x_preferred":[
+        "Deganja"
+    ],
+    "name:oci_x_preferred":[
+        "Deganja"
+    ],
+    "name:pcd_x_preferred":[
+        "Deganja"
+    ],
+    "name:pms_x_preferred":[
+        "Deganja"
+    ],
+    "name:pol_x_preferred":[
+        "Deganja"
+    ],
+    "name:por_x_preferred":[
+        "Deganja"
+    ],
+    "name:roh_x_preferred":[
+        "Deganja"
+    ],
+    "name:ron_x_preferred":[
+        "Deganja"
+    ],
+    "name:scn_x_preferred":[
+        "Deganja"
+    ],
+    "name:sco_x_preferred":[
+        "Deganja"
+    ],
     "name:slk_x_preferred":[
+        "Deganja"
+    ],
+    "name:slv_x_preferred":[
+        "Deganja"
+    ],
+    "name:spa_x_preferred":[
+        "Deganja"
+    ],
+    "name:srd_x_preferred":[
+        "Deganja"
+    ],
+    "name:swa_x_preferred":[
+        "Deganja"
+    ],
+    "name:swe_x_preferred":[
+        "Deganja"
+    ],
+    "name:vec_x_preferred":[
+        "Deganja"
+    ],
+    "name:vie_x_preferred":[
+        "Deganja"
+    ],
+    "name:vls_x_preferred":[
+        "Deganja"
+    ],
+    "name:vol_x_preferred":[
+        "Deganja"
+    ],
+    "name:wln_x_preferred":[
+        "Deganja"
+    ],
+    "name:wol_x_preferred":[
+        "Deganja"
+    ],
+    "name:zul_x_preferred":[
         "Deganja"
     ],
     "qs:gn_country":null,
@@ -67,7 +256,7 @@
         }
     ],
     "wof:id":421190681,
-    "wof:lastmodified":1549930369,
+    "wof:lastmodified":1563315170,
     "wof:name":"Deganya",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

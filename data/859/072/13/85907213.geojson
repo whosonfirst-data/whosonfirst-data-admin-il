@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Komemiyut"
     ],
+    "name:fra_x_preferred":[
+        "Komemiyut"
+    ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05de\u05de\u05d9\u05d5\u05ea"
     ],
@@ -72,11 +75,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":128,
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930543,
+    "wof:lastmodified":1563314948,
     "wof:name":"Komemiyut",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0415\u043b\u044f\u043a\u0445\u0438\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Elyakhin"
+    ],
     "name:ces_x_preferred":[
         "Eljachin"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421173203,
-    "wof:lastmodified":1561760025,
+    "wof:lastmodified":1563315127,
     "wof:name":"Elyakhin",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:pol_x_preferred":[
         "Chulata"
     ],
+    "name:pol_x_variant":[
+        "Hulata"
+    ],
     "name:unk_x_variant":[
         "Hulatah"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421182203,
-    "wof:lastmodified":1561760036,
+    "wof:lastmodified":1563315239,
     "wof:name":"Hulata",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

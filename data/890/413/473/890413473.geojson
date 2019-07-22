@@ -15,6 +15,9 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Na'ale"
+    ],
     "name:ces_x_preferred":[
         "Na'ale"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":890413473,
-    "wof:lastmodified":1561760038,
+    "wof:lastmodified":1563315257,
     "wof:name":"Na'ale",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

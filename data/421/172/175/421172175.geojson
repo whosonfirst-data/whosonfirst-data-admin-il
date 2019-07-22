@@ -16,8 +16,14 @@
     "name:cat_x_preferred":[
         "Bethoron"
     ],
+    "name:ceb_x_preferred":[
+        "Beit Horon"
+    ],
     "name:ces_x_preferred":[
         "Bejt Choron"
+    ],
+    "name:eng_x_preferred":[
+        "Beit Horon"
     ],
     "name:heb_x_colloquial":[
         "\u05d1\u05d9\u05ea \u05d7\u05d5\u05e8\u05d5\u05df"
@@ -33,6 +39,15 @@
     ],
     "name:pol_x_preferred":[
         "Bet Choron"
+    ],
+    "name:pol_x_variant":[
+        "Beit Horon"
+    ],
+    "name:swe_x_preferred":[
+        "Beit Horon"
+    ],
+    "name:zho_x_preferred":[
+        "\u62dc\u7279\u548c\u5d19"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -56,12 +71,12 @@
     "src:population":"quattroshapes",
     "wd:wordcount":233,
     "wof:belongsto":[
-        85681427,
         1159339487,
         102191569,
         85633739,
         136253049,
         1091913137,
+        85681427,
         85632315
     ],
     "wof:breaches":[],
@@ -98,7 +113,7 @@
         }
     ],
     "wof:id":421172175,
-    "wof:lastmodified":1549929927,
+    "wof:lastmodified":1563315139,
     "wof:name":"Bet Horon",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

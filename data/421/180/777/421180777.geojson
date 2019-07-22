@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0631\u0634\u0628\u0648\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Rishpon"
+    ],
     "name:ces_x_preferred":[
         "Ri\u0161pon"
     ],
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":421180777,
-    "wof:lastmodified":1561760023,
+    "wof:lastmodified":1563315116,
     "wof:name":"Rishpon",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

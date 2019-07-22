@@ -31,6 +31,9 @@
     "name:pol_x_preferred":[
         "Nir Jisra\u2019el"
     ],
+    "name:pol_x_variant":[
+        "Nir Isra'el"
+    ],
     "name:unk_x_variant":[
         "Gealya"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421182647,
-    "wof:lastmodified":1561760037,
+    "wof:lastmodified":1563315241,
     "wof:name":"Nir Israel",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

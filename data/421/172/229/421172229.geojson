@@ -16,6 +16,9 @@
     "name:ces_x_preferred":[
         "Ha-Chotrim"
     ],
+    "name:deu_x_preferred":[
+        "HaChotrim"
+    ],
     "name:eng_x_preferred":[
         "Hahotrim"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:pol_x_preferred":[
         "Ha-Choterim"
+    ],
+    "name:pol_x_variant":[
+        "HaHoterim"
     ],
     "name:unk_x_variant":[
         "Hahotrim"
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":421172229,
-    "wof:lastmodified":1561760026,
+    "wof:lastmodified":1563315137,
     "wof:name":"HaHoterim",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

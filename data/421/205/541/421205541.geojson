@@ -38,8 +38,17 @@
     "name:pol_x_preferred":[
         "Niccanim"
     ],
+    "name:pol_x_variant":[
+        "Nitsanim"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0446\u0430\u043d\u0438\u043c"
+    ],
     "name:unk_x_variant":[
         "Nitsanim"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u062a\u0632\u0627\u0646\u0645"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":421205541,
-    "wof:lastmodified":1561760022,
+    "wof:lastmodified":1563315105,
     "wof:name":"Nizzanim",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

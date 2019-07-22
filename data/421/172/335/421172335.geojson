@@ -37,6 +37,9 @@
     "name:pol_x_preferred":[
         "En ha-Naciw"
     ],
+    "name:pol_x_variant":[
+        "Ein HaNaciv"
+    ],
     "name:unk_x_variant":[
         "En HaNatsiv"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421172335,
-    "wof:lastmodified":1561760026,
+    "wof:lastmodified":1563315139,
     "wof:name":"En HaNaziv",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

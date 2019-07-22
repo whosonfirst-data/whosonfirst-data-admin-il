@@ -19,8 +19,17 @@
     "name:ces_x_preferred":[
         "Korazim"
     ],
+    "name:eng_x_preferred":[
+        "Korazim"
+    ],
     "name:heb_x_preferred":[
         "\u05db\u05d5\u05e8\u05d6\u05d9\u05dd"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30e9\u30b8\u30e0"
+    ],
+    "name:nld_x_preferred":[
+        "Korazim"
     ],
     "name:nno_x_preferred":[
         "Korazim"
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":421190791,
-    "wof:lastmodified":1549930371,
+    "wof:lastmodified":1563315169,
     "wof:name":"Korazim",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

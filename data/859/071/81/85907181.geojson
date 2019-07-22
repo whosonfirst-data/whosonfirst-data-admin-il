@@ -30,8 +30,17 @@
     "name:eng_x_preferred":[
         "Mekor Barukh"
     ],
+    "name:eng_x_variant":[
+        "Mekor Baruch"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05e7\u05d5\u05e8 \u05d1\u05e8\u05d5\u05da"
+    ],
+    "name:ind_x_preferred":[
+        "Mekor Baruch"
+    ],
+    "name:nld_x_preferred":[
+        "Mekor Baruch"
     ],
     "name:slk_x_preferred":[
         "Mekor Baruch"
@@ -69,11 +78,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":1195,
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930546,
+    "wof:lastmodified":1563314928,
     "wof:name":"Mekor Barukh",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

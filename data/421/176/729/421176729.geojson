@@ -16,6 +16,9 @@
     "name:ces_x_preferred":[
         "Machanajim"
     ],
+    "name:dan_x_preferred":[
+        "Mahanayim"
+    ],
     "name:eng_x_preferred":[
         "Mahanayim"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421176729,
-    "wof:lastmodified":1561760037,
+    "wof:lastmodified":1563315247,
     "wof:name":"Mahanayim",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:pol_x_preferred":[
         "Kefar Glikson"
     ],
+    "name:pol_x_variant":[
+        "Kfar Glikson"
+    ],
     "name:unk_x_variant":[
         "Kefar Gliqson"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421177301,
-    "wof:lastmodified":1561760034,
+    "wof:lastmodified":1563315220,
     "wof:name":"Kefar Glickson",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

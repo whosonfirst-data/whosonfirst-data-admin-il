@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Elat"
     ],
+    "name:ceb_x_preferred":[
+        "Eilat"
+    ],
     "name:ces_x_preferred":[
         "Ejlat"
     ],
@@ -124,6 +127,9 @@
     "name:hye_x_preferred":[
         "\u0537\u0575\u056c\u0561\u0569"
     ],
+    "name:hyw_x_preferred":[
+        "\u0537\u0575\u056c\u0561\u0569"
+    ],
     "name:ind_x_preferred":[
         "Eilat"
     ],
@@ -159,6 +165,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0910\u0932\u093e\u0924"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0415\u0458\u043b\u0430\u0442"
     ],
     "name:msa_x_preferred":[
         "Eilat"
@@ -245,6 +254,9 @@
     "name:vie_x_preferred":[
         "Eilat"
     ],
+    "name:war_x_preferred":[
+        "Eilat"
+    ],
     "name:yid_x_preferred":[
         "\u05d0\u05d9\u05dc\u05ea"
     ],
@@ -302,7 +314,7 @@
         }
     ],
     "wof:id":421200307,
-    "wof:lastmodified":1561760032,
+    "wof:lastmodified":1563315193,
     "wof:name":"Eilat",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

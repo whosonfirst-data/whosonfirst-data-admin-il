@@ -37,6 +37,9 @@
     "name:pol_x_preferred":[
         "Sede Nechemja"
     ],
+    "name:pol_x_variant":[
+        "Sde Nehemia"
+    ],
     "name:unk_x_variant":[
         "Hulyot"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421170839,
-    "wof:lastmodified":1561760034,
+    "wof:lastmodified":1563315219,
     "wof:name":"Sede Nehemya",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

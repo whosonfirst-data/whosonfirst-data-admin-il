@@ -31,6 +31,9 @@
     "name:pol_x_preferred":[
         "Or ha-Ganuz"
     ],
+    "name:pol_x_variant":[
+        "Or HaGanuz"
+    ],
     "name:unk_x_variant":[
         "Or HaGanuz"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421173543,
-    "wof:lastmodified":1561760025,
+    "wof:lastmodified":1563315128,
     "wof:name":"Or Haganouz",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

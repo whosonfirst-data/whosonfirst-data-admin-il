@@ -34,6 +34,9 @@
     "name:pol_x_preferred":[
         "Szomrat"
     ],
+    "name:pol_x_variant":[
+        "Szamerat"
+    ],
     "name:unk_x_variant":[
         "Shimrath"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421192473,
-    "wof:lastmodified":1561760016,
+    "wof:lastmodified":1563315057,
     "wof:name":"Shamerat",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

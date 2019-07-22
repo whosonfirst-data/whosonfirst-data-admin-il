@@ -16,7 +16,13 @@
     "name:bul_x_preferred":[
         "\u0422\u0438\u043c\u0440\u0430\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Timrat"
+    ],
     "name:ces_x_preferred":[
+        "Timrat"
+    ],
+    "name:deu_x_preferred":[
         "Timrat"
     ],
     "name:eng_x_preferred":[
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":421175721,
-    "wof:lastmodified":1561760028,
+    "wof:lastmodified":1563315157,
     "wof:name":"Timrat",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

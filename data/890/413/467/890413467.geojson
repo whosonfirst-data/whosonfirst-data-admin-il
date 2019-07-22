@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0430\u043f\u0438\u0434"
     ],
+    "name:ceb_x_preferred":[
+        "Lapid"
+    ],
     "name:ces_x_preferred":[
         "Lapid"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890413467,
-    "wof:lastmodified":1561760039,
+    "wof:lastmodified":1563315257,
     "wof:name":"Lapid",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

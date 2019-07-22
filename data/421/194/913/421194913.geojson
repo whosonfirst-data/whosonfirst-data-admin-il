@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Elishama"
     ],
+    "name:fra_x_preferred":[
+        "Elishama"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05dc\u05d9\u05e9\u05de\u05e2"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421194913,
-    "wof:lastmodified":1561760017,
+    "wof:lastmodified":1563315064,
     "wof:name":"Elishama",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

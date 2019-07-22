@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0413\u0435\u0432\u0430\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Gevat"
+    ],
     "name:ces_x_preferred":[
         "Gvat"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:pol_x_preferred":[
         "Gewat"
+    ],
+    "name:pol_x_variant":[
+        "Gevat"
     ],
     "name:swe_x_preferred":[
         "Gevat"
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421192913,
-    "wof:lastmodified":1561760016,
+    "wof:lastmodified":1563315055,
     "wof:name":"Gevat",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

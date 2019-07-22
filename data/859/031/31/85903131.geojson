@@ -32,7 +32,8 @@
     "name:eng_x_variant":[
         "Kiriat Moshe",
         "Montefiore",
-        "Shekhunat Montefiore"
+        "Shekhunat Montefiore",
+        "Kiryat Moshe"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05e8\u05d9\u05d9\u05ea \u05de\u05e9\u05d4"
@@ -40,7 +41,13 @@
     "name:heb_x_variant":[
         "\u05e7\u05e8\u05d9\u05ea \u05de\u05e9\u05d4"
     ],
+    "name:ind_x_preferred":[
+        "Kiryat Moshe"
+    ],
     "name:lad_x_preferred":[
+        "Kiryat Moshe"
+    ],
+    "name:nld_x_preferred":[
         "Kiryat Moshe"
     ],
     "name:por_x_preferred":[
@@ -55,6 +62,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05e7\u05e8\u05d9\u05ea \u05de\u05e9\u05d4"
+    ],
+    "name:yid_x_variant":[
+        "\u05e7\u05e8\u05d9\u05d9\u05ea \u05de\u05e9\u05d4"
     ],
     "qs:gn_adm0_cc":"IL",
     "qs:gn_fcode":"PPLX",
@@ -85,11 +95,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":225,
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930539,
+    "wof:lastmodified":1563314933,
     "wof:name":"Qiryat Moshe",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

@@ -54,6 +54,9 @@
     "name:pol_x_preferred":[
         "Samorz\u0105d Regionu Misgaw"
     ],
+    "name:pol_x_variant":[
+        "Yisgav"
+    ],
     "name:unk_x_variant":[
         "Misgav",
         "Yisgav"
@@ -115,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561760003,
+    "wof:lastmodified":1563314939,
     "wof:name":"Yisgav",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

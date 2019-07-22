@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Dimona"
     ],
+    "name:ceb_x_preferred":[
+        "Dimona"
+    ],
     "name:ces_x_preferred":[
         "Dimona"
     ],
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":421175083,
-    "wof:lastmodified":1561760028,
+    "wof:lastmodified":1563315150,
     "wof:name":"Dimona",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

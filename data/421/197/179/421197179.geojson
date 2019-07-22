@@ -34,6 +34,9 @@
     "name:pol_x_preferred":[
         "Kefar Menachem"
     ],
+    "name:pol_x_variant":[
+        "Kfar Menachem"
+    ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":294526,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421197179,
-    "wof:lastmodified":1561760031,
+    "wof:lastmodified":1563315180,
     "wof:name":"Kefar Menahem",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

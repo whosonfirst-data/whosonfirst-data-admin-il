@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u0631\u0645 \u0645\u0647\u0631\u0627\u0644"
+    ],
     "name:ces_x_preferred":[
         "Kerem Maharal"
     ],
@@ -23,13 +26,20 @@
         "\u05db\u05e8\u05dd \u05de\u05d4\u05e8\"\u05dc"
     ],
     "name:heb_x_variant":[
-        "\u05e7\u05e8\u05dd \u05de\u05d4\u05e8\u2019\u2019\u05dc"
+        "\u05e7\u05e8\u05dd \u05de\u05d4\u05e8\u2019\u2019\u05dc",
+        "\u05db\u05e8\u05dd \u05de\u05d4\u05e8\u05f4\u05dc"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30ec\u30e0 \u30de\u30cf\u30e9\u30eb"
     ],
     "name:nno_x_preferred":[
         "Kerem Maharal"
     ],
     "name:pol_x_preferred":[
         "Kerem Maharal"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0440\u0435\u043c \u041c\u0430\u0445\u0430\u0440\u0430\u043b"
     ],
     "name:unk_x_variant":[
         "Ijzim"
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":421174145,
-    "wof:lastmodified":1561760023,
+    "wof:lastmodified":1563315109,
     "wof:name":"Kerem Maharal",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

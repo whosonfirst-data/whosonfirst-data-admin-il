@@ -19,8 +19,14 @@
     "name:arz_x_preferred":[
         "\u0627\u0645 \u0627\u0644\u0641\u062d\u0645"
     ],
+    "name:arz_x_variant":[
+        "\u0623\u0645 \u0627\u0644\u0641\u062d\u0645"
+    ],
     "name:cat_x_preferred":[
         "Umm al-Fahm"
+    ],
+    "name:ceb_x_preferred":[
+        "Umm el Fa\u1e25m"
     ],
     "name:ces_x_preferred":[
         "Umm al-Fachm"
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":421175725,
-    "wof:lastmodified":1561760028,
+    "wof:lastmodified":1563315153,
     "wof:name":"Umm El Fahm",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

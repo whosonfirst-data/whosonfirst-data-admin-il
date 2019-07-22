@@ -19,6 +19,9 @@
     "name:deu_x_preferred":[
         "Zekharia"
     ],
+    "name:deu_x_variant":[
+        "Secharja"
+    ],
     "name:eng_x_preferred":[
         "Zekharia"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421204327,
-    "wof:lastmodified":1561760020,
+    "wof:lastmodified":1563315087,
     "wof:name":"Zekharya",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",
