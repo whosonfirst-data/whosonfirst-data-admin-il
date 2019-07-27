@@ -25,8 +25,14 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Kalanit"
+    ],
     "name:heb_x_preferred":[
         "\u05db\u05dc\u05e0\u05d9\u05ea"
+    ],
+    "name:pol_x_preferred":[
+        "Kallanit"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1243461959,
-    "wof:lastmodified":1549930478,
+    "wof:lastmodified":1564215516,
     "wof:name":"Kallanit",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

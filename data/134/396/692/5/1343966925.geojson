@@ -25,11 +25,20 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Bejt Cherut"
+    ],
     "name:heb_x_preferred":[
         "Bet H\u0331erut"
     ],
     "name:heb_x_variant":[
         "\u05d1\u05d9\u05ea \u05d7\u05e8\u05d5\u05ea"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Herut"
+    ],
+    "name:pol_x_preferred":[
+        "Bet Cherut"
     ],
     "name:und_x_variant":[
         "H\u0331erut America Bet",
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1343966925,
-    "wof:lastmodified":1549930473,
+    "wof:lastmodified":1564215371,
     "wof:name":"Beit Herut",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

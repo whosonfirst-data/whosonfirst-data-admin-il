@@ -25,6 +25,15 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Ben \u0160emen"
+    ],
+    "name:deu_x_preferred":[
+        "Ben Shemen"
+    ],
+    "name:fra_x_preferred":[
+        "Ben-Shemen"
+    ],
     "name:heb_x_preferred":[
         "Ben Shemen-Kefar HaNo\u2018ar"
     ],
@@ -32,6 +41,18 @@
         "\u05d1\u05df \u05e9\u05de\u05df-\u05db\u05e4\u05e8 \u05d4\u05e0\u05e2\u05e8",
         "\u05d1\u05df \u05e9\u05de\u05df",
         "\u05db\u05e4\u05e8 \u05d4\u05e0\u05d5\u05e2\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Ben Shemen"
+    ],
+    "name:pol_x_preferred":[
+        "Ben Szemen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043d-\u0428\u0435\u043c\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043d-\u0428\u0435\u043c\u0435\u043d"
     ],
     "name:und_x_variant":[
         "Kefar Hano\u2018ar",
@@ -61,7 +82,7 @@
         }
     ],
     "wof:id":1259786371,
-    "wof:lastmodified":1549930467,
+    "wof:lastmodified":1564215527,
     "wof:name":"Ben Shemen",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

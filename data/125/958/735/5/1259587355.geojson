@@ -25,6 +25,18 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Giv'ot Bar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d1\u05e2\u05d5\u05ea \u05d1\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Giv'ot Bar"
+    ],
+    "name:pol_x_preferred":[
+        "Gewa\u2019ot Bar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1259587355,
-    "wof:lastmodified":1549930426,
+    "wof:lastmodified":1564215530,
     "wof:name":"Giv'ot Bar",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

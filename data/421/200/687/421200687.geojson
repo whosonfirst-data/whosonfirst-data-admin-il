@@ -16,6 +16,9 @@
     "name:als_x_preferred":[
         "Oron"
     ],
+    "name:ceb_x_preferred":[
+        "Oron"
+    ],
     "name:deu_x_preferred":[
         "Oron"
     ],
@@ -44,6 +47,9 @@
         "\u041e\u0440\u043e\u043d"
     ],
     "name:spa_x_preferred":[
+        "Oron"
+    ],
+    "name:swe_x_preferred":[
         "Oron"
     ],
     "name:ukr_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421200687,
-    "wof:lastmodified":1549930397,
+    "wof:lastmodified":1564215501,
     "wof:name":"Oron",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

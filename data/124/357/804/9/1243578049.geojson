@@ -25,11 +25,41 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0642\u0631\u0639"
+    ],
+    "name:cat_x_preferred":[
+        "Kafr Qara"
+    ],
+    "name:ces_x_preferred":[
+        "Kafr Kara"
+    ],
+    "name:deu_x_preferred":[
+        "Kafr-Qara"
+    ],
+    "name:fra_x_preferred":[
+        "Kafr Qara"
+    ],
     "name:heb_x_preferred":[
         "Kafr Qari\u2018"
     ],
     "name:heb_x_variant":[
         "\u05db\u05e4\u05e8 \u05e7\u05e8\u05e2"
+    ],
+    "name:nno_x_preferred":[
+        "Kafr Qara"
+    ],
+    "name:pol_x_preferred":[
+        "Kafr Kara"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0444\u0440-\u041a\u0430\u0440\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Kafr Qara"
+    ],
+    "name:spa_x_preferred":[
+        "Kafr Qara"
     ],
     "name:und_x_variant":[
         "Kafr Qara\u2018",
@@ -60,7 +90,7 @@
         }
     ],
     "wof:id":1243578049,
-    "wof:lastmodified":1549930494,
+    "wof:lastmodified":1564215517,
     "wof:name":"Kafr Qari`",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

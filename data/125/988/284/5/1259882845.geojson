@@ -25,8 +25,17 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Ben Zakaj"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05df \u05d6\u05db\u05d0\u05d9"
+    ],
+    "name:nno_x_preferred":[
+        "Ben Zakai"
+    ],
+    "name:pol_x_preferred":[
+        "Ben Zakkaj"
     ],
     "name:und_x_variant":[
         "Yavneh",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1259882845,
-    "wof:lastmodified":1549930498,
+    "wof:lastmodified":1564215533,
     "wof:name":"Ben Zakkay",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

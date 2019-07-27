@@ -25,12 +25,22 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Neve Micha'el"
+    ],
     "name:heb_x_preferred":[
         "New\u00e9 Mikha\u2019el"
     ],
     "name:heb_x_variant":[
         "\u05e0\u05d5\u05d4 \u05de\u05d9\u05db\u05d0\u05dc",
-        "\u05e8\u05d5\u05d2\u05dc\u05d9\u05ea"
+        "\u05e8\u05d5\u05d2\u05dc\u05d9\u05ea",
+        "\u05e0\u05d5\u05d5\u05d4 \u05de\u05d9\u05db\u05d0\u05dc"
+    ],
+    "name:nno_x_preferred":[
+        "Neve Michael"
+    ],
+    "name:pol_x_preferred":[
+        "Newe Micha\u2019el"
     ],
     "name:und_x_variant":[
         "Newe Mikha\u2019el",
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":1310523673,
-    "wof:lastmodified":1549930430,
+    "wof:lastmodified":1564215466,
     "wof:name":"Newe Mikha'el",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

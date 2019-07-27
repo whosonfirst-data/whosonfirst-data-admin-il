@@ -25,8 +25,20 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Zimrat"
+    ],
+    "name:deu_x_preferred":[
+        "Simrat"
+    ],
     "name:heb_x_preferred":[
         "\u05d6\u05de\u05e8\u05ea"
+    ],
+    "name:nno_x_preferred":[
+        "Zimrat"
+    ],
+    "name:pol_x_preferred":[
+        "Zimrat"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1260084125,
-    "wof:lastmodified":1549930342,
+    "wof:lastmodified":1564215440,
     "wof:name":"Zimrat",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

@@ -25,11 +25,20 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Mavki'im"
+    ],
     "name:heb_x_preferred":[
         "Mavqi\u2018im"
     ],
     "name:heb_x_variant":[
         "\u05de\u05d1\u05e7\u05d9\u05e2\u05d9\u05dd"
+    ],
+    "name:nno_x_preferred":[
+        "Mavki'im"
+    ],
+    "name:pol_x_preferred":[
+        "Mawki\u2019im"
     ],
     "name:und_x_variant":[
         "Barbarah",
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1226446671,
-    "wof:lastmodified":1549930478,
+    "wof:lastmodified":1564215535,
     "wof:name":"Mavqi`im",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

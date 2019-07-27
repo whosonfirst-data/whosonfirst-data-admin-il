@@ -25,11 +25,26 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Gal On"
+    ],
+    "name:deu_x_preferred":[
+        "Gal-On"
+    ],
     "name:heb_x_preferred":[
         "Gal\u2019on"
     ],
     "name:heb_x_variant":[
         "\u05d2\u05dc\u05d0\u05d5\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Gal On"
+    ],
+    "name:pol_x_preferred":[
+        "Galon"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043b\u044c\u043e\u043d"
     ],
     "name:und_x_variant":[
         "Gal\u2019on"
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1276446251,
-    "wof:lastmodified":1549930451,
+    "wof:lastmodified":1564215413,
     "wof:name":"Gal'on",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

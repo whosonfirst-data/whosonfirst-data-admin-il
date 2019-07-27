@@ -31,6 +31,9 @@
     "name:heb_x_variant":[
         "\u05d7\u05de\u05d3\u05ea \u05d9\u05de\u05d9\u05dd"
     ],
+    "name:yid_x_preferred":[
+        "\u05d7\u05de\u05d3\u05ea \u05d9\u05de\u05d9\u05dd"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1259384573,
-    "wof:lastmodified":1549930343,
+    "wof:lastmodified":1564215523,
     "wof:name":"Hemdat Yamim",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

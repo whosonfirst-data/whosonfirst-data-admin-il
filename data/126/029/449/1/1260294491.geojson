@@ -25,11 +25,20 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Mivtachim"
+    ],
     "name:heb_x_preferred":[
         "Mivta\u1e96im"
     ],
     "name:heb_x_variant":[
         "\u05de\u05d1\u05d8\u05d7\u05d9\u05dd"
+    ],
+    "name:nno_x_preferred":[
+        "Mivtahim"
+    ],
+    "name:pol_x_preferred":[
+        "Miwtachim"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1260294491,
-    "wof:lastmodified":1549930417,
+    "wof:lastmodified":1564215441,
     "wof:name":"Mivtahim",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

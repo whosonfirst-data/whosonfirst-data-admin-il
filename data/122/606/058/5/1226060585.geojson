@@ -25,8 +25,20 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Jachini"
+    ],
     "name:heb_x_preferred":[
         "\u05d9\u05db\u05d9\u05e0\u05d9"
+    ],
+    "name:nno_x_preferred":[
+        "Yakhini"
+    ],
+    "name:pol_x_preferred":[
+        "Jachini"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0627\u06a9\u06be\u06cc\u0646\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1226060585,
-    "wof:lastmodified":1549930446,
+    "wof:lastmodified":1564215543,
     "wof:name":"Yakhini",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

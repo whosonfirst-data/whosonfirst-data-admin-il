@@ -25,11 +25,39 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kokhav Ya'ir"
+    ],
+    "name:ces_x_preferred":[
+        "Kochav Ja'ir"
+    ],
+    "name:fra_x_preferred":[
+        "Kokhav Ya\u00efr Tsour Yiga\u00ebl"
+    ],
     "name:heb_x_preferred":[
         "Kokhav Ya\u2019ir"
     ],
     "name:heb_x_variant":[
-        "\u05db\u05d5\u05db\u05d1 \u05d9\u05d0\u05d9\u05e8"
+        "\u05db\u05d5\u05db\u05d1 \u05d9\u05d0\u05d9\u05e8",
+        "\u05db\u05d5\u05db\u05d1 \u05d9\u05d0\u05d9\u05e8 \u05e6\u05d5\u05e8 \u05d9\u05d2\u05d0\u05dc"
+    ],
+    "name:nno_x_preferred":[
+        "Kokhav Ya'ir"
+    ],
+    "name:pol_x_preferred":[
+        "Kochaw Ja\u2019ir"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0445\u0430\u0432-\u042f\u0438\u0440-\u0426\u0443\u0440-\u0418\u0433\u0430\u043b\u044c"
+    ],
+    "name:sco_x_preferred":[
+        "Kokhav Ya'ir"
+    ],
+    "name:spa_x_preferred":[
+        "Kokhav Ya'ir"
+    ],
+    "name:swe_x_preferred":[
+        "Kokhav Ya'ir"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +83,7 @@
         }
     ],
     "wof:id":1226255651,
-    "wof:lastmodified":1549930448,
+    "wof:lastmodified":1564215541,
     "wof:name":"Kokhav Ya'ir",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

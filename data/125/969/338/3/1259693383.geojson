@@ -25,8 +25,17 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Tlamim"
+    ],
     "name:heb_x_preferred":[
         "\u05ea\u05dc\u05de\u05d9\u05dd"
+    ],
+    "name:nno_x_preferred":[
+        "Tlamim"
+    ],
+    "name:pol_x_preferred":[
+        "Telamim"
     ],
     "name:und_x_variant":[
         "T\u2019lamim",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1259693383,
-    "wof:lastmodified":1549930448,
+    "wof:lastmodified":1564215531,
     "wof:name":"Telamim",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

@@ -40,10 +40,16 @@
     "name:nld_x_preferred":[
         "Maas"
     ],
+    "name:pol_x_preferred":[
+        "Maas"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0430\u0441"
     ],
     "name:spa_x_preferred":[
+        "Maas"
+    ],
+    "name:swe_x_preferred":[
         "Maas"
     ],
     "name:ukr_x_preferred":[
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421187549,
-    "wof:lastmodified":1549930362,
+    "wof:lastmodified":1564215493,
     "wof:name":"Maas",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

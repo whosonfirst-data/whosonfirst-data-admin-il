@@ -25,6 +25,12 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Giv'at ha-\u0160lo\u0161a"
+    ],
+    "name:fra_x_preferred":[
+        "Givat HaShlosha"
+    ],
     "name:heb_x_colloquial":[
         "\u05d2\u05d1\u05e2\u05ea \u05d4\u05e9\u05dc\u05e9\u05d4"
     ],
@@ -33,6 +39,21 @@
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05d1\u05e2\u05ea \u05d4\u05e9\u05dc\u05e9\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05d2\u05d1\u05e2\u05ea \u05d4\u05e9\u05dc\u05d5\u05e9\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Givat HaShlosha"
+    ],
+    "name:pol_x_preferred":[
+        "Giwat ha-Szelosza"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u0432\u0430\u0442-\u0445\u0430-\u0428\u043b\u043e\u0448\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Givat Hashlosha"
     ],
     "name:und_x_variant":[
         "Giv\u2018at Hashloshah",
@@ -64,7 +85,7 @@
         }
     ],
     "wof:id":1276121073,
-    "wof:lastmodified":1549930335,
+    "wof:lastmodified":1564215420,
     "wof:name":"Giv`at HaShelosha",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

@@ -25,11 +25,23 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Gat"
+    ],
+    "name:deu_x_preferred":[
+        "Gat"
+    ],
     "name:ell_x_preferred":[
         "\u0393\u03ba\u03b1\u03b8"
     ],
+    "name:ell_x_variant":[
+        "\u0393\u03b5\u03b8"
+    ],
     "name:eng_x_preferred":[
         "Gath"
+    ],
+    "name:epo_x_preferred":[
+        "Gat"
     ],
     "name:fra_x_preferred":[
         "Gath"
@@ -40,14 +52,35 @@
     "name:hun_x_preferred":[
         "G\u00e1t"
     ],
+    "name:ind_x_preferred":[
+        "Gat"
+    ],
+    "name:nld_x_preferred":[
+        "Gat"
+    ],
+    "name:nor_x_preferred":[
+        "Gat"
+    ],
+    "name:pol_x_preferred":[
+        "Gat"
+    ],
     "name:por_x_preferred":[
         "Gate"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0435\u0444"
     ],
+    "name:slv_x_preferred":[
+        "Gat"
+    ],
+    "name:spa_x_preferred":[
+        "Gat"
+    ],
     "name:srp_x_preferred":[
         "\u0413\u0430\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Gat"
     ],
     "name:ukr_x_preferred":[
         "\u0490\u0430\u0442"
@@ -79,7 +112,7 @@
         }
     ],
     "wof:id":1293399629,
-    "wof:lastmodified":1549930466,
+    "wof:lastmodified":1564215400,
     "wof:name":"Gat",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

@@ -25,11 +25,26 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0641\u0639\u0627\u062a\u064a"
+    ],
+    "name:ces_x_preferred":[
+        "Giv'ati"
+    ],
     "name:heb_x_preferred":[
         "Giv\u2018ati"
     ],
     "name:heb_x_variant":[
         "\u05d2\u05d1\u05e2\u05ea\u05d9"
+    ],
+    "name:nld_x_preferred":[
+        "Giv'ati"
+    ],
+    "name:nno_x_preferred":[
+        "Giv'ati"
+    ],
+    "name:pol_x_preferred":[
+        "Giwati"
     ],
     "name:und_x_variant":[
         "Mesillat Oz",
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1326947809,
-    "wof:lastmodified":1549930474,
+    "wof:lastmodified":1564215358,
     "wof:name":"Giv`ati",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

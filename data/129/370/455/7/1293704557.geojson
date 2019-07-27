@@ -25,11 +25,20 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Sgula"
+    ],
     "name:heb_x_preferred":[
         "\u05e1\u05d2\u05d5\u05dc\u05d4"
     ],
     "name:heb_x_variant":[
         "\u05d2\u05ea \u05d3 \u05d2"
+    ],
+    "name:nno_x_preferred":[
+        "Sgula"
+    ],
+    "name:pol_x_preferred":[
+        "Segulla"
     ],
     "name:und_x_variant":[
         "Gat Shalosh Gimel",
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1293704557,
-    "wof:lastmodified":1549930492,
+    "wof:lastmodified":1564215401,
     "wof:name":"Segula",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

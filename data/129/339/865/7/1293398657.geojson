@@ -25,13 +25,25 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Jarkona"
+    ],
     "name:heb_x_preferred":[
         "\u05d9\u05e8\u05e7\u05d5\u05e0\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Yarkona"
+    ],
+    "name:pol_x_preferred":[
+        "Jarkona"
     ],
     "name:und_x_variant":[
         "Yarkonah",
         "Yarqonah",
         "Yarqona",
+        "Yarkona"
+    ],
+    "name:vie_x_preferred":[
         "Yarkona"
     ],
     "src:geom":"geonames",
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1293398657,
-    "wof:lastmodified":1549930465,
+    "wof:lastmodified":1564215400,
     "wof:name":"Yarqona",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

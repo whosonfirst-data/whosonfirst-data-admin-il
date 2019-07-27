@@ -25,6 +25,21 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Odem"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d3\u05dd"
+    ],
+    "name:nno_x_preferred":[
+        "Odem"
+    ],
+    "name:pol_x_preferred":[
+        "Odem"
+    ],
+    "name:vie_x_preferred":[
+        "Odem"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85678395,
@@ -92,7 +107,7 @@
         }
     ],
     "wof:id":1360099509,
-    "wof:lastmodified":1549931204,
+    "wof:lastmodified":1564215472,
     "wof:name":"Odem",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

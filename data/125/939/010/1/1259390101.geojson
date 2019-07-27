@@ -25,8 +25,26 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Adamit"
+    ],
+    "name:deu_x_preferred":[
+        "Adamit"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d3\u05de\u05d9\u05ea"
+    ],
+    "name:nno_x_preferred":[
+        "Adamit"
+    ],
+    "name:pol_x_preferred":[
+        "Adamit"
+    ],
+    "name:ron_x_preferred":[
+        "Admit"
+    ],
+    "name:spa_x_preferred":[
+        "Adamit"
     ],
     "name:und_x_variant":[
         "Khirbat Mir\u2018i",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1259390101,
-    "wof:lastmodified":1549930331,
+    "wof:lastmodified":1564215525,
     "wof:name":"Adamit",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

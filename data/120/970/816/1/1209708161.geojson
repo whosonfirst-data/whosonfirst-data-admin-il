@@ -25,8 +25,20 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Mesilat Cijon"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05e1\u05dc\u05ea \u05e6\u05d9\u05d5\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05e1\u05d9\u05dc\u05ea \u05e6\u05d9\u05d5\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Mesilat Zion"
+    ],
+    "name:pol_x_preferred":[
+        "Mesillat Cijjon"
     ],
     "name:und_x_variant":[
         "Mesillat Zion",
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1209708161,
-    "wof:lastmodified":1549930499,
+    "wof:lastmodified":1564215426,
     "wof:name":"Mesillat Ziyyon",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

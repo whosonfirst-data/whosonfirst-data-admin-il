@@ -25,8 +25,20 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Tal \u0160achar"
+    ],
     "name:heb_x_preferred":[
         "\u05d8\u05dc \u05e9\u05d7\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Tal Shahar"
+    ],
+    "name:pol_x_preferred":[
+        "Tal Szachar"
+    ],
+    "name:por_x_preferred":[
+        "Tal Shahar"
     ],
     "name:und_x_variant":[
         "Tal Sha\u1e96ar"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1226535011,
-    "wof:lastmodified":1549930483,
+    "wof:lastmodified":1564215543,
     "wof:name":"Tal Shahar",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

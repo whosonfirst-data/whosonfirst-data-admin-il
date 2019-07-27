@@ -25,8 +25,20 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Bejt Arif"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05ea \u05e2\u05e8\u05d9\u05e3"
+    ],
+    "name:nno_x_preferred":[
+        "Beit Arif"
+    ],
+    "name:pol_x_preferred":[
+        "Bet Arif"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0439\u0442-\u0410\u0440\u0438\u0444"
     ],
     "name:und_x_variant":[
         "Dayr Tarif",
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1309724791,
-    "wof:lastmodified":1549930339,
+    "wof:lastmodified":1564215484,
     "wof:name":"Bet `Arif",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

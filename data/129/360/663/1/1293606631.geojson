@@ -25,8 +25,20 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0634\u0627\u0644\u064a\u0645"
+    ],
+    "name:ces_x_preferred":[
+        "A\u0161alim"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05e9\u05dc\u05d9\u05dd"
+    ],
+    "name:nno_x_preferred":[
+        "Ashalim"
+    ],
+    "name:pol_x_preferred":[
+        "Aszalim"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1293606631,
-    "wof:lastmodified":1549930475,
+    "wof:lastmodified":1564215405,
     "wof:name":"Ashalim",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

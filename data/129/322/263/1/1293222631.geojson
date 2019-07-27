@@ -25,8 +25,29 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Qiryat \u2018Anavim"
+    ],
+    "name:ces_x_preferred":[
+        "Kirjat Anavim"
+    ],
+    "name:fra_x_preferred":[
+        "Kiryat-Anavim"
+    ],
     "name:heb_x_preferred":[
         "\u05e7\u05e8\u05d9\u05ea \u05e2\u05e0\u05d1\u05d9\u05dd"
+    ],
+    "name:heb_x_variant":[
+        "\u05e7\u05e8\u05d9\u05d9\u05ea \u05e2\u05e0\u05d1\u05d9\u05dd"
+    ],
+    "name:nno_x_preferred":[
+        "Kiryat Anavim"
+    ],
+    "name:pol_x_preferred":[
+        "Kirjat Anawim"
+    ],
+    "name:swe_x_preferred":[
+        "Qiryat \u2018Anavim"
     ],
     "name:und_x_variant":[
         "Dilb",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1293222631,
-    "wof:lastmodified":1549930453,
+    "wof:lastmodified":1564215403,
     "wof:name":"Qiryat `Anavim",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

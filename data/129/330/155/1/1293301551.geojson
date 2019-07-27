@@ -25,12 +25,21 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Je'af"
+    ],
     "name:heb_x_preferred":[
         "Ye\u2018af"
     ],
     "name:heb_x_variant":[
         "\u05d9\u05e2\u05e3",
         "Ye\u2019af"
+    ],
+    "name:nno_x_preferred":[
+        "Ye'af"
+    ],
+    "name:pol_x_preferred":[
+        "Je\u2019af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1293301551,
-    "wof:lastmodified":1549930457,
+    "wof:lastmodified":1564215399,
     "wof:name":"Ye`af",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

@@ -25,11 +25,21 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Ge'ulim"
+    ],
     "name:heb_x_preferred":[
         "Ge\u2019ullim"
     ],
     "name:heb_x_variant":[
-        "\u05d2\u05d0\u05dc\u05d9\u05dd"
+        "\u05d2\u05d0\u05dc\u05d9\u05dd",
+        "\u05d2\u05d0\u05d5\u05dc\u05d9\u05dd"
+    ],
+    "name:nno_x_preferred":[
+        "Geulim"
+    ],
+    "name:pol_x_preferred":[
+        "Ge\u2019ulim"
     ],
     "name:und_x_variant":[
         "Benei Geulim",
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":1276875689,
-    "wof:lastmodified":1549930482,
+    "wof:lastmodified":1564215415,
     "wof:name":"Ge'ullim",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

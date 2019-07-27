@@ -25,11 +25,23 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Mizra"
+    ],
     "name:heb_x_preferred":[
         "Mizra\u2018"
     ],
     "name:heb_x_variant":[
         "\u05de\u05d6\u05e8\u05e2"
+    ],
+    "name:ind_x_preferred":[
+        "Mizra"
+    ],
+    "name:nno_x_preferred":[
+        "Mizra"
+    ],
+    "name:pol_x_preferred":[
+        "Mizra"
     ],
     "name:und_x_variant":[
         "Mizra"
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1326842009,
-    "wof:lastmodified":1549930464,
+    "wof:lastmodified":1564215364,
     "wof:name":"Mizra`",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

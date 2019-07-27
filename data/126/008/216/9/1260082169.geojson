@@ -25,8 +25,38 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0627\u0645\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "Rama"
+    ],
+    "name:ces_x_preferred":[
+        "Rama"
+    ],
+    "name:fin_x_preferred":[
+        "Al-Rama"
+    ],
     "name:heb_x_preferred":[
         "\u05e8\u05de\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05e8\u05d0\u05de\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Rameh"
+    ],
+    "name:pol_x_preferred":[
+        "Rama"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043c\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Rameh"
+    ],
+    "name:spa_x_preferred":[
+        "Rama"
     ],
     "name:und_x_variant":[
         "Ar Rama",
@@ -59,7 +89,7 @@
         }
     ],
     "wof:id":1260082169,
-    "wof:lastmodified":1549930336,
+    "wof:lastmodified":1564215440,
     "wof:name":"Rama",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

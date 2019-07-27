@@ -26,8 +26,23 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sde Ilan"
+    ],
+    "name:ces_x_preferred":[
+        "Sde Ilan"
+    ],
     "name:heb_x_preferred":[
         "\u05e9\u05d3\u05d4 \u05d0\u05d9\u05dc\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Sde Ilan"
+    ],
+    "name:pol_x_preferred":[
+        "Sede Ilan"
+    ],
+    "name:swe_x_preferred":[
+        "Sde Ilan"
     ],
     "name:und_x_variant":[
         "Mitspe Hagalil",
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1360287493,
-    "wof:lastmodified":1549930458,
+    "wof:lastmodified":1564215474,
     "wof:name":"Sde Ilan",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

@@ -25,11 +25,20 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Mle'a"
+    ],
     "name:heb_x_preferred":[
         "Mele\u2019a"
     ],
     "name:heb_x_variant":[
         "\u05de\u05dc\u05d0\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Mlea"
+    ],
+    "name:pol_x_preferred":[
+        "Mele\u2019a"
     ],
     "name:und_x_variant":[
         "M\u2019lia",
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1310017611,
-    "wof:lastmodified":1549930349,
+    "wof:lastmodified":1564215467,
     "wof:name":"Mele'a",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

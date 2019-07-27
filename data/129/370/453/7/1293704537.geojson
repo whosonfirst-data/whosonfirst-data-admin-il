@@ -25,8 +25,26 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Revadim"
+    ],
+    "name:deu_x_preferred":[
+        "Revadim"
+    ],
+    "name:fra_x_preferred":[
+        "Revadim"
+    ],
     "name:heb_x_preferred":[
         "\u05e8\u05d1\u05d3\u05d9\u05dd"
+    ],
+    "name:nno_x_preferred":[
+        "Revadim"
+    ],
+    "name:pol_x_preferred":[
+        "Rewadim"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0432\u0430\u0434\u0438\u043c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1293704537,
-    "wof:lastmodified":1549930492,
+    "wof:lastmodified":1564215401,
     "wof:name":"Revadim",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

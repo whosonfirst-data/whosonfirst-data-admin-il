@@ -25,8 +25,23 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Burgeta"
+    ],
+    "name:fra_x_preferred":[
+        "Bourgata"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05d5\u05e8\u05d2\u05ea\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05d5\u05e8\u05d2\u05ea\u05d0"
+    ],
+    "name:nno_x_preferred":[
+        "Burgata"
+    ],
+    "name:pol_x_preferred":[
+        "Burgeta"
     ],
     "name:und_x_variant":[
         "Borgata",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1343564393,
-    "wof:lastmodified":1549930413,
+    "wof:lastmodified":1564215383,
     "wof:name":"Buregeta",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

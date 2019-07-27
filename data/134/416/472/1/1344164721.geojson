@@ -25,8 +25,14 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Masad"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05e1\u05d3"
+    ],
+    "name:pol_x_preferred":[
+        "Massad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1344164721,
-    "wof:lastmodified":1549930502,
+    "wof:lastmodified":1564215385,
     "wof:name":"Massad",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

@@ -25,8 +25,17 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Merkaz \u0160apira"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05e8\u05db\u05d6 \u05e9\u05e4\u05d9\u05e8\u05d0"
+    ],
+    "name:nno_x_preferred":[
+        "Merkaz Shapira"
+    ],
+    "name:pol_x_preferred":[
+        "Merkaz Szappira"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1226360173,
-    "wof:lastmodified":1549930460,
+    "wof:lastmodified":1564215544,
     "wof:name":"Merkaz Shapira",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

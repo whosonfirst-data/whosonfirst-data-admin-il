@@ -25,8 +25,26 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dorot"
+    ],
+    "name:ces_x_preferred":[
+        "Dorot"
+    ],
+    "name:fra_x_preferred":[
+        "Dorot"
+    ],
     "name:heb_x_preferred":[
         "\u05d3\u05d5\u05e8\u05d5\u05ea"
+    ],
+    "name:nno_x_preferred":[
+        "Dorot"
+    ],
+    "name:pol_x_preferred":[
+        "Dorot"
+    ],
+    "name:swe_x_preferred":[
+        "Dorot"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1260299143,
-    "wof:lastmodified":1549930420,
+    "wof:lastmodified":1564215441,
     "wof:name":"Dorot",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

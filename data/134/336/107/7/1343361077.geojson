@@ -25,8 +25,17 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Kabri"
+    ],
     "name:heb_x_preferred":[
         "\u05db\u05d1\u05e8\u05d9"
+    ],
+    "name:ita_x_preferred":[
+        "Kabri"
+    ],
+    "name:pol_x_preferred":[
+        "Kabri"
     ],
     "name:und_x_variant":[
         "Al Kabiri",
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1343361077,
-    "wof:lastmodified":1549930328,
+    "wof:lastmodified":1564215371,
     "wof:name":"Kabri",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

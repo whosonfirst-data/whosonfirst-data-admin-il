@@ -25,11 +25,20 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "\u0160o\u0161anat ha-Amakim"
+    ],
     "name:heb_x_preferred":[
         "Shoshannat Ha\u2018Amaqim"
     ],
     "name:heb_x_variant":[
         "\u05e9\u05d5\u05e9\u05e0\u05ea \u05d4\u05e2\u05de\u05e7\u05d9\u05dd"
+    ],
+    "name:nno_x_preferred":[
+        "Shoshanat HaAmakim"
+    ],
+    "name:pol_x_preferred":[
+        "Szoszannat ha-Amakim"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1226548599,
-    "wof:lastmodified":1549930487,
+    "wof:lastmodified":1564215544,
     "wof:name":"Shoshannat Ha`Amaqim",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

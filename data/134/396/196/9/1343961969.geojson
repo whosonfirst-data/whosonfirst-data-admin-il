@@ -26,6 +26,42 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062a\u0627\u0631"
+    ],
+    "name:cat_x_preferred":[
+        "Metar"
+    ],
+    "name:ces_x_preferred":[
+        "Mejtar"
+    ],
+    "name:deu_x_preferred":[
+        "Meitar"
+    ],
+    "name:fra_x_preferred":[
+        "Meitar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05ea\u05e8"
+    ],
+    "name:hrv_x_preferred":[
+        "Meitar"
+    ],
+    "name:ita_x_preferred":[
+        "Meitar"
+    ],
+    "name:nno_x_preferred":[
+        "Meitar"
+    ],
+    "name:pol_x_preferred":[
+        "Metar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0439\u0442\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Meitar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +86,7 @@
         }
     ],
     "wof:id":1343961969,
-    "wof:lastmodified":1549930471,
+    "wof:lastmodified":1564215371,
     "wof:name":"Meitar",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

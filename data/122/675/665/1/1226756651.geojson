@@ -25,11 +25,20 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Karmej Josef"
+    ],
     "name:heb_x_preferred":[
         "Karm\u00e9 Yosef"
     ],
     "name:heb_x_variant":[
         "\u05db\u05e8\u05de\u05d9 \u05d9\u05d5\u05e1\u05e3"
+    ],
+    "name:nno_x_preferred":[
+        "Karmei Yosef"
+    ],
+    "name:pol_x_preferred":[
+        "Karme Josef"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1226756651,
-    "wof:lastmodified":1549930490,
+    "wof:lastmodified":1564215534,
     "wof:name":"Karme Yosef",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

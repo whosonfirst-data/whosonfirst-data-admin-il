@@ -25,8 +25,14 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Bro\u0161"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05e8\u05d5\u05e9"
+    ],
+    "name:pol_x_preferred":[
+        "Berosz"
     ],
     "name:und_x_variant":[
         "Wadi Sharia A",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1292917765,
-    "wof:lastmodified":1549930385,
+    "wof:lastmodified":1564215406,
     "wof:name":"Berosh",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

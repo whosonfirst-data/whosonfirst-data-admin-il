@@ -25,12 +25,21 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "\u0160a'ar Efrajim"
+    ],
     "name:heb_x_preferred":[
         "Sha\u2018ar Efrayim"
     ],
     "name:heb_x_variant":[
         "\u05e9\u05e2\u05e8 \u05d0\u05e4\u05e8\u05d9\u05dd",
         "Sha\u2019ar Efrayim"
+    ],
+    "name:nno_x_preferred":[
+        "Sha'ar Efraim"
+    ],
+    "name:pol_x_preferred":[
+        "Sza\u2019ar Efrajim"
     ],
     "name:und_x_variant":[
         "Birburin D",
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1309816663,
-    "wof:lastmodified":1549930350,
+    "wof:lastmodified":1564215483,
     "wof:name":"Sha`ar Efrayim",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

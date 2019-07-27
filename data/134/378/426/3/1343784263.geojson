@@ -25,8 +25,17 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Tiro\u0161"
+    ],
     "name:heb_x_preferred":[
         "\u05ea\u05d9\u05e8\u05d5\u05e9"
+    ],
+    "name:nno_x_preferred":[
+        "Tirosh"
+    ],
+    "name:pol_x_preferred":[
+        "Tirosz"
     ],
     "name:und_x_variant":[
         "Mughallis B",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1343784263,
-    "wof:lastmodified":1549930454,
+    "wof:lastmodified":1564215380,
     "wof:name":"Tirosh",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

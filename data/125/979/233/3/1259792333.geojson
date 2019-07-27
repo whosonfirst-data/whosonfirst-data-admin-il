@@ -25,6 +25,9 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0634\u0648\u0634\u0629"
+    ],
     "name:und_x_variant":[
         "\u2018Amelim",
         "Abu-Shushah",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1259792333,
-    "wof:lastmodified":1549930471,
+    "wof:lastmodified":1564215526,
     "wof:name":"Abu Shusha",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",
