@@ -25,8 +25,17 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Dalton"
+    ],
     "name:heb_x_preferred":[
         "\u05d3\u05dc\u05ea\u05d5\u05df"
+    ],
+    "name:pol_x_preferred":[
+        "Dalton"
+    ],
+    "name:spa_x_preferred":[
+        "Dalton"
     ],
     "name:und_x_variant":[
         "Shahar",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1209626851,
-    "wof:lastmodified":1549930497,
+    "wof:lastmodified":1564215424,
     "wof:name":"Dalton",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

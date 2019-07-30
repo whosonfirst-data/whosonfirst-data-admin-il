@@ -32,6 +32,9 @@
         "Na\u1e96al Shittim",
         "\u05e0\u05d7\u201d\u05dc \u05e9\u05d8\u05d9\u05dd"
     ],
+    "name:ind_x_preferred":[
+        "Sitim"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276242825,
-    "wof:lastmodified":1549930424,
+    "wof:lastmodified":1564215420,
     "wof:name":"Shittim",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

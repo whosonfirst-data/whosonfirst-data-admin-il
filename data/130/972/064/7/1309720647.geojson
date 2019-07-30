@@ -25,13 +25,29 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Giv'at Chajim Ichud"
+    ],
+    "name:cym_x_preferred":[
+        "Cibwts Gifat Chaim"
+    ],
+    "name:fra_x_preferred":[
+        "Guivat Ha\u00efm Ihoud"
+    ],
     "name:heb_x_preferred":[
         "Giv\u2018at H\u0331ayyim"
     ],
     "name:heb_x_variant":[
         "\u05d2\u05d1\u05e2\u05ea \u05d7\u05d9\u05d9\u05dd",
         "Giv\u2018at H\u0331ayyim I\u1e96ud",
-        "\u05d2\u05d1\u05e2\u05ea \u05d7\u05d9\u05d9\u05dd \u05d0\u05d7\u05d5\u05d3"
+        "\u05d2\u05d1\u05e2\u05ea \u05d7\u05d9\u05d9\u05dd \u05d0\u05d7\u05d5\u05d3",
+        "\u05d2\u05d1\u05e2\u05ea \u05d7\u05d9\u05d9\u05dd \u05d0\u05d9\u05d7\u05d5\u05d3"
+    ],
+    "name:nno_x_preferred":[
+        "Givat Haim"
+    ],
+    "name:pol_x_preferred":[
+        "Giwat Chajjim"
     ],
     "name:und_x_variant":[
         "Givat Haim",
@@ -63,7 +79,7 @@
         }
     ],
     "wof:id":1309720647,
-    "wof:lastmodified":1549930330,
+    "wof:lastmodified":1564215484,
     "wof:name":"Giv`at Hayyim Ihud",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

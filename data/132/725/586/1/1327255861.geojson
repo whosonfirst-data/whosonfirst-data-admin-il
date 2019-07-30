@@ -25,12 +25,31 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ma\u2018al\u00e9 HaH\u0331amisha"
+    ],
+    "name:ces_x_preferred":[
+        "Ma'ale ha-Chami\u0161a"
+    ],
+    "name:deu_x_preferred":[
+        "Ma\u2019ale HaChamischa"
+    ],
     "name:heb_x_preferred":[
         "Ma\u2018al\u00e9 HaH\u0331amisha"
     ],
     "name:heb_x_variant":[
         "\u05de\u05e2\u05dc\u05d4 \u05d4\u05d7\u05de\u05e9\u05d4",
-        "Ma\u2019al\u00e9 HaH\u0331amisha"
+        "Ma\u2019al\u00e9 HaH\u0331amisha",
+        "\u05de\u05e2\u05dc\u05d4 \u05d4\u05d7\u05de\u05d9\u05e9\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Ma'ale HaHamisha"
+    ],
+    "name:pol_x_preferred":[
+        "Ma\u2019ale ha-Chamisza"
+    ],
+    "name:swe_x_preferred":[
+        "Ma\u2018al\u00e9 HaH\u0331amisha"
     ],
     "name:und_x_variant":[
         "Ma\u2019aleh Hahamisha",
@@ -62,7 +81,7 @@
         }
     ],
     "wof:id":1327255861,
-    "wof:lastmodified":1549930494,
+    "wof:lastmodified":1564215359,
     "wof:name":"Ma`ale HaHamisha",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

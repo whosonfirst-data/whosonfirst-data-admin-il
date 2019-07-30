@@ -25,11 +25,23 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Cherev le-Et"
+    ],
+    "name:deu_x_preferred":[
+        "Cherew le-Et"
+    ],
     "name:heb_x_preferred":[
         "H\u0331erev Le\u2019et"
     ],
     "name:heb_x_variant":[
         "\u05d7\u05e8\u05d1 \u05dc\u05d0\u05ea"
+    ],
+    "name:nno_x_preferred":[
+        "Herev Le'et"
+    ],
+    "name:pol_x_preferred":[
+        "Cherew le-Et"
     ],
     "name:und_x_variant":[
         "Herev Laet",
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1293490797,
-    "wof:lastmodified":1549930460,
+    "wof:lastmodified":1564215402,
     "wof:name":"Herev Le'et",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

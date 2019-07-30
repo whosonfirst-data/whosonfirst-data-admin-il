@@ -25,8 +25,14 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Ejtan"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d9\u05ea\u05df"
+    ],
+    "name:pol_x_preferred":[
+        "Etan"
     ],
     "name:und_x_variant":[
         "Eitan",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1327148251,
-    "wof:lastmodified":1549930492,
+    "wof:lastmodified":1564215360,
     "wof:name":"Etan",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

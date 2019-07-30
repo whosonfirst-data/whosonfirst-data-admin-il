@@ -25,20 +25,44 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Gat Rimmon"
+    ],
+    "name:ces_x_preferred":[
+        "Gat Rimon"
+    ],
     "name:heb_x_preferred":[
         "\u05d2\u05ea \u05e8\u05de\u05d5\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05d2\u05ea \u05e8\u05d9\u05de\u05d5\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Gat Rimon"
+    ],
+    "name:pol_x_preferred":[
+        "Gat Rimmon"
+    ],
+    "name:spa_x_preferred":[
+        "Gat Rimon"
+    ],
+    "name:swe_x_preferred":[
+        "Gat Rimmon"
     ],
     "name:und_x_variant":[
         "Gat Rimon",
         "Gat Rimmon"
     ],
+    "name:vie_x_preferred":[
+        "Gat Rimon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85672541,
         102191569,
         85632315,
         421202049,
-        1108720821,
-        85672541
+        1108720821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1376877809,
-    "wof:lastmodified":1549930741,
+    "wof:lastmodified":1564215480,
     "wof:name":"Gat Rimmon",
     "wof:parent_id":421202049,
     "wof:placetype":"neighbourhood",

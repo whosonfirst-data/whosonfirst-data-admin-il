@@ -28,8 +28,29 @@
     "name:ara_x_preferred":[
         "\u0631\u0647\u0637"
     ],
+    "name:aze_x_preferred":[
+        "Rahat"
+    ],
+    "name:bar_x_preferred":[
+        "Rahat"
+    ],
+    "name:cat_x_preferred":[
+        "Rahat"
+    ],
+    "name:ces_x_preferred":[
+        "Rahat"
+    ],
+    "name:deu_x_preferred":[
+        "Rahat"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u0647\u0637"
+    ],
+    "name:fin_x_preferred":[
+        "Rahat"
+    ],
+    "name:fra_x_preferred":[
+        "Rahat"
     ],
     "name:heb_x_preferred":[
         "\u05e8\u05d4\u05ea"
@@ -37,20 +58,65 @@
     "name:heb_x_variant":[
         "\u05e8\u05d4\u05d8"
     ],
+    "name:hrv_x_preferred":[
+        "Rahat"
+    ],
+    "name:ind_x_preferred":[
+        "Rahat"
+    ],
+    "name:ita_x_preferred":[
+        "Rahat"
+    ],
     "name:kat_x_preferred":[
         "\u10e0\u10d0\u10f0\u10d0\u10e2\u10d8"
+    ],
+    "name:lad_x_preferred":[
+        "Rahat"
+    ],
+    "name:nld_x_preferred":[
+        "Rahat"
+    ],
+    "name:nno_x_preferred":[
+        "Rahat"
+    ],
+    "name:nor_x_preferred":[
+        "Rahat"
+    ],
+    "name:pol_x_preferred":[
+        "Rahat"
+    ],
+    "name:por_x_preferred":[
+        "Rahat"
+    ],
+    "name:ron_x_preferred":[
+        "Rahat"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0430\u0445\u0430\u0442"
     ],
+    "name:sco_x_preferred":[
+        "Rahat"
+    ],
+    "name:spa_x_preferred":[
+        "Rahat"
+    ],
     "name:srp_x_preferred":[
         "\u0420\u0430\u0445\u0430\u0442"
+    ],
+    "name:tgl_x_preferred":[
+        "Rahat"
+    ],
+    "name:tur_x_preferred":[
+        "Rahat"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0445\u0430\u0442"
     ],
     "name:urd_x_preferred":[
         "\u0631\u06c1\u0637"
+    ],
+    "name:vie_x_preferred":[
+        "Rahat"
     ],
     "name:yid_x_preferred":[
         "\u05e8\u05d4\u05d8"
@@ -83,7 +149,7 @@
         }
     ],
     "wof:id":1209328547,
-    "wof:lastmodified":1549930445,
+    "wof:lastmodified":1564215431,
     "wof:name":"Rahat",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

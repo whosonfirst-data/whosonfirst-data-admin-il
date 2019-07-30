@@ -25,6 +25,15 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zar\u2018it"
+    ],
+    "name:ces_x_preferred":[
+        "Zar'it"
+    ],
+    "name:deu_x_preferred":[
+        "Sar\u2019it"
+    ],
     "name:heb_x_preferred":[
         "Zar\u2018it"
     ],
@@ -32,6 +41,18 @@
         "\u05d6\u05e8\u05e2\u05d9\u05ea",
         "Zar\u2019it",
         "\u05db\u05e4\u05e8 \u05e8\u05d5\u05d6\u05e0\u05d5\u05dc\u05d3"
+    ],
+    "name:nno_x_preferred":[
+        "Zar'it"
+    ],
+    "name:pol_x_preferred":[
+        "Zarit"
+    ],
+    "name:spa_x_preferred":[
+        "Zar'it"
+    ],
+    "name:swe_x_preferred":[
+        "Zar\u2018it"
     ],
     "name:und_x_variant":[
         "Khirbat al Mazra\u2018a",
@@ -65,7 +86,7 @@
         }
     ],
     "wof:id":1193139259,
-    "wof:lastmodified":1549930353,
+    "wof:lastmodified":1564215437,
     "wof:name":"Zar`it",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

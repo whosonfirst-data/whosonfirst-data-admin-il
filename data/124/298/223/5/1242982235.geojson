@@ -31,6 +31,12 @@
     "name:heb_x_variant":[
         "\u05d9\u05d7\u05d3"
     ],
+    "name:pol_x_preferred":[
+        "Jachad"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u062d\u062f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1242982235,
-    "wof:lastmodified":1549930459,
+    "wof:lastmodified":1564215519,
     "wof:name":"Yahad",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

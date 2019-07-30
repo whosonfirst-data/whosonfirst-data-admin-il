@@ -25,11 +25,32 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dohan"
+    ],
+    "name:est_x_preferred":[
+        "Dohan"
+    ],
+    "name:fra_x_preferred":[
+        "Dohan"
+    ],
     "name:heb_x_preferred":[
         "Do\u1e96an"
     ],
     "name:heb_x_variant":[
         "\u05d3\u05d7\u05df"
+    ],
+    "name:nld_x_preferred":[
+        "Dohan"
+    ],
+    "name:pol_x_preferred":[
+        "Dohan"
+    ],
+    "name:swe_x_preferred":[
+        "Dohan"
+    ],
+    "name:wln_x_preferred":[
+        "D\u00f4han"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1310409929,
-    "wof:lastmodified":1549930429,
+    "wof:lastmodified":1564215464,
     "wof:name":"Dohan",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

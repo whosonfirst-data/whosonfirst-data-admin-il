@@ -31,9 +31,24 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0631\u0648\u0645"
     ],
+    "name:ces_x_preferred":[
+        "El Rom"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc-\u05e8\u05d5\u05dd"
+    ],
+    "name:nno_x_preferred":[
+        "El Rom"
+    ],
+    "name:pol_x_preferred":[
+        "El-Rom"
+    ],
     "name:und_x_variant":[
         "El Rom",
         "\u05d0\u05dc \u05e8\u05d5\u05dd"
+    ],
+    "name:vie_x_preferred":[
+        "El Rom"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -102,7 +117,7 @@
         }
     ],
     "wof:id":1243278745,
-    "wof:lastmodified":1549931213,
+    "wof:lastmodified":1564215521,
     "wof:name":"Al Rum",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

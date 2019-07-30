@@ -25,17 +25,33 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Neve Jamin"
+    ],
+    "name:fra_x_preferred":[
+        "Neve Yamin"
+    ],
     "name:heb_x_preferred":[
         "New\u00e9 Yamin"
     ],
     "name:heb_x_variant":[
         "\u05e0\u05d5\u05d4 \u05d9\u05de\u05d9\u05df",
-        "Nev\u00e9 Yamin"
+        "Nev\u00e9 Yamin",
+        "\u05e0\u05d5\u05d5\u05d4 \u05d9\u05de\u05d9\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Neve Yamin"
+    ],
+    "name:pol_x_preferred":[
+        "Newe Jamin"
     ],
     "name:und_x_variant":[
         "Yamin",
         "Neweh Yamin",
         "Nabi Yamin"
+    ],
+    "name:vie_x_preferred":[
+        "Neve Yamin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +77,7 @@
         }
     ],
     "wof:id":1259395435,
-    "wof:lastmodified":1549930347,
+    "wof:lastmodified":1564215525,
     "wof:name":"Newe Yamin",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

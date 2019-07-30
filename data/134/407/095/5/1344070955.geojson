@@ -25,8 +25,26 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Shibbolim"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160ibolim"
+    ],
     "name:heb_x_preferred":[
         "\u05e9\u05d1\u05dc\u05d9\u05dd"
+    ],
+    "name:heb_x_variant":[
+        "\u05e9\u05d9\u05d1\u05d5\u05dc\u05d9\u05dd"
+    ],
+    "name:nno_x_preferred":[
+        "Shibolim"
+    ],
+    "name:pol_x_preferred":[
+        "Szibbolim"
+    ],
+    "name:swe_x_preferred":[
+        "Shibbolim"
     ],
     "name:und_x_variant":[
         "Sharsheret B",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1344070955,
-    "wof:lastmodified":1549930489,
+    "wof:lastmodified":1564215376,
     "wof:name":"Shibbolim",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

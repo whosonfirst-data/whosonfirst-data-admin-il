@@ -25,11 +25,32 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ramat Yo\u1e96anan"
+    ],
+    "name:ces_x_preferred":[
+        "Ramat Jochanan"
+    ],
+    "name:fra_x_preferred":[
+        "Ramat-Yohanan"
+    ],
     "name:heb_x_preferred":[
         "Ramat Yo\u1e96anan"
     ],
     "name:heb_x_variant":[
         "\u05e8\u05de\u05ea \u05d9\u05d5\u05d7\u05e0\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Ramat Yohanan"
+    ],
+    "name:pol_x_preferred":[
+        "Ramat Jochanan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043c\u0430\u0442-\u0419\u043e\u0445\u0430\u043d\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Ramat Yo\u1e96anan"
     ],
     "name:und_x_variant":[
         "Ramat Ya\u1e96anan"
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1209315473,
-    "wof:lastmodified":1549930444,
+    "wof:lastmodified":1564215423,
     "wof:name":"Ramat Yohanan",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

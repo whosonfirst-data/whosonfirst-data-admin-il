@@ -25,8 +25,23 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Retamim"
+    ],
+    "name:ces_x_preferred":[
+        "Retamim"
+    ],
     "name:heb_x_preferred":[
         "\u05e8\u05ea\u05de\u05d9\u05dd"
+    ],
+    "name:nno_x_preferred":[
+        "Retamim"
+    ],
+    "name:pol_x_preferred":[
+        "Retamim"
+    ],
+    "name:swe_x_preferred":[
+        "Retamim"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1226356707,
-    "wof:lastmodified":1549930462,
+    "wof:lastmodified":1564215539,
     "wof:name":"Retamim",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

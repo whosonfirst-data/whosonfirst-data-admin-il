@@ -25,6 +25,18 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mevass\u00e9ret Tsiyyon"
+    ],
+    "name:ceb_x_preferred":[
+        "Mevasseret \u1e94iyyon"
+    ],
+    "name:ces_x_preferred":[
+        "Mevaseret Cijon"
+    ],
+    "name:deu_x_preferred":[
+        "Mewasseret Zion"
+    ],
     "name:eng_x_preferred":[
         "Mevaseret Zion"
     ],
@@ -33,8 +45,44 @@
         "Mevasseret \u1e94iyyon",
         "MevasseretTsiyyon"
     ],
+    "name:fin_x_preferred":[
+        "Mevasseret Zion"
+    ],
+    "name:fra_x_preferred":[
+        "Mevasseret Tsion"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05d1\u05e9\u05e8\u05ea \u05e6\u05d9\u05d5\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Mevaseret Zion"
+    ],
+    "name:lad_x_preferred":[
+        "Mevaseret Zion"
+    ],
+    "name:nno_x_preferred":[
+        "Mevaseret Zion"
+    ],
+    "name:pol_x_preferred":[
+        "Mewasseret Cijjon"
+    ],
+    "name:por_x_preferred":[
+        "Mevaseret Zion"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0432\u0430\u0441\u0435\u0440\u0435\u0442-\u0426\u0438\u043e\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Mevaseret Zion"
+    ],
+    "name:spa_x_preferred":[
+        "Mevaseret Sion"
+    ],
+    "name:swe_x_preferred":[
+        "Mevasseret \u1e94iyyon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0432\u0430\u0441\u0435\u0440\u0435\u0442-\u0426\u0456\u043e\u043d"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -61,7 +109,7 @@
         }
     ],
     "wof:id":1343855811,
-    "wof:lastmodified":1549930457,
+    "wof:lastmodified":1564215377,
     "wof:name":"Mevasseret Ziyyon",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

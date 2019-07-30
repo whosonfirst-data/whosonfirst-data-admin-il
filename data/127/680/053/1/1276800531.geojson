@@ -25,11 +25,17 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Ma'or"
+    ],
     "name:heb_x_preferred":[
         "Ma\u2019or"
     ],
     "name:heb_x_variant":[
         "\u05de\u05d0\u05d5\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Maor"
     ],
     "name:und_x_variant":[
         "Khirbet Kusiya",
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1276800531,
-    "wof:lastmodified":1549930479,
+    "wof:lastmodified":1564215414,
     "wof:name":"Ma'or",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

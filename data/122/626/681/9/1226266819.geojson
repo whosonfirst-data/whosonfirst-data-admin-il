@@ -26,11 +26,32 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0637\u0639\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Barta'a"
+    ],
+    "name:ces_x_preferred":[
+        "Barta'a"
+    ],
+    "name:fra_x_preferred":[
+        "Barta'a"
+    ],
     "name:heb_x_preferred":[
         "Barta\u2018a"
     ],
     "name:heb_x_variant":[
         "\u05d1\u05e8\u05d8\u05e2\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Barta'a"
+    ],
+    "name:pol_x_preferred":[
+        "Barta\u2019a"
+    ],
+    "name:spa_x_preferred":[
+        "Barta'a"
     ],
     "name:und_x_variant":[
         "Barta\u2018a",
@@ -60,7 +81,7 @@
         }
     ],
     "wof:id":1226266819,
-    "wof:lastmodified":1549930450,
+    "wof:lastmodified":1564215536,
     "wof:name":"Barta`a",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

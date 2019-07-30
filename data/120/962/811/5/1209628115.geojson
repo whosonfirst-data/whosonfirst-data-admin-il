@@ -25,12 +25,21 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Jad Binjamin"
+    ],
     "name:heb_x_preferred":[
         "\u05d9\u05d3 \u05d1\u05e0\u05d9\u05de\u05d9\u05df"
     ],
     "name:heb_x_variant":[
         "Merkaz H\u0331anukhi",
         "\u05de\u05e8\u05db\u05d6 \u05d7\u05e0\u05d5\u05db\u05d9"
+    ],
+    "name:nno_x_preferred":[
+        "Yad Binyamin"
+    ],
+    "name:pol_x_preferred":[
+        "Jad Binjamin"
     ],
     "name:und_x_variant":[
         "Netiva",
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1209628115,
-    "wof:lastmodified":1549930500,
+    "wof:lastmodified":1564215424,
     "wof:name":"Yad Binyamin",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

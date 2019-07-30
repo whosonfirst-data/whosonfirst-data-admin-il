@@ -25,8 +25,17 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Ganej Jochanan"
+    ],
     "name:heb_x_preferred":[
         "\u05d2\u05e0\u05d9 \u05d9\u05d5\u05d7\u05e0\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Ganei Yohanan"
+    ],
+    "name:pol_x_preferred":[
+        "Ganne Jochanan"
     ],
     "name:und_x_variant":[
         "Ganne-Yona",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1225848367,
-    "wof:lastmodified":1549930400,
+    "wof:lastmodified":1564215547,
     "wof:name":"Ganne Yohanan",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

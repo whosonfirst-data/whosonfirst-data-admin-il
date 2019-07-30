@@ -25,8 +25,17 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Ir Ovot"
+    ],
     "name:heb_x_preferred":[
         "\u05e2\u05d9\u05e8 \u05d0\u05d5\u05d1\u05d5\u05ea"
+    ],
+    "name:ind_x_preferred":[
+        "Ir Ovot"
+    ],
+    "name:nno_x_preferred":[
+        "Ir Ovot"
     ],
     "name:und_x_variant":[
         "\u2018Ir Ovot",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1209324263,
-    "wof:lastmodified":1549930444,
+    "wof:lastmodified":1564215430,
     "wof:name":"`Ir Ovot",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

@@ -25,8 +25,26 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "HaSolelim"
+    ],
+    "name:ces_x_preferred":[
+        "Ha-Solelim"
+    ],
+    "name:fra_x_preferred":[
+        "Hasolelim"
+    ],
     "name:heb_x_preferred":[
         "\u05d4\u05e1\u05d5\u05dc\u05dc\u05d9\u05dd"
+    ],
+    "name:nno_x_preferred":[
+        "HaSolelim"
+    ],
+    "name:pol_x_preferred":[
+        "Ha-Solelim"
+    ],
+    "name:swe_x_preferred":[
+        "HaSolelim"
     ],
     "name:und_x_variant":[
         "Hassolelim",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1259585015,
-    "wof:lastmodified":1549930425,
+    "wof:lastmodified":1564215530,
     "wof:name":"HaSolelim",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

@@ -25,12 +25,24 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Ginaton"
+    ],
     "name:heb_x_preferred":[
         "\u05d2\u05e0\u05ea\u05d5\u05df"
     ],
     "name:heb_x_variant":[
         "\u05d2\u05e0\u05d3\u05e1",
         "\u05d1\u05d9\u05ea \u05e2\u05e8\u05d9\u05e3 \u05d0"
+    ],
+    "name:nno_x_preferred":[
+        "Ginaton"
+    ],
+    "name:pol_x_preferred":[
+        "Ginnaton"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u043d\u0430\u0442\u043e\u043d"
     ],
     "name:und_x_variant":[
         "Bet Arif Alef",
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1326542839,
-    "wof:lastmodified":1549930417,
+    "wof:lastmodified":1564215369,
     "wof:name":"Ginnaton",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

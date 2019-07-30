@@ -25,11 +25,23 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Giv'at \u0160apira"
+    ],
+    "name:fra_x_preferred":[
+        "Givat-Shapira"
+    ],
     "name:heb_x_preferred":[
         "Giv\u2018at Shappira"
     ],
     "name:heb_x_variant":[
         "\u05d2\u05d1\u05e2\u05ea \u05e9\u05e4\u05d9\u05e8\u05d0"
+    ],
+    "name:nno_x_preferred":[
+        "Givat Shapira"
+    ],
+    "name:pol_x_preferred":[
+        "Giwat Szappira"
     ],
     "name:und_x_variant":[
         "Giv\u2018at Shapira",
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1276131635,
-    "wof:lastmodified":1549930359,
+    "wof:lastmodified":1564215418,
     "wof:name":"Giv`at Shappira",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

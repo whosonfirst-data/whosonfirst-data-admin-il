@@ -31,8 +31,23 @@
     "mps:longitude":35.302438,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Jizreel"
+    ],
+    "name:ces_x_preferred":[
+        "Jizre'el"
+    ],
     "name:eng_x_preferred":[
         "Jezreel"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d6\u05e8\u05e2\u05d0\u05dc"
+    ],
+    "name:nno_x_preferred":[
+        "Yizre'el"
+    ],
+    "name:pol_x_preferred":[
+        "Jizre\u2019el"
     ],
     "name:und_x_variant":[
         "\u05d9\u05d6\u05e8\u05e2\u05d0\u05dc"
@@ -77,7 +92,7 @@
         }
     ],
     "wof:id":1108720829,
-    "wof:lastmodified":1553718460,
+    "wof:lastmodified":1564215450,
     "wof:name":"Yizre'el",
     "wof:parent_id":85672545,
     "wof:placetype":"county",

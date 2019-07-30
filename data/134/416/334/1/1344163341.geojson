@@ -25,11 +25,20 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Ma'anit"
+    ],
     "name:heb_x_preferred":[
         "Ma\u2018anit"
     ],
     "name:heb_x_variant":[
         "\u05de\u05e2\u05e0\u05d9\u05ea",
+        "Ma\u2019anit"
+    ],
+    "name:nno_x_preferred":[
+        "Ma'anit"
+    ],
+    "name:pol_x_preferred":[
         "Ma\u2019anit"
     ],
     "name:und_x_variant":[
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1344163341,
-    "wof:lastmodified":1549930501,
+    "wof:lastmodified":1564215385,
     "wof:name":"Ma`anit",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

@@ -25,12 +25,28 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "New\u00e9 H\u0331arif"
+    ],
+    "name:ces_x_preferred":[
+        "Neve Charif"
+    ],
     "name:heb_x_preferred":[
         "New\u00e9 H\u0331arif"
     ],
     "name:heb_x_variant":[
         "\u05e0\u05d5\u05d4 \u05d7\u05e8\u05d9\u05e3",
-        "Nev\u00e9 H\u0331arif"
+        "Nev\u00e9 H\u0331arif",
+        "\u05e0\u05d5\u05d5\u05d4 \u05d7\u05e8\u05d9\u05e3"
+    ],
+    "name:nno_x_preferred":[
+        "Neve Harif"
+    ],
+    "name:pol_x_preferred":[
+        "Newe Charif"
+    ],
+    "name:swe_x_preferred":[
+        "New\u00e9 H\u0331arif"
     ],
     "name:und_x_variant":[
         "NeweH\u0331arif"
@@ -59,7 +75,7 @@
         }
     ],
     "wof:id":1209733261,
-    "wof:lastmodified":1549930496,
+    "wof:lastmodified":1564215432,
     "wof:name":"Newe Harif",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

@@ -25,8 +25,20 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hodayot"
+    ],
+    "name:ces_x_preferred":[
+        "Hodajot"
+    ],
     "name:heb_x_preferred":[
         "\u05d4\u05d5\u05d3\u05d9\u05d5\u05ea"
+    ],
+    "name:pol_x_preferred":[
+        "Hodajot"
+    ],
+    "name:swe_x_preferred":[
+        "Hodayot"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1226154445,
-    "wof:lastmodified":1549930449,
+    "wof:lastmodified":1564215541,
     "wof:name":"Hodayot",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

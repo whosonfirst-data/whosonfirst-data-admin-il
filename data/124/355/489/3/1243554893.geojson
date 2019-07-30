@@ -25,11 +25,27 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0642\u0637\u0641"
+    ],
+    "name:ces_x_preferred":[
+        "Umm al-Kutuf"
+    ],
+    "name:fra_x_preferred":[
+        "Umm al-Qutuf"
+    ],
     "name:heb_x_preferred":[
         "Umm el Qu\u1e6d\u016bf"
     ],
     "name:heb_x_variant":[
-        "\u05d0\u05dd \u05d0\u05dc \u05e7\u05d8\u05d5\u05e3"
+        "\u05d0\u05dd \u05d0\u05dc \u05e7\u05d8\u05d5\u05e3",
+        "\u05d0\u05d5\u05dd \u05d0\u05dc-\u05e7\u05d5\u05d8\u05d5\u05e3"
+    ],
+    "name:nno_x_preferred":[
+        "Umm al-Qutuf"
+    ],
+    "name:pol_x_preferred":[
+        "Umm al-Kutuf"
     ],
     "name:und_x_variant":[
         "Umm al-Qut\u016bf",
@@ -59,7 +75,7 @@
         }
     ],
     "wof:id":1243554893,
-    "wof:lastmodified":1549930486,
+    "wof:lastmodified":1564215513,
     "wof:name":"Umm el Qutuf",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

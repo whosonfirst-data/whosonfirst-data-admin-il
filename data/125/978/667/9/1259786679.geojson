@@ -25,11 +25,15 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Wilhelma"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05d0\u05e8\u05d5\u05ea \u05d9\u05e6\u05d7\u05e7"
     ],
     "name:heb_x_variant":[
-        "Be\u2019erot Yits\u1e96ak"
+        "Be\u2019erot Yits\u1e96ak",
+        "\u05d5\u05d9\u05dc\u05d4\u05dc\u05de\u05d4"
     ],
     "name:und_x_variant":[
         "Wilhelmina",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1259786679,
-    "wof:lastmodified":1549930467,
+    "wof:lastmodified":1564215526,
     "wof:name":"Be'erot Yizhaq",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

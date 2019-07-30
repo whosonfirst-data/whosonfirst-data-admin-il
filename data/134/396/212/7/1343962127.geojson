@@ -25,11 +25,23 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Nir Jicchak"
+    ],
+    "name:fra_x_preferred":[
+        "Nir Yitzhak"
+    ],
     "name:heb_x_preferred":[
         "Nir Yi\u1e95\u1e96aq"
     ],
     "name:heb_x_variant":[
         "\u05e0\u05d9\u05e8 \u05d9\u05e6\u05d7\u05e7"
+    ],
+    "name:nno_x_preferred":[
+        "Nir Yitzhak"
+    ],
+    "name:pol_x_preferred":[
+        "Nir Jicchak"
     ],
     "name:und_x_variant":[
         "Nir Yits-\u1e25aq",
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1343962127,
-    "wof:lastmodified":1549930471,
+    "wof:lastmodified":1564215372,
     "wof:name":"Nir Yizhaq",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

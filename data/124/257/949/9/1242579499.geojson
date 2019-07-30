@@ -25,8 +25,23 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u062d\u064a\u0647\u0648\u062f"
+    ],
+    "name:ces_x_preferred":[
+        "Achihud"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u062d\u06cc\u0647\u0648\u062f"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d7\u05d9\u05d4\u05d5\u05d3"
+    ],
+    "name:nno_x_preferred":[
+        "Ahihud"
+    ],
+    "name:pol_x_preferred":[
+        "Achihud"
     ],
     "name:und_x_variant":[
         "A\u1e96ihud"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1242579499,
-    "wof:lastmodified":1549930365,
+    "wof:lastmodified":1564215515,
     "wof:name":"Ahihud",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

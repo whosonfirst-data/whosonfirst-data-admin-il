@@ -25,8 +25,32 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u0645\u0631"
+    ],
+    "name:ces_x_preferred":[
+        "Zemer"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u06cc\u0645\u0631"
+    ],
     "name:heb_x_preferred":[
         "\u05d6\u05de\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Zemer"
+    ],
+    "name:pol_x_preferred":[
+        "Zemer"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043c\u0435\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Zemer"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u06cc\u0645\u0631"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1327143201,
-    "wof:lastmodified":1549930491,
+    "wof:lastmodified":1564215360,
     "wof:name":"Zemer",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

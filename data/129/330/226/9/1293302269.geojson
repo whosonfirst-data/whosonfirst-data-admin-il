@@ -25,11 +25,32 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0642\u064a\u0628 \u0627\u0644\u0633\u0644\u0627\u0645"
+    ],
+    "name:cat_x_preferred":[
+        "Seguev Xalom"
+    ],
+    "name:ces_x_preferred":[
+        "Segev \u0160alom"
+    ],
     "name:heb_x_preferred":[
         "\u05e9\u05d2\u05d1 \u05e9\u05dc\u05d5\u05dd"
     ],
     "name:heb_x_variant":[
         "\u05e9\u05e7\u05d9\u05d1 \u05d0 \u05e1\u05dc\u05dd"
+    ],
+    "name:ita_x_preferred":[
+        "Shaqib al-Salam"
+    ],
+    "name:nno_x_preferred":[
+        "Segev Shalom"
+    ],
+    "name:pol_x_preferred":[
+        "Segew-Szalom"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0433\u0435\u0432-\u0428\u0430\u043b\u043e\u043c"
     ],
     "name:und_x_variant":[
         "Shaqeib es Salam"
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1293302269,
-    "wof:lastmodified":1549930457,
+    "wof:lastmodified":1564215398,
     "wof:name":"Segev Shalom",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

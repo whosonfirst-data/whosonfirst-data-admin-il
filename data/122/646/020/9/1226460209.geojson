@@ -25,8 +25,44 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u0645 \u0623\u0628\u0648 \u0633\u0627\u0644\u0645"
+    ],
+    "name:cat_x_preferred":[
+        "K\u00e9rem Xalom"
+    ],
+    "name:ces_x_preferred":[
+        "Kerem \u0160alom"
+    ],
+    "name:deu_x_preferred":[
+        "Kerem Schalom"
+    ],
+    "name:fra_x_preferred":[
+        "Kerem Shalom"
+    ],
     "name:heb_x_preferred":[
         "\u05db\u05e8\u05dd \u05e9\u05dc\u05d5\u05dd"
+    ],
+    "name:ita_x_preferred":[
+        "Kerem Shalom"
+    ],
+    "name:nno_x_preferred":[
+        "Kerem Shalom"
+    ],
+    "name:pol_x_preferred":[
+        "Kerem Szalom"
+    ],
+    "name:por_x_preferred":[
+        "Kerem Shalom"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0440\u0435\u043c-\u0428\u0430\u043b\u043e\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Kerem Shalom"
+    ],
+    "name:zho_x_preferred":[
+        "\u51ef\u91cc\u59c6\u6c99\u6d1b\u59c6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1226460209,
-    "wof:lastmodified":1549930474,
+    "wof:lastmodified":1564215542,
     "wof:name":"Kerem Shalom",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

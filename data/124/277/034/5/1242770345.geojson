@@ -25,6 +25,24 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kochav HaShachar"
+    ],
+    "name:ces_x_preferred":[
+        "Kochav ha-\u0160achar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05d5\u05db\u05d1 \u05d4\u05e9\u05d7\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Kokhav HaShahar"
+    ],
+    "name:pol_x_preferred":[
+        "Kochaw ha-Szachar"
+    ],
+    "name:spa_x_preferred":[
+        "Kokhav HaShahar"
+    ],
     "name:und_x_variant":[
         "Nahal Kochav Hashahar",
         "Kokhav HaSha\u1e96ar"
@@ -67,7 +85,7 @@
         }
     ],
     "wof:id":1242770345,
-    "wof:lastmodified":1549929750,
+    "wof:lastmodified":1564215518,
     "wof:name":"Kokhav HaShahar",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

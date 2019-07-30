@@ -25,8 +25,20 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Acmon"
+    ],
     "name:heb_x_preferred":[
         "\u05e9\u05d2\u05d1"
+    ],
+    "name:heb_x_variant":[
+        "\u05e2\u05e6\u05de\u05d5\u05df-\u05e9\u05d2\u05d1"
+    ],
+    "name:nno_x_preferred":[
+        "Atzmon"
+    ],
+    "name:pol_x_preferred":[
+        "Segew"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1209817249,
-    "wof:lastmodified":1549930497,
+    "wof:lastmodified":1564215434,
     "wof:name":"Segev",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

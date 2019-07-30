@@ -25,12 +25,21 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Micpe Netofa"
+    ],
     "name:heb_x_preferred":[
         "Mi\u1e95p\u00e9 Netofa"
     ],
     "name:heb_x_variant":[
         "\u05de\u05e6\u05e4\u05d4 \u05e0\u05d8\u05d5\u05e4\u05d4",
         "Mitsp\u00e9 Netofa"
+    ],
+    "name:nno_x_preferred":[
+        "Mitzpe Netofa"
+    ],
+    "name:pol_x_preferred":[
+        "Micpe Netofa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1326631751,
-    "wof:lastmodified":1549930431,
+    "wof:lastmodified":1564215368,
     "wof:name":"Mizpe Netofa",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

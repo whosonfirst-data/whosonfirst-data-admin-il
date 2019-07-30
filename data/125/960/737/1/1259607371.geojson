@@ -25,8 +25,29 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kefar HaMakkabbi"
+    ],
+    "name:ces_x_preferred":[
+        "Kfar ha-Makabi"
+    ],
+    "name:fra_x_preferred":[
+        "Kfar HaMaccabi"
+    ],
     "name:heb_x_preferred":[
         "\u05db\u05e4\u05e8 \u05d4\u05de\u05db\u05d1\u05d9"
+    ],
+    "name:nno_x_preferred":[
+        "Kfar HaMaccabi"
+    ],
+    "name:pol_x_preferred":[
+        "Kefar ha-Makkabbi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0444\u0430\u0440-\u0445\u0430-\u041c\u0430\u043a\u043a\u0430\u0431\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Kefar HaMakkabbi"
     ],
     "name:und_x_variant":[
         "Kfar HaMaccabi",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1259607371,
-    "wof:lastmodified":1549930433,
+    "wof:lastmodified":1564215530,
     "wof:name":"Kefar HaMakkabbi",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

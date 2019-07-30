@@ -25,11 +25,20 @@
     "iso:country":"IL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Even Menachem"
+    ],
     "name:heb_x_preferred":[
         "Even Mena\u1e96em"
     ],
     "name:heb_x_variant":[
         "\u05d0\u05d1\u05df \u05de\u05e0\u05d7\u05dd"
+    ],
+    "name:nno_x_preferred":[
+        "Even Menachem"
+    ],
+    "name:pol_x_preferred":[
+        "Ewen Menachem"
     ],
     "name:und_x_variant":[
         "Iven Manahim",
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1243079293,
-    "wof:lastmodified":1549930469,
+    "wof:lastmodified":1564215511,
     "wof:name":"Even Menahem",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",
