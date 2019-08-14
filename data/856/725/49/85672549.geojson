@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TA"
+    ],
     "lbl:latitude":32.072773,
     "lbl:longitude":34.804786,
     "meso:name_alt1":"",
@@ -323,9 +326,6 @@
         }
     ],
     "wof:id":85672549,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "heb",
         "ara"
@@ -334,7 +334,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1563314956,
+    "wof:lastmodified":1565717111,
     "wof:name":"Tel Aviv",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Central District"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HM"
+    ],
     "lbl:latitude":31.913354,
     "lbl:longitude":34.855726,
     "meso:name_alt1":"Center",
@@ -315,7 +318,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1563314955,
+    "wof:lastmodified":1565717111,
     "wof:name":"Central",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

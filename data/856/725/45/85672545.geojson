@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Northern District"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HZ"
+    ],
     "lbl:latitude":32.821355,
     "lbl:longitude":35.400904,
     "meso:name_alt1":"North",
@@ -366,7 +369,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1563314952,
+    "wof:lastmodified":1565717110,
     "wof:name":"Northern",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

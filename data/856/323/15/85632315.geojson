@@ -14,6 +14,9 @@
     "itu:country_code":[
         "972"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IL"
+    ],
     "lbl:latitude":30.895128,
     "lbl:longitude":34.874702,
     "mps:latitude":30.895128,
@@ -1153,7 +1156,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1563314961,
+    "wof:lastmodified":1565717112,
     "wof:name":"Israel",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

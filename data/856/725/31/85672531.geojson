@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Southern District"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HD"
+    ],
     "lbl:latitude":30.898142,
     "lbl:longitude":34.880232,
     "meso:name_alt1":"South",
@@ -335,7 +338,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1563314954,
+    "wof:lastmodified":1565717111,
     "wof:name":"Southern",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

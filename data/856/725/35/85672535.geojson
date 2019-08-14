@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Haifa District"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HA"
+    ],
     "lbl:latitude":32.488471,
     "lbl:longitude":34.974471,
     "meso:name_alt1":"Heifa",
@@ -374,7 +377,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1563314950,
+    "wof:lastmodified":1565717110,
     "wof:name":"Haifa",
     "wof:parent_id":85632315,
     "wof:placetype":"region",
