@@ -10,8 +10,12 @@
     "geom:latitude":32.80636,
     "geom:longitude":35.36486,
     "iso:country":"IL",
+    "lbl:bbox":"35.34486,32.78636,35.38486,32.82636",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:heb_x_preferred":[
         "Bu\u2018eina"
@@ -19,7 +23,7 @@
     "name:heb_x_variant":[
         "\u05d1\u05e2\u05d9\u05e0\u05d4"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bu\u2018eine"
     ],
     "qs:gn_country":"IL",
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":295380,
         "gp:id":1967222,
-        "qs:id":1301586
+        "qs_pg:id":1301586
     },
     "wof:country":"IL",
     "wof:created":1459010174,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":421204133,
-    "wof:lastmodified":1549930403,
+    "wof:lastmodified":1566680637,
     "wof:name":"Bueina",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

@@ -14,6 +14,7 @@
     "iso:country":"IL",
     "lbl:latitude":32.059061,
     "lbl:longitude":34.779246,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.06085,
     "mps:longitude":34.778083,
     "mz:hierarchy_label":1,
@@ -48,10 +49,6 @@
         "New\u00e9 Sha\u2019anan",
         "\u05e0\u05d5\u05d4 \u05e9\u05d0\u05e0\u05df"
     ],
-    "name:unk_x_variant":[
-        "Nave Sha\u2019anan",
-        "Newe Sha'anan"
-    ],
     "qs:gn_adm0_cc":"IL",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":293397,
@@ -77,22 +74,22 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":32.0589,
     "wd:longitude":34.780742,
     "wd:wordcount":529,
     "wof:belongsto":[
+        85672549,
         102191569,
         85632315,
         1125955239,
-        1108720837,
-        85672549
+        1108720837
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":294050,
         "gp:id":1967764,
-        "qs:id":1301771,
+        "qs_pg:id":1301771,
         "wd:id":"Q2907012",
         "wk:page":"Neve Sha'anan, Tel Aviv"
     },
@@ -112,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930539,
+    "wof:lastmodified":1566680560,
     "wof:name":"Newe Sha'anan",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

@@ -11,10 +11,14 @@
     "geom:longitude":34.99081,
     "gn:country":"IL",
     "gn:fcode":"PPL",
-    "gn:pop":5000,
+    "gn:population":5000,
     "iso:country":"IL",
+    "lbl:bbox":"34.97081,31.85111,35.01081,31.89111",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Nof Ayalon"
     ],
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":8199379,
         "gp:id":1967949,
-        "qs:id":759665,
+        "qs_pg:id":759665,
         "wd:id":"Q2889461",
         "wk:page":"Nof Ayalon"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890413457,
-    "wof:lastmodified":1563315258,
+    "wof:lastmodified":1566680684,
     "wof:name":"Nof Ayalon",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

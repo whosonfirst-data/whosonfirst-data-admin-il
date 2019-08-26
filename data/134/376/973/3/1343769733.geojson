@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"35.37168,32.59403,35.41168,32.63403",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0627\u0639\u0648\u0631\u0629"
     ],
@@ -47,7 +51,6 @@
     "name:und_x_variant":[
         "Ne\u2018oran",
         "Na\u2018urah",
-        "N\u0101\u2018\u016bra",
         "Na\u2018\u016bra"
     ],
     "src:geom":"geonames",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1343769733,
-    "wof:lastmodified":1564215378,
+    "wof:lastmodified":1566680553,
     "wof:name":"Na`ura",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

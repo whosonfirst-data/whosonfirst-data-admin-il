@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.98745,32.30561,35.02745,32.34561",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Jad Chana"
     ],
@@ -46,7 +50,6 @@
     "name:und_x_variant":[
         "Me\u2019u\u1e96adi",
         "Me\u2019u\u1e96ad",
-        "Yad H\u0331anna",
         "Yad Hanah"
     ],
     "name:urd_x_preferred":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1242586311,
-    "wof:lastmodified":1564215515,
+    "wof:lastmodified":1566680693,
     "wof:name":"Yad Hanna",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

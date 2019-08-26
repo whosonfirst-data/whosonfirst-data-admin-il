@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":32.488471,
     "lbl:longitude":34.974471,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Heifa",
     "meso:name_loc":"\u05d7\u05d9\u05e4\u05d4",
     "mps:latitude":32.488471,
@@ -209,7 +210,7 @@
         "Haifa Destrict"
     ],
     "name:sin_x_preferred":[
-        "\u0dc4\u0dba\u0dd2\u0dc6\u0dcf  \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+        "\u0dc4\u0dba\u0dd2\u0dc6\u0dcf \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
     "name:spa_x_preferred":[
         "Distrito de Haifa"
@@ -221,7 +222,7 @@
         "Haifa"
     ],
     "name:tam_x_preferred":[
-        "\u0bb9\u0bc7\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bbe  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0bb9\u0bc7\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c39\u0c48\u0c2b\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -236,10 +237,6 @@
         "\u0425\u0430\u0439\u0444\u0441\u044c\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
     ],
     "name:und_x_variant":[
-        "\u05d7\u05d9\u05e4\u05d4",
-        "Heifa"
-    ],
-    "name:unk_x_variant":[
         "Me\u1e96oz H\u0331eifa"
     ],
     "name:urd_x_preferred":[
@@ -328,10 +325,9 @@
         "meso"
     ],
     "src:geom_via":"meso",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-12-27",
+    "src:population_date":"2008-12-27",
     "statoids:area_km":"854",
     "statoids:area_mi":"330",
     "statoids:as_of_date":"2008-12-27",
@@ -355,7 +351,7 @@
         "gp:id":2345794,
         "hasc:id":"IL.HA",
         "iso:id":"IL-HA",
-        "qs:id":1168669,
+        "qs_pg:id":1168669,
         "wd:id":"Q185845",
         "wk:page":"Haifa District"
     },
@@ -377,7 +373,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1565717110,
+    "wof:lastmodified":1566680567,
     "wof:name":"Haifa",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

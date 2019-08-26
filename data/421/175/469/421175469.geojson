@@ -10,8 +10,12 @@
     "geom:latitude":31.139072,
     "geom:longitude":34.825286,
     "iso:country":"IL",
+    "lbl:bbox":"34.805286,31.119072,34.845286,31.159072",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22722760,
-        "qs:id":1329369
+        "qs_pg:id":1329369
     },
     "wof:country":"IL",
     "wof:created":1459009068,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421175469,
-    "wof:lastmodified":1549930317,
+    "wof:lastmodified":1566680657,
     "wof:name":"Terabin",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

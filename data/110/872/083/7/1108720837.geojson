@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":32.072773,
     "lbl:longitude":34.804786,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Tel Aviv",
     "meso:adm1_loc":"\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
     "meso:hasc_id":"IL.TA.TA",
@@ -31,6 +33,7 @@
     "mps:longitude":34.804786,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Tel Aviv distrik"
     ],
@@ -201,10 +204,9 @@
         "meso"
     ],
     "src:geom_via":"meso",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1997-12-31",
+    "src:population_date":"1997-12-31",
     "statoids:area_km":"",
     "statoids:as_of_date":"1997-12-31",
     "statoids:capital":"",
@@ -237,7 +239,7 @@
         }
     ],
     "wof:id":1108720837,
-    "wof:lastmodified":1563314999,
+    "wof:lastmodified":1566680601,
     "wof:name":"Tel Aviv",
     "wof:parent_id":85672549,
     "wof:placetype":"county",

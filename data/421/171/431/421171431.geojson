@@ -10,8 +10,12 @@
     "geom:latitude":32.19672,
     "geom:longitude":34.94921,
     "iso:country":"IL",
+    "lbl:bbox":"34.92921,32.17672,34.96921,32.21672",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Nir Elijahu"
@@ -30,9 +34,6 @@
     ],
     "name:pol_x_preferred":[
         "Nir Elijahu"
-    ],
-    "name:unk_x_variant":[
-        "Nir Eliyahu"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -64,7 +65,7 @@
     "wof:concordances":{
         "gn:id":294031,
         "gp:id":1967776,
-        "qs:id":1251618,
+        "qs_pg:id":1251618,
         "wd:id":"Q2889513",
         "wk:page":"Nir Eliyahu"
     },
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":421171431,
-    "wof:lastmodified":1561760038,
+    "wof:lastmodified":1566680681,
     "wof:name":"Nir Eliyyahu",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

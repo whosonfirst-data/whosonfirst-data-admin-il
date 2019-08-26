@@ -14,6 +14,7 @@
     "iso:country":"IL",
     "lbl:latitude":32.049507,
     "lbl:longitude":34.767429,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.044666,
     "mps:longitude":34.771369,
     "mz:hierarchy_label":1,
@@ -144,10 +145,6 @@
     "name:tur_x_preferred":[
         "Tabitha"
     ],
-    "name:unk_x_variant":[
-        "Abu Kebir",
-        "Ab\u016b Kab\u012br"
-    ],
     "qs:gn_adm0_cc":"IL",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":293397,
@@ -173,7 +170,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":515,
     "wof:belongsto":[
         85672549,
@@ -186,7 +183,7 @@
     "wof:concordances":{
         "gn:id":295769,
         "gp:id":1967065,
-        "qs:id":189536,
+        "qs_pg:id":189536,
         "wd:id":"Q18985757"
     },
     "wof:country":"IL",
@@ -205,7 +202,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563314938,
+    "wof:lastmodified":1566680562,
     "wof:name":"Tabitha",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

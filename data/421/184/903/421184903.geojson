@@ -10,8 +10,12 @@
     "geom:latitude":32.52785,
     "geom:longitude":35.33569,
     "iso:country":"IL",
+    "lbl:bbox":"35.31569,32.50785,35.35569,32.54785",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Gan Ner"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":8340977,
         "gp:id":22528347,
-        "qs:id":1014368,
+        "qs_pg:id":1014368,
         "wd:id":"Q2777262",
         "wk:page":"Gan Ner"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421184903,
-    "wof:lastmodified":1561760033,
+    "wof:lastmodified":1566680672,
     "wof:name":"Gan Ner",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

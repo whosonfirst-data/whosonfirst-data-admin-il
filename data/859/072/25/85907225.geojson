@@ -9,12 +9,13 @@
     "geom:bbox":"35.2139282227,31.7469783892,35.2221679687,31.7585316266",
     "geom:latitude":31.753474,
     "geom:longitude":35.217776,
-    "gn:gn_country":"IL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"IL",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"IL",
     "lbl:latitude":31.752651,
     "lbl:longitude":35.217729,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.753756,
     "mps:longitude":35.217285,
     "mz:hierarchy_label":1,
@@ -64,10 +65,6 @@
     ],
     "name:spa_x_preferred":[
         "Talpiot"
-    ],
-    "name:unk_x_variant":[
-        "Talpiot",
-        "Talpiyot"
     ],
     "name:yid_x_preferred":[
         "\u05ea\u05dc\u05e4\u05d9\u05d5\u05ea"
@@ -120,7 +117,7 @@
     "qs_pg:woe_id":22724704,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":31.75,
     "wd:longitude":35.216667,
     "wd:wordcount":1540,
@@ -135,7 +132,6 @@
     "wof:concordances":{
         "gn:id":281168,
         "gp:id":22724704,
-        "qs:id":1191439,
         "qs_pg:id":1191439,
         "wd:id":"Q1310344",
         "wk:page":"Talpiot"
@@ -156,7 +152,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563314949,
+    "wof:lastmodified":1566680567,
     "wof:name":"Talpiyot",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

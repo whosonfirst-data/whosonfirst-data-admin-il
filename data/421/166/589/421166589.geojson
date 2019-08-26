@@ -10,8 +10,12 @@
     "geom:latitude":32.06147,
     "geom:longitude":34.94891,
     "iso:country":"IL",
+    "lbl:bbox":"34.92891,32.04147,34.96891,32.08147",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Na\u1e96shonim"
@@ -52,7 +56,7 @@
     "name:swe_x_preferred":[
         "Na\u1e96shonim"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nahashonim"
     ],
     "qs:gn_country":"IL",
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":294109,
         "gp:id":1967733,
-        "qs:id":267713,
+        "qs_pg:id":267713,
         "wd:id":"Q647488",
         "wk:page":"Nahshonim"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421166589,
-    "wof:lastmodified":1563315045,
+    "wof:lastmodified":1566680627,
     "wof:name":"Nahshonim",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":29.58119,
     "geom:longitude":34.9633,
     "iso:country":"IL",
+    "lbl:bbox":"34.9433,29.56119,34.9833,29.60119",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0625\u064a\u0644\u0648\u062a"
@@ -40,7 +44,7 @@
     "name:pol_x_preferred":[
         "Eilot"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eloth"
     ],
     "qs:gn_country":"IL",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":295240,
         "gp:id":1967267,
-        "qs:id":479249,
+        "qs_pg:id":479249,
         "wd:id":"Q2916860",
         "wk:page":"Eilot"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421181209,
-    "wof:lastmodified":1563315147,
+    "wof:lastmodified":1566680655,
     "wof:name":"Elot",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

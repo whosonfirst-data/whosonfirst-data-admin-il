@@ -10,8 +10,12 @@
     "geom:latitude":32.72754,
     "geom:longitude":35.21381,
     "iso:country":"IL",
+    "lbl:bbox":"35.19381,32.70754,35.23381,32.74754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0632\u0631\u0632\u064a\u0631"
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":8264669,
         "gp:id":22528357,
-        "qs:id":502069,
+        "qs_pg:id":502069,
         "wd:id":"Q2658228",
         "wk:page":"Zarzir"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421181769,
-    "wof:lastmodified":1563315145,
+    "wof:lastmodified":1566680654,
     "wof:name":"Zarzir",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

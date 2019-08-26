@@ -10,8 +10,12 @@
     "geom:latitude":32.72533,
     "geom:longitude":35.46692,
     "iso:country":"IL",
+    "lbl:bbox":"35.44692,32.70533,35.48692,32.74533",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sharona"
@@ -34,7 +38,7 @@
     "name:swe_x_preferred":[
         "Sharona"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ramah"
     ],
     "qs:gn_country":"IL",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":293548,
         "gp:id":1967965,
-        "qs:id":193974,
+        "qs_pg:id":193974,
         "wd:id":"Q2888623",
         "wk:page":"Sharona"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421199509,
-    "wof:lastmodified":1563315190,
+    "wof:lastmodified":1566680666,
     "wof:name":"Sharona",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

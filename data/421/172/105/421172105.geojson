@@ -10,8 +10,12 @@
     "geom:latitude":32.59472,
     "geom:longitude":35.09917,
     "iso:country":"IL",
+    "lbl:bbox":"35.07917,32.57472,35.11917,32.61472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "\u2018En HaShofet"
@@ -49,7 +53,7 @@
     "name:swe_x_preferred":[
         "\u2018En HaShofet"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u2018Ein Hash Shofet"
     ],
     "qs:gn_country":"IL",
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":295206,
         "gp:id":1967283,
-        "qs:id":235158,
+        "qs_pg:id":235158,
         "wd:id":"Q2890213",
         "wk:page":"Ein HaShofet"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421172105,
-    "wof:lastmodified":1563315136,
+    "wof:lastmodified":1566680651,
     "wof:name":"En HaShofet",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

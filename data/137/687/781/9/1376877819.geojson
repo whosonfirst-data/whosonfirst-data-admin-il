@@ -23,18 +23,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.99891,32.76274,35.00891,32.77274",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:heb_x_preferred":[
         "\u05d4\u05d5\u05d3 \u05d4\u05db\u05e8\u05de\u05dc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85672535,
         102191569,
         85632315,
         421168693,
-        1108720835,
-        85672535
+        1108720835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1376877819,
-    "wof:lastmodified":1549930746,
+    "wof:lastmodified":1566680622,
     "wof:name":"Hod HaKarmel",
     "wof:parent_id":421168693,
     "wof:placetype":"neighbourhood",

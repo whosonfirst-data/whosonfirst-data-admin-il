@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.99095,31.782,35.03095,31.822",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Mesilat Cijon"
     ],
@@ -43,7 +47,6 @@
     "name:und_x_variant":[
         "Mesillat Zion",
         "Mesillat Tsiyon",
-        "Mesilat Zion",
         "Mesilat Tsiyon",
         "Mesillat \u1e94iyyon",
         "Mesillat Tsiyyon"
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1209708161,
-    "wof:lastmodified":1564215426,
+    "wof:lastmodified":1566680586,
     "wof:name":"Mesillat Ziyyon",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

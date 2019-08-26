@@ -10,8 +10,12 @@
     "geom:latitude":32.28751,
     "geom:longitude":34.9448,
     "iso:country":"IL",
+    "lbl:bbox":"34.9248,32.26751,34.9648,32.30751",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Zoran"
@@ -236,7 +240,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u043e\u0440\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tsoran"
     ],
     "name:vec_x_preferred":[
@@ -290,7 +294,7 @@
     "wof:concordances":{
         "gn:id":8309962,
         "gp:id":22722744,
-        "qs:id":908116,
+        "qs_pg:id":908116,
         "wd:id":"Q220484"
     },
     "wof:country":"IL",
@@ -306,7 +310,7 @@
         }
     ],
     "wof:id":421182385,
-    "wof:lastmodified":1563315240,
+    "wof:lastmodified":1566680678,
     "wof:name":"Zoran",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

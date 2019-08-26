@@ -10,8 +10,11 @@
     "geom:latitude":31.768862,
     "geom:longitude":35.203857,
     "iso:country":"IL",
+    "lbl:bbox":"35.198857,31.763862,35.208857,31.773862",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -33,16 +36,16 @@
     "qs:woe_id":22724683,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724683,
-        "qs:id":366802
+        "qs_pg:id":366802
     },
     "wof:country":"IL",
     "wof:created":1459008939,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":421172401,
-    "wof:lastmodified":1549930535,
+    "wof:lastmodified":1566680652,
     "wof:name":"Shikun Rasko",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

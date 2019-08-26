@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"35.54566,32.68501,35.58566,32.72501",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05ea\u05e0\u05d9\u05d4"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1243566105,
-    "wof:lastmodified":1549930491,
+    "wof:lastmodified":1566680694,
     "wof:name":"Bitanya",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

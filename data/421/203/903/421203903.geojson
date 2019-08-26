@@ -10,8 +10,12 @@
     "geom:latitude":33.27918,
     "geom:longitude":35.5795,
     "iso:country":"IL",
+    "lbl:bbox":"35.5595,33.25918,35.5995,33.29918",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0637\u0644\u0629"
@@ -85,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0442\u0443\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Mutille"
     ],
     "name:zho_x_preferred":[
@@ -124,7 +128,7 @@
     "wof:concordances":{
         "gn:id":294247,
         "gp:id":1967675,
-        "qs:id":235486,
+        "qs_pg:id":235486,
         "wd:id":"Q1011497",
         "wk:page":"Metula"
     },
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":421203903,
-    "wof:lastmodified":1563315090,
+    "wof:lastmodified":1566680640,
     "wof:name":"Metulla",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":31.92923,
     "geom:longitude":34.86563,
     "iso:country":"IL",
+    "lbl:bbox":"34.84563,31.90923,34.88563,31.94923",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -152,7 +155,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043c\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Er Ramle"
     ],
     "name:urd_x_preferred":[
@@ -301,7 +304,7 @@
     "wof:concordances":{
         "gn:id":293768,
         "gp:id":1968206,
-        "qs:id":273765,
+        "qs_pg:id":273765,
         "wd:id":"Q221447",
         "wk:page":"Ramla"
     },
@@ -318,7 +321,7 @@
         }
     ],
     "wof:id":421168691,
-    "wof:lastmodified":1563315041,
+    "wof:lastmodified":1566680626,
     "wof:name":"Ramla",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

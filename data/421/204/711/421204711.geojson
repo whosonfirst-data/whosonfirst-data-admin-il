@@ -10,8 +10,12 @@
     "geom:latitude":30.76895,
     "geom:longitude":35.27932,
     "iso:country":"IL",
+    "lbl:bbox":"35.25932,30.74895,35.29932,30.78895",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Chaceva"
@@ -33,9 +37,6 @@
     ],
     "name:pol_x_preferred":[
         "Hazeva"
-    ],
-    "name:unk_x_variant":[
-        "Hatzeva"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -67,7 +68,7 @@
     "wof:concordances":{
         "gn:id":294814,
         "gp:id":1967445,
-        "qs:id":245272,
+        "qs_pg:id":245272,
         "wd:id":"Q747107",
         "wk:page":"Hatzeva"
     },
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":421204711,
-    "wof:lastmodified":1561760020,
+    "wof:lastmodified":1566680639,
     "wof:name":"Hazeva",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

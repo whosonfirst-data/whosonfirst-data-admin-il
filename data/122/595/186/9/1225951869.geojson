@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"35.38809,33.03222,35.42809,33.07222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Dovev"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1225951869,
-    "wof:lastmodified":1564215533,
+    "wof:lastmodified":1566680703,
     "wof:name":"Dovev",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

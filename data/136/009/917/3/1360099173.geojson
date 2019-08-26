@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.63594,31.71606,34.67594,31.75606",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0639\u0632\u0631\u0627"
     ],
@@ -51,9 +55,7 @@
     ],
     "name:und_x_variant":[
         "Ashdod Alef",
-        "Ashdod",
-        "Bet \u2018Ezra",
-        "Bet Ezra"
+        "Ashdod"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":1360099173,
-    "wof:lastmodified":1564215472,
+    "wof:lastmodified":1566680618,
     "wof:name":"Bet `Ezra",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

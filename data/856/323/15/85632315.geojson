@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":30.895128,
     "lbl:longitude":34.874702,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":30.895128,
     "mps:longitude":34.874702,
     "mz:hierarchy_label":1,
@@ -907,15 +909,9 @@
     "name:ukr_x_preferred":[
         "\u0406\u0437\u0440\u0430\u0457\u043b\u044c"
     ],
-    "name:und_x_preferred":[
-        "Izrael",
-        "\u00cdsrael"
-    ],
     "name:und_x_variant":[
         "Yisra'el",
-        "Yisrael"
-    ],
-    "name:unk_x_variant":[
+        "Yisrael",
         "Dawlat Isr\u0101\u2019\u012bl"
     ],
     "name:urd_x_preferred":[
@@ -1082,7 +1078,6 @@
         "meso",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"972",
@@ -1132,7 +1127,7 @@
         "mzb:id":"israel",
         "ne:adm0_a3":"ISR",
         "nyt:id":"58448762103776010241",
-        "qs:id":203723,
+        "qs_pg:id":203723,
         "uncrt:id":"IL",
         "wd:id":"Q801",
         "wmo:id":"IS"
@@ -1156,7 +1151,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1565717112,
+    "wof:lastmodified":1566680570,
     "wof:name":"Israel",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

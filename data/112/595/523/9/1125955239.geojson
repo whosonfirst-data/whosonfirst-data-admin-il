@@ -9,16 +9,19 @@
     "geom:bbox":"34.7439554973,32.0341145193,34.8525453984,32.1461688898",
     "geom:latitude":32.085359,
     "geom:longitude":34.793443,
-    "gn:gn_country":"IL",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":250000,
+    "gn:country":"IL",
+    "gn:fcode":"PPLA",
+    "gn:population":250000,
     "iso:country":"IL",
     "lbl:latitude":32.066455,
     "lbl:longitude":34.783553,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":32.066455,
     "mps:longitude":34.783553,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Tel Aviv"
@@ -543,8 +546,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl:centroid":"qs_pg",
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"wikidata",
     "src:population_date":"2017",
     "woe:adm0_id":23424852,
@@ -577,7 +579,7 @@
         }
     ],
     "wof:id":1125955239,
-    "wof:lastmodified":1563315267,
+    "wof:lastmodified":1566680686,
     "wof:name":"Tel Aviv",
     "wof:parent_id":1108720837,
     "wof:placetype":"locality",

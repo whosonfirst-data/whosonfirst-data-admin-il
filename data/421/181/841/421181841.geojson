@@ -10,8 +10,12 @@
     "geom:latitude":31.6569,
     "geom:longitude":34.77693,
     "iso:country":"IL",
+    "lbl:bbox":"34.75693,31.6369,34.79693,31.6769",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Menucha"
@@ -34,7 +38,7 @@
     "name:pol_x_preferred":[
         "Menuha"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gat 3A"
     ],
     "qs:gn_country":"IL",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":294268,
         "gp:id":1967665,
-        "qs:id":506914,
+        "qs_pg:id":506914,
         "wd:id":"Q2888772",
         "wk:page":"Menuha"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421181841,
-    "wof:lastmodified":1561760027,
+    "wof:lastmodified":1566680654,
     "wof:name":"Menuha",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

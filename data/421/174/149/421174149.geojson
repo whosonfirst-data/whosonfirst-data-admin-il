@@ -10,8 +10,12 @@
     "geom:latitude":31.15264,
     "geom:longitude":35.36534,
     "iso:country":"IL",
+    "lbl:bbox":"35.34534,31.13264,35.38534,31.17264",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Neve Zohar"
@@ -60,7 +64,7 @@
     "name:spa_x_preferred":[
         "Neve Zohar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neveh-Zohar"
     ],
     "qs:gn_country":"IL",
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":294041,
         "gp:id":1967771,
-        "qs:id":317323,
+        "qs_pg:id":317323,
         "wd:id":"Q2975481",
         "wk:page":"Neve Zohar"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":421174149,
-    "wof:lastmodified":1563315112,
+    "wof:lastmodified":1566680645,
     "wof:name":"Newe Zohar",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

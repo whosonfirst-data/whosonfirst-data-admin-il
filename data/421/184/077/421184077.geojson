@@ -10,13 +10,16 @@
     "geom:latitude":32.27201,
     "geom:longitude":34.84379,
     "iso:country":"IL",
+    "lbl:bbox":"34.83879,32.26701,34.84879,32.27701",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:heb_x_preferred":[
         "\u05e8\u05de\u05ea \u05e4\u05d5\u05dc\u05d2"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ramat Poleg"
     ],
     "qs:gn_country":"IL",
@@ -39,17 +42,17 @@
     "qs:woe_id":22724621,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85672541,
         102191569,
         85632315,
         421182059,
-        1108720805,
-        85672541
+        1108720805
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8142265,
         "gp:id":22724621,
-        "qs:id":989428
+        "qs_pg:id":989428
     },
     "wof:country":"IL",
     "wof:created":1459009399,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":421184077,
-    "wof:lastmodified":1549930540,
+    "wof:lastmodified":1566680671,
     "wof:name":"Ramat Polin",
     "wof:parent_id":421182059,
     "wof:placetype":"neighbourhood",

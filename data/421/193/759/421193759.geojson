@@ -10,8 +10,12 @@
     "geom:latitude":31.922152,
     "geom:longitude":34.934794,
     "iso:country":"IL",
+    "lbl:bbox":"34.914794,31.902152,34.954794,31.942152",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Modi'in-Maccabim-Re'ut"
@@ -138,9 +142,11 @@
     "wof:concordances":{
         "gn:id":6693679,
         "gp:id":22722748,
-        "qs:id":1187401,
         "qs_pg:id":1038739,
         "wd:id":"Q165867"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1187401
     },
     "wof:country":"IL",
     "wof:created":1459009782,
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":421193759,
-    "wof:lastmodified":1563315069,
+    "wof:lastmodified":1566680634,
     "wof:name":"Ramat Modi'in",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

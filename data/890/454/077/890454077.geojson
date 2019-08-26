@@ -11,10 +11,14 @@
     "geom:longitude":34.81619,
     "gn:country":"IL",
     "gn:fcode":"PPL",
-    "gn:pop":6000,
+    "gn:population":6000,
     "iso:country":"IL",
+    "lbl:bbox":"34.79619,31.35284,34.83619,31.39284",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u0647\u0627\u0641\u064a\u0645"
     ],
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":6693244,
         "gp:id":22528391,
-        "qs:id":160969,
+        "qs_pg:id":160969,
         "wd:id":"Q1589806",
         "wk:page":"Lehavim"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890454077,
-    "wof:lastmodified":1563315262,
+    "wof:lastmodified":1566680685,
     "wof:name":"Lehavim",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

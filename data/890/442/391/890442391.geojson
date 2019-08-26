@@ -11,10 +11,14 @@
     "geom:longitude":35.32522,
     "gn:country":"IL",
     "gn:fcode":"PPL",
-    "gn:pop":40000,
+    "gn:population":40000,
     "iso:country":"IL",
+    "lbl:bbox":"35.30522,32.61323,35.34522,32.65323",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0641\u0648\u0644\u0629"
     ],
@@ -171,7 +175,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0444\u0443\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Upper Afula"
     ],
     "name:urd_x_preferred":[
@@ -204,7 +208,7 @@
     "wof:concordances":{
         "gn:id":295739,
         "gp:id":1968150,
-        "qs:id":547150,
+        "qs_pg:id":547150,
         "wd:id":"Q152462"
     },
     "wof:country":"IL",
@@ -220,7 +224,7 @@
         }
     ],
     "wof:id":890442391,
-    "wof:lastmodified":1563315264,
+    "wof:lastmodified":1566680685,
     "wof:name":"\u2018Afula \u2018Illit",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":32.62257,
     "geom:longitude":34.98302,
     "iso:country":"IL",
+    "lbl:bbox":"34.96302,32.60257,35.00302,32.64257",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "\u2018Ofer"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "\u2018Ofer"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ain Ghazil"
     ],
     "qs:gn_country":"IL",
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":293988,
         "gp:id":1967796,
-        "qs:id":894759,
+        "qs_pg:id":894759,
         "wd:id":"Q2777769",
         "wk:page":"Ofer"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421200791,
-    "wof:lastmodified":1563315197,
+    "wof:lastmodified":1566680667,
     "wof:name":"Ofer",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

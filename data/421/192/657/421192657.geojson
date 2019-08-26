@@ -10,8 +10,12 @@
     "geom:latitude":31.92933,
     "geom:longitude":34.79868,
     "iso:country":"IL",
+    "lbl:bbox":"34.77868,31.90933,34.81868,31.94933",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0646\u064a\u0633 \u0632\u064a\u0648\u0646\u0627"
@@ -106,7 +110,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0441-\u0426\u0456\u043e\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "W\u0101di Hunein"
     ],
     "name:urd_x_preferred":[
@@ -154,7 +158,7 @@
     "wof:concordances":{
         "gn:id":294074,
         "gp:id":1967746,
-        "qs:id":1170485,
+        "qs_pg:id":1170485,
         "wd:id":"Q168162",
         "wk:page":"Ness Ziona"
     },
@@ -171,7 +175,7 @@
         }
     ],
     "wof:id":421192657,
-    "wof:lastmodified":1563315053,
+    "wof:lastmodified":1566680629,
     "wof:name":"Nes Ziyyona",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

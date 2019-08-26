@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.67934,30.94409,34.71934,30.98409",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0634\u0627\u0644\u064a\u0645"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1293606631,
-    "wof:lastmodified":1564215405,
+    "wof:lastmodified":1566680575,
     "wof:name":"Ashalim",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

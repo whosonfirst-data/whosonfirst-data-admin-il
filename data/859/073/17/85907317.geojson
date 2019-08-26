@@ -14,6 +14,7 @@
     "iso:country":"IL",
     "lbl:latitude":32.110869,
     "lbl:longitude":34.833611,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.112232,
     "mps:longitude":34.834879,
     "mz:hierarchy_label":1,
@@ -57,9 +58,8 @@
     "name:pol_x_variant":[
         "Yisgav"
     ],
-    "name:unk_x_variant":[
-        "Misgav",
-        "Yisgav"
+    "name:und_x_variant":[
+        "Misgav"
     ],
     "qs:gn_adm0_cc":"IL",
     "qs:gn_fcode":"PPL",
@@ -86,7 +86,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85672549,
         102191569,
@@ -98,7 +98,7 @@
     "wof:concordances":{
         "gn:id":386235,
         "gp:id":22725159,
-        "qs:id":1086007,
+        "qs_pg:id":1086007,
         "wd:id":"Q2919254",
         "wk:page":"Misgav Regional Council"
     },
@@ -118,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563314939,
+    "wof:lastmodified":1566680562,
     "wof:name":"Yisgav",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

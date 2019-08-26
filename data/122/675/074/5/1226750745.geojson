@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.7008,31.79555,34.7408,31.83555",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:heb_x_preferred":[
         "Qevu\u1e95at Yavne"
     ],
@@ -35,7 +39,6 @@
         "Yavne",
         "Karem Yavne",
         "Yavneh",
-        "Qevu\u1e95at Yavne",
         "Kevutsat Yavne"
     ],
     "src:geom":"geonames",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1226750745,
-    "wof:lastmodified":1549930488,
+    "wof:lastmodified":1566680703,
     "wof:name":"Qevuzat Yavne",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

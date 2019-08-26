@@ -10,8 +10,12 @@
     "geom:latitude":33.08142,
     "geom:longitude":35.51738,
     "iso:country":"IL",
+    "lbl:bbox":"35.49738,33.06142,35.53738,33.10142",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062f\u064a\u0634\u0648\u0646"
@@ -31,7 +35,7 @@
     "name:pol_x_preferred":[
         "Diszon"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dayshum"
     ],
     "qs:gn_country":"IL",
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":295324,
         "gp:id":1967242,
-        "qs:id":1076678,
+        "qs_pg:id":1076678,
         "wd:id":"Q2888945"
     },
     "wof:country":"IL",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421186891,
-    "wof:lastmodified":1563315143,
+    "wof:lastmodified":1566680654,
     "wof:name":"Dishon",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":31.913354,
     "lbl:longitude":34.855726,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Center",
     "meso:name_loc":"\u05de\u05e8\u05db\u05d6",
     "mps:latitude":31.913354,
@@ -215,7 +216,7 @@
         "Centrala distriktet"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c02\u0c1f\u0c4d\u0c30\u0c32\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -231,9 +232,7 @@
     ],
     "name:und_x_variant":[
         "\u05de\u05e8\u05db\u05d6",
-        "Center"
-    ],
-    "name:unk_x_variant":[
+        "Center",
         "Central Region"
     ],
     "name:urd_x_preferred":[
@@ -267,10 +266,9 @@
         "meso"
     ],
     "src:geom_via":"meso",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-12-27",
+    "src:population_date":"2008-12-27",
     "statoids:area_km":"1,242",
     "statoids:area_mi":"480",
     "statoids:as_of_date":"2008-12-27",
@@ -295,7 +293,7 @@
         "gp:id":2345792,
         "hasc:id":"IL.HM",
         "iso:id":"IL-M",
-        "qs:id":1168667,
+        "qs_pg:id":1168667,
         "unlc:id":"IL-M",
         "wd:id":"Q188785",
         "wk:page":"Central District (Israel)"
@@ -318,7 +316,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1565717111,
+    "wof:lastmodified":1566680569,
     "wof:name":"Central",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

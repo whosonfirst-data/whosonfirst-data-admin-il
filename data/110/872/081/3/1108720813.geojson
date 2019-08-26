@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":31.876819,
     "lbl:longitude":34.769261,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Center",
     "meso:adm1_loc":"\u05de\u05e8\u05db\u05d6",
     "meso:hasc_id":"IL.HM.RH",
@@ -31,6 +33,7 @@
     "mps:longitude":34.769261,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Rehovot"
     ],
@@ -142,9 +145,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0445\u043e\u0432\u043e\u0442"
     ],
-    "name:und_x_variant":[
-        "\u05e8\u05d7\u05d5\u05d1\u05d5\u05ea"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u062d\u0648\u0648\u0648\u062a"
     ],
@@ -165,10 +165,9 @@
         "meso"
     ],
     "src:geom_via":"meso",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1997-12-31",
+    "src:population_date":"1997-12-31",
     "statoids:area_km":"",
     "statoids:as_of_date":"1997-12-31",
     "statoids:capital":"",
@@ -200,7 +199,7 @@
         }
     ],
     "wof:id":1108720813,
-    "wof:lastmodified":1564215461,
+    "wof:lastmodified":1566680612,
     "wof:name":"Rehovot",
     "wof:parent_id":85672541,
     "wof:placetype":"county",

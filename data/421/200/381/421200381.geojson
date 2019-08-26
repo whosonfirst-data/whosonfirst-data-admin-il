@@ -10,8 +10,12 @@
     "geom:latitude":32.77732,
     "geom:longitude":35.22069,
     "iso:country":"IL",
+    "lbl:bbox":"35.20069,32.75732,35.24069,32.79732",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0626\u0631 \u0627\u0644\u0645\u0643\u0633\u0648\u0631"
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":295404,
         "gp:id":1967215,
-        "qs:id":1301579,
+        "qs_pg:id":1301579,
         "wd:id":"Q2467031"
     },
     "wof:country":"IL",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421200381,
-    "wof:lastmodified":1561760033,
+    "wof:lastmodified":1566680669,
     "wof:name":"Bir el Maksur",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

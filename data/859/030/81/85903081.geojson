@@ -11,8 +11,10 @@
     "geom:longitude":34.979522,
     "gn:id":"",
     "iso:country":"IL",
+    "lbl:bbox":"34.974522,32.772223,34.984522,32.782223",
     "lbl:latitude":32.777223,
     "lbl:longitude":34.979522,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.770898,
     "mps:longitude":34.973373,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
         "Ahuzat Sir Herbert Samuel",
         "Ahuzza",
         "Ahuzzat Sir Herbert Samuel"
-    ],
-    "name:unk_x_variant":[
-        "Ah\u0331uzzat Shemu\u2019el"
     ],
     "qs:gn_adm0_cc":"IL",
     "qs:gn_id":0,
@@ -67,18 +66,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85672535,
         102191569,
         85632315,
         421168693,
-        1108720835,
-        85672535
+        1108720835
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1967082,
-        "qs:id":221581
+        "qs_pg:id":221581
     },
     "wof:country":"IL",
     "wof:geomhash":"ab4ac2895f321a1a184aab7cf000dbf2",
@@ -96,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930536,
+    "wof:lastmodified":1566680561,
     "wof:name":"Ah\u0331uzzat Shemu\u2019el",
     "wof:parent_id":421168693,
     "wof:placetype":"neighbourhood",

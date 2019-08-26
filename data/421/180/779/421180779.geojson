@@ -10,8 +10,12 @@
     "geom:latitude":32.70356,
     "geom:longitude":35.50662,
     "iso:country":"IL",
+    "lbl:bbox":"35.48662,32.68356,35.52662,32.72356",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u064a\u0641\u0646\u064a\u0626\u064a\u0644"
@@ -57,7 +61,7 @@
     "name:swe_x_preferred":[
         "Yavne'el"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kefar Yamma"
     ],
     "name:urd_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":293220,
         "gp:id":1968082,
-        "qs:id":460395,
+        "qs_pg:id":460395,
         "wd:id":"Q1676894",
         "wk:page":"Yavne'el"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421180779,
-    "wof:lastmodified":1563315116,
+    "wof:lastmodified":1566680646,
     "wof:name":"Yavne'el",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

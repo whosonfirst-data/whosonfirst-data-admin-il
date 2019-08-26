@@ -10,8 +10,12 @@
     "geom:latitude":32.13932,
     "geom:longitude":34.94695,
     "iso:country":"IL",
+    "lbl:bbox":"34.92695,32.11932,34.96695,32.15932",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Chagor"
@@ -37,7 +41,7 @@
     "name:spa_x_preferred":[
         "Hagor"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "H\u0331agor"
     ],
     "name:vie_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":294928,
         "gp:id":1967424,
-        "qs:id":1247880,
+        "qs_pg:id":1247880,
         "wd:id":"Q2916763",
         "wk:page":"Hagor"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421169397,
-    "wof:lastmodified":1563315073,
+    "wof:lastmodified":1566680635,
     "wof:name":"Hagor",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

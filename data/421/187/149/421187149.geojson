@@ -10,8 +10,12 @@
     "geom:latitude":32.9878,
     "geom:longitude":35.44087,
     "iso:country":"IL",
+    "lbl:bbox":"35.42087,32.9678,35.46087,33.0078",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Merom"
@@ -46,7 +50,7 @@
     "name:spa_x_preferred":[
         "Mer\u00f3n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Meiron"
     ],
     "name:yid_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":294258,
         "gp:id":1968188,
-        "qs:id":1081083,
+        "qs_pg:id":1081083,
         "wd:id":"Q600912",
         "wk:page":"Meron, Israel"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421187149,
-    "wof:lastmodified":1563315127,
+    "wof:lastmodified":1566680649,
     "wof:name":"Meron",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

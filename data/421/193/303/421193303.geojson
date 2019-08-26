@@ -10,8 +10,12 @@
     "geom:latitude":32.46323,
     "geom:longitude":35.00687,
     "iso:country":"IL",
+    "lbl:bbox":"34.98687,32.44323,35.02687,32.48323",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Ejn \u0160emer"
@@ -46,7 +50,7 @@
     "name:rus_x_preferred":[
         "\u042d\u0439\u043d-\u0428\u0435\u043c\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u2018Ein Shemer"
     ],
     "qs:gn_country":"IL",
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":295184,
         "gp:id":1967296,
-        "qs:id":885784,
+        "qs_pg:id":885784,
         "wd:id":"Q166865",
         "wk:page":"Ein Shemer"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421193303,
-    "wof:lastmodified":1563315068,
+    "wof:lastmodified":1566680634,
     "wof:name":"En Shemer",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

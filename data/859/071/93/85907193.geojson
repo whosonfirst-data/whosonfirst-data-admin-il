@@ -13,6 +13,7 @@
     "iso:country":"IL",
     "lbl:latitude":31.780552,
     "lbl:longitude":35.221402,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.780731,
     "mps:longitude":35.222186,
     "mz:hierarchy_label":1,
@@ -54,9 +55,6 @@
     "name:spa_x_preferred":[
         "Mamilla"
     ],
-    "name:unk_x_variant":[
-        "Mamila"
-    ],
     "name:yid_x_preferred":[
         "\u05de\u05de\u05d9\u05dc\u05d0"
     ],
@@ -87,7 +85,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1987,
     "wof:belongsto":[
         85672551,
@@ -99,7 +97,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724673,
-        "qs:id":890610,
+        "qs_pg:id":890610,
         "wd:id":"Q2915238"
     },
     "wof:country":"IL",
@@ -118,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563314928,
+    "wof:lastmodified":1566680557,
     "wof:name":"Mamila",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

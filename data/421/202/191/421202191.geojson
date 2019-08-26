@@ -10,8 +10,12 @@
     "geom:latitude":31.94504,
     "geom:longitude":34.77542,
     "iso:country":"IL",
+    "lbl:bbox":"34.75542,31.92504,34.79542,31.96504",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Neta'jim"
@@ -28,7 +32,7 @@
     "name:pol_x_preferred":[
         "Neta'im"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Irgun Hawetiqim"
     ],
     "qs:gn_country":"IL",
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":294072,
         "gp:id":1967748,
-        "qs:id":8123,
+        "qs_pg:id":8123,
         "wd:id":"Q2890382"
     },
     "wof:country":"IL",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421202191,
-    "wof:lastmodified":1561760022,
+    "wof:lastmodified":1566680642,
     "wof:name":"Netaim",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":32.73016,
     "geom:longitude":35.17138,
     "iso:country":"IL",
+    "lbl:bbox":"35.15138,32.71016,35.19138,32.75016",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Alonej Abba"
@@ -45,7 +49,7 @@
     "name:rus_x_preferred":[
         "\u0410\u043b\u043e\u043d\u0435\u0439-\u0410\u0431\u0431\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Waldheim"
     ],
     "qs:gn_country":"IL",
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":295716,
         "gp:id":1967086,
-        "qs:id":460335,
+        "qs_pg:id":460335,
         "wd:id":"Q2839248",
         "wk:page":"Alonei Abba"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421180775,
-    "wof:lastmodified":1563315118,
+    "wof:lastmodified":1566680646,
     "wof:name":"Allone Abba",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

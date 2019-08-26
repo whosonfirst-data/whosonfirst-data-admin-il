@@ -10,8 +10,12 @@
     "geom:latitude":32.16831,
     "geom:longitude":34.87537,
     "iso:country":"IL",
+    "lbl:bbox":"34.85537,32.14831,34.89537,32.18831",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Giv'at Chen"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":294994,
         "gp:id":1967383,
-        "qs:id":246581,
+        "qs_pg:id":246581,
         "wd:id":"Q2920459"
     },
     "wof:country":"IL",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421204741,
-    "wof:lastmodified":1561760020,
+    "wof:lastmodified":1566680638,
     "wof:name":"Givat Hen",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

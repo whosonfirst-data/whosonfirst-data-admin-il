@@ -10,8 +10,12 @@
     "geom:latitude":31.32567,
     "geom:longitude":34.69744,
     "iso:country":"IL",
+    "lbl:bbox":"34.67744,31.30567,34.71744,31.34567",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "E\u0161el ha-Nasi"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":295168,
         "gp:id":1967310,
-        "qs:id":40597,
+        "qs_pg:id":40597,
         "wd:id":"Q2889072",
         "wk:page":"Eshel HaNasi"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421189339,
-    "wof:lastmodified":1561760025,
+    "wof:lastmodified":1566680649,
     "wof:name":"Eshel HaNasi",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

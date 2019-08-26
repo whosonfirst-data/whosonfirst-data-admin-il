@@ -10,8 +10,12 @@
     "geom:latitude":32.72082,
     "geom:longitude":35.1445,
     "iso:country":"IL",
+    "lbl:bbox":"35.1245,32.70082,35.1645,32.74082",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Alonim"
@@ -43,9 +47,6 @@
     "name:rus_x_preferred":[
         "\u0410\u043b\u043e\u043d\u0438\u043c"
     ],
-    "name:unk_x_variant":[
-        "Alonim"
-    ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":295714,
@@ -76,7 +77,7 @@
     "wof:concordances":{
         "gn:id":295714,
         "gp:id":1967088,
-        "qs:id":1167553,
+        "qs_pg:id":1167553,
         "wd:id":"Q2670809",
         "wk:page":"Alonim"
     },
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":421192327,
-    "wof:lastmodified":1563315060,
+    "wof:lastmodified":1566680631,
     "wof:name":"Allonim",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

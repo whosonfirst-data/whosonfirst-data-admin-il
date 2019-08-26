@@ -12,6 +12,8 @@
     "iso:country":"IL",
     "lbl:latitude":31.257023,
     "lbl:longitude":34.785262,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":31.257023,
     "mps:longitude":34.785262,
     "mz:hierarchy_label":1,
@@ -265,7 +267,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0435\u0440-\u0428\u0435\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Be'er Sheva`"
     ],
     "name:urd_x_preferred":[
@@ -420,7 +422,7 @@
     "wof:concordances":{
         "gn:id":295530,
         "gp:id":1967144,
-        "qs:id":8064,
+        "qs_pg:id":8064,
         "wd:id":"Q41843",
         "wk:page":"Beersheba"
     },
@@ -437,7 +439,7 @@
         }
     ],
     "wof:id":421202181,
-    "wof:lastmodified":1563315099,
+    "wof:lastmodified":1566680641,
     "wof:name":"Beersheba",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

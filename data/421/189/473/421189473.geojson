@@ -10,8 +10,12 @@
     "geom:latitude":32.68656,
     "geom:longitude":35.42118,
     "iso:country":"IL",
+    "lbl:bbox":"35.40118,32.66656,35.44118,32.70656",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0641\u0627\u0631 \u062a\u0627\u0641\u0648\u0631"
@@ -58,7 +62,7 @@
     "name:swe_x_preferred":[
         "Kefar Tavor"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mas-ha"
     ],
     "name:yid_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":294502,
         "gp:id":1967573,
-        "qs:id":46089,
+        "qs_pg:id":46089,
         "wd:id":"Q1186956",
         "wk:page":"Kfar Tavor"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421189473,
-    "wof:lastmodified":1563315133,
+    "wof:lastmodified":1566680650,
     "wof:name":"Kefar Tavor",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

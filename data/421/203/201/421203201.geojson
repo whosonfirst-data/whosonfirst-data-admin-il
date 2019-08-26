@@ -10,8 +10,12 @@
     "geom:latitude":33.04134,
     "geom:longitude":35.35858,
     "iso:country":"IL",
+    "lbl:bbox":"35.33858,33.02134,35.37858,33.06134",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Matat"
@@ -29,9 +33,6 @@
         "Mattat"
     ],
     "name:pol_x_preferred":[
-        "Mattat"
-    ],
-    "name:unk_x_variant":[
         "Mattat"
     ],
     "qs:gn_country":"IL",
@@ -64,7 +65,7 @@
     "wof:concordances":{
         "gn:id":8309794,
         "gp:id":22528337,
-        "qs:id":55219,
+        "qs_pg:id":55219,
         "wd:id":"Q659971",
         "wk:page":"Mattat"
     },
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":421203201,
-    "wof:lastmodified":1561760021,
+    "wof:lastmodified":1566680640,
     "wof:name":"Matat",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

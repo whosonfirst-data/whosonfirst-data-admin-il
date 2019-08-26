@@ -10,8 +10,12 @@
     "geom:latitude":32.51888,
     "geom:longitude":34.90459,
     "iso:country":"IL",
+    "lbl:bbox":"34.88459,32.49888,34.92459,32.53888",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:als_x_preferred":[
         "Caesarea"
@@ -109,7 +113,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0441\u0430\u0440\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kaysaria"
     ],
     "name:urd_x_preferred":[
@@ -152,7 +156,7 @@
     "wof:concordances":{
         "gn:id":7117228,
         "gp:id":1967943,
-        "qs:id":433635,
+        "qs_pg:id":433635,
         "wd:id":"Q1615560",
         "wk:page":"Caesarea"
     },
@@ -169,7 +173,7 @@
         }
     ],
     "wof:id":421177681,
-    "wof:lastmodified":1563315221,
+    "wof:lastmodified":1566680674,
     "wof:name":"Caesarea",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

@@ -10,8 +10,11 @@
     "geom:latitude":31.791462,
     "geom:longitude":35.213423,
     "iso:country":"IL",
+    "lbl:bbox":"35.208423,31.786462,35.218423,31.796462",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Zichron Mo\u0161e"
@@ -67,7 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724666,
-        "qs:id":14511,
+        "qs_pg:id":14511,
         "wd:id":"Q2778223"
     },
     "wof:country":"IL",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421191271,
-    "wof:lastmodified":1563315168,
+    "wof:lastmodified":1566680661,
     "wof:name":"Zikhron Moshe",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

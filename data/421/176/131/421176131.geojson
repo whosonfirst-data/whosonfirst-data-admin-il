@@ -10,8 +10,12 @@
     "geom:latitude":33.08746,
     "geom:longitude":35.17364,
     "iso:country":"IL",
+    "lbl:bbox":"35.15364,33.06746,35.19364,33.10746",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062d\u0646\u064a\u062a\u0627"
@@ -49,7 +53,7 @@
     "name:swe_x_preferred":[
         "H\u0331anita"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Han\u016bta"
     ],
     "name:zho_x_preferred":[
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":294884,
         "gp:id":1967428,
-        "qs:id":1044620,
+        "qs_pg:id":1044620,
         "wd:id":"Q2890402",
         "wk:page":"Hanita"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421176131,
-    "wof:lastmodified":1563315246,
+    "wof:lastmodified":1566680680,
     "wof:name":"Hanita",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

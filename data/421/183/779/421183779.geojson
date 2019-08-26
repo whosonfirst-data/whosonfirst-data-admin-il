@@ -10,8 +10,12 @@
     "geom:latitude":32.79961,
     "geom:longitude":35.50276,
     "iso:country":"IL",
+    "lbl:bbox":"35.48276,32.77961,35.52276,32.81961",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062d\u0637\u064a\u0646"
@@ -56,7 +60,7 @@
     "name:tur_x_preferred":[
         "H\u0131ttin"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kefar Hitim"
     ],
     "qs:gn_country":"IL",
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":294532,
         "gp:id":1967549,
-        "qs:id":984008,
+        "qs_pg:id":984008,
         "wd:id":"Q1246960",
         "wk:page":"Hittin"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421183779,
-    "wof:lastmodified":1563315229,
+    "wof:lastmodified":1566680676,
     "wof:name":"Kefar Hittim",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

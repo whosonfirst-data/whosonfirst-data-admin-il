@@ -10,8 +10,12 @@
     "geom:latitude":31.98775,
     "geom:longitude":34.88026,
     "iso:country":"IL",
+    "lbl:bbox":"34.86026,31.96775,34.90026,32.00775",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Jagel"
@@ -34,7 +38,7 @@
     "name:pol_x_variant":[
         "Jagel"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lydda Bet"
     ],
     "qs:gn_country":"IL",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":293249,
         "gp:id":1968069,
-        "qs:id":979707,
+        "qs_pg:id":979707,
         "wd:id":"Q2778126",
         "wk:page":"Yagel"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421183523,
-    "wof:lastmodified":1563315231,
+    "wof:lastmodified":1566680676,
     "wof:name":"Yagel",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

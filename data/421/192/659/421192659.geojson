@@ -10,8 +10,12 @@
     "geom:latitude":31.26489,
     "geom:longitude":34.84766,
     "iso:country":"IL",
+    "lbl:bbox":"34.82766,31.24489,34.86766,31.28489",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0639\u0648\u0645\u0631"
@@ -58,7 +62,7 @@
     "name:rus_x_preferred":[
         "\u041e\u043c\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ayaltah"
     ],
     "qs:gn_country":"IL",
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":293982,
         "gp:id":1967799,
-        "qs:id":1170489,
+        "qs_pg:id":1170489,
         "wd:id":"Q1968636"
     },
     "wof:country":"IL",
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":421192659,
-    "wof:lastmodified":1563315052,
+    "wof:lastmodified":1566680629,
     "wof:name":"Omer",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

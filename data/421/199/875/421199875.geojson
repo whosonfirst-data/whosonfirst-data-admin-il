@@ -10,8 +10,12 @@
     "geom:latitude":32.90459,
     "geom:longitude":35.57151,
     "iso:country":"IL",
+    "lbl:bbox":"35.55151,32.88459,35.59151,32.92459",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Amnun"
@@ -36,9 +40,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u043c\u043d\u0443\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Amnun"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -70,7 +71,7 @@
     "wof:concordances":{
         "gn:id":8140364,
         "gp:id":22528336,
-        "qs:id":505290,
+        "qs_pg:id":505290,
         "wd:id":"Q2889113",
         "wk:page":"Amnun"
     },
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":421199875,
-    "wof:lastmodified":1563315183,
+    "wof:lastmodified":1566680665,
     "wof:name":"Amnon",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

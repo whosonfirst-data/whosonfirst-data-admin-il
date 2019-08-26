@@ -10,8 +10,12 @@
     "geom:latitude":32.72417,
     "geom:longitude":35.62167,
     "iso:country":"IL",
+    "lbl:bbox":"35.60167,32.70417,35.64167,32.74417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0645\u0631\u0629"
@@ -34,7 +38,7 @@
     "name:pol_x_preferred":[
         "HaOn"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Samra"
     ],
     "qs:gn_country":"IL",
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":294877,
         "gp:id":1967412,
-        "qs:id":411041,
+        "qs_pg:id":411041,
         "wd:id":"Q2889225",
         "wk:page":"HaOn"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":421177281,
-    "wof:lastmodified":1561760035,
+    "wof:lastmodified":1566680674,
     "wof:name":"HaOn",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

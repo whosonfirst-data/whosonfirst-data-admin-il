@@ -10,8 +10,12 @@
     "geom:latitude":32.93773,
     "geom:longitude":35.45302,
     "iso:country":"IL",
+    "lbl:bbox":"35.43302,32.91773,35.47302,32.95773",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Amirim"
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":295702,
         "gp:id":1967095,
-        "qs:id":273287,
+        "qs_pg:id":273287,
         "wd:id":"Q2413397",
         "wk:page":"Amirim"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421171919,
-    "wof:lastmodified":1561760038,
+    "wof:lastmodified":1566680682,
     "wof:name":"Amirim",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

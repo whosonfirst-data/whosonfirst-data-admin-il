@@ -10,8 +10,11 @@
     "geom:latitude":31.772761,
     "geom:longitude":35.184059,
     "iso:country":"IL",
+    "lbl:bbox":"35.179059,31.767761,35.189059,31.777761",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Bajit va-Gan"
@@ -64,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724680,
-        "qs:id":233473,
+        "qs_pg:id":233473,
         "wd:id":"Q2918524"
     },
     "wof:country":"IL",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421170265,
-    "wof:lastmodified":1563315218,
+    "wof:lastmodified":1566680673,
     "wof:name":"Bayit Va-gan",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

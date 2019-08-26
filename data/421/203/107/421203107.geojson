@@ -10,8 +10,12 @@
     "geom:latitude":32.51769,
     "geom:longitude":35.43015,
     "iso:country":"IL",
+    "lbl:bbox":"35.41015,32.49769,35.45015,32.53769",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Bejt Alfa"
@@ -55,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0439\u0442-\u0410\u043b\u044c\u0444\u0430"
     ],
-    "name:unk_x_variant":[
-        "Beit Alfa"
-    ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":295484,
@@ -88,7 +89,7 @@
     "wof:concordances":{
         "gn:id":295484,
         "gp:id":1937291,
-        "qs:id":229292,
+        "qs_pg:id":229292,
         "wd:id":"Q2900562",
         "wk:page":"Beit Alfa"
     },
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":421203107,
-    "wof:lastmodified":1563315090,
+    "wof:lastmodified":1566680640,
     "wof:name":"Beit Jala",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

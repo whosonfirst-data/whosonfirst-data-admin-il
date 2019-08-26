@@ -10,8 +10,12 @@
     "geom:latitude":31.6881,
     "geom:longitude":34.6378,
     "iso:country":"IL",
+    "lbl:bbox":"34.6178,31.6681,34.6578,31.7081",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Nir Jisra'el"
@@ -34,7 +38,7 @@
     "name:pol_x_variant":[
         "Nir Isra'el"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gealya"
     ],
     "qs:gn_country":"IL",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":294023,
         "gp:id":22528376,
-        "qs:id":1263390,
+        "qs_pg:id":1263390,
         "wd:id":"Q2778071"
     },
     "wof:country":"IL",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421182647,
-    "wof:lastmodified":1563315241,
+    "wof:lastmodified":1566680679,
     "wof:name":"Nir Israel",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

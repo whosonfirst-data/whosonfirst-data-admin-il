@@ -12,6 +12,7 @@
     "iso:country":"IL",
     "lbl:latitude":32.090161,
     "lbl:longitude":34.848668,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.088392,
     "mps:longitude":34.843316,
     "mz:hierarchy_label":1,
@@ -24,9 +25,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
-        "Shikun He"
-    ],
-    "name:unk_x_variant":[
         "Shikun He"
     ],
     "qs:gn_adm0_cc":"IL",
@@ -54,13 +52,13 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85672541,
         102191569,
         85632315,
         421202049,
-        1108720821,
-        85672541
+        1108720821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930542,
+    "wof:lastmodified":1566680562,
     "wof:name":"Shikun He",
     "wof:parent_id":421202049,
     "wof:placetype":"neighbourhood",

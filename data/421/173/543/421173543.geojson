@@ -10,8 +10,12 @@
     "geom:latitude":33.00514,
     "geom:longitude":35.44691,
     "iso:country":"IL",
+    "lbl:bbox":"35.42691,32.98514,35.46691,33.02514",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Or ha-Ganuz"
@@ -32,9 +36,6 @@
         "Or ha-Ganuz"
     ],
     "name:pol_x_variant":[
-        "Or HaGanuz"
-    ],
-    "name:unk_x_variant":[
         "Or HaGanuz"
     ],
     "name:yid_x_preferred":[
@@ -70,7 +71,7 @@
     "wof:concordances":{
         "gn:id":8134533,
         "gp:id":22528338,
-        "qs:id":290595,
+        "qs_pg:id":290595,
         "wd:id":"Q2919917",
         "wk:page":"Or HaGanuz"
     },
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":421173543,
-    "wof:lastmodified":1563315128,
+    "wof:lastmodified":1566680649,
     "wof:name":"Or Haganouz",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

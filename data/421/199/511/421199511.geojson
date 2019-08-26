@@ -10,8 +10,12 @@
     "geom:latitude":31.65397,
     "geom:longitude":34.70452,
     "iso:country":"IL",
+    "lbl:bbox":"34.68452,31.63397,34.72452,31.67397",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0639\u0648\u062a\u0633\u0645"
@@ -34,7 +38,7 @@
     "name:pol_x_preferred":[
         "Ozem"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "O\u1e95em"
     ],
     "qs:gn_country":"IL",
@@ -66,7 +70,7 @@
     "wof:concordances":{
         "gn:id":293257,
         "gp:id":1968064,
-        "qs:id":193975,
+        "qs_pg:id":193975,
         "wd:id":"Q2889057",
         "wk:page":"Otzem"
     },
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421199511,
-    "wof:lastmodified":1563315189,
+    "wof:lastmodified":1566680666,
     "wof:name":"Yad Natan",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

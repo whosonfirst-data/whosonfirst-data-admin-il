@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"35.22093,32.86943,35.26093,32.90943",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:heb_x_preferred":[
         "Sha\u2018av"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1310417611,
-    "wof:lastmodified":1549930428,
+    "wof:lastmodified":1566680613,
     "wof:name":"Sha`av",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

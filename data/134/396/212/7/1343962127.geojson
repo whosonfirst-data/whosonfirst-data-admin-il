@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.33743,31.21739,34.37743,31.25739",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Nir Jicchak"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1343962127,
-    "wof:lastmodified":1564215372,
+    "wof:lastmodified":1566680550,
     "wof:name":"Nir Yizhaq",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

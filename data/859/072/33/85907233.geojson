@@ -14,6 +14,7 @@
     "iso:country":"IL",
     "lbl:latitude":31.761619,
     "lbl:longitude":35.181655,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.764184,
     "mps:longitude":35.186477,
     "mz:hierarchy_label":1,
@@ -34,9 +35,6 @@
     "name:heb_x_variant":[
         "\u05d2\u05d1\u05e2\u05ea \u05e9\u05e8\u05ea",
         "Giv\u2019at Sharet"
-    ],
-    "name:unk_x_variant":[
-        "Ramat Sharet"
     ],
     "qs:gn_adm0_cc":"IL",
     "qs:gn_fcode":"PPLX",
@@ -65,19 +63,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8183477,
         "gp:id":22724708,
-        "qs:id":1182151,
         "qs_pg:id":1182151
     },
     "wof:country":"IL",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930546,
+    "wof:lastmodified":1566680564,
     "wof:name":"Ramat Sharet",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

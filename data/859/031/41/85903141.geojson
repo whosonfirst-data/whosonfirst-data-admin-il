@@ -9,14 +9,16 @@
     "geom:bbox":"35.005777,32.815514,35.005777,32.815514",
     "geom:latitude":32.815514,
     "geom:longitude":35.005777,
-    "gn:gn_country":"IL",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"IL",
+    "gn:fcode":"PPLX",
     "gn:latitude":32.79395,
     "gn:longitude":34.99715,
+    "gn:population":0,
     "iso:country":"IL",
+    "lbl:bbox":"35.000777,32.810514,35.010777,32.820514",
     "lbl:latitude":32.815514,
     "lbl:longitude":35.005777,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.812432,
     "mps:longitude":35.027747,
     "mz:hierarchy_label":0,
@@ -47,10 +49,6 @@
     ],
     "name:spa_x_preferred":[
         "Vardia"
-    ],
-    "name:unk_x_variant":[
-        "El Wardiye",
-        "Wardiya"
     ],
     "qs:gn_adm0_cc":"IL",
     "qs:gn_fcode":"PPLX",
@@ -99,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":129,
     "wof:belongsto":[
         85672535,
@@ -112,7 +110,6 @@
     "wof:concordances":{
         "gn:id":293271,
         "gp:id":1968056,
-        "qs:id":1028755,
         "qs_pg:id":1028755,
         "wd:id":"Q3488200"
     },
@@ -132,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563314935,
+    "wof:lastmodified":1566680560,
     "wof:name":"Wardiya",
     "wof:parent_id":421168693,
     "wof:placetype":"neighbourhood",

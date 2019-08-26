@@ -12,6 +12,7 @@
     "iso:country":"IL",
     "lbl:latitude":31.78293,
     "lbl:longitude":35.201465,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.78305,
     "mps:longitude":35.199542,
     "mz:hierarchy_label":1,
@@ -56,10 +57,6 @@
     "name:spa_x_preferred":[
         "Kiryat Moshe"
     ],
-    "name:unk_x_variant":[
-        "Kiriat Moshe",
-        "Qiryat Moshe"
-    ],
     "name:yid_x_preferred":[
         "\u05e7\u05e8\u05d9\u05ea \u05de\u05e9\u05d4"
     ],
@@ -92,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":225,
     "wof:belongsto":[
         85672551,
@@ -105,7 +102,6 @@
     "wof:concordances":{
         "gn:id":281177,
         "gp:id":1967849,
-        "qs:id":232230,
         "qs_pg:id":232230,
         "wd:id":"Q2916142",
         "wk:page":"Kiryat Moshe"
@@ -126,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563314933,
+    "wof:lastmodified":1566680560,
     "wof:name":"Qiryat Moshe",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

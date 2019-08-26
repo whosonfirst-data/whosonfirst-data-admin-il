@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.55817,31.60207,34.59817,31.64207",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Mavki'im"
     ],
@@ -44,8 +48,7 @@
         "Barbarah",
         "Maveqi\u2018im",
         "Barbara",
-        "Barbarit",
-        "Mavqi\u2018im"
+        "Barbarit"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1226446671,
-    "wof:lastmodified":1564215535,
+    "wof:lastmodified":1566680704,
     "wof:name":"Mavqi`im",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

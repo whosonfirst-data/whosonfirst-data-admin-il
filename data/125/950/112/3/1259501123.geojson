@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.57661,31.62773,34.61661,31.66773",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Bat Hadar"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:pol_x_preferred":[
         "Bat Hadar"
-    ],
-    "name:und_x_variant":[
-        "\u05d1\u05ea \u05d4\u05d3\u05e8"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1259501123,
-    "wof:lastmodified":1564215528,
+    "wof:lastmodified":1566680700,
     "wof:name":"Bat Hadar",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

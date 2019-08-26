@@ -9,14 +9,15 @@
     "geom:bbox":"34.7937011719,32.0639555868,34.8059446722,32.0738420225",
     "geom:latitude":32.068203,
     "geom:longitude":34.800196,
-    "gn:gn_country":"IL",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"IL",
+    "gn:fcode":"PPLX",
     "gn:latitude":32.07736,
     "gn:longitude":34.79864,
+    "gn:population":0,
     "iso:country":"IL",
     "lbl:latitude":32.074771,
     "lbl:longitude":34.798988,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.067911,
     "mps:longitude":34.800808,
     "mz:hierarchy_label":1,
@@ -47,10 +48,6 @@
     ],
     "name:heb_x_variant":[
         "Na\u1e96alat Yits\u1e96ak"
-    ],
-    "name:unk_x_variant":[
-        "Nah\u0331alat Yi\u1e95h\u0331aq",
-        "Na\u1e25alat Yits\u1e25aq"
     ],
     "qs:gn_adm0_cc":"IL",
     "qs:gn_fcode":"PPLX",
@@ -97,19 +94,18 @@
     "qs_pg:woe_id":1967728,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85672549,
         102191569,
         85632315,
         1125955239,
-        1108720837,
-        85672549
+        1108720837
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":294124,
         "gp:id":1967728,
-        "qs:id":267712,
         "qs_pg:id":267712
     },
     "wof:country":"IL",
@@ -128,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930539,
+    "wof:lastmodified":1566680561,
     "wof:name":"Nah\u0331alat Yi\u1e95h\u0331aq",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

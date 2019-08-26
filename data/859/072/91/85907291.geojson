@@ -13,6 +13,7 @@
     "iso:country":"IL",
     "lbl:latitude":32.050634,
     "lbl:longitude":34.759674,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.050571,
     "mps:longitude":34.760508,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Jaffa Center"
-    ],
-    "name:unk_x_variant":[
         "Jaffa Center"
     ],
     "qs:gn_adm0_cc":"IL",
@@ -56,19 +54,19 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":251,
     "wof:belongsto":[
+        85672549,
         102191569,
         85632315,
         1125955239,
-        1108720837,
-        85672549
+        1108720837
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725131,
-        "qs:id":249671
+        "qs_pg:id":249671
     },
     "wof:country":"IL",
     "wof:geomhash":"d71a20d4c89ba218de2721dc97aa111e",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930548,
+    "wof:lastmodified":1566680566,
     "wof:name":"Jaffa Center",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

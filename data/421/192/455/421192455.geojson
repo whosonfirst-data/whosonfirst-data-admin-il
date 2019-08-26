@@ -10,8 +10,12 @@
     "geom:latitude":32.28572,
     "geom:longitude":34.88482,
     "iso:country":"IL",
+    "lbl:bbox":"34.86482,32.26572,34.90482,32.30572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Hadas"
@@ -28,7 +32,7 @@
     "name:por_x_preferred":[
         "Hadass"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hadasim"
     ],
     "qs:gn_country":"IL",
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":294949,
         "gp:id":1967421,
-        "qs:id":1168228,
+        "qs_pg:id":1168228,
         "wd:id":"Q3510605"
     },
     "wof:country":"IL",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421192455,
-    "wof:lastmodified":1563315051,
+    "wof:lastmodified":1566680629,
     "wof:name":"Hadassim",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

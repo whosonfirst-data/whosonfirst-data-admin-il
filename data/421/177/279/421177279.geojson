@@ -10,8 +10,11 @@
     "geom:latitude":32.046496,
     "geom:longitude":34.751815,
     "iso:country":"IL",
+    "lbl:bbox":"34.746815,32.041496,34.756815,32.051496",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0639\u062c\u0645"
@@ -94,7 +97,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725133,
-        "qs:id":1153994,
+        "qs_pg:id":1153994,
         "wd:id":"Q423621"
     },
     "wof:country":"IL",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421177279,
-    "wof:lastmodified":1563315224,
+    "wof:lastmodified":1566680675,
     "wof:name":"Ajami",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

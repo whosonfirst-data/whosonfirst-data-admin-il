@@ -12,10 +12,13 @@
     "iso:country":"IL",
     "lbl:latitude":31.9693,
     "lbl:longitude":34.778173,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":31.9693,
     "mps:longitude":34.778173,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Rishon LeZion"
@@ -227,7 +230,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u0448\u043e\u043d-\u043b\u0435-\u0426\u0456\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ayun Kara"
     ],
     "name:urd_x_preferred":[
@@ -282,7 +285,7 @@
     "wof:concordances":{
         "gn:id":293703,
         "gp:id":1967906,
-        "qs:id":124064,
+        "qs_pg:id":124064,
         "wd:id":"Q201051",
         "wk:page":"Rishon LeZion"
     },
@@ -299,7 +302,7 @@
         }
     ],
     "wof:id":421197319,
-    "wof:lastmodified":1563315181,
+    "wof:lastmodified":1566680664,
     "wof:name":"Rishon LeZion",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

@@ -10,8 +10,11 @@
     "geom:latitude":31.756196,
     "geom:longitude":35.212554,
     "iso:country":"IL",
+    "lbl:bbox":"35.207554,31.751196,35.217554,31.761196",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -33,16 +36,16 @@
     "qs:woe_id":22724700,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724700,
-        "qs:id":237466
+        "qs_pg:id":237466
     },
     "wof:country":"IL",
     "wof:created":1459010172,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":421204079,
-    "wof:lastmodified":1549930550,
+    "wof:lastmodified":1566680638,
     "wof:name":"Gonen Dalet",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

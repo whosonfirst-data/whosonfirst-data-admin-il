@@ -10,8 +10,12 @@
     "geom:latitude":32.00354,
     "geom:longitude":34.85588,
     "iso:country":"IL",
+    "lbl:bbox":"34.83588,31.98354,34.87588,32.02354",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Cafrija"
@@ -34,7 +38,7 @@
     "name:pol_x_preferred":[
         "Cafrijja"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tsafriyya"
     ],
     "qs:gn_country":"IL",
@@ -66,7 +70,7 @@
     "wof:concordances":{
         "gn:id":293133,
         "gp:id":1968111,
-        "qs:id":1276995,
+        "qs_pg:id":1276995,
         "wd:id":"Q2919894"
     },
     "wof:country":"IL",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":421171901,
-    "wof:lastmodified":1561760037,
+    "wof:lastmodified":1566680681,
     "wof:name":"Zafriyya",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

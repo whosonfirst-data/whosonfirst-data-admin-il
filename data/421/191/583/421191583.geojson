@@ -10,8 +10,12 @@
     "geom:latitude":31.89421,
     "geom:longitude":34.81199,
     "iso:country":"IL",
+    "lbl:bbox":"34.79199,31.87421,34.83199,31.91421",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Rehovot"
@@ -145,7 +149,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0445\u043e\u0432\u043e\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rhovot"
     ],
     "name:urd_x_preferred":[
@@ -195,7 +199,7 @@
     "wof:concordances":{
         "gn:id":293725,
         "gp:id":1968207,
-        "qs:id":1146175,
+        "qs_pg:id":1146175,
         "wd:id":"Q207350",
         "wk:page":"Rehovot"
     },
@@ -212,7 +216,7 @@
         }
     ],
     "wof:id":421191583,
-    "wof:lastmodified":1563315169,
+    "wof:lastmodified":1566680661,
     "wof:name":"Rehovot",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

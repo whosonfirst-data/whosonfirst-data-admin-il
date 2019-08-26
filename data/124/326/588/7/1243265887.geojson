@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"35.47545,32.92132,35.51545,32.96132",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0643\u0628\u0631\u0629"
     ],
@@ -49,9 +53,7 @@
     "name:und_x_variant":[
         "\u2018Akhbera",
         "\u2018Aqbarah",
-        "Akhberah",
-        "\u2018Akbara",
-        "Akbara"
+        "Akhberah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1243265887,
-    "wof:lastmodified":1564215522,
+    "wof:lastmodified":1566680696,
     "wof:name":"`Akbara",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

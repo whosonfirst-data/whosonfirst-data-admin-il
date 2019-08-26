@@ -23,8 +23,11 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"35.15661,31.77733,35.16661,31.78733",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0632\u0627\u064a\u062a"
     ],
@@ -44,7 +47,6 @@
         "Bet Zajit"
     ],
     "name:und_x_variant":[
-        "Beit Zayit",
         "Bet Zayit"
     ],
     "src:geom":"geonames",
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1376891443,
-    "wof:lastmodified":1564215476,
+    "wof:lastmodified":1566680620,
     "wof:name":"Bet Zayit",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

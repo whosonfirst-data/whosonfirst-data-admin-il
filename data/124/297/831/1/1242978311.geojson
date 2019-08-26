@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"35.39703,32.63614,35.43703,32.67614",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ein Dor"
     ],
@@ -47,9 +51,7 @@
         "Ein Dor"
     ],
     "name:und_x_variant":[
-        "\u2018Ein Dor",
-        "\u2018En Dor",
-        "En Dor"
+        "\u2018Ein Dor"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1242978311,
-    "wof:lastmodified":1564215520,
+    "wof:lastmodified":1566680695,
     "wof:name":"`En Dor",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

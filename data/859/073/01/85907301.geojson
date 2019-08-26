@@ -13,6 +13,7 @@
     "iso:country":"IL",
     "lbl:latitude":32.02072,
     "lbl:longitude":34.772043,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.01934,
     "mps:longitude":34.777981,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
-        "Tel Giborim"
-    ],
-    "name:unk_x_variant":[
         "Tel Giborim"
     ],
     "qs:gn_adm0_cc":"IL",
@@ -54,18 +52,18 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85672549,
         102191569,
         85632315,
         421179743,
-        1108720837,
-        85672549
+        1108720837
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725141,
-        "qs:id":215943
+        "qs_pg:id":215943
     },
     "wof:country":"IL",
     "wof:geomhash":"fb73c1f8bdea2a6d5fb161026492aee5",
@@ -83,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930543,
+    "wof:lastmodified":1566680563,
     "wof:name":"Tel Giborim",
     "wof:parent_id":421179743,
     "wof:placetype":"neighbourhood",

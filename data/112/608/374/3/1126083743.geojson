@@ -9,16 +9,19 @@
     "geom:bbox":"34.98573,32.70232,34.98573,32.70232",
     "geom:latitude":32.70232,
     "geom:longitude":34.98573,
-    "gn:gn_country":"IL",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"IL",
+    "gn:fcode":"PPLX",
     "gn:latitude":32.703,
     "gn:longitude":34.98704,
+    "gn:population":0,
     "iso:country":"IL",
+    "lbl:bbox":"34.98073,32.69732,34.99073,32.70732",
     "lbl:latitude":32.70232,
     "lbl:longitude":34.98573,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Yemin Orde"
@@ -26,9 +29,8 @@
     "name:heb_x_preferred":[
         "\u05d9\u05de\u05d9\u05df \u05d0\u05d5\u05e8\u05d3"
     ],
-    "name:unk_x_variant":[
-        "Yemin Ord",
-        "Yemin Orde"
+    "name:und_x_variant":[
+        "Yemin Ord"
     ],
     "qs_pg:aaroncc":"IL",
     "qs_pg:gn_country":"IL",
@@ -51,22 +53,21 @@
     "qs_pg:woe_adm0":23424852,
     "qs_pg:woe_id":1968090,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424852,
     "woe:name_adm0":"Israel",
     "woe:name_adm1":"Haifa",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85672535,
         102191569,
         85632315,
-        1108720819,
-        85672535
+        1108720819
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":293205,
         "gp:id":1968090,
-        "qs:id":189586,
         "qs_pg:id":189586
     },
     "wof:country":"IL",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1126083743,
-    "wof:lastmodified":1549930553,
+    "wof:lastmodified":1566680687,
     "wof:name":"Yemin Orde",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

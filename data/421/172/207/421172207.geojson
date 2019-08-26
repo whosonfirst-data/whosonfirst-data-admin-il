@@ -10,13 +10,17 @@
     "geom:latitude":32.69464,
     "geom:longitude":35.39252,
     "iso:country":"IL",
+    "lbl:bbox":"35.37252,32.67464,35.41252,32.71464",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:heb_x_preferred":[
         "\u05e9\u05d1\u05dc\u05d9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shibli"
     ],
     "qs:gn_country":"IL",
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":386042,
         "gp:id":1961849,
-        "qs:id":1301282
+        "qs_pg:id":1301282
     },
     "wof:country":"IL",
     "wof:created":1459008927,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":421172207,
-    "wof:lastmodified":1549930307,
+    "wof:lastmodified":1566680653,
     "wof:name":"Sibl\u012bn",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

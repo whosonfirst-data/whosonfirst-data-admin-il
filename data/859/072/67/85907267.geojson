@@ -13,6 +13,7 @@
     "iso:country":"IL",
     "lbl:latitude":32.090129,
     "lbl:longitude":34.808847,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.094961,
     "mps:longitude":34.805385,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Shikun Llit"
-    ],
-    "name:unk_x_variant":[
         "Shikun Llit"
     ],
     "qs:gn_adm0_cc":"IL",
@@ -55,18 +53,18 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85672549,
         102191569,
         85632315,
         421183425,
-        1108720837,
-        85672549
+        1108720837
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725108,
-        "qs:id":897017
+        "qs_pg:id":897017
     },
     "wof:country":"IL",
     "wof:geomhash":"bf4df79dacdda1301e3769f23d5ae2b2",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930544,
+    "wof:lastmodified":1566680564,
     "wof:name":"Shikun Llit",
     "wof:parent_id":421183425,
     "wof:placetype":"neighbourhood",

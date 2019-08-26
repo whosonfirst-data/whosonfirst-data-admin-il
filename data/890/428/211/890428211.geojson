@@ -11,10 +11,14 @@
     "geom:longitude":34.80623,
     "gn:country":"IL",
     "gn:fcode":"PPL",
-    "gn:pop":10108,
+    "gn:population":10108,
     "iso:country":"IL",
+    "lbl:bbox":"34.78623,32.00456,34.82623,32.04456",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0410\u0437\u043e\u0440"
     ],
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":295584,
         "gp:id":1968212,
-        "qs:id":203759,
+        "qs_pg:id":203759,
         "wd:id":"Q952186",
         "wk:page":"Azor"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890428211,
-    "wof:lastmodified":1563315263,
+    "wof:lastmodified":1566680685,
     "wof:name":"Azor",
     "wof:parent_id":1108720837,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":31.89997,
     "geom:longitude":34.90027,
     "iso:country":"IL",
+    "lbl:bbox":"34.88027,31.87997,34.92027,31.91997",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Jad Rambam"
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":293256,
         "gp:id":1968065,
-        "qs:id":354003,
+        "qs_pg:id":354003,
         "wd:id":"Q2889514",
         "wk:page":"Yad Rambam"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":421175143,
-    "wof:lastmodified":1561760028,
+    "wof:lastmodified":1566680657,
     "wof:name":"Yad Rambam",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":30.898142,
     "lbl:longitude":34.880232,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"South",
     "meso:name_loc":"\u05d3\u05e8\u05d5\u05dd",
     "mps:latitude":30.898142,
@@ -196,9 +197,7 @@
     ],
     "name:und_x_variant":[
         "\u05d3\u05e8\u05d5\u05dd",
-        "South"
-    ],
-    "name:unk_x_variant":[
+        "South",
         "Darom"
     ],
     "name:urd_x_preferred":[
@@ -287,10 +286,9 @@
         "meso"
     ],
     "src:geom_via":"meso",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-12-27",
+    "src:population_date":"2008-12-27",
     "statoids:area_km":"14,107",
     "statoids:area_mi":"5,447",
     "statoids:as_of_date":"2008-12-27",
@@ -315,7 +313,7 @@
         "gp:id":2345791,
         "hasc:id":"IL.HD",
         "iso:id":"IL-D",
-        "qs:id":913650,
+        "qs_pg:id":913650,
         "unlc:id":"IL-D",
         "wd:id":"Q188781",
         "wk:page":"Southern District (Israel)"
@@ -338,7 +336,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1565717111,
+    "wof:lastmodified":1566680569,
     "wof:name":"Southern",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

@@ -10,8 +10,12 @@
     "geom:latitude":32.49583,
     "geom:longitude":35.475,
     "iso:country":"IL",
+    "lbl:bbox":"35.455,32.47583,35.495,32.51583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:als_x_preferred":[
         "Messilot"
@@ -58,9 +62,6 @@
     "name:swe_x_preferred":[
         "Mesillot"
     ],
-    "name:unk_x_variant":[
-        "Mesilot"
-    ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":294251,
@@ -91,7 +92,7 @@
     "wof:concordances":{
         "gn:id":294251,
         "gp:id":1967673,
-        "qs:id":44551,
+        "qs_pg:id":44551,
         "wd:id":"Q1399050",
         "wk:page":"Mesilot"
     },
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":421189417,
-    "wof:lastmodified":1563315132,
+    "wof:lastmodified":1566680650,
     "wof:name":"Mesillot",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

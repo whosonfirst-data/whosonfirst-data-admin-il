@@ -12,8 +12,10 @@
     "gn:latitude":31.68711,
     "gn:longitude":34.5695,
     "iso:country":"IL",
+    "lbl:bbox":"34.552112,31.670271,34.562112,31.680271",
     "lbl:latitude":31.675271,
     "lbl:longitude":34.557112,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.679094,
     "mps:longitude":34.564132,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     ],
     "name:heb_x_variant":[
         "\u05d1\u05e8\u05e0\u05e2"
-    ],
-    "name:unk_x_variant":[
-        "Barnea"
     ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
@@ -63,18 +62,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85672531,
         102191569,
         85632315,
-        1108720841,
-        85672531
+        1108720841
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":295561,
         "gp:id":1967134,
-        "qs:id":1301546,
         "qs_pg:id":1301546
     },
     "wof:country":"IL",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930537,
+    "wof:lastmodified":1566680561,
     "wof:name":"Barnea",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

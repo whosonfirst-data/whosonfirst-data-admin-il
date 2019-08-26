@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.96337,32.35802,35.00337,32.39802",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Ha-Ma'apil"
     ],
@@ -42,8 +46,7 @@
         "Ha-Mapil"
     ],
     "name:und_x_variant":[
-        "Hama\u2018apil",
-        "HaMa\u2018pil"
+        "Hama\u2018apil"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1226455249,
-    "wof:lastmodified":1564215537,
+    "wof:lastmodified":1566680704,
     "wof:name":"HaMa`pil",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

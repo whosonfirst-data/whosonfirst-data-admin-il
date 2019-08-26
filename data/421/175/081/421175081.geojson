@@ -10,8 +10,12 @@
     "geom:latitude":32.06012,
     "geom:longitude":34.91069,
     "iso:country":"IL",
+    "lbl:bbox":"34.89069,32.04012,34.93069,32.08012",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ne\u1e96alim"
@@ -38,9 +42,6 @@
         "\u041d\u0435\u0445\u0430\u043b\u0438\u043c"
     ],
     "name:swe_x_preferred":[
-        "Ne\u1e96alim"
-    ],
-    "name:unk_x_variant":[
         "Ne\u1e96alim"
     ],
     "qs:gn_country":"IL",
@@ -74,7 +75,7 @@
     "wof:concordances":{
         "gn:id":294093,
         "gp:id":1967740,
-        "qs:id":920344,
+        "qs_pg:id":920344,
         "wd:id":"Q2614192",
         "wk:page":"Nehalim"
     },
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":421175081,
-    "wof:lastmodified":1563315156,
+    "wof:lastmodified":1566680657,
     "wof:name":"Nehalim",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

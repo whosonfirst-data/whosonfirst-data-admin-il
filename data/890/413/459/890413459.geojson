@@ -11,10 +11,14 @@
     "geom:longitude":35.03428,
     "gn:country":"IL",
     "gn:fcode":"PPL",
-    "gn:pop":204,
+    "gn:population":204,
     "iso:country":"IL",
+    "lbl:bbox":"35.01428,31.88977,35.05428,31.92977",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kfar Rut"
     ],
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":8199380,
         "gp:id":1937180,
-        "qs:id":759666,
+        "qs_pg:id":759666,
         "wd:id":"Q2614214",
         "wk:page":"Kfar Ruth"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890413459,
-    "wof:lastmodified":1563315258,
+    "wof:lastmodified":1566680684,
     "wof:name":"Kfar Rut",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

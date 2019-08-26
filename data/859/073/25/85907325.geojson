@@ -13,6 +13,7 @@
     "iso:country":"IL",
     "lbl:latitude":32.105685,
     "lbl:longitude":34.855833,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.106393,
     "mps:longitude":34.855486,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
-        "Kiryat Herzog"
-    ],
-    "name:unk_x_variant":[
         "Kiryat Herzog"
     ],
     "qs:gn_adm0_cc":"IL",
@@ -54,18 +52,18 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85672541,
         102191569,
         85632315,
         421202049,
-        1108720821,
-        85672541
+        1108720821
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725166,
-        "qs:id":1087578
+        "qs_pg:id":1087578
     },
     "wof:country":"IL",
     "wof:geomhash":"4fb1784a8866552215cc366f70dcf33a",
@@ -83,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930544,
+    "wof:lastmodified":1566680563,
     "wof:name":"Kiryat Herzog",
     "wof:parent_id":421202049,
     "wof:placetype":"neighbourhood",

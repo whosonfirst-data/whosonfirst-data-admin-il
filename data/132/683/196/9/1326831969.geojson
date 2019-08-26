@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"35.4161,32.92374,35.4561,32.96374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "\u0160efer"
     ],
@@ -38,8 +42,7 @@
         "Szefer"
     ],
     "name:und_x_variant":[
-        "Parod Bet",
-        "Shefer"
+        "Parod Bet"
     ],
     "name:urd_x_preferred":[
         "\u0634\u06cc\u0641\u0631"
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1326831969,
-    "wof:lastmodified":1564215364,
+    "wof:lastmodified":1566680546,
     "wof:name":"Shefer",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

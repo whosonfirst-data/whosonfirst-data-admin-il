@@ -10,8 +10,12 @@
     "geom:latitude":32.955641,
     "geom:longitude":35.159289,
     "iso:country":"IL",
+    "lbl:bbox":"35.139289,32.935641,35.179289,32.975641",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22722732,
-        "qs:id":43482
+        "qs_pg:id":43482
     },
     "wof:country":"IL",
     "wof:created":1459009171,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421178125,
-    "wof:lastmodified":1549930333,
+    "wof:lastmodified":1566680677,
     "wof:name":"Arav Azuner",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

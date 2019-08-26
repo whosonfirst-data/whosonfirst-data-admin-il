@@ -10,8 +10,12 @@
     "geom:latitude":33.24228,
     "geom:longitude":35.57515,
     "iso:country":"IL",
+    "lbl:bbox":"35.55515,33.22228,35.59515,33.26228",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0641\u0627\u0631 \u062c\u0644\u0639\u0627\u062f\u064a"
@@ -68,7 +72,7 @@
     "name:spa_x_preferred":[
         "Kfar Guiladi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kfargileady"
     ],
     "qs:gn_country":"IL",
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":294547,
         "gp:id":1967532,
-        "qs:id":894379,
+        "qs_pg:id":894379,
         "wd:id":"Q1487392"
     },
     "wof:country":"IL",
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421182205,
-    "wof:lastmodified":1563315239,
+    "wof:lastmodified":1566680678,
     "wof:name":"Kefar Giladi",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

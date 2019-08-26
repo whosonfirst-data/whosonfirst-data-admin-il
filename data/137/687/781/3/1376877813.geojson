@@ -23,8 +23,11 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"35.00443,32.77422,35.01443,32.78422",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:heb_x_preferred":[
         "\u05e8\u05de\u05d5\u05ea \u05e8\u05de\u05d6"
     ],
@@ -34,11 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85672535,
         102191569,
         85632315,
         421168693,
-        1108720835,
-        85672535
+        1108720835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1376877813,
-    "wof:lastmodified":1549930743,
+    "wof:lastmodified":1566680623,
     "wof:name":"Ramot Remez",
     "wof:parent_id":421168693,
     "wof:placetype":"neighbourhood",

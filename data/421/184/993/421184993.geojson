@@ -10,8 +10,11 @@
     "geom:latitude":31.79711,
     "geom:longitude":35.21841,
     "iso:country":"IL",
+    "lbl:bbox":"35.21341,31.79211,35.22341,31.80211",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Sanhedrija"
@@ -28,7 +31,7 @@
     "name:ind_x_preferred":[
         "Sanhedria"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sanhedriyya"
     ],
     "qs:gn_country":"IL",
@@ -62,7 +65,7 @@
     "wof:concordances":{
         "gn:id":293647,
         "gp:id":22724649,
-        "qs:id":1016925,
+        "qs_pg:id":1016925,
         "wd:id":"Q2749900"
     },
     "wof:country":"IL",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421184993,
-    "wof:lastmodified":1563315213,
+    "wof:lastmodified":1566680672,
     "wof:name":"Sanhedria",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

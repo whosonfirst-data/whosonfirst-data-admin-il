@@ -10,8 +10,12 @@
     "geom:latitude":33.23979,
     "geom:longitude":35.65335,
     "iso:country":"IL",
+    "lbl:bbox":"35.63335,33.21979,35.67335,33.25979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062f\u0627\u0646"
@@ -52,7 +56,7 @@
     "name:rus_x_preferred":[
         "\u0414\u044d\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tell el Qady"
     ],
     "qs:gn_country":"IL",
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":295357,
         "gp:id":1967232,
-        "qs:id":887325,
+        "qs_pg:id":887325,
         "wd:id":"Q991372",
         "wk:page":"Dan, Israel"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421182083,
-    "wof:lastmodified":1563315238,
+    "wof:lastmodified":1566680678,
     "wof:name":"Dan",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

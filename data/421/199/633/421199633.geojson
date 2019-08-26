@@ -10,8 +10,12 @@
     "geom:latitude":32.89783,
     "geom:longitude":35.47576,
     "iso:country":"IL",
+    "lbl:bbox":"35.45576,32.87783,35.49576,32.91783",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Kadarim"
@@ -40,7 +44,7 @@
     "name:pol_x_preferred":[
         "Kadarim"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qaddarim"
     ],
     "qs:gn_country":"IL",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":386292,
         "gp:id":22722711,
-        "qs:id":483246,
+        "qs_pg:id":483246,
         "wd:id":"Q165623"
     },
     "wof:country":"IL",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421199633,
-    "wof:lastmodified":1561760031,
+    "wof:lastmodified":1566680665,
     "wof:name":"Kadarim",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

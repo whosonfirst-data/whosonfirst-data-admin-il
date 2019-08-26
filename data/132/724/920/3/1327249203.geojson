@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.8389,31.2985,34.8789,31.3385",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0644\u0642\u064a\u0629"
     ],
@@ -51,8 +55,6 @@
     ],
     "name:und_x_variant":[
         "Lakiyya",
-        "Laqiya",
-        "Lakiya",
         "Laqye"
     ],
     "src:geom":"geonames",
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":1327249203,
-    "wof:lastmodified":1564215361,
+    "wof:lastmodified":1566680543,
     "wof:name":"Laqiyya",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

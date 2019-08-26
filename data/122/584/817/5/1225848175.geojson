@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.78011,31.76832,34.82011,31.80832",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Chafec Chajim"
     ],
@@ -50,8 +54,7 @@
     "name:und_x_variant":[
         "Hafets Hayim",
         "\u1e24afets Haiyim",
-        "Kefar Sold",
-        "H\u0331afe\u1e95 H\u0331ayyim"
+        "Kefar Sold"
     ],
     "name:yid_x_preferred":[
         "\u05d7\u05e4\u05e5 \u05d7\u05d9\u05d9\u05dd"
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1225848175,
-    "wof:lastmodified":1564215546,
+    "wof:lastmodified":1566680709,
     "wof:name":"Hafez Hayyim",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

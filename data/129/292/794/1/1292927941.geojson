@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.90579,31.80902,34.94579,31.84902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Beko'a"
     ],
@@ -38,9 +42,6 @@
         "Beko'a"
     ],
     "name:pol_x_preferred":[
-        "Bekoa"
-    ],
-    "name:und_x_variant":[
         "Bekoa"
     ],
     "src:geom":"geonames",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1292927941,
-    "wof:lastmodified":1564215400,
+    "wof:lastmodified":1566680572,
     "wof:name":"Beqoa`",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

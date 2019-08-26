@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"35.48926,32.76996,35.52926,32.80996",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Micpa"
     ],
@@ -44,8 +48,7 @@
         "\u2018Ain Katab",
         "Mispah",
         "Mitspa",
-        "Mitspah",
-        "Mi\u1e95pa"
+        "Mitspah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1243265749,
-    "wof:lastmodified":1564215522,
+    "wof:lastmodified":1566680696,
     "wof:name":"Mizpa",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

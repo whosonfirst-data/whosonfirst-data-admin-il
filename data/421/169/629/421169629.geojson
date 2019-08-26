@@ -10,8 +10,12 @@
     "geom:latitude":32.67697,
     "geom:longitude":34.95304,
     "iso:country":"IL",
+    "lbl:bbox":"34.93304,32.65697,34.97304,32.69697",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Ejn Karmel"
@@ -46,7 +50,7 @@
     "name:pol_x_variant":[
         "Ein Karmel"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u2018Ein Hakarmel"
     ],
     "qs:gn_country":"IL",
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":295203,
         "gp:id":1967289,
-        "qs:id":225474,
+        "qs_pg:id":225474,
         "wd:id":"Q1000987",
         "wk:page":"Ein Carmel"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421169629,
-    "wof:lastmodified":1563315074,
+    "wof:lastmodified":1566680636,
     "wof:name":"En Karmel",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

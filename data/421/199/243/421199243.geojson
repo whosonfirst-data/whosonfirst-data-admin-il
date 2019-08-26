@@ -10,8 +10,12 @@
     "geom:latitude":32.5064,
     "geom:longitude":34.92087,
     "iso:country":"IL",
+    "lbl:bbox":"34.90087,32.4864,34.94087,32.5264",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u0648\u0631 \u0639\u0642\u064a\u0641\u0627"
@@ -85,7 +89,7 @@
     "name:tgl_x_preferred":[
         "Or Akiva"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Or \u2018Aq\u012bv\u0101h"
     ],
     "name:urd_x_preferred":[
@@ -132,7 +136,7 @@
     "wof:concordances":{
         "gn:id":293969,
         "gp:id":1967802,
-        "qs:id":460342,
+        "qs_pg:id":460342,
         "wd:id":"Q1814658",
         "wk:page":"Or Akiva"
     },
@@ -149,7 +153,7 @@
         }
     ],
     "wof:id":421199243,
-    "wof:lastmodified":1563315183,
+    "wof:lastmodified":1566680665,
     "wof:name":"Or Akiva",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

@@ -25,10 +25,13 @@
     "iso:country":"IL",
     "lbl:latitude":32.095942,
     "lbl:longitude":34.882543,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":32.095942,
     "mps:longitude":34.882543,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Petah Tikva"
@@ -284,7 +287,7 @@
     "wof:concordances":{
         "gn:id":6693674,
         "gp:id":1968201,
-        "qs:id":218436,
+        "qs_pg:id":218436,
         "wd:id":"Q190828",
         "wk:page":"Petah_Tikva"
     },
@@ -304,7 +307,7 @@
         }
     ],
     "wof:id":421202049,
-    "wof:lastmodified":1563315096,
+    "wof:lastmodified":1566680641,
     "wof:name":"Petah Tikva",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

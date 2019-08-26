@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.95578,31.70486,34.99578,31.74486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Kl\u00e1\u0161ter Bejt D\u017eimal"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1209207355,
-    "wof:lastmodified":1564215431,
+    "wof:lastmodified":1566680590,
     "wof:name":"Beit Jimal",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

@@ -9,14 +9,16 @@
     "geom:bbox":"35.0092,32.806395,35.0092,32.806395",
     "geom:latitude":32.806395,
     "geom:longitude":35.0092,
-    "gn:gn_country":"IL",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"IL",
+    "gn:fcode":"PPLX",
     "gn:latitude":32.80947,
     "gn:longitude":34.99525,
+    "gn:population":0,
     "iso:country":"IL",
+    "lbl:bbox":"35.0042,32.801395,35.0142,32.811395",
     "lbl:latitude":32.806395,
     "lbl:longitude":35.0092,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.805814,
     "mps:longitude":35.0063,
     "mz:hierarchy_label":0,
@@ -55,10 +57,6 @@
     ],
     "name:swe_x_preferred":[
         "Hadar"
-    ],
-    "name:unk_x_variant":[
-        "Hadar Hacarmel",
-        "Hadar HaKarmel"
     ],
     "qs:gn_adm0_cc":"IL",
     "qs:gn_fcode":"PPLX",
@@ -107,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":32.807764,
     "wd:longitude":34.99815,
     "wd:wordcount":456,
@@ -122,7 +120,6 @@
     "wof:concordances":{
         "gn:id":294953,
         "gp:id":1967419,
-        "qs:id":222716,
         "qs_pg:id":222716,
         "wd:id":"Q2630079",
         "wk:page":"Hadar HaCarmel"
@@ -143,7 +140,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561760002,
+    "wof:lastmodified":1566680560,
     "wof:name":"Hadar HaKarmel",
     "wof:parent_id":421168693,
     "wof:placetype":"neighbourhood",

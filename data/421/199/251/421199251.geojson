@@ -12,10 +12,13 @@
     "iso:country":"IL",
     "lbl:latitude":32.014993,
     "lbl:longitude":34.749307,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":32.014993,
     "mps:longitude":34.749307,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Bat Yam"
@@ -189,7 +192,7 @@
     "wof:concordances":{
         "gn:id":295548,
         "gp:id":1968158,
-        "qs:id":461190,
+        "qs_pg:id":461190,
         "wd:id":"Q208725",
         "wk:page":"Bat Yam"
     },
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":421199251,
-    "wof:lastmodified":1563315187,
+    "wof:lastmodified":1566680665,
     "wof:name":"Bat Yam",
     "wof:parent_id":1108720837,
     "wof:placetype":"locality",

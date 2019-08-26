@@ -11,10 +11,14 @@
     "geom:longitude":35.06553,
     "gn:country":"IL",
     "gn:fcode":"PPL",
-    "gn:pop":1035,
+    "gn:population":1035,
     "iso:country":"IL",
+    "lbl:bbox":"35.04553,31.94236,35.08553,31.98236",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Na'ale"
     ],
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":8199389,
         "gp:id":1937180,
-        "qs:id":759673,
+        "qs_pg:id":759673,
         "wd:id":"Q2776849",
         "wk:page":"Na'ale"
     },
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":890413473,
-    "wof:lastmodified":1563315257,
+    "wof:lastmodified":1566680684,
     "wof:name":"Na'ale",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

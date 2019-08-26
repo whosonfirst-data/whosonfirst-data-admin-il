@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"35.2689,33.07955,35.3089,33.11955",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Zar\u2018it"
     ],
@@ -58,7 +62,6 @@
         "Khirbat al Mazra\u2018a",
         "Zaraait",
         "Kfar Rosen",
-        "Zar\u2018it",
         "Kefar Rozenwald",
         "Kfar Rosenwald"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1193139259,
-    "wof:lastmodified":1564215437,
+    "wof:lastmodified":1566680592,
     "wof:name":"Zar`it",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

@@ -23,8 +23,11 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.82641,32.15233,34.83641,32.16233",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:cat_x_preferred":[
         "Glil Yam"
     ],
@@ -50,10 +53,6 @@
         "Glil Yam"
     ],
     "name:swe_x_preferred":[
-        "Gelil Yam"
-    ],
-    "name:und_x_variant":[
-        "Glil Yam",
         "Gelil Yam"
     ],
     "src:geom":"geonames",
@@ -82,7 +81,7 @@
         }
     ],
     "wof:id":1376877791,
-    "wof:lastmodified":1564215479,
+    "wof:lastmodified":1566680622,
     "wof:name":"Gelil Yam",
     "wof:parent_id":421174205,
     "wof:placetype":"neighbourhood",

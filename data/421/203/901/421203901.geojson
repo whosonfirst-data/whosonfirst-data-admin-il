@@ -10,8 +10,12 @@
     "geom:latitude":32.72304,
     "geom:longitude":35.35303,
     "iso:country":"IL",
+    "lbl:bbox":"35.33303,32.70304,35.37303,32.74304",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0645\u0627\u0647\u0644"
@@ -41,7 +45,7 @@
     "name:rus_x_preferred":[
         "\u042d\u0439\u043d-\u041c\u0430\u0445\u0435\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u2018Ayn Mahil"
     ],
     "qs:gn_country":"IL",
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":295285,
         "gp:id":1967250,
-        "qs:id":235484,
+        "qs_pg:id":235484,
         "wd:id":"Q730195",
         "wk:page":"Ein Mahil"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421203901,
-    "wof:lastmodified":1561760020,
+    "wof:lastmodified":1566680639,
     "wof:name":"Ein Mahil",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

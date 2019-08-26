@@ -10,8 +10,12 @@
     "geom:latitude":32.5585,
     "geom:longitude":35.5516,
     "iso:country":"IL",
+    "lbl:bbox":"35.5316,32.5385,35.5716,32.5785",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Bejt Josef"
@@ -33,9 +37,6 @@
     ],
     "name:pol_x_preferred":[
         "Beit Josef"
-    ],
-    "name:unk_x_variant":[
-        "Beit Yosef"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -67,7 +68,7 @@
     "wof:concordances":{
         "gn:id":295423,
         "gp:id":1967209,
-        "qs:id":270464,
+        "qs_pg:id":270464,
         "wd:id":"Q2888667"
     },
     "wof:country":"IL",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":421166719,
-    "wof:lastmodified":1561760015,
+    "wof:lastmodified":1566680628,
     "wof:name":"Bet Yosef",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":32.04734,
     "geom:longitude":34.899,
     "iso:country":"IL",
+    "lbl:bbox":"34.879,32.02734,34.919,32.06734",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Mag\u0161imim"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":294385,
         "gp:id":1967623,
-        "qs:id":193961,
+        "qs_pg:id":193961,
         "wd:id":"Q2920119",
         "wk:page":"Magshimim"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421169513,
-    "wof:lastmodified":1561760019,
+    "wof:lastmodified":1566680637,
     "wof:name":"Magshimim",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

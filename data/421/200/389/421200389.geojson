@@ -10,8 +10,12 @@
     "geom:latitude":32.95451,
     "geom:longitude":35.1623,
     "iso:country":"IL",
+    "lbl:bbox":"35.1423,32.93451,35.1823,32.97451",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631\u064a\u0627\u0633\u064a\u0641"
@@ -56,7 +60,7 @@
     "name:swe_x_preferred":[
         "Kafir Yasif"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kefar-Yasif"
     ],
     "name:urd_x_preferred":[
@@ -93,7 +97,7 @@
     "wof:concordances":{
         "gn:id":294600,
         "gp:id":1967503,
-        "qs:id":1301682,
+        "qs_pg:id":1301682,
         "wd:id":"Q2632879",
         "wk:page":"Kafr Yasif"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":421200389,
-    "wof:lastmodified":1563315204,
+    "wof:lastmodified":1566680668,
     "wof:name":"Kafr Yasif",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

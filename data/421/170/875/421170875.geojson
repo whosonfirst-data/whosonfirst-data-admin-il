@@ -10,8 +10,12 @@
     "geom:latitude":32.61045,
     "geom:longitude":35.14227,
     "iso:country":"IL",
+    "lbl:bbox":"35.12227,32.59045,35.16227,32.63045",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0634\u0645\u0627\u0631 \u0647\u0639\u064a\u0645\u0642"
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":294185,
         "gp:id":1967694,
-        "qs:id":268602,
+        "qs_pg:id":268602,
         "wd:id":"Q1938721"
     },
     "wof:country":"IL",
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421170875,
-    "wof:lastmodified":1563315216,
+    "wof:lastmodified":1566680673,
     "wof:name":"Mishmar HaEmeq",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

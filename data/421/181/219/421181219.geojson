@@ -10,8 +10,12 @@
     "geom:latitude":31.71811,
     "geom:longitude":35.06141,
     "iso:country":"IL",
+    "lbl:bbox":"35.04141,31.69811,35.08141,31.73811",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Mata"
@@ -46,7 +50,7 @@
     "name:tur_x_preferred":[
         "Matta"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u2018All\u0101r"
     ],
     "qs:gn_country":"IL",
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":294310,
         "gp:id":1967648,
-        "qs:id":479253,
+        "qs_pg:id":479253,
         "wd:id":"Q2920127"
     },
     "wof:country":"IL",
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":421181219,
-    "wof:lastmodified":1561760027,
+    "wof:lastmodified":1566680654,
     "wof:name":"Matta",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

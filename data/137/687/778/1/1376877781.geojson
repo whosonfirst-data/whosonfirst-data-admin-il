@@ -24,8 +24,11 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.86167,32.01722,34.87167,32.02722",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u064a\u0627\u062a \u0623\u0648\u0646\u0648"
     ],
@@ -111,7 +114,6 @@
         "Kafr `\u0100na",
         "Shkhunat-Ono",
         "Kafr `Anah",
-        "Qiryat Ono",
         "Kefar Ono",
         "Shekhunat Ono"
     ],
@@ -156,7 +158,7 @@
         }
     ],
     "wof:id":1376877781,
-    "wof:lastmodified":1564215478,
+    "wof:lastmodified":1566680621,
     "wof:name":"Qiryat Ono",
     "wof:parent_id":421196439,
     "wof:placetype":"neighbourhood",

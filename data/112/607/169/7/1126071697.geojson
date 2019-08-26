@@ -9,14 +9,17 @@
     "geom:bbox":"35.20304,31.74267,35.20304,31.74267",
     "geom:latitude":31.74267,
     "geom:longitude":35.20304,
-    "gn:gn_country":"IL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"IL",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"IL",
+    "lbl:bbox":"35.19804,31.73767,35.20804,31.74767",
     "lbl:latitude":31.74267,
     "lbl:longitude":35.20304,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0635\u0641\u0627\u0641\u0627"
@@ -51,7 +54,7 @@
     "name:spa_x_preferred":[
         "Beit Safafa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bayt \u015eaf\u0101f\u0101"
     ],
     "qs_pg:aaroncc":"IL",
@@ -75,7 +78,7 @@
     "qs_pg:woe_adm0":23424852,
     "qs_pg:woe_id":22724703,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424852,
     "woe:name_adm0":"Israel",
     "woe:name_adm1":"Jerusalem",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1126071697,
-    "wof:lastmodified":1564215508,
+    "wof:lastmodified":1566680688,
     "wof:name":"Beit Safafa",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,16 @@
     "geom:bbox":"35.017869,32.772967,35.017869,32.772967",
     "geom:latitude":32.772967,
     "geom:longitude":35.017869,
-    "gn:gn_country":"IL",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"IL",
+    "gn:fcode":"PPLX",
     "gn:latitude":32.77677,
     "gn:longitude":35.03314,
+    "gn:population":0,
     "iso:country":"IL",
+    "lbl:bbox":"35.012869,32.767967,35.022869,32.777967",
     "lbl:latitude":32.772967,
     "lbl:longitude":35.017869,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.776772,
     "mps:longitude":35.034352,
     "mz:hierarchy_label":0,
@@ -36,10 +38,6 @@
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05e8\u05d9\u05ea \u05d4\u05d8\u05db\u05e0\u05d9\u05d5\u05df"
-    ],
-    "name:unk_x_variant":[
-        "Kiryat Hatechion",
-        "Qiryat HaTekhniyyon"
     ],
     "qs:gn_adm0_cc":"IL",
     "qs:gn_fcode":"PPLX",
@@ -88,19 +86,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85672535,
         102191569,
         85632315,
         421168693,
-        1108720835,
-        85672535
+        1108720835
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":293839,
         "gp:id":1967842,
-        "qs:id":235164,
         "qs_pg:id":235164
     },
     "wof:country":"IL",
@@ -119,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930539,
+    "wof:lastmodified":1566680559,
     "wof:name":"Qiryat HaTekhniyyon",
     "wof:parent_id":421168693,
     "wof:placetype":"neighbourhood",

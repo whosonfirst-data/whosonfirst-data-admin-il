@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.98977,32.37517,35.02977,32.41517",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:heb_x_preferred":[
         "Lahavot H\u0331aviva"
     ],
@@ -32,8 +36,7 @@
         "\u05dc\u05d4\u05d1\u05d5\u05ea \u05d7\u05d1\u05d9\u05d1\u05d4"
     ],
     "name:und_x_variant":[
-        "Lahavot Havivah",
-        "Lahavot H\u0331aviva"
+        "Lahavot Havivah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1276800275,
-    "wof:lastmodified":1549930479,
+    "wof:lastmodified":1566680580,
     "wof:name":"Lahavot Haviva",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

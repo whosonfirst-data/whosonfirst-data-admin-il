@@ -10,8 +10,12 @@
     "geom:latitude":31.233059,
     "geom:longitude":35.357437,
     "iso:country":"IL",
+    "lbl:bbox":"35.337437,31.213059,35.377437,31.253059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22722802,
-        "qs:id":1085664
+        "qs_pg:id":1085664
     },
     "wof:country":"IL",
     "wof:created":1459009522,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421187735,
-    "wof:lastmodified":1549930364,
+    "wof:lastmodified":1566680648,
     "wof:name":"Mezada",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

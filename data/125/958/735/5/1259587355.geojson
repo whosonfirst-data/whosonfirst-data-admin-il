@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.73525,31.3365,34.77525,31.3765",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Giv'ot Bar"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1259587355,
-    "wof:lastmodified":1564215530,
+    "wof:lastmodified":1566680701,
     "wof:name":"Giv'ot Bar",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

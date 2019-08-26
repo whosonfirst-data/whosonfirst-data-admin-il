@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"35.1603,32.52671,35.2003,32.56671",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:heb_x_preferred":[
         "El Murtafi\u2018a"
     ],
@@ -32,8 +36,7 @@
         "\u05d0\u05dc \u05de\u05e8\u05ea\u05e4\u05e2\u05d4"
     ],
     "name:und_x_variant":[
-        "Murtafi\u2018a",
-        "El Murtafi\u2018a"
+        "Murtafi\u2018a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1226078297,
-    "wof:lastmodified":1549930451,
+    "wof:lastmodified":1566680709,
     "wof:name":"El Murtafi`a",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

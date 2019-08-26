@@ -10,8 +10,12 @@
     "geom:latitude":32.45722,
     "geom:longitude":35.55528,
     "iso:country":"IL",
+    "lbl:bbox":"35.53528,32.43722,35.57528,32.47722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Kfar Ruppin"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":294516,
         "gp:id":1967563,
-        "qs:id":1301693,
+        "qs_pg:id":1301693,
         "wd:id":"Q591269"
     },
     "wof:country":"IL",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421172237,
-    "wof:lastmodified":1563315141,
+    "wof:lastmodified":1566680653,
     "wof:name":"Kefar Ruppin",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

@@ -12,8 +12,10 @@
     "gn:latitude":32.55363,
     "gn:longitude":35.15468,
     "iso:country":"IL",
+    "lbl:bbox":"35.145638,32.533256,35.155638,32.543256",
     "lbl:latitude":32.538256,
     "lbl:longitude":35.150638,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.533828,
     "mps:longitude":35.149376,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
     "name:heb_x_variant":[
         "\u05d0\u05dc \u05de\u05e9\u05d9\u05e8\u05e4\u05d4 \u05d0\u05dc \u05e4\u05d5\u05e7\u05d0",
         "El Musheirifa el Fauq\u0101"
-    ],
-    "name:unk_x_variant":[
-        "El Musheirifa el Fauq\u00e5"
     ],
     "qs:gn_adm0_cc":"IL",
     "qs:gn_fcode":"PPLX",
@@ -70,18 +69,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85672535,
         102191569,
         85632315,
-        1108720819,
-        85672535
+        1108720819
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":295244,
         "gp:id":1967261,
-        "qs:id":59055,
         "qs_pg:id":59055
     },
     "wof:country":"IL",
@@ -100,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930538,
+    "wof:lastmodified":1566680562,
     "wof:name":"El Musheirifa el Fauq\u00e5",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

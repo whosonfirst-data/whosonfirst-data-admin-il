@@ -13,6 +13,7 @@
     "iso:country":"IL",
     "lbl:latitude":31.778081,
     "lbl:longitude":35.21769,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.776629,
     "mps:longitude":35.216764,
     "mz:hierarchy_label":1,
@@ -57,9 +58,6 @@
     "name:swe_x_preferred":[
         "Rehavia"
     ],
-    "name:unk_x_variant":[
-        "Rekhavya"
-    ],
     "name:yid_x_preferred":[
         "\u05e8\u05d7\u05d1\u05d9\u05d4"
     ],
@@ -90,7 +88,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":829,
     "wof:belongsto":[
         85672551,
@@ -102,7 +100,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724674,
-        "qs:id":1135857,
+        "qs_pg:id":1135857,
         "wd:id":"Q654128"
     },
     "wof:country":"IL",
@@ -121,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563314927,
+    "wof:lastmodified":1566680557,
     "wof:name":"Rekhavya",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

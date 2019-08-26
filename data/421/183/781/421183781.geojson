@@ -10,8 +10,12 @@
     "geom:latitude":31.00343,
     "geom:longitude":34.78646,
     "iso:country":"IL",
+    "lbl:bbox":"34.76646,30.98343,34.80646,31.02343",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Ma\u0161'abej Sade"
@@ -49,7 +53,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0448\u0430\u0431\u0431\u0435-\u0421\u0430\u0434\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mashabim"
     ],
     "qs:gn_country":"IL",
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":294328,
         "gp:id":1967640,
-        "qs:id":984009,
+        "qs_pg:id":984009,
         "wd:id":"Q690804"
     },
     "wof:country":"IL",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421183781,
-    "wof:lastmodified":1563315231,
+    "wof:lastmodified":1566680676,
     "wof:name":"Mash'abbe Sade",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

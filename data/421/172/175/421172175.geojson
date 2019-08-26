@@ -10,8 +10,11 @@
     "geom:latitude":31.87581,
     "geom:longitude":35.12999,
     "iso:country":"IL",
+    "lbl:bbox":"35.12499,31.87081,35.13499,31.88081",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Bethoron"
@@ -83,7 +86,7 @@
     "wof:concordances":{
         "gn:id":8199387,
         "gp:id":1936797,
-        "qs:id":1301019,
+        "qs_pg:id":1301019,
         "wd:id":"Q2777556",
         "wk:page":"Beit Horon"
     },
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":421172175,
-    "wof:lastmodified":1563315139,
+    "wof:lastmodified":1566680652,
     "wof:name":"Bet Horon",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

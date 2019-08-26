@@ -10,8 +10,12 @@
     "geom:latitude":31.3141,
     "geom:longitude":34.62025,
     "iso:country":"IL",
+    "lbl:bbox":"34.60025,31.2941,34.64025,31.3341",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u0648\u0641\u0627\u0643\u064a\u0645"
@@ -143,7 +147,7 @@
     "wof:concordances":{
         "gn:id":293992,
         "gp:id":1968198,
-        "qs:id":260367,
+        "qs_pg:id":260367,
         "wd:id":"Q167632",
         "wk:page":"Ofakim"
     },
@@ -160,7 +164,7 @@
         }
     ],
     "wof:id":421205279,
-    "wof:lastmodified":1563315105,
+    "wof:lastmodified":1566680643,
     "wof:name":"Ofaqim",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

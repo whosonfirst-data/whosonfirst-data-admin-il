@@ -10,8 +10,12 @@
     "geom:latitude":33.06847,
     "geom:longitude":35.13587,
     "iso:country":"IL",
+    "lbl:bbox":"35.11587,33.04847,35.15587,33.08847",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Becet"
@@ -34,7 +38,7 @@
     "name:pol_x_variant":[
         "Becet"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Bassa"
     ],
     "qs:gn_country":"IL",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":295416,
         "gp:id":1967213,
-        "qs:id":183929,
+        "qs_pg:id":183929,
         "wd:id":"Q2889332"
     },
     "wof:country":"IL",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421170499,
-    "wof:lastmodified":1563315217,
+    "wof:lastmodified":1566680673,
     "wof:name":"Bezet",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

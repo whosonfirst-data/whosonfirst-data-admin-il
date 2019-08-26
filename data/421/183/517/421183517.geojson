@@ -10,8 +10,12 @@
     "geom:latitude":31.77893,
     "geom:longitude":35.09574,
     "iso:country":"IL",
+    "lbl:bbox":"35.07574,31.75893,35.11574,31.79893",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Ejtanim"
@@ -33,9 +37,6 @@
     ],
     "name:pol_x_variant":[
         "Ejtanim"
-    ],
-    "name:unk_x_variant":[
-        "Eitanim"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -69,7 +70,7 @@
     "wof:concordances":{
         "gn:id":295134,
         "gp:id":1967318,
-        "qs:id":979702,
+        "qs_pg:id":979702,
         "wd:id":"Q2778092",
         "wk:page":"Eitanim"
     },
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":421183517,
-    "wof:lastmodified":1563315228,
+    "wof:lastmodified":1566680676,
     "wof:name":"Etanim",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

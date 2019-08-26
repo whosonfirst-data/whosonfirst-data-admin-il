@@ -10,8 +10,11 @@
     "geom:latitude":32.09735,
     "geom:longitude":34.83837,
     "iso:country":"IL",
+    "lbl:bbox":"34.83337,32.09235,34.84337,32.10235",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Pardes Katz"
@@ -19,7 +22,7 @@
     "name:heb_x_preferred":[
         "\u05e4\u05e8\u05d3\u05e1 \u05db\u05e5"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pardess Katz"
     ],
     "qs:gn_country":"IL",
@@ -42,17 +45,17 @@
     "qs:woe_id":1967812,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85672549,
         102191569,
         85632315,
         421190661,
-        1108720837,
-        85672549
+        1108720837
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":293941,
         "gp:id":1967812,
-        "qs:id":894382,
+        "qs_pg:id":894382,
         "wd:id":"Q1106780"
     },
     "wof:country":"IL",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421200771,
-    "wof:lastmodified":1549930550,
+    "wof:lastmodified":1566680667,
     "wof:name":"Pardes Ka\u1e95",
     "wof:parent_id":421190661,
     "wof:placetype":"neighbourhood",

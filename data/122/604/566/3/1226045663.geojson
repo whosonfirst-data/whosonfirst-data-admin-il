@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.89249,32.37731,34.93249,32.41731",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Chibat Cijon"
     ],
@@ -48,8 +52,7 @@
         "\u1e24ibat Zion",
         "Hibat Tsiyon",
         "\u1e24ibbat Zion",
-        "\u1e24ibat Tsion",
-        "H\u0331ibbat \u1e94iyyon"
+        "\u1e24ibat Tsion"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1226045663,
-    "wof:lastmodified":1564215539,
+    "wof:lastmodified":1566680705,
     "wof:name":"Hibbat Ziyyon",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

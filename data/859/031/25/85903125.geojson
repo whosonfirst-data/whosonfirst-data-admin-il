@@ -10,8 +10,10 @@
     "geom:latitude":32.083305,
     "geom:longitude":34.876072,
     "iso:country":"IL",
+    "lbl:bbox":"34.871072,32.078305,34.881072,32.088305",
     "lbl:latitude":32.083305,
     "lbl:longitude":34.876072,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.101496,
     "mps:longitude":34.895317,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     ],
     "name:eng_x_variant":[
         "Kiriat Arieh"
-    ],
-    "name:unk_x_variant":[
-        "Qiryat Arye"
     ],
     "qs:gn_adm0_cc":"IL",
     "qs:gn_id":0,
@@ -59,13 +58,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85672541,
         102191569,
         85632315,
         421202049,
-        1108720821,
-        85672541
+        1108720821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930539,
+    "wof:lastmodified":1566680561,
     "wof:name":"Qiryat Arye",
     "wof:parent_id":421202049,
     "wof:placetype":"neighbourhood",

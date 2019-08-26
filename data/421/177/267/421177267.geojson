@@ -10,8 +10,12 @@
     "geom:latitude":32.86196,
     "geom:longitude":35.36365,
     "iso:country":"IL",
+    "lbl:bbox":"35.34365,32.84196,35.38365,32.88196",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u062d\u0646\u0627"
@@ -46,7 +50,7 @@
     "name:swe_x_preferred":[
         "Deir \u1e24ann\u0101"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kefar Yohanah"
     ],
     "name:zho_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":295339,
         "gp:id":1967237,
-        "qs:id":1151036,
+        "qs_pg:id":1151036,
         "wd:id":"Q612483",
         "wk:page":"Deir Hanna"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421177267,
-    "wof:lastmodified":1563315222,
+    "wof:lastmodified":1566680674,
     "wof:name":"Deir Hanna",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

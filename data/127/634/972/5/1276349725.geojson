@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.62487,31.41807,34.66487,31.45807",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Talmej Bilu"
     ],
@@ -42,7 +46,6 @@
         "Talme Bilu"
     ],
     "name:und_x_variant":[
-        "Talmei Bilu",
         "Shoval 8"
     ],
     "src:geom":"geonames",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1276349725,
-    "wof:lastmodified":1564215416,
+    "wof:lastmodified":1566680581,
     "wof:name":"Talme Bilu",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":32.39244,
     "geom:longitude":34.91163,
     "iso:country":"IL",
+    "lbl:bbox":"34.89163,32.37244,34.93163,32.41244",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Kfar ha-Ro'e"
@@ -31,9 +35,6 @@
     ],
     "name:pol_x_preferred":[
         "Kfar HaRo'e"
-    ],
-    "name:unk_x_variant":[
-        "Kefar HaRo\u2019e"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -65,7 +66,7 @@
     "wof:concordances":{
         "gn:id":294537,
         "gp:id":1967545,
-        "qs:id":238654,
+        "qs_pg:id":238654,
         "wd:id":"Q2919897"
     },
     "wof:country":"IL",
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":421204209,
-    "wof:lastmodified":1561760020,
+    "wof:lastmodified":1566680638,
     "wof:name":"Kefar Haroeh",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

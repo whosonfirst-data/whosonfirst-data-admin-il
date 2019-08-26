@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":32.072773,
     "lbl:longitude":34.804786,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "meso:name_loc":"\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
     "mps:latitude":32.072773,
@@ -192,9 +193,6 @@
         "\u0422\u0435\u043b\u044c-\u0410\u0432\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
     ],
     "name:und_x_variant":[
-        "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1"
-    ],
-    "name:unk_x_variant":[
         "Tel Aviv Region"
     ],
     "name:urd_x_preferred":[
@@ -283,10 +281,9 @@
         "meso"
     ],
     "src:geom_via":"meso",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-12-27",
+    "src:population_date":"2008-12-27",
     "statoids:area_km":"170",
     "statoids:area_mi":"66",
     "statoids:as_of_date":"2008-12-27",
@@ -311,7 +308,7 @@
         "gp:id":2345795,
         "hasc:id":"IL.TA",
         "iso:id":"IL-TA",
-        "qs:id":240034,
+        "qs_pg:id":240034,
         "unlc:id":"IL-TA",
         "wd:id":"Q192811",
         "wk:page":"Tel Aviv District"
@@ -334,11 +331,10 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1565717111,
+    "wof:lastmodified":1566680570,
     "wof:name":"Tel Aviv",
     "wof:parent_id":85632315,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":1258770,
     "wof:population_rank":12,

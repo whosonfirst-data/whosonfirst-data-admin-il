@@ -9,14 +9,15 @@
     "geom:bbox":"34.7980148227,32.0802473815,34.8129272461,32.0930460239",
     "geom:latitude":32.087429,
     "geom:longitude":34.806327,
-    "gn:gn_country":"IL",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"IL",
+    "gn:fcode":"PPLX",
     "gn:latitude":32.08333,
     "gn:longitude":34.81667,
+    "gn:population":0,
     "iso:country":"IL",
     "lbl:latitude":32.086198,
     "lbl:longitude":34.806513,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.088081,
     "mps:longitude":34.80693,
     "mz:hierarchy_label":1,
@@ -35,10 +36,6 @@
     "name:eng_x_variant":[
         "Tel Benjamin",
         "Tel Benyamin"
-    ],
-    "name:unk_x_variant":[
-        "Tel Benyamin",
-        "Tel Binyamin"
     ],
     "qs:gn_adm0_cc":"IL",
     "qs:gn_fcode":"PPLX",
@@ -85,19 +82,18 @@
     "qs_pg:woe_id":1968020,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85672549,
         102191569,
         85632315,
         421183425,
-        1108720837,
-        85672549
+        1108720837
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":293384,
         "gp:id":1968020,
-        "qs:id":1028740,
         "qs_pg:id":1028740
     },
     "wof:country":"IL",
@@ -116,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930540,
+    "wof:lastmodified":1566680559,
     "wof:name":"Tel Binyamin",
     "wof:parent_id":421183425,
     "wof:placetype":"neighbourhood",

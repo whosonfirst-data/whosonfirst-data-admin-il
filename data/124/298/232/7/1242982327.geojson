@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"35.09019,32.6713,35.13019,32.7113",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:heb_x_preferred":[
         "Qiryat H\u0331aroshet"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242982327,
-    "wof:lastmodified":1549930460,
+    "wof:lastmodified":1566680694,
     "wof:name":"Qiryat Haroshet",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

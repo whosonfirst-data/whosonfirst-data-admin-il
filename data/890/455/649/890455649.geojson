@@ -11,10 +11,14 @@
     "geom:longitude":35.09837,
     "gn:country":"IL",
     "gn:fcode":"PPL",
-    "gn:pop":3900,
+    "gn:population":3900,
     "iso:country":"IL",
+    "lbl:bbox":"35.07837,32.96338,35.11837,33.00338",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:heb_x_preferred":[
         "El Mazra\u2018a"
     ],
@@ -22,7 +26,7 @@
         "\u05d0\u05dc \u05de\u05d6\u05e8\u05e2\u05d4",
         "El Mazra\u2019a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Mazra\u2018a"
     ],
     "qs:name":"El Mazra\u2018a",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":295249,
         "gp:id":1968192,
-        "qs:id":547142
+        "qs_pg:id":547142
     },
     "wof:country":"IL",
     "wof:created":1469052970,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890455649,
-    "wof:lastmodified":1549930372,
+    "wof:lastmodified":1566680685,
     "wof:name":"El Mazra\u2018a",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",
