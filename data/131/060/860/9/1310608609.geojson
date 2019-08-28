@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"35.15995,33.02789,35.19995,33.06789",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Avdon"
     ],
@@ -44,9 +48,7 @@
         "Wadi Keren",
         "Aavroun",
         "Kefar Avdon",
-        "Kfar Avdon",
-        "\u2018Avdon",
-        "Avdon"
+        "Kfar Avdon"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":1310608609,
-    "wof:lastmodified":1564215471,
+    "wof:lastmodified":1566680616,
     "wof:name":"`Avdon",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

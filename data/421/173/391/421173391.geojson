@@ -10,8 +10,12 @@
     "geom:latitude":31.68755,
     "geom:longitude":34.98272,
     "iso:country":"IL",
+    "lbl:bbox":"34.96272,31.66755,35.00272,31.70755",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Netiv HaLamed He"
@@ -49,7 +53,7 @@
     "name:swe_x_preferred":[
         "Netiv HaLamed He"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Netiv Lah"
     ],
     "name:yid_x_preferred":[
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":294070,
         "gp:id":1967749,
-        "qs:id":288048,
+        "qs_pg:id":288048,
         "wd:id":"Q942371",
         "wk:page":"Netiv HaLamed-Heh"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421173391,
-    "wof:lastmodified":1563315127,
+    "wof:lastmodified":1566680649,
     "wof:name":"Netiv HaLamed He",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

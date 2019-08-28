@@ -11,8 +11,10 @@
     "geom:longitude":34.839619,
     "gn:id":"",
     "iso:country":"IL",
+    "lbl:bbox":"34.834619,32.148239,34.844619,32.158239",
     "lbl:latitude":32.153239,
     "lbl:longitude":34.839619,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.150998,
     "mps:longitude":34.843668,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Neve Rasko"
-    ],
-    "name:unk_x_variant":[
         "Neve Rasko"
     ],
     "qs:gn_adm0_cc":"IL",
@@ -56,18 +55,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85672549,
         102191569,
         85632315,
         421174205,
-        1108720837,
-        85672549
+        1108720837
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725162,
-        "qs:id":902474
+        "qs_pg:id":902474
     },
     "wof:country":"IL",
     "wof:geomhash":"46fc0fa32fa6f6fd8dd2592caba2944f",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930541,
+    "wof:lastmodified":1566680562,
     "wof:name":"Neve Rasko",
     "wof:parent_id":421174205,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,12 @@
     "geom:latitude":32.73568,
     "geom:longitude":35.19146,
     "iso:country":"IL",
+    "lbl:bbox":"35.17146,32.71568,35.21146,32.75568",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0644\u062d\u0645 \u0627\u0644\u062c\u0644\u064a\u0644\u200e"
@@ -79,7 +83,7 @@
     "name:slk_x_preferred":[
         "Bejt Lechem ha-Glilit"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Irgun Hahoresh"
     ],
     "qs:gn_country":"IL",
@@ -111,7 +115,7 @@
     "wof:concordances":{
         "gn:id":295453,
         "gp:id":1967189,
-        "qs:id":909178,
+        "qs_pg:id":909178,
         "wd:id":"Q604557"
     },
     "wof:country":"IL",
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":421201025,
-    "wof:lastmodified":1563315207,
+    "wof:lastmodified":1566680669,
     "wof:name":"Bet Lehem HaGelilit",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":32.86422,
     "geom:longitude":35.29707,
     "iso:country":"IL",
+    "lbl:bbox":"35.27707,32.84422,35.31707,32.88422",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u062e\u0646\u064a\u0646"
@@ -101,7 +105,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0445\u043d\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sikhnin"
     ],
     "name:urd_x_preferred":[
@@ -146,7 +150,7 @@
     "wof:concordances":{
         "gn:id":293655,
         "gp:id":1967917,
-        "qs:id":1210205,
+        "qs_pg:id":1210205,
         "wd:id":"Q168330",
         "wk:page":"Sakhnin"
     },
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":421177949,
-    "wof:lastmodified":1563315223,
+    "wof:lastmodified":1566680675,
     "wof:name":"Sakhnin",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

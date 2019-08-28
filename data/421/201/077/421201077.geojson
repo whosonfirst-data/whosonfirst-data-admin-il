@@ -10,8 +10,11 @@
     "geom:latitude":32.059009,
     "geom:longitude":34.80503,
     "iso:country":"IL",
+    "lbl:bbox":"34.80003,32.054009,34.81003,32.064009",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Bais Yaakov"
@@ -73,7 +76,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725124,
-        "qs:id":910779,
+        "qs_pg:id":910779,
         "wd:id":"Q2262627"
     },
     "wof:country":"IL",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421201077,
-    "wof:lastmodified":1563315206,
+    "wof:lastmodified":1566680669,
     "wof:name":"Beit Ya'akov",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

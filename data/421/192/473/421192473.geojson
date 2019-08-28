@@ -10,8 +10,12 @@
     "geom:latitude":32.95155,
     "geom:longitude":35.09496,
     "iso:country":"IL",
+    "lbl:bbox":"35.07496,32.93155,35.11496,32.97155",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "\u0160omrat"
@@ -37,7 +41,7 @@
     "name:pol_x_variant":[
         "Szamerat"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shimrath"
     ],
     "qs:gn_country":"IL",
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":293559,
         "gp:id":1967962,
-        "qs:id":1168245,
+        "qs_pg:id":1168245,
         "wd:id":"Q2888762"
     },
     "wof:country":"IL",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":421192473,
-    "wof:lastmodified":1563315057,
+    "wof:lastmodified":1566680630,
     "wof:name":"Shamerat",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

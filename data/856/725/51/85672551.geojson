@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":31.737049,
     "lbl:longitude":34.976164,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "meso:name_loc":"\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd",
     "mps:latitude":31.737049,
@@ -220,9 +221,6 @@
         "\u0404\u0440\u0443\u0441\u0430\u043b\u0438\u043c\u0441\u044c\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
     ],
     "name:und_x_variant":[
-        "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
-    ],
-    "name:unk_x_variant":[
         "Jerusalem Region"
     ],
     "name:urd_x_preferred":[
@@ -311,10 +309,9 @@
         "meso"
     ],
     "src:geom_via":"meso",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-12-27",
+    "src:population_date":"2008-12-27",
     "statoids:area_km":"627",
     "statoids:area_mi":"242",
     "statoids:as_of_date":"2008-12-27",
@@ -339,7 +336,7 @@
         "gp:id":2345796,
         "hasc:id":"IL.JM",
         "iso:id":"IL-JM",
-        "qs:id":1168670,
+        "qs_pg:id":1168670,
         "unlc:id":"IL-JM",
         "wd:id":"Q192232",
         "wk:page":"Jerusalem District"
@@ -362,7 +359,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1565717110,
+    "wof:lastmodified":1566680568,
     "wof:name":"Jerusalem",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

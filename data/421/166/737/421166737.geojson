@@ -10,8 +10,12 @@
     "geom:latitude":32.25,
     "geom:longitude":34.93333,
     "iso:country":"IL",
+    "lbl:bbox":"34.91333,32.23,34.95333,32.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0641\u0627\u0631 \u0647\u0633"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":294533,
         "gp:id":1967548,
-        "qs:id":270989,
+        "qs_pg:id":270989,
         "wd:id":"Q2920307",
         "wk:page":"Kfar Hess"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421166737,
-    "wof:lastmodified":1563315042,
+    "wof:lastmodified":1566680626,
     "wof:name":"Kefar Hess",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

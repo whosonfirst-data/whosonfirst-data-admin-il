@@ -10,8 +10,12 @@
     "geom:latitude":31.80592,
     "geom:longitude":35.1093,
     "iso:country":"IL",
+    "lbl:bbox":"35.0893,31.78592,35.1293,31.82592",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648 \u063a\u0648\u0634"
@@ -97,7 +101,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0443-\u0490\u043e\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuryet el Enab"
     ],
     "name:urd_x_preferred":[
@@ -134,7 +138,7 @@
     "wof:concordances":{
         "gn:id":295772,
         "gp:id":1967064,
-        "qs:id":1301528,
+        "qs_pg:id":1301528,
         "wd:id":"Q335023",
         "wk:page":"Abu Ghosh"
     },
@@ -151,7 +155,7 @@
         }
     ],
     "wof:id":421200377,
-    "wof:lastmodified":1563315200,
+    "wof:lastmodified":1566680667,
     "wof:name":"Abu Ghaush",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

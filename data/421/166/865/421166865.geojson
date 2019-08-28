@@ -10,8 +10,12 @@
     "geom:latitude":31.71794,
     "geom:longitude":35.09549,
     "iso:country":"IL",
+    "lbl:bbox":"35.07549,31.69794,35.11549,31.73794",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "\u1e94ur Hadassa"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "\u1e94ur Hadassa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tsur Hadassa"
     ],
     "qs:gn_country":"IL",
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":293020,
         "gp:id":1968141,
-        "qs:id":1210225,
+        "qs_pg:id":1210225,
         "wd:id":"Q2890554"
     },
     "wof:country":"IL",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421166865,
-    "wof:lastmodified":1563315048,
+    "wof:lastmodified":1566680628,
     "wof:name":"Zur Hadassa",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

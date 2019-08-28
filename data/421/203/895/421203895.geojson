@@ -10,8 +10,12 @@
     "geom:latitude":33.02224,
     "geom:longitude":35.57716,
     "iso:country":"IL",
+    "lbl:bbox":"35.55716,33.00224,35.59716,33.04224",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Ajelet ha-\u0160achar"
@@ -35,7 +39,7 @@
     "name:pol_x_preferred":[
         "Ajjelet ha-Szachar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aiyelet Hasha\u1e25ar"
     ],
     "qs:gn_country":"IL",
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":295587,
         "gp:id":1967122,
-        "qs:id":235481,
+        "qs_pg:id":235481,
         "wd:id":"Q567912",
         "wk:page":"Ayelet HaShahar"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421203895,
-    "wof:lastmodified":1561760020,
+    "wof:lastmodified":1566680639,
     "wof:name":"Ayyelet HaShahar",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

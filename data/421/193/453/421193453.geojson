@@ -10,8 +10,12 @@
     "geom:latitude":32.562584,
     "geom:longitude":35.341987,
     "iso:country":"IL",
+    "lbl:bbox":"35.321987,32.542584,35.361987,32.582584",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22722722,
-        "qs:id":900192
+        "qs_pg:id":900192
     },
     "wof:country":"IL",
     "wof:created":1459009772,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421193453,
-    "wof:lastmodified":1549930383,
+    "wof:lastmodified":1566680634,
     "wof:name":"Taybe Baemeq",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

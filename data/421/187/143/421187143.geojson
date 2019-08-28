@@ -10,8 +10,12 @@
     "geom:latitude":31.8228,
     "geom:longitude":34.90051,
     "iso:country":"IL",
+    "lbl:bbox":"34.88051,31.8028,34.92051,31.8428",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Mi\u0161mar David"
@@ -27,9 +31,6 @@
     ],
     "name:pol_x_preferred":[
         "Miszmar Dawid"
-    ],
-    "name:unk_x_variant":[
-        "Mishmar David"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -61,7 +62,7 @@
     "wof:concordances":{
         "gn:id":294186,
         "gp:id":1967693,
-        "qs:id":1081077,
+        "qs_pg:id":1081077,
         "wd:id":"Q2920043"
     },
     "wof:country":"IL",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":421187143,
-    "wof:lastmodified":1561760024,
+    "wof:lastmodified":1566680648,
     "wof:name":"Mishmar Dawid",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

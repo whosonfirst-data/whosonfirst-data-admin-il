@@ -9,16 +9,19 @@
     "geom:bbox":"35.01448,32.7857,35.01448,32.7857",
     "geom:latitude":32.7857,
     "geom:longitude":35.01448,
-    "gn:gn_country":"IL",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"IL",
+    "gn:fcode":"PPLX",
     "gn:latitude":32.78571,
     "gn:longitude":35.01448,
+    "gn:population":0,
     "iso:country":"IL",
+    "lbl:bbox":"35.00948,32.7807,35.01948,32.7907",
     "lbl:latitude":32.7857,
     "lbl:longitude":35.01448,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ces_x_preferred":[
         "Neve \u0160a'anan"
@@ -44,9 +47,8 @@
     "name:spa_x_preferred":[
         "Neve Sha'anan"
     ],
-    "name:unk_x_variant":[
-        "Newe Sha'anan",
-        "Neve Shaanan"
+    "name:und_x_variant":[
+        "Newe Sha'anan"
     ],
     "qs_pg:aaroncc":"IL",
     "qs_pg:gn_country":"IL",
@@ -69,7 +71,7 @@
     "qs_pg:woe_adm0":23424852,
     "qs_pg:woe_id":1967763,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424852,
     "woe:name_adm0":"Israel",
     "woe:name_adm1":"Haifa",
@@ -85,7 +87,6 @@
     "wof:concordances":{
         "gn:id":294049,
         "gp:id":1967763,
-        "qs:id":1301770,
         "qs_pg:id":1301770,
         "wd:id":"Q2919842",
         "wk:page":"Neve Sha'anan, Haifa"
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1126082143,
-    "wof:lastmodified":1561760040,
+    "wof:lastmodified":1566680687,
     "wof:name":"Newe Sha'anan",
     "wof:parent_id":421168693,
     "wof:placetype":"neighbourhood",

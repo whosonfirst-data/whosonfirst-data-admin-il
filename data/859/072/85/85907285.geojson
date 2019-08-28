@@ -9,14 +9,15 @@
     "geom:bbox":"34.8156738281,32.0492448023,34.8458862305,32.0693545542",
     "geom:latitude":32.059884,
     "geom:longitude":34.82954,
-    "gn:gn_country":"IL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"IL",
+    "gn:fcode":"PPL",
     "gn:latitude":32.05622,
     "gn:longitude":34.82017,
+    "gn:population":0,
     "iso:country":"IL",
     "lbl:latitude":32.05642,
     "lbl:longitude":34.82077,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.060171,
     "mps:longitude":34.829836,
     "mz:hierarchy_label":1,
@@ -37,9 +38,6 @@
     ],
     "name:heb_x_variant":[
         "\u05e8\u05de\u05ea \u05d7\u05df"
-    ],
-    "name:unk_x_variant":[
-        "Ramat Khen"
     ],
     "qs:gn_adm0_cc":"IL",
     "qs:gn_fcode":"PPL",
@@ -86,19 +84,18 @@
     "qs_pg:woe_id":22725122,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85672549,
         102191569,
         85632315,
         421183425,
-        1108720837,
-        85672549
+        1108720837
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":293779,
         "gp:id":22725122,
-        "qs:id":219937,
         "qs_pg:id":219937
     },
     "wof:country":"IL",
@@ -117,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930546,
+    "wof:lastmodified":1566680567,
     "wof:name":"Ramat Khen",
     "wof:parent_id":421183425,
     "wof:placetype":"neighbourhood",

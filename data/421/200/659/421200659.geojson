@@ -10,8 +10,11 @@
     "geom:latitude":31.7848,
     "geom:longitude":35.208263,
     "iso:country":"IL",
+    "lbl:bbox":"35.203263,31.7798,35.213263,31.7898",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Zichron Josef"
@@ -58,7 +61,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724664,
-        "qs:id":890604,
+        "qs_pg:id":890604,
         "wd:id":"Q8071863"
     },
     "wof:country":"IL",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":421200659,
-    "wof:lastmodified":1563315199,
+    "wof:lastmodified":1566680667,
     "wof:name":"Zikhron Yosef",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

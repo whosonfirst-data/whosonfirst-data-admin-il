@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.99561,32.4298,35.03561,32.4698",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "\u0160a'ar Mena\u0161e"
     ],
@@ -45,8 +49,7 @@
         "\u0428\u0430\u0430\u0440-\u041c\u0435\u043d\u0430\u0448\u0435"
     ],
     "name:und_x_variant":[
-        "Ma\u1e96ane En Shemer",
-        "Sha\u2018ar Menashe"
+        "Ma\u1e96ane En Shemer"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1259584257,
-    "wof:lastmodified":1564215530,
+    "wof:lastmodified":1566680701,
     "wof:name":"Sha`ar Menashe",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

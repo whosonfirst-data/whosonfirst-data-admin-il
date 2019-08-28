@@ -10,8 +10,12 @@
     "geom:latitude":30.91495,
     "geom:longitude":35.0158,
     "iso:country":"IL",
+    "lbl:bbox":"34.9958,30.89495,35.0358,30.93495",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:als_x_preferred":[
         "Oron"
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":8429543,
         "gp:id":1968199,
-        "qs:id":891320
+        "qs_pg:id":891320
     },
     "wof:country":"IL",
     "wof:created":1459010035,
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421200687,
-    "wof:lastmodified":1564215501,
+    "wof:lastmodified":1566680667,
     "wof:name":"Oron",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

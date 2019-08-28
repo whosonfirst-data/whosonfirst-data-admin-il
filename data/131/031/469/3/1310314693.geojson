@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"35.25203,30.67773,35.29203,30.71773",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:heb_x_preferred":[
         "\u05e9\u05d9\u05d6\u05e3"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310314693,
-    "wof:lastmodified":1549930413,
+    "wof:lastmodified":1566680614,
     "wof:name":"Shezaf",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

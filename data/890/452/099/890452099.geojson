@@ -11,10 +11,14 @@
     "geom:longitude":35.13994,
     "gn:country":"IL",
     "gn:fcode":"PPL",
-    "gn:pop":412,
+    "gn:population":412,
     "iso:country":"IL",
+    "lbl:bbox":"35.11994,31.95415,35.15994,31.99415",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041d\u0430\u0445\u043b\u0438\u0435\u043b"
     ],
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":8199391,
         "gp:id":1937180,
-        "qs:id":759674,
+        "qs_pg:id":759674,
         "wd:id":"Q2777433",
         "wk:page":"Nahliel"
     },
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":890452099,
-    "wof:lastmodified":1563315260,
+    "wof:lastmodified":1566680684,
     "wof:name":"Nahliel",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

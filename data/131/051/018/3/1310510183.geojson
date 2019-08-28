@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.88883,32.36108,34.92883,32.40108",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Elja\u0161iv"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1310510183,
-    "wof:lastmodified":1564215470,
+    "wof:lastmodified":1566680616,
     "wof:name":"Elyashiv",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

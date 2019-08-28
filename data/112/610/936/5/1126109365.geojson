@@ -9,25 +9,24 @@
     "geom:bbox":"34.98333,32.8,34.98333,32.8",
     "geom:latitude":32.8,
     "geom:longitude":34.98333,
-    "gn:gn_country":"IL",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"IL",
+    "gn:fcode":"PPLX",
     "gn:latitude":32.8,
     "gn:longitude":34.98333,
+    "gn:population":0,
     "iso:country":"IL",
+    "lbl:bbox":"34.97833,32.795,34.98833,32.805",
     "lbl:latitude":32.8,
     "lbl:longitude":34.98333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "HaKarmel"
     ],
     "name:eng_x_variant":[
-        "Carmel"
-    ],
-    "name:unk_x_variant":[
-        "HaKarmel",
         "Carmel"
     ],
     "qs_pg:aaroncc":"IL",
@@ -51,23 +50,22 @@
     "qs_pg:woe_adm0":23424852,
     "qs_pg:woe_id":1967409,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424852,
     "woe:name_adm0":"Israel",
     "woe:name_adm1":"Haifa",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85672535,
         102191569,
         85632315,
         421168693,
-        1108720835,
-        85672535
+        1108720835
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":294923,
         "gp:id":1967409,
-        "qs:id":1146153,
         "qs_pg:id":1146153
     },
     "wof:country":"IL",
@@ -84,7 +82,7 @@
         }
     ],
     "wof:id":1126109365,
-    "wof:lastmodified":1549930558,
+    "wof:lastmodified":1566680686,
     "wof:name":"HaKarmel",
     "wof:parent_id":421168693,
     "wof:placetype":"neighbourhood",

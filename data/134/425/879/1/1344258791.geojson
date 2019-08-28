@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"35.23179,32.82388,35.27179,32.86388",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Koranit"
     ],
@@ -35,9 +39,6 @@
         "Koranit"
     ],
     "name:pol_x_preferred":[
-        "Koranit"
-    ],
-    "name:und_x_variant":[
         "Koranit"
     ],
     "src:geom":"geonames",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1344258791,
-    "wof:lastmodified":1564215373,
+    "wof:lastmodified":1566680551,
     "wof:name":"Qoranit",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

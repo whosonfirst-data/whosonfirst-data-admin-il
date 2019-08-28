@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"35.21452,32.88261,35.25452,32.92261",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Gilon"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1226250259,
-    "wof:lastmodified":1564215541,
+    "wof:lastmodified":1566680707,
     "wof:name":"Gilon",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":32.59517,
     "geom:longitude":35.15912,
     "iso:country":"IL",
+    "lbl:bbox":"35.13912,32.57517,35.17912,32.61517",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Midrach Oz"
@@ -31,7 +35,7 @@
     "name:pol_x_preferred":[
         "Midrach Oz"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u2018Ein al Mansi"
     ],
     "qs:gn_country":"IL",
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":294399,
         "gp:id":1967681,
-        "qs:id":1096662,
+        "qs_pg:id":1096662,
         "wd:id":"Q2777479",
         "wk:page":"Midrakh Oz"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":421188443,
-    "wof:lastmodified":1561760026,
+    "wof:lastmodified":1566680651,
     "wof:name":"Midrakh Oz",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

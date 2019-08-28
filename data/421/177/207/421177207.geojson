@@ -10,8 +10,12 @@
     "geom:latitude":31.24864,
     "geom:longitude":34.86007,
     "iso:country":"IL",
+    "lbl:bbox":"34.84007,31.22864,34.88007,31.26864",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0644 \u0627\u0644\u0633\u0628\u0639"
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":8310136,
         "gp:id":22528380,
-        "qs:id":1337326,
+        "qs_pg:id":1337326,
         "wd:id":"Q2298534"
     },
     "wof:country":"IL",
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421177207,
-    "wof:lastmodified":1561760035,
+    "wof:lastmodified":1566680675,
     "wof:name":"Tel Sheva",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

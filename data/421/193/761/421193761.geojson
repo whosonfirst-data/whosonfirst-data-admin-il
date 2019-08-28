@@ -10,8 +10,12 @@
     "geom:latitude":31.280465,
     "geom:longitude":35.125985,
     "iso:country":"IL",
+    "lbl:bbox":"35.1059855,31.2604645,35.1459855,31.3004645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22722773,
-        "qs:id":1187402
+        "qs_pg:id":1187402
     },
     "wof:country":"IL",
     "wof:created":1459009782,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421193761,
-    "wof:lastmodified":1549930384,
+    "wof:lastmodified":1566680634,
     "wof:name":"Kderat a Zana",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

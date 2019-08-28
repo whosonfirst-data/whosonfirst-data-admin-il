@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"35.0737,32.86362,35.1137,32.90362",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:heb_x_preferred":[
         "Na\u2018aman"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243275655,
-    "wof:lastmodified":1549930467,
+    "wof:lastmodified":1566680696,
     "wof:name":"Na`aman",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

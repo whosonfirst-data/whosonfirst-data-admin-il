@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.93382,32.02984,34.97382,32.06984",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:heb_x_preferred":[
         "El\u2018ad"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276550549,
-    "wof:lastmodified":1549930479,
+    "wof:lastmodified":1566680584,
     "wof:name":"El`ad",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

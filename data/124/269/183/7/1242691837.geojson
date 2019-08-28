@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.39329,31.22833,34.43329,31.26833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Ami'oz"
     ],
@@ -45,8 +49,7 @@
         "Ammi\u2019oz"
     ],
     "name:und_x_variant":[
-        "Amioz",
-        "\u2018Ammi\u2018oz"
+        "Amioz"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1242691837,
-    "wof:lastmodified":1564215516,
+    "wof:lastmodified":1566680693,
     "wof:name":"`Ammi`oz",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

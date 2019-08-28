@@ -10,8 +10,12 @@
     "geom:latitude":31.55764,
     "geom:longitude":34.64664,
     "iso:country":"IL",
+    "lbl:bbox":"34.62664,31.53764,34.66664,31.57764",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Beror H\u0331ayil"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "Beror H\u0331ayil"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Brur Hayil"
     ],
     "qs:gn_country":"IL",
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":295492,
         "gp:id":1967168,
-        "qs:id":1159670,
+        "qs_pg:id":1159670,
         "wd:id":"Q990653",
         "wk:page":"Bror Hayil"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421191887,
-    "wof:lastmodified":1563315166,
+    "wof:lastmodified":1566680660,
     "wof:name":"Beror Hayil",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

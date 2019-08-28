@@ -10,8 +10,12 @@
     "geom:latitude":32.28493,
     "geom:longitude":34.98106,
     "iso:country":"IL",
+    "lbl:bbox":"34.96106,32.26493,35.00106,32.30493",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0642\u0644\u0646\u0633\u0648\u0629"
@@ -76,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u0430\u043d\u0441\u0443\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qalansuwah"
     ],
     "name:urd_x_preferred":[
@@ -119,7 +123,7 @@
     "wof:concordances":{
         "gn:id":293896,
         "gp:id":1967827,
-        "qs:id":1301778,
+        "qs_pg:id":1301778,
         "wd:id":"Q168152"
     },
     "wof:country":"IL",
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":421200395,
-    "wof:lastmodified":1563315202,
+    "wof:lastmodified":1566680668,
     "wof:name":"Qalansuwa",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

@@ -9,14 +9,15 @@
     "geom:bbox":"34.7882080078,32.0423167868,34.8121439025,32.065119354",
     "geom:latitude":32.054212,
     "geom:longitude":34.797505,
-    "gn:gn_country":"IL",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"IL",
+    "gn:fcode":"PPLX",
     "gn:latitude":32.05661,
     "gn:longitude":34.79289,
+    "gn:population":0,
     "iso:country":"IL",
     "lbl:latitude":32.059177,
     "lbl:longitude":34.795435,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.055024,
     "mps:longitude":34.796536,
     "mz:hierarchy_label":1,
@@ -41,8 +42,7 @@
     "name:rus_x_preferred":[
         "\u042f\u0434-\u042d\u043b\u0438\u044f\u0445\u0443"
     ],
-    "name:unk_x_variant":[
-        "Yad Eliyahu",
+    "name:und_x_variant":[
         "Yad Eliyyahu"
     ],
     "qs:gn_adm0_cc":"IL",
@@ -90,7 +90,7 @@
     "qs_pg:woe_id":22725118,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":134,
     "wof:belongsto":[
         85672549,
@@ -103,7 +103,6 @@
     "wof:concordances":{
         "gn:id":8427184,
         "gp:id":22725118,
-        "qs:id":1191446,
         "qs_pg:id":1191446,
         "wd:id":"Q2908308"
     },
@@ -123,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563314947,
+    "wof:lastmodified":1566680566,
     "wof:name":"Yad Eliyahu",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

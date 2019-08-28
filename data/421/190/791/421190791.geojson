@@ -10,8 +10,12 @@
     "geom:latitude":32.91209,
     "geom:longitude":35.563259,
     "iso:country":"IL",
+    "lbl:bbox":"35.543259,32.89209,35.583259,32.93209",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0627\u0632\u064a\u0645"
@@ -69,7 +73,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22528335,
-        "qs:id":1121058,
+        "qs_pg:id":1121058,
         "wd:id":"Q2916644"
     },
     "wof:country":"IL",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421190791,
-    "wof:lastmodified":1563315169,
+    "wof:lastmodified":1566680661,
     "wof:name":"Korazim",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

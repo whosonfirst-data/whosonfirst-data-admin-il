@@ -10,8 +10,12 @@
     "geom:latitude":32.83622,
     "geom:longitude":35.4004,
     "iso:country":"IL",
+    "lbl:bbox":"35.3804,32.81622,35.4204,32.85622",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0639\u064a\u0644\u0628\u0648\u0646"
@@ -69,7 +73,7 @@
     "name:swe_x_preferred":[
         "\u2018Eilabun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u2018Aylabun"
     ],
     "qs:gn_country":"IL",
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":295291,
         "gp:id":1967248,
-        "qs:id":267710,
+        "qs_pg:id":267710,
         "wd:id":"Q377111",
         "wk:page":"Eilabun"
     },
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":421166585,
-    "wof:lastmodified":1563315049,
+    "wof:lastmodified":1566680628,
     "wof:name":"Eilabun",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

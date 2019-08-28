@@ -10,8 +10,12 @@
     "geom:latitude":32.69706,
     "geom:longitude":35.4367,
     "iso:country":"IL",
+    "lbl:bbox":"35.4167,32.67706,35.4567,32.71706",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "\u0160admot Dvora"
@@ -28,7 +32,7 @@
     "name:pol_x_preferred":[
         "Szadmot Dvora"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u2018Omer"
     ],
     "qs:gn_country":"IL",
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":293577,
         "gp:id":1967957,
-        "qs:id":1168370,
+        "qs_pg:id":1168370,
         "wd:id":"Q2888594"
     },
     "wof:country":"IL",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421192537,
-    "wof:lastmodified":1561760016,
+    "wof:lastmodified":1566680630,
     "wof:name":"Shadmot Devora",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

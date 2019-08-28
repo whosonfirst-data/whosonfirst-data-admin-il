@@ -10,8 +10,12 @@
     "geom:latitude":32.64521,
     "geom:longitude":35.42147,
     "iso:country":"IL",
+    "lbl:bbox":"35.40147,32.62521,35.44147,32.66521",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0645\u0635\u0631"
@@ -46,7 +50,7 @@
     "name:swe_x_preferred":[
         "Kafr Mi\u1e63r"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kafr Masr"
     ],
     "name:urd_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":294607,
         "gp:id":1967498,
-        "qs:id":433585,
+        "qs_pg:id":433585,
         "wd:id":"Q667103",
         "wk:page":"Kafr Misr"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421177679,
-    "wof:lastmodified":1563315225,
+    "wof:lastmodified":1566680675,
     "wof:name":"Kafr Misr",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

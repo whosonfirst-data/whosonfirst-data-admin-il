@@ -13,6 +13,7 @@
     "iso:country":"IL",
     "lbl:latitude":31.792387,
     "lbl:longitude":35.204315,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.792918,
     "mps:longitude":35.204842,
     "mz:hierarchy_label":1,
@@ -45,9 +46,6 @@
     "name:slk_x_preferred":[
         "Mekor Baruch"
     ],
-    "name:unk_x_variant":[
-        "Mekor Barukh"
-    ],
     "name:yid_x_preferred":[
         "\u05de\u05e7\u05d5\u05e8 \u05d1\u05e8\u05d5\u05da"
     ],
@@ -75,7 +73,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1195,
     "wof:belongsto":[
         85672551,
@@ -87,7 +85,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724663,
-        "qs:id":14504,
+        "qs_pg:id":14504,
         "wd:id":"Q2919764"
     },
     "wof:country":"IL",
@@ -106,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563314928,
+    "wof:lastmodified":1566680558,
     "wof:name":"Mekor Barukh",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"35.35376,32.7913,35.39376,32.8313",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:heb_x_preferred":[
         "\u05e0\u05d2\u2019\u05d3\u05ea"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310407509,
-    "wof:lastmodified":1549930428,
+    "wof:lastmodified":1566680614,
     "wof:name":"Nujeidat",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

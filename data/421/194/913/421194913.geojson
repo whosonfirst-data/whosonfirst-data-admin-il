@@ -10,8 +10,12 @@
     "geom:latitude":32.15208,
     "geom:longitude":34.92827,
     "iso:country":"IL",
+    "lbl:bbox":"34.90827,32.13208,34.94827,32.17208",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Eli\u0161ama"
@@ -31,7 +35,7 @@
     "name:pol_x_preferred":[
         "Elishama"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Elisama"
     ],
     "qs:gn_country":"IL",
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":295263,
         "gp:id":1967265,
-        "qs:id":59056,
+        "qs_pg:id":59056,
         "wd:id":"Q2920304",
         "wk:page":"Elishama, Israel"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":421194913,
-    "wof:lastmodified":1563315064,
+    "wof:lastmodified":1566680632,
     "wof:name":"Elishama",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

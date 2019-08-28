@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.92999,32.40357,34.96999,32.44357",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:heb_x_preferred":[
         "\u05e9\u05db\u05d5\u05e0\u05ea \u05d1\u05d9\u05ea \u05d0\u05dc\u05d9\u05e2\u05d6\u05e8"
     ],
@@ -32,9 +36,6 @@
         "\u05d1\u05d9\u05ea \u05d0\u05dc\u05d9\u05e2\u05d6\u05e8",
         "Shekhunat Bet Eli\u2018ezer",
         "Bet Eli\u2018ezer"
-    ],
-    "name:und_x_variant":[
-        "Shekhunat Bet Eli\u2018ezer"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1259980135,
-    "wof:lastmodified":1549930504,
+    "wof:lastmodified":1566680697,
     "wof:name":"Shekhunat Bet Eli`ezer",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

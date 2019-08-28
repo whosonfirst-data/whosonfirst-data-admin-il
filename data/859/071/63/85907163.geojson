@@ -11,8 +11,10 @@
     "geom:longitude":35.223542,
     "gn:id":"",
     "iso:country":"IL",
+    "lbl:bbox":"35.218542,31.771657,35.228542,31.781657",
     "lbl:latitude":31.776657,
     "lbl:longitude":35.223542,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.77697,
     "mps:longitude":35.223546,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Jewich Quarter"
-    ],
-    "name:unk_x_variant":[
         "Jewich Quarter"
     ],
     "qs:gn_id":0,
@@ -55,18 +54,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724642,
-        "qs:id":1262809,
         "qs_pg:id":1262809
     },
     "wof:country":"IL",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930546,
+    "wof:lastmodified":1566680558,
     "wof:name":"Jewich Quarter",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

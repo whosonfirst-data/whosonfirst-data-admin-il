@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"35.07182,31.76653,35.11182,31.80653",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Giv'at Je'arim"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1343354151,
-    "wof:lastmodified":1564215382,
+    "wof:lastmodified":1566680555,
     "wof:name":"Giv`at Ye`arim",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

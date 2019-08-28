@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.74915,31.76052,34.78915,31.80052",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:heb_x_preferred":[
         "H\u0331a\u1e95av"
     ],
@@ -35,8 +39,7 @@
         "Masmiyah Hadashah",
         "Masmiyah Hahadashah",
         "Masmiya \u1e24adasha",
-        "\u1e24atsav",
-        "H\u0331a\u1e95av"
+        "\u1e24atsav"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1292917271,
-    "wof:lastmodified":1549930383,
+    "wof:lastmodified":1566680575,
     "wof:name":"Hazav",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

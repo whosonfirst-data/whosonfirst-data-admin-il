@@ -10,8 +10,12 @@
     "geom:latitude":32.9282,
     "geom:longitude":35.15705,
     "iso:country":"IL",
+    "lbl:bbox":"35.13705,32.9082,35.17705,32.9482",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062c\u062f\u064a\u062f\u0629"
@@ -31,7 +35,7 @@
     "name:nld_x_preferred":[
         "Judeida"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Judeida"
     ],
     "qs:gn_country":"IL",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":294622,
         "gp:id":1967490,
-        "qs:id":1301677,
+        "qs_pg:id":1301677,
         "wd:id":"Q6302406"
     },
     "wof:country":"IL",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421200385,
-    "wof:lastmodified":1563315201,
+    "wof:lastmodified":1566680668,
     "wof:name":"Judeida",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

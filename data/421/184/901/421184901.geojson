@@ -10,8 +10,12 @@
     "geom:latitude":32.89231,
     "geom:longitude":35.5105,
     "iso:country":"IL",
+    "lbl:bbox":"35.4905,32.87231,35.5305,32.91231",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0627\u062d\u0644"
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":8140375,
         "gp:id":22528334,
-        "qs:id":1014367,
+        "qs_pg:id":1014367,
         "wd:id":"Q2890717",
         "wk:page":"Kahal"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421184901,
-    "wof:lastmodified":1563315210,
+    "wof:lastmodified":1566680671,
     "wof:name":"Kahal",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

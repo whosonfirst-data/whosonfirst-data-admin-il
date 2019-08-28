@@ -10,8 +10,12 @@
     "geom:latitude":33.0592,
     "geom:longitude":35.61033,
     "iso:country":"IL",
+    "lbl:bbox":"35.59033,33.0392,35.63033,33.0792",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Yesud HaMa\u2018ala"
@@ -56,7 +60,7 @@
     "name:swe_x_preferred":[
         "Yesud HaMa\u2018ala"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khirbet Zubeid"
     ],
     "name:urd_x_preferred":[
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":293191,
         "gp:id":1968093,
-        "qs:id":40634,
+        "qs_pg:id":40634,
         "wd:id":"Q2639602",
         "wk:page":"Yesud HaMa'ala"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421189343,
-    "wof:lastmodified":1563315134,
+    "wof:lastmodified":1566680651,
     "wof:name":"Yesud HaMaala",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

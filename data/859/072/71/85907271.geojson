@@ -9,14 +9,15 @@
     "geom:bbox":"34.8101806641,32.0847558928,34.8326839365,32.0988630365",
     "geom:latitude":32.092139,
     "geom:longitude":34.82239,
-    "gn:gn_country":"IL",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"IL",
+    "gn:fcode":"PPLX",
     "gn:latitude":32.09237,
     "gn:longitude":34.81877,
+    "gn:population":0,
     "iso:country":"IL",
     "lbl:latitude":32.0935,
     "lbl:longitude":34.819825,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.092808,
     "mps:longitude":34.823499,
     "mz:hierarchy_label":1,
@@ -38,9 +39,6 @@
     "name:heb_x_variant":[
         "\u05e0\u05d7\u05dc\u05ea \u05d2\u05e0\u05d9\u05dd",
         "Na\u1e96alat Ganim"
-    ],
-    "name:unk_x_variant":[
-        "Nakhalat Ganim"
     ],
     "qs:gn_adm0_cc":"IL",
     "qs:gn_fcode":"PPLX",
@@ -87,19 +85,18 @@
     "qs_pg:woe_id":22725110,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85672549,
         102191569,
         85632315,
         421183425,
-        1108720837,
-        85672549
+        1108720837
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8427147,
         "gp:id":22725110,
-        "qs:id":1182152,
         "qs_pg:id":1182152
     },
     "wof:country":"IL",
@@ -118,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930545,
+    "wof:lastmodified":1566680567,
     "wof:name":"Nakhalat Ganim",
     "wof:parent_id":421183425,
     "wof:placetype":"neighbourhood",

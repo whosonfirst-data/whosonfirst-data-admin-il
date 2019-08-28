@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"35.33,31.94667,35.37,31.98667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kochav HaShachar"
     ],
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1242770345,
-    "wof:lastmodified":1564215518,
+    "wof:lastmodified":1566680694,
     "wof:name":"Kokhav HaShahar",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":31.78072,
     "geom:longitude":35.00994,
     "iso:country":"IL",
+    "lbl:bbox":"34.98994,31.76072,35.02994,31.80072",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Eshtaol"
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":295143,
         "gp:id":1967313,
-        "qs:id":326880,
+        "qs_pg:id":326880,
         "wd:id":"Q3593"
     },
     "wof:country":"IL",
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":421174383,
-    "wof:lastmodified":1563315109,
+    "wof:lastmodified":1566680643,
     "wof:name":"Eshta'ol",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

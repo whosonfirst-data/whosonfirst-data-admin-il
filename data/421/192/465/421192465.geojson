@@ -10,8 +10,12 @@
     "geom:latitude":32.56298,
     "geom:longitude":35.31979,
     "iso:country":"IL",
+    "lbl:bbox":"35.29979,32.54298,35.33979,32.58298",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Jizreel"
@@ -37,7 +41,7 @@
     "name:pol_x_variant":[
         "Jizreel"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jezreel"
     ],
     "qs:gn_country":"IL",
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":293166,
         "gp:id":1968103,
-        "qs:id":1168241,
+        "qs_pg:id":1168241,
         "wd:id":"Q2917058"
     },
     "wof:country":"IL",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":421192465,
-    "wof:lastmodified":1563315054,
+    "wof:lastmodified":1566680629,
     "wof:name":"Yizreel",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":31.24057,
     "geom:longitude":34.7139,
     "iso:country":"IL",
+    "lbl:bbox":"34.6939,31.22057,34.7339,31.26057",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Chacerim"
@@ -43,7 +47,7 @@
     "name:rus_x_preferred":[
         "\u0425\u0430\u0446\u0435\u0440\u0438\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qiltah"
     ],
     "qs:gn_country":"IL",
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":294817,
         "gp:id":1967444,
-        "qs:id":894376,
+        "qs_pg:id":894376,
         "wd:id":"Q1018902"
     },
     "wof:country":"IL",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":421193407,
-    "wof:lastmodified":1561760018,
+    "wof:lastmodified":1566680633,
     "wof:name":"Hazerim",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

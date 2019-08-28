@@ -10,8 +10,12 @@
     "geom:latitude":32.97075,
     "geom:longitude":35.14506,
     "iso:country":"IL",
+    "lbl:bbox":"35.12506,32.95075,35.16506,32.99075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Bejt ha-Emek"
@@ -37,7 +41,7 @@
     "name:pol_x_preferred":[
         "Beit HaEmek"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Beit Ha\u2018Emeq"
     ],
     "qs:gn_country":"IL",
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":295466,
         "gp:id":1967178,
-        "qs:id":341509,
+        "qs_pg:id":341509,
         "wd:id":"Q598607",
         "wk:page":"Beit HaEmek"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421174529,
-    "wof:lastmodified":1563315110,
+    "wof:lastmodified":1566680644,
     "wof:name":"Bet HaEmeq",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

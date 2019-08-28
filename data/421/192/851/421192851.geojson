@@ -10,8 +10,12 @@
     "geom:latitude":32.49212,
     "geom:longitude":34.89224,
     "iso:country":"IL",
+    "lbl:bbox":"34.87224,32.47212,34.91224,32.51212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sedot Yam"
@@ -52,7 +56,7 @@
     "name:swe_x_preferred":[
         "Sdot Yam"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Caesarea"
     ],
     "qs:gn_country":"IL",
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":293608,
         "gp:id":22528303,
-        "qs:id":1181966,
+        "qs_pg:id":1181966,
         "wd:id":"Q1325255",
         "wk:page":"Sdot Yam"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421192851,
-    "wof:lastmodified":1563315052,
+    "wof:lastmodified":1566680629,
     "wof:name":"Sedot Yam",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

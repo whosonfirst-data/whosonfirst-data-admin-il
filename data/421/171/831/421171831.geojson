@@ -10,8 +10,12 @@
     "geom:latitude":32.36263,
     "geom:longitude":34.85934,
     "iso:country":"IL",
+    "lbl:bbox":"34.83934,32.34263,34.87934,32.38263",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Chavacelet ha-\u0160aron"
@@ -38,7 +42,7 @@
     "name:pol_x_preferred":[
         "Havatzelet HaSharon"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Havatselet Hasharon"
     ],
     "qs:gn_country":"IL",
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":294834,
         "gp:id":1967437,
-        "qs:id":270440,
+        "qs_pg:id":270440,
         "wd:id":"Q2920189"
     },
     "wof:country":"IL",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421171831,
-    "wof:lastmodified":1563315252,
+    "wof:lastmodified":1566680682,
     "wof:name":"Havazzelet HaSharon",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

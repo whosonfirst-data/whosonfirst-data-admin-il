@@ -10,8 +10,12 @@
     "geom:latitude":32.26496,
     "geom:longitude":34.84549,
     "iso:country":"IL",
+    "lbl:bbox":"34.82549,32.24496,34.86549,32.28496",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Udim"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":293291,
         "gp:id":1968048,
-        "qs:id":1090937,
+        "qs_pg:id":1090937,
         "wd:id":"Q2920013",
         "wk:page":"Udim"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421188229,
-    "wof:lastmodified":1561760026,
+    "wof:lastmodified":1566680651,
     "wof:name":"Udim",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

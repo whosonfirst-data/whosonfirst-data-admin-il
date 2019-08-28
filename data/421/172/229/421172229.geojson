@@ -10,8 +10,12 @@
     "geom:latitude":32.75179,
     "geom:longitude":34.95694,
     "iso:country":"IL",
+    "lbl:bbox":"34.93694,32.73179,34.97694,32.77179",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Ha-Chotrim"
@@ -39,9 +43,6 @@
     ],
     "name:pol_x_variant":[
         "HaHoterim"
-    ],
-    "name:unk_x_variant":[
-        "Hahotrim"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -73,7 +74,7 @@
     "wof:concordances":{
         "gn:id":294924,
         "gp:id":1967408,
-        "qs:id":1301648,
+        "qs_pg:id":1301648,
         "wd:id":"Q269858",
         "wk:page":"HaHotrim"
     },
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":421172229,
-    "wof:lastmodified":1563315137,
+    "wof:lastmodified":1566680651,
     "wof:name":"HaHoterim",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

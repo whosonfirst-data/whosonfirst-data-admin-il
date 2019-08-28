@@ -10,8 +10,12 @@
     "geom:latitude":31.20303,
     "geom:longitude":34.53473,
     "iso:country":"IL",
+    "lbl:bbox":"34.51473,31.18303,34.55473,31.22303",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0632\u064a\u0644\u064a\u0645"
@@ -40,7 +44,7 @@
     "name:rus_x_preferred":[
         "\u0426\u0435\u044d\u043b\u0438\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tseelim"
     ],
     "qs:gn_country":"IL",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":293106,
         "gp:id":1968220,
-        "qs:id":266120,
+        "qs_pg:id":266120,
         "wd:id":"Q2916631"
     },
     "wof:country":"IL",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421166371,
-    "wof:lastmodified":1563315045,
+    "wof:lastmodified":1566680627,
     "wof:name":"Ze'elim",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":31.356568,
     "geom:longitude":35.058746,
     "iso:country":"IL",
+    "lbl:bbox":"35.038746,31.336568,35.078746,31.376568",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Machane Jatir"
@@ -48,7 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22528393,
-        "qs:id":1186921,
+        "qs_pg:id":1186921,
         "wd:id":"Q21198015"
     },
     "wof:country":"IL",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":421198039,
-    "wof:lastmodified":1563315160,
+    "wof:lastmodified":1566680658,
     "wof:name":"Mahane Yatir",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

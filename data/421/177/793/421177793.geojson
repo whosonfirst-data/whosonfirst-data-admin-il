@@ -10,8 +10,12 @@
     "geom:latitude":32.48056,
     "geom:longitude":35.41806,
     "iso:country":"IL",
+    "lbl:bbox":"35.39806,32.46056,35.43806,32.50056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Ma'ale Gilboa"
@@ -39,7 +43,7 @@
     "name:pol_x_variant":[
         "Maale Gilboa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maal\u00e9-Hagilbo\u2018a"
     ],
     "qs:gn_country":"IL",
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":294407,
         "gp:id":1967607,
-        "qs:id":1353672,
+        "qs_pg:id":1353672,
         "wd:id":"Q2122843",
         "wk:page":"Ma'ale Gilboa"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421177793,
-    "wof:lastmodified":1563315224,
+    "wof:lastmodified":1566680675,
     "wof:name":"Maale Gilboa",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

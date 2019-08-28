@@ -10,8 +10,12 @@
     "geom:latitude":32.56348,
     "geom:longitude":35.02078,
     "iso:country":"IL",
+    "lbl:bbox":"35.00078,32.54348,35.04078,32.58348",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0639\u0645\u064a\u0643\u0627\u0645"
@@ -46,9 +50,6 @@
     "name:rus_x_preferred":[
         "\u0410\u043c\u0438\u043a\u0430\u043c"
     ],
-    "name:unk_x_variant":[
-        "Ammikam"
-    ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":8143374,
@@ -79,7 +80,7 @@
     "wof:concordances":{
         "gn:id":8143374,
         "gp:id":22528368,
-        "qs:id":981377,
+        "qs_pg:id":981377,
         "wd:id":"Q2340747"
     },
     "wof:country":"IL",
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":421183545,
-    "wof:lastmodified":1563315229,
+    "wof:lastmodified":1566680676,
     "wof:name":"Ammiqam",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

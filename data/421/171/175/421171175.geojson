@@ -10,8 +10,12 @@
     "geom:latitude":32.38126,
     "geom:longitude":34.87737,
     "iso:country":"IL",
+    "lbl:bbox":"34.85737,32.36126,34.89737,32.40126",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Kfar Vitkin"
@@ -34,7 +38,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0444\u0430\u0440-\u0412\u0438\u0442\u043a\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kefar Witkin"
     ],
     "name:zho_x_preferred":[
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":294498,
         "gp:id":1967576,
-        "qs:id":1211306,
+        "qs_pg:id":1211306,
         "wd:id":"Q2495402",
         "wk:page":"Kfar Vitkin"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421171175,
-    "wof:lastmodified":1563315250,
+    "wof:lastmodified":1566680682,
     "wof:name":"Kefar Vitkin",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

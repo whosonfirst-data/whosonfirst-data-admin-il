@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.86761,32.14372,34.90761,32.18372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ramot HaShavim"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1259988387,
-    "wof:lastmodified":1564215524,
+    "wof:lastmodified":1566680697,
     "wof:name":"Ramot HaShavim",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

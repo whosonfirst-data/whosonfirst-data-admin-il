@@ -9,14 +9,16 @@
     "geom:bbox":"34.808921,31.889789,34.808921,31.889789",
     "geom:latitude":31.889789,
     "geom:longitude":34.808921,
-    "gn:gn_country":"IL",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"IL",
+    "gn:fcode":"PPLX",
     "gn:latitude":31.87498,
     "gn:longitude":34.81533,
+    "gn:population":0,
     "iso:country":"IL",
+    "lbl:bbox":"34.803921,31.884789,34.813921,31.894789",
     "lbl:latitude":31.889789,
     "lbl:longitude":34.808921,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.884674,
     "mps:longitude":34.818219,
     "mz:hierarchy_label":0,
@@ -44,10 +46,6 @@
     ],
     "name:heb_x_variant":[
         "\u05d7\u05d1\u05e6\u05dc\u05ea"
-    ],
-    "name:unk_x_variant":[
-        "H\u0331ava\u1e95\u1e95elet",
-        "H\u0331ava\u1e95elet"
     ],
     "qs:gn_adm0_cc":"IL",
     "qs:gn_fcode":"PPLX",
@@ -96,18 +94,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85672541,
         102191569,
         85632315,
-        1108720813,
-        85672541
+        1108720813
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":294835,
         "gp:id":1967436,
-        "qs:id":894375,
         "qs_pg:id":894375
     },
     "wof:country":"IL",
@@ -126,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930538,
+    "wof:lastmodified":1566680560,
     "wof:name":"H\u0331ava\u1e95\u1e95elet",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

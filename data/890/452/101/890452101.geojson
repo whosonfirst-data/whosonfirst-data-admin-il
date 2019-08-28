@@ -11,10 +11,14 @@
     "geom:longitude":35.13393,
     "gn:country":"IL",
     "gn:fcode":"PPL",
-    "gn:pop":1195,
+    "gn:population":1195,
     "iso:country":"IL",
+    "lbl:bbox":"35.11393,31.90609,35.15393,31.94609",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0644\u0641"
     ],
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":8199393,
         "gp:id":1937180,
-        "qs:id":759675,
+        "qs_pg:id":759675,
         "wd:id":"Q2890625",
         "wk:page":"Dolev"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":890452101,
-    "wof:lastmodified":1563315260,
+    "wof:lastmodified":1566680684,
     "wof:name":"Dolev",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

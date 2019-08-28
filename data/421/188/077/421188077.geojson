@@ -10,8 +10,11 @@
     "geom:latitude":32.075083,
     "geom:longitude":34.853096,
     "iso:country":"IL",
+    "lbl:bbox":"34.848096,32.070083,34.858096,32.080083",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -33,16 +36,16 @@
     "qs:woe_id":22725177,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85672541,
         102191569,
         85632315,
         421202049,
-        1108720821,
-        85672541
+        1108720821
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725177,
-        "qs:id":1087584
+        "qs_pg:id":1087584
     },
     "wof:country":"IL",
     "wof:created":1459009533,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":421188077,
-    "wof:lastmodified":1549930549,
+    "wof:lastmodified":1566680651,
     "wof:name":"Kiryat Ha-yeshiva",
     "wof:parent_id":421202049,
     "wof:placetype":"neighbourhood",

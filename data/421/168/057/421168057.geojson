@@ -10,8 +10,12 @@
     "geom:latitude":32.76226,
     "geom:longitude":35.1477,
     "iso:country":"IL",
+    "lbl:bbox":"35.1277,32.74226,35.1677,32.78226",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0646\u0648\u0641\u064a\u062a"
@@ -37,7 +41,7 @@
     "name:pol_x_preferred":[
         "Nofit"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pi Ner"
     ],
     "qs:gn_country":"IL",
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":8265522,
         "gp:id":22722793,
-        "qs:id":962014,
+        "qs_pg:id":962014,
         "wd:id":"Q2890467",
         "wk:page":"Nofit"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421168057,
-    "wof:lastmodified":1563315040,
+    "wof:lastmodified":1566680625,
     "wof:name":"Nofit",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

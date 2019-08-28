@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.87828,32.14656,34.91828,32.18656",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0641\u0627\u0631 \u0645\u0644\u0627\u0644"
     ],
@@ -78,9 +82,7 @@
     ],
     "name:und_x_variant":[
         "\u2018Ein H\u0101y",
-        "Kfar Malal",
         "\u2018Ein Hai",
-        "Kefar Malal",
         "Kefar Mallal"
     ],
     "name:urd_x_preferred":[
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":1209418091,
-    "wof:lastmodified":1564215427,
+    "wof:lastmodified":1566680587,
     "wof:name":"Kefar Malal",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

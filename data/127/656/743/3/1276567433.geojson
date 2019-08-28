@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"35.01333,31.88,35.05333,31.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:heb_x_colloquial":[
         "\u05db\u05e4\u05e8 \u05e8\u05d5\u05ea"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276567433,
-    "wof:lastmodified":1549930524,
+    "wof:lastmodified":1566680581,
     "wof:name":"Kefar Rut",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

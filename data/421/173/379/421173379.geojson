@@ -10,8 +10,12 @@
     "geom:latitude":32.95385,
     "geom:longitude":35.08076,
     "iso:country":"IL",
+    "lbl:bbox":"35.06076,32.93385,35.10076,32.97385",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Bustan HaGalil"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "Bustan HaGalil"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bustan"
     ],
     "qs:gn_country":"IL",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":295372,
         "gp:id":1967226,
-        "qs:id":288025,
+        "qs_pg:id":288025,
         "wd:id":"Q2888735",
         "wk:page":"Bustan HaGalil"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421173379,
-    "wof:lastmodified":1563315128,
+    "wof:lastmodified":1566680649,
     "wof:name":"Bustan HaGalil",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

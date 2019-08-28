@@ -12,10 +12,13 @@
     "iso:country":"IL",
     "lbl:latitude":32.310694,
     "lbl:longitude":34.862344,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":32.310694,
     "mps:longitude":34.862344,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Netanya"
@@ -204,7 +207,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0442\u0430\u043d\u044c\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Natanya"
     ],
     "name:urd_x_preferred":[
@@ -260,7 +263,7 @@
     "wof:concordances":{
         "gn:id":294071,
         "gp:id":1968195,
-        "qs:id":810313,
+        "qs_pg:id":810313,
         "wd:id":"Q192225",
         "wk:page":"Netanya"
     },
@@ -277,7 +280,7 @@
         }
     ],
     "wof:id":421182059,
-    "wof:lastmodified":1563315242,
+    "wof:lastmodified":1566680679,
     "wof:name":"Netanya",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":33.06755,
     "geom:longitude":35.18704,
     "iso:country":"IL",
+    "lbl:bbox":"35.16704,33.04755,35.20704,33.08755",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Ja'ara"
@@ -35,7 +39,7 @@
     "name:pol_x_preferred":[
         "Ja'ara"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ya\u2018arah"
     ],
     "qs:gn_country":"IL",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":293264,
         "gp:id":1968057,
-        "qs:id":118996,
+        "qs_pg:id":118996,
         "wd:id":"Q2777942"
     },
     "wof:country":"IL",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421178389,
-    "wof:lastmodified":1563315237,
+    "wof:lastmodified":1566680677,
     "wof:name":"Yaara",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

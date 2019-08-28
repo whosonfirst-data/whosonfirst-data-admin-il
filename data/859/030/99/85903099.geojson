@@ -14,6 +14,7 @@
     "iso:country":"IL",
     "lbl:latitude":31.794098,
     "lbl:longitude":35.187064,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.800743,
     "mps:longitude":35.181507,
     "mz:hierarchy_label":1,
@@ -36,9 +37,6 @@
     ],
     "name:heb_x_variant":[
         "\u05d2\u05d1\u05e2\u05ea \u05e9\u05d0\u05d5\u05dc"
-    ],
-    "name:unk_x_variant":[
-        "Giv\u2019at Sha'ul"
     ],
     "qs:gn_adm0_cc":"IL",
     "qs:gn_fcode":"PPLX",
@@ -67,19 +65,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":294983,
         "gp:id":1967392,
-        "qs:id":1028721,
         "qs_pg:id":1028721
     },
     "wof:country":"IL",
@@ -98,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930558,
+    "wof:lastmodified":1566680561,
     "wof:name":"Giv\u2019at Sha'ul",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

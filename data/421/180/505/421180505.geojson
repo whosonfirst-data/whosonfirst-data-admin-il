@@ -10,8 +10,12 @@
     "geom:latitude":32.99556,
     "geom:longitude":35.10092,
     "iso:country":"IL",
+    "lbl:bbox":"35.08092,32.97556,35.12092,33.01556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Evron"
@@ -40,7 +44,7 @@
     "name:pol_x_variant":[
         "Ewron"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ga\u2018aton"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":295119,
         "gp:id":1967324,
-        "qs:id":433579,
+        "qs_pg:id":433579,
         "wd:id":"Q2889411",
         "wk:page":"Evron, Israel"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421180505,
-    "wof:lastmodified":1563315113,
+    "wof:lastmodified":1566680645,
     "wof:name":"Evron",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

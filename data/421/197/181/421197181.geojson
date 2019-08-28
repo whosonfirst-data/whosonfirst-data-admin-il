@@ -10,8 +10,12 @@
     "geom:latitude":32.96308,
     "geom:longitude":35.09502,
     "iso:country":"IL",
+    "lbl:bbox":"35.07502,32.94308,35.11502,32.98308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Lochamej ha-Geta'ot"
@@ -53,7 +57,7 @@
     "name:rus_x_preferred":[
         "\u041b\u043e\u0445\u0430\u043c\u0435\u0439-\u0445\u0430-\u0433\u0435\u0442\u0430\u043e\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Asher"
     ],
     "qs:gn_country":"IL",
@@ -87,7 +91,7 @@
         "gn:id":294419,
         "gp:id":1967602,
         "loc:id":"n79100872",
-        "qs:id":1353671,
+        "qs_pg:id":1353671,
         "wd:id":"Q536383",
         "wk:page":"Lohamei HaGeta'ot"
     },
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":421197181,
-    "wof:lastmodified":1563315176,
+    "wof:lastmodified":1566680664,
     "wof:name":"Lohame HaGeta'ot",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

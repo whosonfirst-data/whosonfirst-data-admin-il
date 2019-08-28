@@ -10,8 +10,12 @@
     "geom:latitude":32.7138,
     "geom:longitude":35.56301,
     "iso:country":"IL",
+    "lbl:bbox":"35.54301,32.6938,35.58301,32.7338",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Kvutzat Kinneret"
@@ -60,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0432\u0443\u0446\u0430\u0442-\u041a\u0456\u043d\u0435\u0440\u0435\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kineret"
     ],
     "qs:gn_country":"IL",
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":294462,
         "gp:id":1967592,
-        "qs:id":1114908,
+        "qs_pg:id":1114908,
         "wd:id":"Q2296107",
         "wk:page":"Kvutzat Kinneret"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421189609,
-    "wof:lastmodified":1563315133,
+    "wof:lastmodified":1566680651,
     "wof:name":"Kinneret Qevuza",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

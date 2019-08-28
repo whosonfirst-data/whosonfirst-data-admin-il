@@ -10,8 +10,12 @@
     "geom:latitude":32.30577,
     "geom:longitude":34.90911,
     "iso:country":"IL",
+    "lbl:bbox":"34.88911,32.28577,34.92911,32.32577",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041f\u0430\u0440\u0434\u0435\u0441\u0438\u0439\u044f"
@@ -90,7 +94,7 @@
     "wof:concordances":{
         "gn:id":293942,
         "gp:id":1967813,
-        "qs:id":920373,
+        "qs_pg:id":920373,
         "wd:id":"Q1018875",
         "wk:page":"Pardesiya"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":421201513,
-    "wof:lastmodified":1563315210,
+    "wof:lastmodified":1566680670,
     "wof:name":"Pardesiyya",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

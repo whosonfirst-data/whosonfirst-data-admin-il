@@ -10,8 +10,12 @@
     "geom:latitude":31.80474,
     "geom:longitude":34.93852,
     "iso:country":"IL",
+    "lbl:bbox":"34.91852,31.78474,34.95852,31.82474",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Gizo"
@@ -35,9 +39,6 @@
         "Gizo"
     ],
     "name:swe_x_preferred":[
-        "Gizo"
-    ],
-    "name:unk_x_variant":[
         "Gizo"
     ],
     "qs:gn_country":"IL",
@@ -70,7 +71,7 @@
     "wof:concordances":{
         "gn:id":8183073,
         "gp:id":22528384,
-        "qs:id":1191298,
+        "qs_pg:id":1191298,
         "wd:id":"Q2778097",
         "wk:page":"Gizo, Israel"
     },
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":421170505,
-    "wof:lastmodified":1563315215,
+    "wof:lastmodified":1566680672,
     "wof:name":"Guizou",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

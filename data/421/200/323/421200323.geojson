@@ -10,8 +10,12 @@
     "geom:latitude":32.87756,
     "geom:longitude":35.27031,
     "iso:country":"IL",
+    "lbl:bbox":"35.25031,32.85756,35.29031,32.89756",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:amh_x_preferred":[
         "\u12e9\u126b\u120a\u121d"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":386266,
         "gp:id":1968109,
-        "qs:id":208888,
+        "qs_pg:id":208888,
         "wd:id":"Q2889900"
     },
     "wof:country":"IL",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421200323,
-    "wof:lastmodified":1563315200,
+    "wof:lastmodified":1566680667,
     "wof:name":"Yuvallim",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

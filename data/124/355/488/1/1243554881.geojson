@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.87661,32.44024,34.91661,32.48024",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:heb_x_preferred":[
         "H\u0331ef\u1e95i Bah"
     ],
@@ -36,8 +40,7 @@
         "Hephzibah",
         "Heftsi Vah",
         "Hefsi-bah",
-        "\u1e24eftsi Bah",
-        "H\u0331ef\u1e95i Bah"
+        "\u1e24eftsi Bah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1243554881,
-    "wof:lastmodified":1549930486,
+    "wof:lastmodified":1566680691,
     "wof:name":"Heftsiba",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

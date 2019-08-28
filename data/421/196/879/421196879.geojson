@@ -10,8 +10,12 @@
     "geom:latitude":33.04895,
     "geom:longitude":35.30894,
     "iso:country":"IL",
+    "lbl:bbox":"35.28894,33.02895,35.32894,33.06895",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0641\u0633\u0648\u0637\u0629"
@@ -52,7 +56,7 @@
     "name:swe_x_preferred":[
         "Pasuta"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mafshatah"
     ],
     "qs:gn_country":"IL",
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":295104,
         "gp:id":1967328,
-        "qs:id":1301611,
+        "qs_pg:id":1301611,
         "wd:id":"Q2917294",
         "wk:page":"Fassuta"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421196879,
-    "wof:lastmodified":1563315164,
+    "wof:lastmodified":1566680659,
     "wof:name":"Fassuta",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

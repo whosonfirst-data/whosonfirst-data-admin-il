@@ -10,8 +10,12 @@
     "geom:latitude":32.38091,
     "geom:longitude":34.8635,
     "iso:country":"IL",
+    "lbl:bbox":"34.8435,32.36091,34.8835,32.40091",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u064a\u0627\u0646\u0627\u064a"
@@ -33,9 +37,6 @@
     ],
     "name:pol_x_preferred":[
         "Beit Yanay"
-    ],
-    "name:unk_x_variant":[
-        "Beit Yanai"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -67,7 +68,7 @@
     "wof:concordances":{
         "gn:id":295426,
         "gp:id":1967206,
-        "qs:id":1120457,
+        "qs_pg:id":1120457,
         "wd:id":"Q2920020",
         "wk:page":"Beit Yanai"
     },
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":421190773,
-    "wof:lastmodified":1563315174,
+    "wof:lastmodified":1566680663,
     "wof:name":"Bet Yannay",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

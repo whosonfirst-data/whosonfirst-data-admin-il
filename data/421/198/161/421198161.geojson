@@ -10,8 +10,11 @@
     "geom:latitude":31.79289,
     "geom:longitude":35.16847,
     "iso:country":"IL",
+    "lbl:bbox":"35.16347,31.78789,35.17347,31.79789",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Moca"
@@ -37,7 +40,7 @@
     "name:por_x_preferred":[
         "Moza"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mo\u1e95a Ta\u1e96tit"
     ],
     "qs:gn_country":"IL",
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":294148,
         "gp:id":1967713,
-        "qs:id":1189766,
+        "qs_pg:id":1189766,
         "wd:id":"Q2916387"
     },
     "wof:country":"IL",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421198161,
-    "wof:lastmodified":1563315159,
+    "wof:lastmodified":1566680658,
     "wof:name":"Moza",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

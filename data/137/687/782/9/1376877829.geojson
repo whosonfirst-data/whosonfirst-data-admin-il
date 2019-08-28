@@ -10,13 +10,16 @@
     "geom:latitude":32.03352,
     "geom:longitude":34.84603,
     "iso:country":"IL",
+    "lbl:bbox":"34.84103,32.02852,34.85103,32.03852",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:heb_x_preferred":[
         "\u05e8\u05de\u05ea \u05e4\u05e0\u05e7\u05e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ramat Pinqas"
     ],
     "qs:gn_country":"IL",
@@ -39,17 +42,17 @@
     "qs:woe_id":1967878,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85672549,
         102191569,
         85632315,
         421196439,
-        1108720837,
-        85672549
+        1108720837
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":293778,
         "gp:id":1967878,
-        "qs:id":225794
+        "qs_pg:id":225794
     },
     "wof:country":"IL",
     "wof:created":1459010126,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1376877829,
-    "wof:lastmodified":1549930749,
+    "wof:lastmodified":1566680621,
     "wof:name":"Ramat Pinkas",
     "wof:parent_id":421196439,
     "wof:placetype":"neighbourhood",

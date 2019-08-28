@@ -10,8 +10,12 @@
     "geom:latitude":32.58982,
     "geom:longitude":35.07514,
     "iso:country":"IL",
+    "lbl:bbox":"35.05514,32.56982,35.09514,32.60982",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062f\u0627\u0644\u064a\u0627"
@@ -55,7 +59,7 @@
     "name:swe_x_preferred":[
         "Daliyya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Daliya"
     ],
     "qs:gn_country":"IL",
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":295363,
         "gp:id":1967231,
-        "qs:id":1207476,
+        "qs_pg:id":1207476,
         "wd:id":"Q1000997",
         "wk:page":"Dalia, Israel"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421171117,
-    "wof:lastmodified":1563315251,
+    "wof:lastmodified":1566680682,
     "wof:name":"Daliyya",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

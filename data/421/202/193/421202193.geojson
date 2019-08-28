@@ -10,8 +10,12 @@
     "geom:latitude":33.07472,
     "geom:longitude":35.14608,
     "iso:country":"IL",
+    "lbl:bbox":"35.12608,33.05472,35.16608,33.09472",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0634\u0644\u0648\u0645\u064a"
@@ -61,7 +65,7 @@
     "name:swe_x_preferred":[
         "Shelomi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chelomi"
     ],
     "qs:gn_country":"IL",
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":293522,
         "gp:id":1967978,
-        "qs:id":8142,
+        "qs_pg:id":8142,
         "wd:id":"Q135421",
         "wk:page":"Shlomi, Israel"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421202193,
-    "wof:lastmodified":1563315093,
+    "wof:lastmodified":1566680640,
     "wof:name":"Shelomi",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

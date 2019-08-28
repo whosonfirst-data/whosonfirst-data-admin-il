@@ -13,6 +13,7 @@
     "iso:country":"IL",
     "lbl:latitude":31.76871,
     "lbl:longitude":35.214635,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.767872,
     "mps:longitude":35.215322,
     "mz:hierarchy_label":1,
@@ -45,9 +46,6 @@
     "name:nld_x_preferred":[
         "Emek Refaim"
     ],
-    "name:unk_x_variant":[
-        "Emek Refa'im"
-    ],
     "qs:gn_adm0_cc":"PS",
     "qs:gn_id":0,
     "qs:gn_local":281184,
@@ -72,7 +70,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":518,
     "wof:belongsto":[
         85672551,
@@ -84,7 +82,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724686,
-        "qs:id":237764,
+        "qs_pg:id":237764,
         "wd:id":"Q7884739"
     },
     "wof:country":"IL",
@@ -103,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563314943,
+    "wof:lastmodified":1566680564,
     "wof:name":"Emek Refa'im",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

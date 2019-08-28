@@ -13,6 +13,7 @@
     "iso:country":"IL",
     "lbl:latitude":32.041141,
     "lbl:longitude":34.806135,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.028582,
     "mps:longitude":34.802284,
     "mz:hierarchy_label":1,
@@ -46,9 +47,6 @@
     "name:pol_x_preferred":[
         "Shani"
     ],
-    "name:unk_x_variant":[
-        "Livne"
-    ],
     "qs:gn_adm0_cc":"IL",
     "qs:gn_id":0,
     "qs:gn_local":293397,
@@ -73,7 +71,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":342,
     "wof:belongsto":[
         85672549,
@@ -85,7 +83,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725128,
-        "qs:id":911398,
+        "qs_pg:id":911398,
         "wd:id":"Q224721"
     },
     "wof:country":"IL",
@@ -104,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563314944,
+    "wof:lastmodified":1566680565,
     "wof:name":"Livne",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

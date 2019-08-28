@@ -10,8 +10,12 @@
     "geom:latitude":31.04395,
     "geom:longitude":34.72184,
     "iso:country":"IL",
+    "lbl:bbox":"34.70184,31.02395,34.74184,31.06395",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0420\u0435\u0432\u0438\u0432\u0438\u043c"
@@ -55,7 +59,7 @@
     "name:swe_x_preferred":[
         "Revivim"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tel Tsofim"
     ],
     "qs:gn_country":"IL",
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":293711,
         "gp:id":1968208,
-        "qs:id":267715,
+        "qs_pg:id":267715,
         "wd:id":"Q745981",
         "wk:page":"Revivim"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421166593,
-    "wof:lastmodified":1563315041,
+    "wof:lastmodified":1566680626,
     "wof:name":"Revivim",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

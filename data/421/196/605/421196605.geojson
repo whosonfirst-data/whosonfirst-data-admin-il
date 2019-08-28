@@ -10,8 +10,12 @@
     "geom:latitude":32.19423,
     "geom:longitude":34.91957,
     "iso:country":"IL",
+    "lbl:bbox":"34.89957,32.17423,34.93957,32.21423",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0633\u0648\u0641\u064a\u062a"
@@ -33,9 +37,6 @@
     ],
     "name:pol_x_preferred":[
         "Zofit"
-    ],
-    "name:unk_x_variant":[
-        "Tsofit"
     ],
     "name:vie_x_preferred":[
         "Tzofit"
@@ -70,7 +71,7 @@
     "wof:concordances":{
         "gn:id":293038,
         "gp:id":1968135,
-        "qs:id":1210213,
+        "qs_pg:id":1210213,
         "wd:id":"Q2908691",
         "wk:page":"Tzofit"
     },
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":421196605,
-    "wof:lastmodified":1563315164,
+    "wof:lastmodified":1566680659,
     "wof:name":"Zofit",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

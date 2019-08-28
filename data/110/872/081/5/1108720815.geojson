@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":31.923559,
     "lbl:longitude":34.923804,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Center",
     "meso:adm1_loc":"\u05de\u05e8\u05db\u05d6",
     "meso:hasc_id":"IL.HM.RM",
@@ -31,6 +33,7 @@
     "mps:longitude":34.923804,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Ramla"
     ],
@@ -151,9 +154,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043c\u043b\u0430"
     ],
-    "name:und_x_variant":[
-        "\u05e8\u05de\u05dc\u05d4"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u0645\u0644\u06c1"
     ],
@@ -177,10 +177,9 @@
         "meso"
     ],
     "src:geom_via":"meso",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1997-12-31",
+    "src:population_date":"1997-12-31",
     "statoids:area_km":"",
     "statoids:as_of_date":"1997-12-31",
     "statoids:capital":"",
@@ -212,7 +211,7 @@
         }
     ],
     "wof:id":1108720815,
-    "wof:lastmodified":1564215462,
+    "wof:lastmodified":1566680612,
     "wof:name":"Ramla",
     "wof:parent_id":85672541,
     "wof:placetype":"county",

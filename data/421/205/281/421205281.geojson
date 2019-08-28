@@ -10,8 +10,11 @@
     "geom:latitude":32.04559,
     "geom:longitude":34.77461,
     "iso:country":"IL",
+    "lbl:bbox":"34.76961,32.04059,34.77961,32.05059",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Kirjat \u0160alom"
@@ -26,9 +29,6 @@
         "\u05e7\u05e8\u05d9\u05ea \u05e9\u05dc\u05d5\u05dd"
     ],
     "name:sco_x_preferred":[
-        "Kiryat Shalom"
-    ],
-    "name:unk_x_variant":[
         "Kiryat Shalom"
     ],
     "qs:gn_country":"IL",
@@ -64,7 +64,7 @@
     "wof:concordances":{
         "gn:id":293827,
         "gp:id":1967854,
-        "qs:id":260370,
+        "qs_pg:id":260370,
         "wd:id":"Q2897568",
         "wk:page":"Kiryat Shalom"
     },
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":421205281,
-    "wof:lastmodified":1561760022,
+    "wof:lastmodified":1566680642,
     "wof:name":"Qiryat Shalom",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

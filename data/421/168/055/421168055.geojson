@@ -10,8 +10,12 @@
     "geom:latitude":32.81034,
     "geom:longitude":35.26009,
     "iso:country":"IL",
+    "lbl:bbox":"35.24009,32.79034,35.28009,32.83034",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0645\u0646\u062f\u0627"
@@ -55,7 +59,7 @@
     "name:swe_x_preferred":[
         "Kafr Mand\u0101"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kafar Manda"
     ],
     "qs:gn_country":"IL",
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":294608,
         "gp:id":1967497,
-        "qs:id":959799,
+        "qs_pg:id":959799,
         "wd:id":"Q2915534",
         "wk:page":"Kafr Manda"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":421168055,
-    "wof:lastmodified":1563315039,
+    "wof:lastmodified":1566680625,
     "wof:name":"Kafr Manda",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

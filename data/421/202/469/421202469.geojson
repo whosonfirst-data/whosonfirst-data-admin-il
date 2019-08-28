@@ -10,8 +10,12 @@
     "geom:latitude":33.0566,
     "geom:longitude":35.23772,
     "iso:country":"IL",
+    "lbl:bbox":"35.21772,33.0366,35.25772,33.0766",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Goren"
@@ -34,7 +38,7 @@
     "name:pol_x_preferred":[
         "Goren"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ghorein"
     ],
     "qs:gn_country":"IL",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":294968,
         "gp:id":1967404,
-        "qs:id":222715,
+        "qs_pg:id":222715,
         "wd:id":"Q2777420",
         "wk:page":"Goren"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421202469,
-    "wof:lastmodified":1561760022,
+    "wof:lastmodified":1566680642,
     "wof:name":"Goren",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

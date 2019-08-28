@@ -10,8 +10,12 @@
     "geom:latitude":32.96606,
     "geom:longitude":35.59304,
     "iso:country":"IL",
+    "lbl:bbox":"35.57304,32.94606,35.61304,32.98606",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Tuba"
@@ -275,7 +279,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0431\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tubah"
     ],
     "name:vie_x_preferred":[
@@ -317,7 +321,7 @@
     "wof:concordances":{
         "gn:id":293298,
         "gp:id":1968044,
-        "qs:id":1028744,
+        "qs_pg:id":1028744,
         "wd:id":"Q131168"
     },
     "wof:country":"IL",
@@ -333,7 +337,7 @@
         }
     ],
     "wof:id":421194161,
-    "wof:lastmodified":1563315062,
+    "wof:lastmodified":1566680632,
     "wof:name":"Tuba",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

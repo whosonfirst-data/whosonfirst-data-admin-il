@@ -10,8 +10,12 @@
     "geom:latitude":32.0659,
     "geom:longitude":34.88799,
     "iso:country":"IL",
+    "lbl:bbox":"34.86799,32.0459,34.90799,32.0859",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u041c\u0430\u0430\u0441"
@@ -55,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Behadraga"
     ],
     "qs:gn_country":"IL",
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":294401,
         "gp:id":1967611,
-        "qs:id":1083641
+        "qs_pg:id":1083641
     },
     "wof:country":"IL",
     "wof:created":1459009516,
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421187549,
-    "wof:lastmodified":1564215493,
+    "wof:lastmodified":1566680648,
     "wof:name":"Maas",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

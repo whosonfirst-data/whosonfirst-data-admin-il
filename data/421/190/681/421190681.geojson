@@ -10,8 +10,12 @@
     "geom:latitude":32.685041,
     "geom:longitude":35.586433,
     "iso:country":"IL",
+    "lbl:bbox":"35.566433,32.665041,35.606433,32.705041",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Deganja"
@@ -240,7 +244,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1968168,
-        "qs:id":1120125,
+        "qs_pg:id":1120125,
         "wd:id":"Q341305"
     },
     "wof:country":"IL",
@@ -256,7 +260,7 @@
         }
     ],
     "wof:id":421190681,
-    "wof:lastmodified":1563315170,
+    "wof:lastmodified":1566680661,
     "wof:name":"Deganya",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":32.84713,
     "geom:longitude":35.52335,
     "iso:country":"IL",
+    "lbl:bbox":"35.50335,32.82713,35.54335,32.86713",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u063a\u064a\u0646\u0648\u0633\u0627\u0631"
@@ -61,9 +65,6 @@
     "name:swe_x_preferred":[
         "Ginnosar"
     ],
-    "name:unk_x_variant":[
-        "Ginosar"
-    ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":295002,
@@ -94,7 +95,7 @@
     "wof:concordances":{
         "gn:id":295002,
         "gp:id":1967377,
-        "qs:id":183934,
+        "qs_pg:id":183934,
         "wd:id":"Q1525069",
         "wk:page":"Ginosar"
     },
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421198629,
-    "wof:lastmodified":1563315159,
+    "wof:lastmodified":1566680658,
     "wof:name":"Ginnosar",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

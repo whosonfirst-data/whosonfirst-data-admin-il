@@ -10,8 +10,12 @@
     "geom:latitude":32.89443,
     "geom:longitude":35.36931,
     "iso:country":"IL",
+    "lbl:bbox":"35.34931,32.87443,35.38931,32.91443",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u0644\u0627\u0645\u0629\u200e"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":386253,
         "gp:id":1967919,
-        "qs:id":1301819,
+        "qs_pg:id":1301819,
         "wd:id":"Q2910964",
         "wk:page":"Sallama"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421193249,
-    "wof:lastmodified":1563315070,
+    "wof:lastmodified":1566680634,
     "wof:name":"Sallama",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

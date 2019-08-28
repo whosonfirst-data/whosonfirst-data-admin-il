@@ -10,8 +10,12 @@
     "geom:latitude":31.77498,
     "geom:longitude":35.04838,
     "iso:country":"IL",
+    "lbl:bbox":"35.02838,31.75498,35.06838,31.79498",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Ksalon"
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":294479,
         "gp:id":1967589,
-        "qs:id":894757,
+        "qs_pg:id":894757,
         "wd:id":"Q607414"
     },
     "wof:country":"IL",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421200789,
-    "wof:lastmodified":1563315205,
+    "wof:lastmodified":1566680669,
     "wof:name":"Kesalon",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

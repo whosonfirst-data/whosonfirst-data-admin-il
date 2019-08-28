@@ -10,8 +10,12 @@
     "geom:latitude":32.6211,
     "geom:longitude":35.55134,
     "iso:country":"IL",
+    "lbl:bbox":"35.53134,32.6011,35.57134,32.6411",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Ge\u0161er"
@@ -34,7 +38,7 @@
     "name:pol_x_preferred":[
         "Geszer"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mujame"
     ],
     "qs:gn_country":"IL",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":295043,
         "gp:id":1967360,
-        "qs:id":1159677,
+        "qs_pg:id":1159677,
         "wd:id":"Q955960",
         "wk:page":"Gesher, Israel"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421191889,
-    "wof:lastmodified":1561760029,
+    "wof:lastmodified":1566680660,
     "wof:name":"Gesher",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

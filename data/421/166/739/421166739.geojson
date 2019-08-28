@@ -10,8 +10,12 @@
     "geom:latitude":32.61102,
     "geom:longitude":35.09472,
     "iso:country":"IL",
+    "lbl:bbox":"35.07472,32.59102,35.11472,32.63102",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ramat HaShofet"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "Ramat HaShofet"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ramot Hashofet"
     ],
     "qs:gn_country":"IL",
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":293781,
         "gp:id":1967873,
-        "qs:id":270990,
+        "qs_pg:id":270990,
         "wd:id":"Q1254405",
         "wk:page":"Ramat HaShofet"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421166739,
-    "wof:lastmodified":1563315042,
+    "wof:lastmodified":1566680626,
     "wof:name":"Ramat HaShofet",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

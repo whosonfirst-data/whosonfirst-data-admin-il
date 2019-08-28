@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":32.489993,
     "lbl:longitude":34.980481,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Haifa",
     "meso:adm1_loc":"\u05d7\u05d9\u05e4\u05d4",
     "meso:hasc_id":"IL.HA.HD",
@@ -31,6 +33,7 @@
     "mps:longitude":34.980481,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Hadera"
     ],
@@ -148,9 +151,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0434\u0435\u0440\u0430"
     ],
-    "name:und_x_variant":[
-        "\u05d7\u05d3\u05e8\u05d4"
-    ],
     "name:urd_x_preferred":[
         "\u062e\u0636\u06cc\u0631\u06c1"
     ],
@@ -171,10 +171,9 @@
         "meso"
     ],
     "src:geom_via":"meso",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1997-12-31",
+    "src:population_date":"1997-12-31",
     "statoids:area_km":"",
     "statoids:as_of_date":"1997-12-31",
     "statoids:capital":"",
@@ -206,7 +205,7 @@
         }
     ],
     "wof:id":1108720819,
-    "wof:lastmodified":1564215455,
+    "wof:lastmodified":1566680605,
     "wof:name":"Hadera",
     "wof:parent_id":85672535,
     "wof:placetype":"county",

@@ -12,8 +12,12 @@
     "gn:country":"IL",
     "gp:adm0":23424852,
     "iso:country":"IL",
+    "lbl:bbox":"35.684879,33.262323,35.724879,33.302323",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Qal at subaybi",
     "qs:name_adm0":"Israel",
     "qs:name_adm1":"Northern",
@@ -38,7 +42,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1947374,
-        "qs:id":1119587
+        "qs_pg:id":1119587
     },
     "wof:country":"IL",
     "wof:created":1469052703,
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":890449697,
-    "wof:lastmodified":1549931189,
+    "wof:lastmodified":1566680683,
     "wof:name":"Qal at subaybi",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

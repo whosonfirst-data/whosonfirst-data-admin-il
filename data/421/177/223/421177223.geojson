@@ -10,8 +10,12 @@
     "geom:latitude":32.24018,
     "geom:longitude":34.91583,
     "iso:country":"IL",
+    "lbl:bbox":"34.89583,32.22018,34.93583,32.26018",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062d\u064a\u0631\u0648\u062a"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":294781,
         "gp:id":1967457,
-        "qs:id":408712,
+        "qs_pg:id":408712,
         "wd:id":"Q2920470",
         "wk:page":"Herut, Israel"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421177223,
-    "wof:lastmodified":1563315225,
+    "wof:lastmodified":1566680675,
     "wof:name":"Herut",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

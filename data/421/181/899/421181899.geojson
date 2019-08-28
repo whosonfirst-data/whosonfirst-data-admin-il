@@ -10,8 +10,11 @@
     "geom:latitude":32.089264,
     "geom:longitude":34.8246,
     "iso:country":"IL",
+    "lbl:bbox":"34.8196,32.084264,34.8296,32.094264",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -33,16 +36,16 @@
     "qs:woe_id":22725172,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85672549,
         102191569,
         85632315,
         421190661,
-        1108720837,
-        85672549
+        1108720837
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725172,
-        "qs:id":508074
+        "qs_pg:id":508074
     },
     "wof:country":"IL",
     "wof:created":1459009312,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":421181899,
-    "wof:lastmodified":1549930540,
+    "wof:lastmodified":1566680655,
     "wof:name":"Ha Po'el Ha-mizrakhi Dalet",
     "wof:parent_id":421190661,
     "wof:placetype":"neighbourhood",

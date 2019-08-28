@@ -10,8 +10,12 @@
     "geom:latitude":32.49198,
     "geom:longitude":35.53336,
     "iso:country":"IL",
+    "lbl:bbox":"35.51336,32.47198,35.55336,32.51198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Neve Ejtan"
@@ -37,9 +41,6 @@
         "Newe Etan"
     ],
     "name:pol_x_variant":[
-        "Neve Eitan"
-    ],
-    "name:unk_x_variant":[
         "Neve Eitan"
     ],
     "qs:gn_country":"IL",
@@ -72,7 +73,7 @@
     "wof:concordances":{
         "gn:id":294056,
         "gp:id":1967757,
-        "qs:id":1301763,
+        "qs_pg:id":1301763,
         "wd:id":"Q2888564",
         "wk:page":"Neve Eitan"
     },
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":421197097,
-    "wof:lastmodified":1563315175,
+    "wof:lastmodified":1566680663,
     "wof:name":"Newe Etan",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

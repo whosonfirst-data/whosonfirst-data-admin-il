@@ -23,19 +23,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.96167,32.81167,34.97167,32.82167",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:und_x_variant":[
         "Sha\u2018ar Ha\u2018aliyah",
         "Sha\u2018ar Ha\u2018Aliya"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85672535,
         102191569,
         85632315,
         421168693,
-        1108720835,
-        85672535
+        1108720835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1376877787,
-    "wof:lastmodified":1549930733,
+    "wof:lastmodified":1566680621,
     "wof:name":"Sha`ar Ha`Aliya",
     "wof:parent_id":421168693,
     "wof:placetype":"neighbourhood",

@@ -13,6 +13,7 @@
     "iso:country":"IL",
     "lbl:latitude":31.775128,
     "lbl:longitude":35.194842,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.774879,
     "mps:longitude":35.193814,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
-        "Shkhunat Ha-po'alim"
-    ],
-    "name:unk_x_variant":[
         "Shkhunat Ha-po'alim"
     ],
     "qs:gn_adm0_cc":"PS",
@@ -56,18 +54,17 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724679,
-        "qs:id":43492,
         "qs_pg:id":43492
     },
     "wof:country":"IL",
@@ -86,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930542,
+    "wof:lastmodified":1566680566,
     "wof:name":"Shkhunat Ha-po'alim",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

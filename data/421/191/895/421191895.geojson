@@ -10,8 +10,12 @@
     "geom:latitude":32.66002,
     "geom:longitude":34.94874,
     "iso:country":"IL",
+    "lbl:bbox":"34.92874,32.64002,34.96874,32.68002",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Geva Karmel"
@@ -31,7 +35,7 @@
     "name:pol_x_variant":[
         "Geva Karmel"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Geva\u2018 Carmel"
     ],
     "qs:gn_country":"IL",
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":295037,
         "gp:id":1967363,
-        "qs:id":1159679,
+        "qs_pg:id":1159679,
         "wd:id":"Q2776856",
         "wk:page":"Geva Carmel"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":421191895,
-    "wof:lastmodified":1563315166,
+    "wof:lastmodified":1566680660,
     "wof:name":"Geva Karmel",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

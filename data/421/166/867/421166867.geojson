@@ -10,8 +10,12 @@
     "geom:latitude":32.90891,
     "geom:longitude":35.36075,
     "iso:country":"IL",
+    "lbl:bbox":"35.34075,32.88891,35.38075,32.92891",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Kamon"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":386301,
         "gp:id":1967505,
-        "qs:id":1210451,
+        "qs_pg:id":1210451,
         "wd:id":"Q2889604",
         "wk:page":"Kamon, Israel"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421166867,
-    "wof:lastmodified":1563315044,
+    "wof:lastmodified":1566680627,
     "wof:name":"Kammon",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

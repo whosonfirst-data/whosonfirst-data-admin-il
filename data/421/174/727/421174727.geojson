@@ -10,8 +10,12 @@
     "geom:latitude":31.525,
     "geom:longitude":34.59693,
     "iso:country":"IL",
+    "lbl:bbox":"34.57693,31.505,34.61693,31.545",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u062f\u064a\u0631\u0648\u062a"
@@ -130,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0434\u0435\u0440\u043e\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shederot"
     ],
     "name:urd_x_preferred":[
@@ -179,7 +183,7 @@
     "wof:concordances":{
         "gn:id":293619,
         "gp:id":22722779,
-        "qs:id":896545,
+        "qs_pg:id":896545,
         "wd:id":"Q123196",
         "wk:page":"Sderot"
     },
@@ -196,7 +200,7 @@
         }
     ],
     "wof:id":421174727,
-    "wof:lastmodified":1563315113,
+    "wof:lastmodified":1566680645,
     "wof:name":"Sederot",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

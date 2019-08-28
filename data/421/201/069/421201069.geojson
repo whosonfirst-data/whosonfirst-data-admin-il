@@ -10,8 +10,12 @@
     "geom:latitude":32.68063,
     "geom:longitude":35.15264,
     "iso:country":"IL",
+    "lbl:bbox":"35.13264,32.66063,35.17264,32.70063",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Kfar Jeho\u0161ua"
@@ -34,7 +38,7 @@
     "name:pol_x_preferred":[
         "Kefar Jehoszua"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kefr Yehoshua"
     ],
     "qs:gn_country":"IL",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":294494,
         "gp:id":1967581,
-        "qs:id":910622,
+        "qs_pg:id":910622,
         "wd:id":"Q2889616"
     },
     "wof:country":"IL",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421201069,
-    "wof:lastmodified":1563315209,
+    "wof:lastmodified":1566680670,
     "wof:name":"Kefar Yehoshua",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

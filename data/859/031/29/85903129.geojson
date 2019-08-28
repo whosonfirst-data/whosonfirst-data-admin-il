@@ -9,14 +9,16 @@
     "geom:bbox":"35.067043,32.831458,35.067043,32.831458",
     "geom:latitude":32.831458,
     "geom:longitude":35.067043,
-    "gn:gn_country":"IL",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"IL",
+    "gn:fcode":"PPLX",
     "gn:latitude":32.82131,
     "gn:longitude":35.07057,
+    "gn:population":0,
     "iso:country":"IL",
+    "lbl:bbox":"35.062043,32.826458,35.072043,32.836458",
     "lbl:latitude":32.831458,
     "lbl:longitude":35.067043,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.837757,
     "mps:longitude":35.068555,
     "mz:hierarchy_label":0,
@@ -46,10 +48,6 @@
     ],
     "name:heb_x_variant":[
         "Kiryat H\u0331ayyim"
-    ],
-    "name:unk_x_variant":[
-        "Qiryat H\u0331ayyim",
-        "Qiryat Haiyim"
     ],
     "qs:gn_adm0_cc":"IL",
     "qs:gn_fcode":"PPLX",
@@ -98,19 +96,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85672535,
         102191569,
         85632315,
         421168693,
-        1108720835,
-        85672535
+        1108720835
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":293836,
         "gp:id":1967845,
-        "qs:id":8134,
         "qs_pg:id":8134
     },
     "wof:country":"IL",
@@ -129,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930539,
+    "wof:lastmodified":1566680559,
     "wof:name":"Qiryat H\u0331ayyim",
     "wof:parent_id":421168693,
     "wof:placetype":"neighbourhood",

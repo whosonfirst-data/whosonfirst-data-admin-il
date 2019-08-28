@@ -10,8 +10,12 @@
     "geom:latitude":32.75742,
     "geom:longitude":35.22089,
     "iso:country":"IL",
+    "lbl:bbox":"35.20089,32.73742,35.24089,32.77742",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Alon ha-Galil"
@@ -31,7 +35,7 @@
     "name:pol_x_variant":[
         "Alon HaGalil"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Allon HaGalil"
     ],
     "qs:gn_country":"IL",
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":8265539,
         "gp:id":22722721,
-        "qs:id":352852,
+        "qs_pg:id":352852,
         "wd:id":"Q2776865"
     },
     "wof:country":"IL",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421175125,
-    "wof:lastmodified":1563315158,
+    "wof:lastmodified":1566680658,
     "wof:name":"Alon Hagalil",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

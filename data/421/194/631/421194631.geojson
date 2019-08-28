@@ -10,8 +10,11 @@
     "geom:latitude":32.040312,
     "geom:longitude":34.755077,
     "iso:country":"IL",
+    "lbl:bbox":"34.750077,32.035312,34.760077,32.045312",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -33,16 +36,16 @@
     "qs:woe_id":22725137,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85672549,
         102191569,
         85632315,
         1125955239,
-        1108720837,
-        85672549
+        1108720837
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725137,
-        "qs:id":888965
+        "qs_pg:id":888965
     },
     "wof:country":"IL",
     "wof:created":1459009814,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":421194631,
-    "wof:lastmodified":1549930549,
+    "wof:lastmodified":1566680633,
     "wof:name":"Shikunei Khisakhon",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

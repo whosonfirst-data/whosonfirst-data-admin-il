@@ -10,8 +10,12 @@
     "geom:latitude":32.66667,
     "geom:longitude":35.56667,
     "iso:country":"IL",
+    "lbl:bbox":"35.54667,32.64667,35.58667,32.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "A\u0161dot Ja'akov"
@@ -31,7 +35,7 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30b7\u30e5\u30c9\u30c3\u30c8\u30fb\u30e4\u30fc\u30b3\u30d6"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ashdot Ya\u2018aqov Alef"
     ],
     "name:yid_x_preferred":[
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":295625,
         "gp:id":1967109,
-        "qs:id":479246,
+        "qs_pg:id":479246,
         "wd:id":"Q2891543"
     },
     "wof:country":"IL",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421181207,
-    "wof:lastmodified":1561760027,
+    "wof:lastmodified":1566680655,
     "wof:name":"Ashdot Yaaqov Ihud",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

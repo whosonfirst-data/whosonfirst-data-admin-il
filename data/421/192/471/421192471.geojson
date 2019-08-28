@@ -10,8 +10,12 @@
     "geom:latitude":33.16587,
     "geom:longitude":35.66035,
     "iso:country":"IL",
+    "lbl:bbox":"35.64035,33.14587,35.68035,33.18587",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Xamir"
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":293558,
         "gp:id":1967963,
-        "qs:id":1168243,
+        "qs_pg:id":1168243,
         "wd:id":"Q2889024",
         "wk:page":"Shamir, Israel"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421192471,
-    "wof:lastmodified":1563315050,
+    "wof:lastmodified":1566680628,
     "wof:name":"Shamir",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

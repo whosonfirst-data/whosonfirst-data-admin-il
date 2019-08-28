@@ -10,8 +10,12 @@
     "geom:latitude":32.525,
     "geom:longitude":35.47917,
     "iso:country":"IL",
+    "lbl:bbox":"35.45917,32.505,35.49917,32.545",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Sde Nachum"
@@ -43,7 +47,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0434\u0435-\u041d\u0430\u0445\u0443\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sedeh Nahum"
     ],
     "name:zho_x_preferred":[
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":293621,
         "gp:id":1967932,
-        "qs:id":229298,
+        "qs_pg:id":229298,
         "wd:id":"Q2916809",
         "wk:page":"Sde Nahum"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421170223,
-    "wof:lastmodified":1563315218,
+    "wof:lastmodified":1566680673,
     "wof:name":"Sede Nahum",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

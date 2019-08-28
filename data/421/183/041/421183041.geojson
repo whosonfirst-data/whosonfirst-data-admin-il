@@ -10,8 +10,12 @@
     "geom:latitude":32.16139,
     "geom:longitude":34.94333,
     "iso:country":"IL",
+    "lbl:bbox":"34.92333,32.14139,34.96333,32.18139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Sdej Chemed"
@@ -31,7 +35,7 @@
     "name:pol_x_variant":[
         "Sede Chemed"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tsefon Jaljuliyah"
     ],
     "name:yid_x_preferred":[
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":293624,
         "gp:id":1967929,
-        "qs:id":959502,
+        "qs_pg:id":959502,
         "wd:id":"Q2917993"
     },
     "wof:country":"IL",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421183041,
-    "wof:lastmodified":1563315226,
+    "wof:lastmodified":1566680675,
     "wof:name":"Sede Hemed",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

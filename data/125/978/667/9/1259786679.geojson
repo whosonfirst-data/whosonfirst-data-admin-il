@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
+    "lbl:bbox":"34.89068,32.0203,34.93068,32.0603",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Wilhelma"
     ],
@@ -38,7 +42,6 @@
     "name:und_x_variant":[
         "Wilhelmina",
         "Beerot Yits\u1e25aq",
-        "Wilhelma",
         "Be\u2019erot Yi\u1e95\u1e96aq"
     ],
     "src:geom":"geonames",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1259786679,
-    "wof:lastmodified":1564215526,
+    "wof:lastmodified":1566680699,
     "wof:name":"Be'erot Yizhaq",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

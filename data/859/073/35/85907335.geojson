@@ -13,6 +13,7 @@
     "iso:country":"IL",
     "lbl:latitude":32.088946,
     "lbl:longitude":34.812896,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.085999,
     "mps:longitude":34.816275,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Shkhunat Gefen"
-    ],
-    "name:unk_x_variant":[
         "Shkhunat Gefen"
     ],
     "qs:gn_adm0_cc":"IL",
@@ -55,18 +53,18 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85672549,
         102191569,
         85632315,
         421183425,
-        1108720837,
-        85672549
+        1108720837
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725180,
-        "qs:id":230481
+        "qs_pg:id":230481
     },
     "wof:country":"IL",
     "wof:geomhash":"222607f254f31ed84e16ef04701b1ff9",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930544,
+    "wof:lastmodified":1566680562,
     "wof:name":"Shkhunat Gefen",
     "wof:parent_id":421183425,
     "wof:placetype":"neighbourhood",

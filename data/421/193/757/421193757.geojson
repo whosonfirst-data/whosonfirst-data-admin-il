@@ -10,8 +10,12 @@
     "geom:latitude":32.686405,
     "geom:longitude":35.391823,
     "iso:country":"IL",
+    "lbl:bbox":"35.371823,32.666405,35.411823,32.706405",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Seorim"
@@ -54,7 +58,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22722718,
-        "qs:id":1187400,
+        "qs_pg:id":1187400,
         "wd:id":"Q7451622"
     },
     "wof:country":"IL",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":421193757,
-    "wof:lastmodified":1563315069,
+    "wof:lastmodified":1566680634,
     "wof:name":"Seorim",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

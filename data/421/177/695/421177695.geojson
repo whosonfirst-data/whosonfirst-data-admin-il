@@ -10,8 +10,12 @@
     "geom:latitude":33.06464,
     "geom:longitude":35.3234,
     "iso:country":"IL",
+    "lbl:bbox":"35.3034,33.04464,35.3434,33.08464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Netu'a"
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":8134542,
         "gp:id":22528362,
-        "qs:id":1350665,
+        "qs_pg:id":1350665,
         "wd:id":"Q2777492",
         "wk:page":"Netu'a"
     },
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421177695,
-    "wof:lastmodified":1561760035,
+    "wof:lastmodified":1566680674,
     "wof:name":"Netu'a",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

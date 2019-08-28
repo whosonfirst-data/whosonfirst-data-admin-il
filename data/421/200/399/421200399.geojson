@@ -10,8 +10,12 @@
     "geom:latitude":32.2341,
     "geom:longitude":34.95023,
     "iso:country":"IL",
+    "lbl:bbox":"34.93023,32.2141,34.97023,32.2541",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0637\u064a\u0631\u0629"
@@ -91,7 +95,7 @@
     "name:tgl_x_preferred":[
         "Tira"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "At Tira"
     ],
     "name:urd_x_preferred":[
@@ -142,7 +146,7 @@
     "wof:concordances":{
         "gn:id":295127,
         "gp:id":1968214,
-        "qs:id":1301897,
+        "qs_pg:id":1301897,
         "wd:id":"Q167594",
         "wk:page":"Tira, Israel"
     },
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":421200399,
-    "wof:lastmodified":1563315197,
+    "wof:lastmodified":1566680667,
     "wof:name":"Tira",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

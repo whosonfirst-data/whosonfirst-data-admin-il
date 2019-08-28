@@ -10,8 +10,11 @@
     "geom:latitude":31.7918,
     "geom:longitude":35.20369,
     "iso:country":"IL",
+    "lbl:bbox":"35.19869,31.7868,35.20869,31.7968",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Romema"
@@ -28,7 +31,7 @@
     "name:pol_x_preferred":[
         "Romema"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Romeima Quarter"
     ],
     "name:yid_x_preferred":[
@@ -65,7 +68,7 @@
     "wof:concordances":{
         "gn:id":293694,
         "gp:id":1967909,
-        "qs:id":266912,
+        "qs_pg:id":266912,
         "wd:id":"Q2919398",
         "wk:page":"Romema"
     },
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421169831,
-    "wof:lastmodified":1563315079,
+    "wof:lastmodified":1566680637,
     "wof:name":"Romema",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

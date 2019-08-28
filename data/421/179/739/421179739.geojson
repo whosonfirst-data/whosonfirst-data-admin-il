@@ -10,8 +10,12 @@
     "geom:latitude":32.175,
     "geom:longitude":34.90694,
     "iso:country":"IL",
+    "lbl:bbox":"34.88694,32.155,34.92694,32.195",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Kfar Saba"
@@ -169,7 +173,7 @@
         "Kfar Saba"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bc7\u0baa\u0bbe\u0bb0\u0bcd  \u0b9a\u0baa\u0bbe"
+        "\u0b95\u0bc7\u0baa\u0bbe\u0bb0\u0bcd \u0b9a\u0baa\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c47\u0c2b\u0c30\u0c4d \u0c38\u0c3e\u0c2c\u0c3e"
@@ -234,7 +238,7 @@
     "wof:concordances":{
         "gn:id":294514,
         "gp:id":1968183,
-        "qs:id":461201,
+        "qs_pg:id":461201,
         "wd:id":"Q152436",
         "wk:page":"Kfar Saba"
     },
@@ -251,7 +255,7 @@
         }
     ],
     "wof:id":421179739,
-    "wof:lastmodified":1563315232,
+    "wof:lastmodified":1566680676,
     "wof:name":"Kfar Sava",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

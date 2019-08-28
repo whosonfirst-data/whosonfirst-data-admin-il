@@ -10,8 +10,12 @@
     "geom:latitude":31.42215,
     "geom:longitude":34.58858,
     "iso:country":"IL",
+    "lbl:bbox":"34.56858,31.40215,34.60858,31.44215",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0646\u062a\u064a\u0641\u0648\u062a"
@@ -103,7 +107,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0442\u0456\u0432\u043e\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Azata"
     ],
     "name:urd_x_preferred":[
@@ -151,7 +155,7 @@
     "wof:concordances":{
         "gn:id":294068,
         "gp:id":1967751,
-        "qs:id":124066,
+        "qs_pg:id":124066,
         "wd:id":"Q167649",
         "wk:page":"Netivot"
     },
@@ -168,7 +172,7 @@
         }
     ],
     "wof:id":421197323,
-    "wof:lastmodified":1563315176,
+    "wof:lastmodified":1566680663,
     "wof:name":"Netivot",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",
