@@ -80,6 +80,9 @@
         "qs_pg:id":232231
     },
     "wof:country":"IL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6e806e7a89b617c02e387748541304d7",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680561,
+    "wof:lastmodified":1582356353,
     "wof:name":"Zalafa el Gharb\u012bya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

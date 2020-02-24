@@ -101,6 +101,9 @@
         "qs_pg:id":235164
     },
     "wof:country":"IL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"01db1a243b0302d44f75e72a56080df2",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680559,
+    "wof:lastmodified":1582356352,
     "wof:name":"Qiryat HaTekhniyyon",
     "wof:parent_id":421168693,
     "wof:placetype":"neighbourhood",

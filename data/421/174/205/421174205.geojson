@@ -232,6 +232,9 @@
     },
     "wof:country":"IL",
     "wof:created":1459009023,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"afb7e0f15d298eefd18e22a8467ad579",
     "wof:hierarchy":[
         {
@@ -243,7 +246,7 @@
         }
     ],
     "wof:id":421174205,
-    "wof:lastmodified":1566680643,
+    "wof:lastmodified":1582356368,
     "wof:name":"Herzliya",
     "wof:parent_id":1108720837,
     "wof:placetype":"locality",

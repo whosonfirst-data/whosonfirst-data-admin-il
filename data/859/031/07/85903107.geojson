@@ -125,6 +125,9 @@
         "wk:page":"Hadar HaCarmel"
     },
     "wof:country":"IL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c379a6081063dcd824a686b4afbbd963",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680560,
+    "wof:lastmodified":1582356353,
     "wof:name":"Hadar HaKarmel",
     "wof:parent_id":421168693,
     "wof:placetype":"neighbourhood",

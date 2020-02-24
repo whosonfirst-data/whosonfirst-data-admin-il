@@ -171,6 +171,9 @@
     },
     "wof:country":"IL",
     "wof:created":1459009271,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"52141102f7ad088a41622fd5f25a7547",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":421180791,
-    "wof:lastmodified":1566680645,
+    "wof:lastmodified":1582356368,
     "wof:name":"Ramat HaSharon",
     "wof:parent_id":1108720837,
     "wof:placetype":"locality",

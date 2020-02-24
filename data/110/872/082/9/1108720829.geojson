@@ -81,6 +81,9 @@
     },
     "wof:country":"IL",
     "wof:created":1476124703,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"7c005234bb4154d1d6d51a0fe863154e",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108720829,
-    "wof:lastmodified":1566680603,
+    "wof:lastmodified":1582356362,
     "wof:name":"Yizre'el",
     "wof:parent_id":85672545,
     "wof:placetype":"county",

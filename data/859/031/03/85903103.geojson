@@ -79,6 +79,9 @@
         "qs:id":1146153
     },
     "wof:country":"IL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6e8ef7239518cdf0f50bf4905f685c92",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379344,
+    "wof:lastmodified":1582356352,
     "wof:name":"HaKarmel",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

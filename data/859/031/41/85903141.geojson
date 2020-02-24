@@ -114,6 +114,9 @@
         "wd:id":"Q3488200"
     },
     "wof:country":"IL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"72f7db70c93565eddf0b8ec5b13d1740",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680560,
+    "wof:lastmodified":1582356353,
     "wof:name":"Wardiya",
     "wof:parent_id":421168693,
     "wof:placetype":"neighbourhood",

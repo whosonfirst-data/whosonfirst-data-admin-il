@@ -314,6 +314,10 @@
         "wk:page":"Tel Aviv District"
     },
     "wof:country":"IL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "meso"
+    ],
     "wof:geomhash":"a74952296c858756f61f7f161ad06f06",
     "wof:hierarchy":[
         {
@@ -331,7 +335,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1566680570,
+    "wof:lastmodified":1582356355,
     "wof:name":"Tel Aviv",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

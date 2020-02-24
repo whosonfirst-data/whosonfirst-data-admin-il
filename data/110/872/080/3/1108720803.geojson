@@ -241,6 +241,9 @@
     "wof:concordances":{},
     "wof:country":"IL",
     "wof:created":1476124687,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"246296e8c46435df693c9e252bae1d42",
     "wof:hierarchy":[
         {
@@ -251,7 +254,7 @@
         }
     ],
     "wof:id":1108720803,
-    "wof:lastmodified":1566680605,
+    "wof:lastmodified":1582356363,
     "wof:name":"Sea of Galilee",
     "wof:parent_id":85672545,
     "wof:placetype":"county",

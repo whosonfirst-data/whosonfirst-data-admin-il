@@ -342,6 +342,10 @@
         "wk:page":"Jerusalem District"
     },
     "wof:country":"IL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "meso"
+    ],
     "wof:geomhash":"a0113587e324b32eedaca294579a4bf6",
     "wof:hierarchy":[
         {
@@ -359,7 +363,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1566680568,
+    "wof:lastmodified":1582356354,
     "wof:name":"Jerusalem",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

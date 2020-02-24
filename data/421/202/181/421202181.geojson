@@ -428,6 +428,9 @@
     },
     "wof:country":"IL",
     "wof:created":1459010108,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"58e3dc5e02f4c4a0da5e680f21288cf6",
     "wof:hierarchy":[
         {
@@ -439,7 +442,7 @@
         }
     ],
     "wof:id":421202181,
-    "wof:lastmodified":1566680641,
+    "wof:lastmodified":1582356368,
     "wof:name":"Beersheba",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

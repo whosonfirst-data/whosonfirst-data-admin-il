@@ -195,6 +195,9 @@
     },
     "wof:country":"IL",
     "wof:created":1476124698,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"41cfb230894604f03547d411a986f7a3",
     "wof:hierarchy":[
         {
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":1108720819,
-    "wof:lastmodified":1566680605,
+    "wof:lastmodified":1582356363,
     "wof:name":"Hadera",
     "wof:parent_id":85672535,
     "wof:placetype":"county",

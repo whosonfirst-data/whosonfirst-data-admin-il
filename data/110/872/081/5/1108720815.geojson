@@ -201,6 +201,9 @@
     },
     "wof:country":"IL",
     "wof:created":1476124696,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"6d3294df5be80e2e7246ae6a953f35e6",
     "wof:hierarchy":[
         {
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":1108720815,
-    "wof:lastmodified":1566680612,
+    "wof:lastmodified":1582356367,
     "wof:name":"Ramla",
     "wof:parent_id":85672541,
     "wof:placetype":"county",

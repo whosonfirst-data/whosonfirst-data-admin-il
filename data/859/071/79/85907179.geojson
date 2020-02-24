@@ -68,6 +68,9 @@
         "qs_pg:id":220220
     },
     "wof:country":"IL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b5849a70731397fba352a5e9929cf1f5",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680558,
+    "wof:lastmodified":1582356352,
     "wof:name":"Ets Khayim",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

@@ -80,6 +80,9 @@
         "qs:id":189586
     },
     "wof:country":"IL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a6d21f5c4418f7b6a62f7ed939f8bcee",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379344,
+    "wof:lastmodified":1582356353,
     "wof:name":"Yemin Orde",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

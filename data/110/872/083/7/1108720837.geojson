@@ -229,6 +229,9 @@
     },
     "wof:country":"IL",
     "wof:created":1476124707,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"a74952296c858756f61f7f161ad06f06",
     "wof:hierarchy":[
         {
@@ -239,7 +242,7 @@
         }
     ],
     "wof:id":1108720837,
-    "wof:lastmodified":1566680601,
+    "wof:lastmodified":1582356360,
     "wof:name":"Tel Aviv",
     "wof:parent_id":85672549,
     "wof:placetype":"county",

@@ -188,6 +188,9 @@
     },
     "wof:country":"IL",
     "wof:created":1459009144,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"81faf39ac90209b3765b55263ee354ae",
     "wof:hierarchy":[
         {
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":421177425,
-    "wof:lastmodified":1566680674,
+    "wof:lastmodified":1582356369,
     "wof:name":"Giv'atayim",
     "wof:parent_id":1108720837,
     "wof:placetype":"locality",

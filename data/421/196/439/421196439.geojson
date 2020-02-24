@@ -163,6 +163,9 @@
     },
     "wof:country":"IL",
     "wof:created":1459009881,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3d7a4f8f212a5eb398df71d9408660a3",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":421196439,
-    "wof:lastmodified":1566680659,
+    "wof:lastmodified":1582356368,
     "wof:name":"Or Yehuda",
     "wof:parent_id":1108720837,
     "wof:placetype":"locality",

@@ -1134,6 +1134,12 @@
     },
     "wof:country":"IL",
     "wof:country_alpha3":"ISR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6",
+        "meso"
+    ],
     "wof:geomhash":"8c7dcac683ccfa5fd0457479069a5d01",
     "wof:hierarchy":[
         {
@@ -1151,7 +1157,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1566680570,
+    "wof:lastmodified":1582356355,
     "wof:name":"Israel",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

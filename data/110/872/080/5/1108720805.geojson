@@ -87,6 +87,9 @@
     },
     "wof:country":"IL",
     "wof:created":1476124689,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"4d87466f63edec95d8a6417030a8adaa",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108720805,
-    "wof:lastmodified":1566680605,
+    "wof:lastmodified":1582356363,
     "wof:name":"Sharon",
     "wof:parent_id":85672541,
     "wof:placetype":"county",

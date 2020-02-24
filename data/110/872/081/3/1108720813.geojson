@@ -189,6 +189,9 @@
     },
     "wof:country":"IL",
     "wof:created":1476124695,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"16515bfa76e6514160b88e1cff615f56",
     "wof:hierarchy":[
         {
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":1108720813,
-    "wof:lastmodified":1566680612,
+    "wof:lastmodified":1582356367,
     "wof:name":"Rehovot",
     "wof:parent_id":85672541,
     "wof:placetype":"county",

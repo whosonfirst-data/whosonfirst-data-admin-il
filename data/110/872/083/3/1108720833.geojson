@@ -394,6 +394,9 @@
     "wof:concordances":{},
     "wof:country":"IL",
     "wof:created":1476124705,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"e4b9b2af2ee7ac10c43d43ff56c94d59",
     "wof:hierarchy":[
         {
@@ -404,7 +407,7 @@
         }
     ],
     "wof:id":1108720833,
-    "wof:lastmodified":1566680601,
+    "wof:lastmodified":1582356361,
     "wof:name":"Dead Sea",
     "wof:parent_id":85672531,
     "wof:placetype":"county",

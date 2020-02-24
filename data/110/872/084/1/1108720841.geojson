@@ -69,6 +69,9 @@
     },
     "wof:country":"IL",
     "wof:created":1476124711,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"b407642154f6f1294f82b9a4ba0f0148",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108720841,
-    "wof:lastmodified":1566680602,
+    "wof:lastmodified":1582356361,
     "wof:name":"Ashqelon",
     "wof:parent_id":85672531,
     "wof:placetype":"county",

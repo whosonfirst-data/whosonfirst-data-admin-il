@@ -96,6 +96,9 @@
     },
     "wof:country":"IL",
     "wof:created":1476124692,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"733d0014a683df98053e3c7181f11ba7",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108720811,
-    "wof:lastmodified":1566680608,
+    "wof:lastmodified":1582356364,
     "wof:name":"Golan",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -69,6 +69,9 @@
     },
     "wof:country":"IL",
     "wof:created":1476124697,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"1fcab4b0e0d233bc8d81494ae6a8b389",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108720817,
-    "wof:lastmodified":1566680606,
+    "wof:lastmodified":1582356363,
     "wof:name":"Be'er Sheva",
     "wof:parent_id":85672531,
     "wof:placetype":"county",

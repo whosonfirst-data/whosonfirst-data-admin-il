@@ -68,6 +68,10 @@
         "qs_pg:id":1262809
     },
     "wof:country":"IL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"b65ae4f1830d6fa49e8fdd6dea4041c4",
     "wof:hierarchy":[
         {
@@ -83,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680558,
+    "wof:lastmodified":1582356352,
     "wof:name":"Jewich Quarter",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",
