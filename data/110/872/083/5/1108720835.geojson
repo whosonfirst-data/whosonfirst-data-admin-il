@@ -265,6 +265,9 @@
     },
     "wof:country":"IL",
     "wof:created":1476124706,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"e78881ce60e18d110d3c65e0ddec4f1c",
     "wof:hierarchy":[
         {
@@ -275,7 +278,7 @@
         }
     ],
     "wof:id":1108720835,
-    "wof:lastmodified":1566680601,
+    "wof:lastmodified":1582356361,
     "wof:name":"Haifa",
     "wof:parent_id":85672535,
     "wof:placetype":"county",

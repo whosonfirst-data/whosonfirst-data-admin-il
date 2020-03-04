@@ -234,6 +234,9 @@
     },
     "wof:country":"IL",
     "wof:created":1459009231,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e7d99c853084b95de3c0c10c3536a15c",
     "wof:hierarchy":[
         {
@@ -245,7 +248,7 @@
         }
     ],
     "wof:id":421179743,
-    "wof:lastmodified":1566680677,
+    "wof:lastmodified":1582356369,
     "wof:name":"Holon",
     "wof:parent_id":1108720837,
     "wof:placetype":"locality",

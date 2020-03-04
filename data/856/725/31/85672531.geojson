@@ -319,6 +319,10 @@
         "wk:page":"Southern District (Israel)"
     },
     "wof:country":"IL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "meso"
+    ],
     "wof:geomhash":"2fc85858853e5d119e0f78c2d1a095ff",
     "wof:hierarchy":[
         {
@@ -336,7 +340,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1566680569,
+    "wof:lastmodified":1582356354,
     "wof:name":"Southern",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

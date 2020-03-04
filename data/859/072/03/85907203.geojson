@@ -68,6 +68,9 @@
         "qs_pg:id":1118672
     },
     "wof:country":"IL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2e30f7ac0f6f6b99ff6703009f029d68",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680564,
+    "wof:lastmodified":1582356353,
     "wof:name":"Nave Sha'anan",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

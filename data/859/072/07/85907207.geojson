@@ -79,6 +79,9 @@
         "wd:id":"Q12040825"
     },
     "wof:country":"IL",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d6ac7f135e6b949afd339fed2dfd3e6d",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680565,
+    "wof:lastmodified":1582356353,
     "wof:name":"Neve Granot",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

@@ -936,6 +936,9 @@
     ],
     "wof:country":"IL",
     "wof:created":1459008774,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3f4ce47426d56003cbf754d712d46b78",
     "wof:hierarchy":[
         {
@@ -947,7 +950,7 @@
         }
     ],
     "wof:id":421168681,
-    "wof:lastmodified":1566680625,
+    "wof:lastmodified":1582356367,
     "wof:name":"Jerusalem",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

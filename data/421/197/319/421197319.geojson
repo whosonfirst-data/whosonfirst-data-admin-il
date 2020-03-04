@@ -291,6 +291,9 @@
     },
     "wof:country":"IL",
     "wof:created":1459009909,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"44f2ee5c451947f4b53c34dca457ded0",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
         }
     ],
     "wof:id":421197319,
-    "wof:lastmodified":1566680664,
+    "wof:lastmodified":1582356368,
     "wof:name":"Rishon LeZion",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

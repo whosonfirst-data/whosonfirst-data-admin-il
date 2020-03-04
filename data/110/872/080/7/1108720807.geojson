@@ -69,6 +69,9 @@
     },
     "wof:country":"IL",
     "wof:created":1476124690,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"7f43f723bd22dfb445c7f907ce7f6868",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108720807,
-    "wof:lastmodified":1566680604,
+    "wof:lastmodified":1582356363,
     "wof:name":"Akko",
     "wof:parent_id":85672545,
     "wof:placetype":"county",

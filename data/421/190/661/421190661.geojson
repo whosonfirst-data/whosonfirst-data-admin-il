@@ -227,6 +227,9 @@
     },
     "wof:country":"IL",
     "wof:created":1459009665,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c180c4c8a2d498d8df8469037489749b",
     "wof:hierarchy":[
         {
@@ -238,7 +241,7 @@
         }
     ],
     "wof:id":421190661,
-    "wof:lastmodified":1566680662,
+    "wof:lastmodified":1582356368,
     "wof:name":"Bnei Brak",
     "wof:parent_id":1108720837,
     "wof:placetype":"locality",

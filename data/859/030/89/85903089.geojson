@@ -78,6 +78,9 @@
         "qs:id":222708
     },
     "wof:country":"IL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"405185f1ad59a0faff54020b19a8f82a",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379344,
+    "wof:lastmodified":1582356353,
     "wof:name":"Bat Gallim",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

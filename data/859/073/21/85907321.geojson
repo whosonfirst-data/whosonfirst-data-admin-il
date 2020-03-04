@@ -77,6 +77,9 @@
         "wd:id":"Q5636377"
     },
     "wof:country":"IL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8062b89211664aa31f35405cd83c9fe2",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680563,
+    "wof:lastmodified":1582356353,
     "wof:name":"Ha-kfar Ha-yarok",
     "wof:parent_id":421180791,
     "wof:placetype":"neighbourhood",

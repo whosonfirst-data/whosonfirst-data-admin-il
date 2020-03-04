@@ -269,6 +269,9 @@
     },
     "wof:country":"IL",
     "wof:created":1459009317,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d9a63df3e3258d73db9a5458d56164d3",
     "wof:hierarchy":[
         {
@@ -280,7 +283,7 @@
         }
     ],
     "wof:id":421182059,
-    "wof:lastmodified":1566680679,
+    "wof:lastmodified":1582356369,
     "wof:name":"Netanya",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

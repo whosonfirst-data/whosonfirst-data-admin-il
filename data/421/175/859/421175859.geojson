@@ -307,6 +307,9 @@
     },
     "wof:country":"IL",
     "wof:created":1459009082,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7b6118f4be34f447675bd7875c748510",
     "wof:hierarchy":[
         {
@@ -318,7 +321,7 @@
         }
     ],
     "wof:id":421175859,
-    "wof:lastmodified":1566680656,
+    "wof:lastmodified":1582356368,
     "wof:name":"Ashdod",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

@@ -350,6 +350,10 @@
         "wk:page":"Northern District (Israel)"
     },
     "wof:country":"IL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "meso"
+    ],
     "wof:geomhash":"7aae0f4a1d371b2aae10af9939145b78",
     "wof:hierarchy":[
         {
@@ -367,7 +371,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1566680568,
+    "wof:lastmodified":1582356354,
     "wof:name":"Northern",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

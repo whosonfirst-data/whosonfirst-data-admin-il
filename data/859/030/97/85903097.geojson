@@ -83,6 +83,10 @@
         "qs_pg:id":59055
     },
     "wof:country":"IL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"8466538bda3eb814e0fb34b626e8dcf5",
     "wof:hierarchy":[
         {
@@ -98,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680562,
+    "wof:lastmodified":1582356353,
     "wof:name":"El Musheirifa el Fauq\u00e5",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

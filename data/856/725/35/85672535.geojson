@@ -356,6 +356,10 @@
         "wk:page":"Haifa District"
     },
     "wof:country":"IL",
+    "wof:geom_alt":[
+        "meso",
+        "quattroshapes"
+    ],
     "wof:geomhash":"eafa4ca928d59c6b2a2cee9e1d500dcf",
     "wof:hierarchy":[
         {
@@ -373,7 +377,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1566680567,
+    "wof:lastmodified":1582356354,
     "wof:name":"Haifa",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

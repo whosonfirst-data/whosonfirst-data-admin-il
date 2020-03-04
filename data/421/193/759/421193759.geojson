@@ -150,6 +150,9 @@
     },
     "wof:country":"IL",
     "wof:created":1459009782,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f5ab84d8daa982e5e8d62f6aa8ffc522",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":421193759,
-    "wof:lastmodified":1566680634,
+    "wof:lastmodified":1582356368,
     "wof:name":"Ramat Modi'in",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

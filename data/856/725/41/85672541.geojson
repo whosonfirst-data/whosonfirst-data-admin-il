@@ -299,6 +299,10 @@
         "wk:page":"Central District (Israel)"
     },
     "wof:country":"IL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "meso"
+    ],
     "wof:geomhash":"6b56e39faf13e9d52d4d5e3f42586d19",
     "wof:hierarchy":[
         {
@@ -316,7 +320,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1566680569,
+    "wof:lastmodified":1582356355,
     "wof:name":"Central",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

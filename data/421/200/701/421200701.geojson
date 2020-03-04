@@ -215,7 +215,6 @@
     "qs:woe_id":24549736,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes",
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
@@ -249,6 +248,9 @@
     },
     "wof:country":"IL",
     "wof:created":1459010035,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"40fec83af0698238c72707ea7bf72b21",
     "wof:hierarchy":[
         {
@@ -269,7 +271,7 @@
         }
     ],
     "wof:id":421200701,
-    "wof:lastmodified":1566680667,
+    "wof:lastmodified":1582356369,
     "wof:name":"Jerusalem",
     "wof:parent_id":85681427,
     "wof:placetype":"county",

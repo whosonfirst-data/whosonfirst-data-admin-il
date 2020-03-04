@@ -68,6 +68,9 @@
         "qs_pg:id":902476
     },
     "wof:country":"IL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"90f65d14ad4349a93aa0deabfce2aadd",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680563,
+    "wof:lastmodified":1582356353,
     "wof:name":"Neve Magen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

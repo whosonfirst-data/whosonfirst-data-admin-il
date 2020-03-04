@@ -198,6 +198,9 @@
     },
     "wof:country":"IL",
     "wof:created":1459009983,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6beb3351acfdd8001d58fcd3acb94120",
     "wof:hierarchy":[
         {
@@ -209,7 +212,7 @@
         }
     ],
     "wof:id":421199251,
-    "wof:lastmodified":1566680665,
+    "wof:lastmodified":1582356369,
     "wof:name":"Bat Yam",
     "wof:parent_id":1108720837,
     "wof:placetype":"locality",

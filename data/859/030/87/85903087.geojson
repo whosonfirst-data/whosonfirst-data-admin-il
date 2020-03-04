@@ -76,6 +76,10 @@
         "qs_pg:id":1301546
     },
     "wof:country":"IL",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"7cc0ced81d3a571c0e9fb6e8f5045ed1",
     "wof:hierarchy":[
         {
@@ -91,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680561,
+    "wof:lastmodified":1582356353,
     "wof:name":"Barnea",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

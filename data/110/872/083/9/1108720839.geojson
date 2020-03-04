@@ -69,6 +69,9 @@
     },
     "wof:country":"IL",
     "wof:created":1476124709,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"db9e305925bb1db37444e972dc815627",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108720839,
-    "wof:lastmodified":1566680598,
+    "wof:lastmodified":1582356358,
     "wof:name":"Zefat",
     "wof:parent_id":85672545,
     "wof:placetype":"county",

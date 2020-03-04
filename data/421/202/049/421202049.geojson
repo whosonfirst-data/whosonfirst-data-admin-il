@@ -296,6 +296,9 @@
     },
     "wof:country":"IL",
     "wof:created":1459010102,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fc8b748a0019fb3283c09b0906872b65",
     "wof:hierarchy":[
         {
@@ -307,7 +310,7 @@
         }
     ],
     "wof:id":421202049,
-    "wof:lastmodified":1566680641,
+    "wof:lastmodified":1582356368,
     "wof:name":"Petah Tikva",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

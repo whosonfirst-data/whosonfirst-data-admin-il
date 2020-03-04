@@ -69,6 +69,9 @@
         "qs_pg:id":902474
     },
     "wof:country":"IL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"46fc0fa32fa6f6fd8dd2592caba2944f",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680562,
+    "wof:lastmodified":1582356353,
     "wof:name":"Neve Rasko",
     "wof:parent_id":421174205,
     "wof:placetype":"neighbourhood",

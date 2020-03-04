@@ -240,6 +240,9 @@
     },
     "wof:country":"IL",
     "wof:created":1459009369,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8be1a980382589fadd0540f34f0e2b7e",
     "wof:hierarchy":[
         {
@@ -251,7 +254,7 @@
         }
     ],
     "wof:id":421183425,
-    "wof:lastmodified":1566680676,
+    "wof:lastmodified":1582356369,
     "wof:name":"Ramat Gan",
     "wof:parent_id":1108720837,
     "wof:placetype":"locality",

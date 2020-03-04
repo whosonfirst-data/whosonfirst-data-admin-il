@@ -108,6 +108,9 @@
         "qs_pg:id":894375
     },
     "wof:country":"IL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"50d42ebec7cefabb58a613c7fa262c28",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680560,
+    "wof:lastmodified":1582356353,
     "wof:name":"H\u0331ava\u1e95\u1e95elet",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -71,6 +71,9 @@
         "gp:id":1967837
     },
     "wof:country":"IL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cc8308cae77150fa701b427fb13886e4",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680561,
+    "wof:lastmodified":1582356353,
     "wof:name":"Qiryat Arye",
     "wof:parent_id":421202049,
     "wof:placetype":"neighbourhood",

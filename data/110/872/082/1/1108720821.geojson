@@ -69,6 +69,9 @@
     },
     "wof:country":"IL",
     "wof:created":1476124699,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"033a7c42564acfe5516c5c8a65fd8876",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108720821,
-    "wof:lastmodified":1566680603,
+    "wof:lastmodified":1582356362,
     "wof:name":"Petah Tiqwa",
     "wof:parent_id":85672541,
     "wof:placetype":"county",

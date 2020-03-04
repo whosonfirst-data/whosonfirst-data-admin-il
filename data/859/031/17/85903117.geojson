@@ -102,6 +102,9 @@
         "wk:page":"Neve Sha'anan, Haifa"
     },
     "wof:country":"IL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fb8d230c2c609303a0fe7482fa016c70",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561760002,
+    "wof:lastmodified":1582356353,
     "wof:name":"Newe Sha'anan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
