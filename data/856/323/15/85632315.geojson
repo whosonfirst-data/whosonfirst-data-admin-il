@@ -1111,9 +1111,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Israel",
-        "digitalenvoy:country_code":[
-            376
-        ],
+        "digitalenvoy:country_code":376,
         "fb:id":"en.israel",
         "fifa:id":"ISR",
         "fips:code":"IS",
@@ -1160,7 +1158,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1583529159,
+    "wof:lastmodified":1583797365,
     "wof:name":"Israel",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
