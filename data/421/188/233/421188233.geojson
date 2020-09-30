@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0635\u0648\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Sur"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -44,7 +50,7 @@
     },
     "wof:country":"IL",
     "wof:created":1459009538,
-    "wof:geomhash":"c6586ceb49be2a7726aa81b866408e07",
+    "wof:geomhash":"cef612cb1c9d8dd47625c5469ee764af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,8 +60,8 @@
         }
     ],
     "wof:id":421188233,
-    "wof:lastmodified":1476124969,
-    "wof:name":"\u0635\u0648\u0631",
+    "wof:lastmodified":1601423092,
+    "wof:name":"Sur",
     "wof:parent_id":85672545,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-il",
