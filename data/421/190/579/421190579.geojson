@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"35.1948645,33.07892,35.1948645,33.07892",
+    "geom:bbox":"35.194865,33.07892,35.194865,33.07892",
     "geom:latitude":33.07892,
     "geom:longitude":35.194865,
     "iso:country":"IL",
@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632315,
-        85672545,
-        1108720807
+        1108720807,
+        85672545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"IL",
     "wof:created":1459009662,
-    "wof:geomhash":"af08e76a4abc56730089d2887b899142",
+    "wof:geomhash":"3642a5501a9c24aa92e4383f031df9ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421190579,
-    "wof:lastmodified":1601068398,
+    "wof:lastmodified":1601423082,
     "wof:name":"Aalma Ech Chaab",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",
@@ -76,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    35.1948645,
+    35.194865,
     33.07892,
-    35.1948645,
+    35.194865,
     33.07892
 ],
-  "geometry": {"coordinates":[35.1948645,33.07892],"type":"Point"}
+  "geometry": {"coordinates":[35.194865,33.07892],"type":"Point"}
 }

@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632315,
-        85672545,
-        1108720839
+        1108720839,
+        85672545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421186377,
-    "wof:lastmodified":1601068392,
+    "wof:lastmodified":1601423085,
     "wof:name":"Al Maisat",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",
