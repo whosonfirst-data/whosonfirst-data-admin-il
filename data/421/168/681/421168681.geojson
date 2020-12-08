@@ -952,7 +952,9 @@
         85672551
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632315,
+    "wof:capital_of":[
+        85632315
+    ],
     "wof:concordances":{
         "gn:id":281184,
         "gp:id":1968222,
@@ -980,7 +982,7 @@
         }
     ],
     "wof:id":421168681,
-    "wof:lastmodified":1587427748,
+    "wof:lastmodified":1607390878,
     "wof:name":"Jerusalem",
     "wof:parent_id":-4,
     "wof:placetype":"locality",
