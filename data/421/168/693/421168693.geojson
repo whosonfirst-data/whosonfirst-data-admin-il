@@ -139,10 +139,10 @@
         "H\u0331efa"
     ],
     "name:hin_x_preferred":[
-        "\u0939\u0948\u092b\u093c\u093e"
+        "\u0939\u0948\u092b\u093e"
     ],
     "name:hin_x_variant":[
-        "\u0939\u0948\u092b\u093e"
+        "\u0939\u0948\u092b\u093c\u093e"
     ],
     "name:hrv_x_preferred":[
         "Haifa"
@@ -483,6 +483,7 @@
         "gn:id":294801,
         "gp:id":1967449,
         "loc:id":"n79065148",
+        "ne:id":1159142281,
         "qs_pg:id":810214,
         "wd:id":"Q41621",
         "wk:page":"Haifa"
@@ -503,7 +504,7 @@
         }
     ],
     "wof:id":421168693,
-    "wof:lastmodified":1608675973,
+    "wof:lastmodified":1608677520,
     "wof:megacity":1,
     "wof:name":"Haifa",
     "wof:parent_id":1108720835,

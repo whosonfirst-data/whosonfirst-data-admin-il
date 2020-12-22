@@ -21,7 +21,7 @@
     "mps:longitude":34.783553,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":6.0,
+    "mz:min_zoom":4.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Tel Aviv"
@@ -563,6 +563,7 @@
     "wof:concordances":{
         "gn:id":293397,
         "gp:id":1968212,
+        "ne:id":1159151417,
         "qs_pg:id":1146174,
         "wd:id":"Q33935"
     },
@@ -582,7 +583,7 @@
         }
     ],
     "wof:id":1125955239,
-    "wof:lastmodified":1608675983,
+    "wof:lastmodified":1608677549,
     "wof:megacity":1,
     "wof:name":"Tel Aviv",
     "wof:parent_id":1108720837,
