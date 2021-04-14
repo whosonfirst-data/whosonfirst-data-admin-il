@@ -1200,7 +1200,8 @@
     "src:geom_alt":[
         "naturalearth",
         "meso",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1264,7 +1265,8 @@
         "quattroshapes",
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6",
-        "meso"
+        "meso",
+        "whosonfirst-interior"
     ],
     "wof:geomhash":"e2a714764fecd2bceb9f257b0299fe7d",
     "wof:hierarchy":[
@@ -1283,7 +1285,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1617827614,
+    "wof:lastmodified":1618362687,
     "wof:name":"Israel",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
