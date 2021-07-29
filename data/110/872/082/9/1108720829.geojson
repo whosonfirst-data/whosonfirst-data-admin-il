@@ -43,6 +43,9 @@
     "name:eng_x_preferred":[
         "Jezreel"
     ],
+    "name:fra_x_preferred":[
+        "Yizre'el"
+    ],
     "name:heb_x_preferred":[
         "\u05d9\u05d6\u05e8\u05e2\u05d0\u05dc"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108720829,
-    "wof:lastmodified":1617130165,
+    "wof:lastmodified":1627522202,
     "wof:name":"Yizre'el",
     "wof:parent_id":85672545,
     "wof:placetype":"county",

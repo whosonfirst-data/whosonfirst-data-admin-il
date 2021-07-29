@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Ashqelon"
     ],
+    "name:fra_x_preferred":[
+        "Ashkelon"
+    ],
     "name:und_x_variant":[
         "\u05d0\u05e9\u05e7\u05dc\u05d5\u05df"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108720841,
-    "wof:lastmodified":1617131234,
+    "wof:lastmodified":1627522199,
     "wof:name":"Ashqelon",
     "wof:parent_id":85672531,
     "wof:placetype":"county",
