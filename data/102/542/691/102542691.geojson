@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"35.183325,32.6666027778,35.183325,32.6666027778",
+    "geom:bbox":"35.183325,32.666603,35.183325,32.666603",
     "geom:latitude":32.666603,
     "geom:longitude":35.183325,
     "iso:country":"IL",
@@ -24,6 +24,9 @@
     ],
     "name:eng_x_preferred":[
         "Ramat David Airbase"
+    ],
+    "name:eng_x_variant":[
+        "LLRD"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0631\u0627\u0645\u062a\u0627 \u062f\u06cc\u0648\u06cc\u062f"
@@ -79,7 +82,7 @@
         "wd:id":"Q2629816"
     },
     "wof:country":"IL",
-    "wof:geomhash":"c47fe243d880562ead2b82d0c2b4ad8d",
+    "wof:geomhash":"c35aa12d226e78ed6b15ab1266435dd3",
     "wof:hierarchy":[
         {
             "campus_id":102542691,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":102542691,
-    "wof:lastmodified":1566680549,
+    "wof:lastmodified":1631752515,
     "wof:name":"Ramat David Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
@@ -105,9 +108,9 @@
 },
   "bbox": [
     35.183325,
-    32.666602777778,
+    32.666603,
     35.183325,
-    32.666602777778
+    32.666603
 ],
-  "geometry": {"coordinates":[35.183325,32.666602777778],"type":"Point"}
+  "geometry": {"coordinates":[35.183325,32.666603],"type":"Point"}
 }
