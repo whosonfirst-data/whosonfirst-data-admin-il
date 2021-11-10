@@ -127,6 +127,9 @@
         "\u092e\u0927\u094d\u092f \u091c\u093f\u0932\u093e"
     ],
     "name:hun_x_preferred":[
+        "K\u00f6z\u00e9p"
+    ],
+    "name:hun_x_variant":[
         "K\u00f6zponti k\u00f6rzet"
     ],
     "name:hye_x_preferred":[
@@ -321,7 +324,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1617131338,
+    "wof:lastmodified":1636502612,
     "wof:name":"Central",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

@@ -33,7 +33,13 @@
         "Samar"
     ],
     "name:heb_x_preferred":[
+        "\u05e1\u05de\u05d0\u05e8"
+    ],
+    "name:heb_x_variant":[
         "\u05e1\u05de\u05e8"
+    ],
+    "name:hun_x_preferred":[
+        "Samar"
     ],
     "name:pol_x_preferred":[
         "Samar"
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1226147095,
-    "wof:lastmodified":1566680706,
+    "wof:lastmodified":1636502615,
     "wof:name":"Samar",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

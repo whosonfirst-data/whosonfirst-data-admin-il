@@ -29,11 +29,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09a1\u09be\u09b2\u09cd\u099f\u09a8"
+    ],
     "name:ces_x_preferred":[
         "Dalton"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03ac\u03bb\u03c4\u03bf\u03bd"
+    ],
     "name:heb_x_preferred":[
         "\u05d3\u05dc\u05ea\u05d5\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u093e\u0932\u094d\u091f\u0928"
+    ],
+    "name:ind_x_preferred":[
+        "Dalton"
     ],
     "name:pol_x_preferred":[
         "Dalton"
@@ -44,6 +56,9 @@
     "name:und_x_variant":[
         "Shahar",
         "Daltoun"
+    ],
+    "name:vie_x_preferred":[
+        "Dalton"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +73,7 @@
         "wk:page":"Dalton%2C_Israel"
     },
     "wof:country":"IL",
-    "wof:geomhash":"a0c8319ae90ab2240dcab58d6addb886",
+    "wof:geomhash":"b286ea2e6b28dc6ab1b7a797f6540032",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,7 +84,7 @@
         }
     ],
     "wof:id":1209626851,
-    "wof:lastmodified":1566680585,
+    "wof:lastmodified":1636502613,
     "wof:name":"Dalton",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",
@@ -79,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    35.48902000000001,
+    35.48902,
     33.01635,
-    35.48902000000001,
+    35.48902,
     33.01635
 ],
-  "geometry": {"coordinates":[35.48902000000001,33.01635],"type":"Point"}
+  "geometry": {"coordinates":[35.48902,33.01635],"type":"Point"}
 }

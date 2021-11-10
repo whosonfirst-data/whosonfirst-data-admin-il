@@ -54,10 +54,34 @@
         "Dan"
     ],
     "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u0414\u0430\u043d"
+    ],
+    "name:rus_x_variant":[
         "\u0414\u044d\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Dan"
+    ],
+    "name:tur_x_preferred":[
+        "Dan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u043d"
     ],
     "name:und_x_variant":[
         "Tell el Qady"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u06cc\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Dan"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4e39\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u9054\u6069\u6cb3"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -106,7 +130,7 @@
         }
     ],
     "wof:id":421182083,
-    "wof:lastmodified":1566680678,
+    "wof:lastmodified":1636502614,
     "wof:name":"Dan",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

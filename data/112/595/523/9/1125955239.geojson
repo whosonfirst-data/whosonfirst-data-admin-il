@@ -165,6 +165,9 @@
         "\u05ea\u05dc\u05be\u05d0\u05d1\u05d9\u05d1\u2013\u05d9\u05e4\u05d5"
     ],
     "name:hin_x_preferred":[
+        "\u0924\u0947\u0932 \u0905\u0935\u0940\u0935"
+    ],
+    "name:hin_x_variant":[
         "\u0924\u0947\u0932 \u0905\u0935\u093f\u0935"
     ],
     "name:hrv_x_preferred":[
@@ -583,7 +586,7 @@
         }
     ],
     "wof:id":1125955239,
-    "wof:lastmodified":1617131499,
+    "wof:lastmodified":1636502615,
     "wof:megacity":1,
     "wof:name":"Tel Aviv",
     "wof:parent_id":1108720837,

@@ -29,6 +29,9 @@
     "name:bel_x_preferred":[
         "\u0420\u0430\u043c\u043b\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09be\u09ae\u09b2\u09be"
+    ],
     "name:bos_x_preferred":[
         "Ramla"
     ],
@@ -76,6 +79,12 @@
     ],
     "name:heb_x_preferred":[
         "\u05e8\u05de\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u093e\u092e\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Ramla"
     ],
     "name:ind_x_preferred":[
         "Ramla"
@@ -321,7 +330,7 @@
         }
     ],
     "wof:id":421168691,
-    "wof:lastmodified":1566680626,
+    "wof:lastmodified":1636502614,
     "wof:name":"Ramla",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

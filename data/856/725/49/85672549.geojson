@@ -111,6 +111,9 @@
         "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
         "\u05de\u05d7\u05d5\u05d6 \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1"
     ],
+    "name:hin_x_preferred":[
+        "\u0924\u0947\u0932 \u0905\u0935\u0940\u0935"
+    ],
     "name:hun_x_preferred":[
         "Tel-Avivi j\u00e1r\u00e1s"
     ],
@@ -338,7 +341,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1617131294,
+    "wof:lastmodified":1636502613,
     "wof:name":"Tel Aviv",
     "wof:parent_id":85632315,
     "wof:placetype":"region",
