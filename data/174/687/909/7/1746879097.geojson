@@ -1,0 +1,78 @@
+{
+  "id": 102542687,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "1973-01-01",
+    "date:cessation_upper": "1973-12-31",
+    "date:inception_lower": "1948-01-01",
+    "date:inception_upper": "1948-12-31",
+    "edtf:cessation": "1973",
+    "edtf:inception": "1948",
+    "geom:area": 0.000012892558999998442,
+    "geom:area_square_m": 135172.773794,
+    "geom:bbox": "34.876667,32.011990,34.895210,32.017101",
+    "geom:latitude": 32.014355696678265,
+    "geom:longitude": 34.8813930904259,
+    "iso:country": "IL",
+    "lbl:latitude": 32.005595,
+    "lbl:longitude": 34.877214,
+    "mps:latitude": 32.005595,
+    "mps:longitude": 34.877214,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:min_zoom": 13,
+    "oa:elevation_ft": "135",
+    "oa:type": "large_airport",
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "wd:wordcount": 5514,
+    "woe:hierarchy": {
+      "country_id": 23424852,
+      "planet_id": 1,
+      "state_id": 2345792
+    },
+    "wof:belongsto": [
+      102191569,
+      85632315,
+      1108720815,
+      85672541
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {},
+    "wof:country": "",
+    "wof:created": 1640294257,
+    "wof:geomhash": "3d72e35fc4580f0c427354f218290830",
+    "wof:hierarchy": [
+      {
+        "campus_id": 1746879097,
+        "continent_id": 102191569,
+        "country_id": 85632315,
+        "county_id": 1108720815,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "region_id": 85672541
+      }
+    ],
+    "wof:id": 1746879097,
+    "wof:lastmodified": 1640294463,
+    "wof:name": "Lod Airport",
+    "wof:parent_id": -1,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-il",
+    "wof:superseded_by": [
+      102542687
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
+    ]
+  },
+  "bbox": [
+    34.876667,
+    32.01199,
+    34.89521,
+    32.017101
+  ],
+  "geometry": {"coordinates":[[[[34.892662,32.01368],[34.892578,32.015354],[34.89521,32.01199],[34.892662,32.01368]]],[[[34.882278,32.013023],[34.876667,32.013332],[34.87833,32.017101],[34.882278,32.013023]]]],"type":"MultiPolygon"}
+}
