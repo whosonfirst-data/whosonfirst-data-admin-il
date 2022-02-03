@@ -13,9 +13,15 @@
     "lbl:bbox":"34.83879,32.26701,34.84879,32.27701",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Ramat Poleg"
+    ],
+    "name:eng_x_variant":[
+        "Ramat Polin"
+    ],
     "name:heb_x_preferred":[
         "\u05e8\u05de\u05ea \u05e4\u05d5\u05dc\u05d2"
     ],
@@ -42,11 +48,11 @@
     "qs:woe_id":22724621,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
-        85672541,
         102191569,
         85632315,
+        1108720805,
         421182059,
-        1108720805
+        85672541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,8 +74,8 @@
         }
     ],
     "wof:id":421184077,
-    "wof:lastmodified":1566680671,
-    "wof:name":"Ramat Polin",
+    "wof:lastmodified":1643921055,
+    "wof:name":"Ramat Poleg",
     "wof:parent_id":421182059,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-il",
