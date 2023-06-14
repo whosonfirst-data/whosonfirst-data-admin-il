@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00254,
     "geom:area_square_m":26585154.506409,
-    "geom:bbox":"34.7913210877,32.1407411285,34.8646675257,32.2021967064",
+    "geom:bbox":"34.7913210877109,32.14074112848512,34.8646675256541,32.2021967063727",
     "geom:latitude":32.168739,
     "geom:longitude":34.826213,
     "iso:country":"IL",
@@ -51,15 +51,15 @@
         "\u03a7\u03b5\u03c1\u03c4\u03c3\u03bb\u03b9\u03b3\u03b9\u03ac"
     ],
     "name:eng_x_preferred":[
-        "Hertsliyah"
+        "Herzliya"
     ],
     "name:eng_x_variant":[
         "Herseliya",
         "Herzliyah",
         "Herzlia B",
-        "Herzliya",
         "Hertsliyya",
-        "Her\u1e95liyya"
+        "Her\u1e95liyya",
+        "Hertsliyah"
     ],
     "name:est_x_preferred":[
         "Herzliyya"
@@ -219,8 +219,8 @@
     "wof:belongsto":[
         102191569,
         85632315,
-        85672549,
-        1108720837
+        1108720837,
+        85672549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -246,7 +246,7 @@
         }
     ],
     "wof:id":421174205,
-    "wof:lastmodified":1582356368,
+    "wof:lastmodified":1686772540,
     "wof:name":"Herzliya",
     "wof:parent_id":1108720837,
     "wof:placetype":"locality",
