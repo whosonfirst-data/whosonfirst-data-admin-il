@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Mi'ilya"
     ],
+    "name:fin_x_preferred":[
+        "Mi'ilya"
+    ],
     "name:fra_x_preferred":[
         "Mhalia"
     ],
@@ -43,11 +46,17 @@
         "\u05de\u05e2\u05dc\u05d9\u05d0",
         "Mi\u2019ily\u0101"
     ],
+    "name:nld_x_preferred":[
+        "Mi'ilya"
+    ],
     "name:nno_x_preferred":[
         "Mi'ilya"
     ],
     "name:pol_x_preferred":[
         "Mi'ilja"
+    ],
+    "name:por_x_preferred":[
+        "Mi'ilya"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0438\u043b\u0438\u044f"
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":421177361,
-    "wof:lastmodified":1566680675,
+    "wof:lastmodified":1690932044,
     "wof:name":"Miilya",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

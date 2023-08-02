@@ -23,6 +23,18 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0644\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0644\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "Lod"
+    ],
+    "name:aze_x_preferred":[
+        "Lod"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u043e\u0434"
+    ],
     "name:cat_x_preferred":[
         "Lod"
     ],
@@ -50,6 +62,9 @@
     "name:eng_x_preferred":[
         "Lod"
     ],
+    "name:epo_x_preferred":[
+        "Lod"
+    ],
     "name:fas_x_preferred":[
         "\u0644\u0627\u062f"
     ],
@@ -57,6 +72,9 @@
         "Lod"
     ],
     "name:fra_x_preferred":[
+        "Lod"
+    ],
+    "name:gle_x_preferred":[
         "Lod"
     ],
     "name:heb_x_preferred":[
@@ -68,11 +86,20 @@
     "name:hun_x_preferred":[
         "Lod"
     ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u0564"
+    ],
+    "name:ina_x_preferred":[
+        "Lydda"
+    ],
     "name:ind_x_preferred":[
         "Lod"
     ],
     "name:ita_x_preferred":[
         "Lod"
+    ],
+    "name:ita_x_variant":[
+        "Lidda"
     ],
     "name:jpn_x_preferred":[
         "\u30ed\u30fc\u30c9"
@@ -83,11 +110,17 @@
     "name:kor_x_preferred":[
         "\ub85c\ub4dc"
     ],
+    "name:lat_x_preferred":[
+        "Lydda"
+    ],
     "name:lit_x_preferred":[
         "Lodas"
     ],
     "name:mal_x_preferred":[
         "\u0d32\u0d41\u0d26\u0d4d\u0d26\u0d4d"
+    ],
+    "name:min_x_preferred":[
+        "Lod"
     ],
     "name:mkd_x_preferred":[
         "\u041b\u043e\u0434"
@@ -137,8 +170,14 @@
     "name:srp_x_preferred":[
         "\u041b\u043e\u0434"
     ],
+    "name:swa_x_preferred":[
+        "Lod"
+    ],
     "name:swe_x_preferred":[
         "Lod"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041b\u043e\u0434"
     ],
     "name:tgl_x_preferred":[
         "Lod"
@@ -212,7 +251,7 @@
         }
     ],
     "wof:id":421187757,
-    "wof:lastmodified":1566680648,
+    "wof:lastmodified":1690931996,
     "wof:name":"Lod",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u064a\u0631\u0643\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u064a\u0631\u0643\u0627"
+    ],
     "name:ces_x_preferred":[
         "Jirka"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421187045,
-    "wof:lastmodified":1566680648,
+    "wof:lastmodified":1690931997,
     "wof:name":"Yirka",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

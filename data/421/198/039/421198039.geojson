@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Mahane Yatir"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05e0\u05d4 \u05d9\u05ea\u05d9\u05e8"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":421198039,
-    "wof:lastmodified":1566680658,
+    "wof:lastmodified":1690932014,
     "wof:name":"Mahane Yatir",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

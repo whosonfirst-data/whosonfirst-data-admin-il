@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0639\u062a\u0644\u064a\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u062a\u0644\u064a\u062a"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u0442\u043b\u0456\u0442"
     ],
@@ -41,6 +44,9 @@
     "name:eng_x_preferred":[
         "Atlit"
     ],
+    "name:fin_x_preferred":[
+        "Atlit"
+    ],
     "name:fra_x_preferred":[
         "Atlit"
     ],
@@ -49,6 +55,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0531\u057f\u056c\u056b\u057f"
+    ],
+    "name:ind_x_preferred":[
+        "Atlit"
     ],
     "name:ita_x_preferred":[
         "Atlit"
@@ -79,6 +88,9 @@
     ],
     "name:und_x_variant":[
         "\u2018Athl\u012bth"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u062a\u0644\u06cc\u062a"
     ],
     "name:zho_x_preferred":[
         "\u963f\u7279\u91cc\u7279"
@@ -131,7 +143,7 @@
         }
     ],
     "wof:id":421166365,
-    "wof:lastmodified":1566680626,
+    "wof:lastmodified":1690931955,
     "wof:name":"Atlit",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

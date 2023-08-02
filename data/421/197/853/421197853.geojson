@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0631\u064a\u0627\u062a \u0634\u0645\u0648\u0646\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0631\u064a\u0627\u062a \u0634\u0645\u0648\u0646\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Kiryat Shmona"
+    ],
     "name:cat_x_preferred":[
         "Qiryat Xemon\u00e0"
     ],
@@ -34,6 +40,9 @@
     ],
     "name:deu_x_preferred":[
         "Kirjat Schmona"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03c1\u03b9\u03ac\u03c4 \u03a3\u03bc\u03bf\u03bd\u03ac"
     ],
     "name:eng_x_preferred":[
         "Qiryat Shmona"
@@ -54,6 +63,9 @@
         "Kirjat Shmona"
     ],
     "name:fra_x_preferred":[
+        "Kiryat Shmona"
+    ],
+    "name:gle_x_preferred":[
         "Kiryat Shmona"
     ],
     "name:glv_x_preferred":[
@@ -128,6 +140,12 @@
     "name:spa_x_preferred":[
         "Kiryat Shemona"
     ],
+    "name:srp_x_preferred":[
+        "\u041a\u0438\u0440\u0458\u0430\u0442 \u0428\u043c\u043e\u043d\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Kiryat Shmona"
+    ],
     "name:swe_x_preferred":[
         "Qiryat Shemona"
     ],
@@ -136,6 +154,9 @@
     ],
     "name:tgl_x_preferred":[
         "Kiryat Shmona"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0440'\u044f\u0442-\u0428\u043c\u043e\u043d\u0430"
     ],
     "name:und_x_variant":[
         "Al Khalisa"
@@ -204,7 +225,7 @@
         }
     ],
     "wof:id":421197853,
-    "wof:lastmodified":1566680664,
+    "wof:lastmodified":1690932024,
     "wof:name":"Qiryat Shemona",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u064a\u0641\u0646\u064a\u0626\u064a\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u064a\u0641\u0646\u064a\u0626\u064a\u0644"
+    ],
     "name:ceb_x_preferred":[
         "Yavne'el"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:pol_x_preferred":[
         "Javneel"
+    ],
+    "name:ron_x_preferred":[
+        "Yavneel"
     ],
     "name:rus_x_preferred":[
         "\u042f\u0432\u043d\u0435\u044d\u043b\u044c"
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421180779,
-    "wof:lastmodified":1566680646,
+    "wof:lastmodified":1690931992,
     "wof:name":"Yavne'el",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

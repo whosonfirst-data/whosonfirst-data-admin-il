@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u062d\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u062d\u0644"
+    ],
     "name:ces_x_preferred":[
         "Kachal"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421184901,
-    "wof:lastmodified":1566680671,
+    "wof:lastmodified":1690932037,
     "wof:name":"Kahal",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

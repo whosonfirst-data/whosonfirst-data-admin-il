@@ -23,6 +23,9 @@
     "name:ces_x_preferred":[
         "Ramat David"
     ],
+    "name:deu_x_preferred":[
+        "Ramat David"
+    ],
     "name:eng_x_preferred":[
         "Ramat David"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421200775,
-    "wof:lastmodified":1566680668,
+    "wof:lastmodified":1690932034,
     "wof:name":"Ramat Dawid",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

@@ -40,8 +40,14 @@
     "name:arg_x_preferred":[
         "Destrito Sud"
     ],
+    "name:ast_x_preferred":[
+        "distritu Meridional"
+    ],
     "name:aze_x_preferred":[
         "\u0130srail c\u0259nub dair\u0259si"
+    ],
+    "name:aze_x_variant":[
+        "C\u0259nub dair\u0259si"
     ],
     "name:bar_x_preferred":[
         "Sidbeziak"
@@ -73,6 +79,9 @@
     "name:deu_x_preferred":[
         "S\u00fcdbezirk"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03cc\u03c4\u03b9\u03bf \u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Southern"
     ],
@@ -99,6 +108,9 @@
     ],
     "name:fra_x_preferred":[
         "district sud"
+    ],
+    "name:frr_x_preferred":[
+        "S\u00fc\u00fcd"
     ],
     "name:glv_x_preferred":[
         "Slyst Yiass"
@@ -147,8 +159,14 @@
     "name:msa_x_preferred":[
         "Daerah Selatan"
     ],
+    "name:nan_x_preferred":[
+        "L\u00e2m-p\u014d\u0358-ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Zuid"
+    ],
+    "name:nld_x_variant":[
+        "Zuidelijk district"
     ],
     "name:nno_x_preferred":[
         "Det s\u00f8rlege distriktet i Israel"
@@ -168,6 +186,9 @@
     "name:por_x_preferred":[
         "Distrito Sul"
     ],
+    "name:que_x_preferred":[
+        "Urin distritu"
+    ],
     "name:ron_x_preferred":[
         "Districtul de Sud"
     ],
@@ -180,6 +201,9 @@
     "name:sco_x_preferred":[
         "Soothren Destrict"
     ],
+    "name:slv_x_preferred":[
+        "Ju\u017eno okro\u017eje"
+    ],
     "name:spa_x_preferred":[
         "Distrito Meridional"
     ],
@@ -188,6 +212,9 @@
     ],
     "name:swe_x_preferred":[
         "S\u00f6dra distriktet"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tur_x_preferred":[
         "G\u00fcney B\u00f6lgesi"
@@ -208,6 +235,12 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Nam"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5357\u90e8\u533a"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10dd\u10d1\u10df\u10d0\u10d7\u10d4 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:yid_x_preferred":[
         "\u05d3\u05e8\u05d5\u05dd \u05d3\u05d9\u05e1\u05d8\u05e8\u05d9\u05e7\u05d8"
@@ -349,7 +382,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1642551786,
+    "wof:lastmodified":1690931947,
     "wof:name":"Southern",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

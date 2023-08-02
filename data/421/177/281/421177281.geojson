@@ -26,7 +26,16 @@
     "name:ces_x_preferred":[
         "Ha-On"
     ],
+    "name:deu_x_preferred":[
+        "HaOn"
+    ],
     "name:eng_x_preferred":[
+        "HaOn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0647\u200c\u0627\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
         "HaOn"
     ],
     "name:heb_x_preferred":[
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":421177281,
-    "wof:lastmodified":1566680674,
+    "wof:lastmodified":1690932043,
     "wof:name":"HaOn",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

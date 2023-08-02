@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0637\u0627\u0628\u063a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0637\u0627\u0628\u063a\u0647"
+    ],
     "name:bre_x_preferred":[
         "Tabgha"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:und_x_variant":[
         "Tabgha Hospice"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0637\u0627\u0628\u063a\u06c1"
     ],
     "name:zho_x_preferred":[
         "\u5854\u5e03\u52a0"
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":421169489,
-    "wof:lastmodified":1566680637,
+    "wof:lastmodified":1690931973,
     "wof:name":"Kare Deshe",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

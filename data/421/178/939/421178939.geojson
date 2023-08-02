@@ -23,6 +23,15 @@
     "name:ara_x_variant":[
         "\u0646\u064a\u0634\u064a\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u064a\u0634\u064a\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Nesher"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u0435\u0448\u044d\u0440"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0435\u0448\u0435\u0440"
     ],
@@ -43,6 +52,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0646\u0634\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Nesher"
     ],
     "name:fra_x_preferred":[
         "Nesher"
@@ -86,11 +98,20 @@
     "name:spa_x_preferred":[
         "Nesher"
     ],
+    "name:swa_x_preferred":[
+        "Nesher"
+    ],
     "name:swe_x_preferred":[
         "Nesher"
     ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bc7\u0b9a\u0bc7\u0bb0\u0bcd"
+    ],
     "name:tgl_x_preferred":[
         "Nesher"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0448\u0435\u0440"
     ],
     "name:urd_x_preferred":[
         "\u0646\u06cc\u0634\u0631"
@@ -152,7 +173,7 @@
         }
     ],
     "wof:id":421178939,
-    "wof:lastmodified":1566680677,
+    "wof:lastmodified":1690932051,
     "wof:name":"Nesher",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

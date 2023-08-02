@@ -44,6 +44,9 @@
     "name:aze_x_variant":[
         "Akka"
     ],
+    "name:bak_x_preferred":[
+        "\u0410\u043a\u04d9"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u043a\u0430"
     ],
@@ -64,6 +67,15 @@
     ],
     "name:ces_x_preferred":[
         "Akko"
+    ],
+    "name:che_x_preferred":[
+        "\u04c0\u0430\u043a\u043a\u0430"
+    ],
+    "name:chv_x_preferred":[
+        "\u0410\u043a\u043a\u043e"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0639\u06d5\u06a9\u0627"
     ],
     "name:cym_x_preferred":[
         "Acre"
@@ -136,6 +148,12 @@
     "name:hye_x_preferred":[
         "\u0531\u0584\u0584\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u0531\u0584\u0584\u0561"
+    ],
+    "name:ido_x_preferred":[
+        "Akko"
+    ],
     "name:ind_x_preferred":[
         "Akko"
     ],
@@ -184,8 +202,14 @@
     "name:mar_x_preferred":[
         "\u090f\u0915\u0930"
     ],
+    "name:mdf_x_preferred":[
+        "\u0410\u043a\u043a\u043e"
+    ],
     "name:mkd_x_preferred":[
         "\u0410\u043a\u043e"
+    ],
+    "name:mlt_x_preferred":[
+        "Acre"
     ],
     "name:mon_x_preferred":[
         "\u0410\u043a\u043a\u043e"
@@ -244,8 +268,14 @@
     "name:srp_x_preferred":[
         "\u0410\u043a\u043e"
     ],
+    "name:swa_x_preferred":[
+        "Akko"
+    ],
     "name:swe_x_preferred":[
         "Akko"
+    ],
+    "name:szl_x_preferred":[
+        "Akka"
     ],
     "name:tam_x_preferred":[
         "\u0b85\u0b95\u0bcd\u0bb0\u0bc7"
@@ -265,6 +295,9 @@
     "name:tur_x_preferred":[
         "Akka"
     ],
+    "name:uig_x_preferred":[
+        "\u0626\u06d5\u0643\u0643\u0627"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u043a\u043a\u043e"
     ],
@@ -282,6 +315,9 @@
     ],
     "name:war_x_preferred":[
         "Acre"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u5361"
     ],
     "name:xmf_x_preferred":[
         "\u10d0\u10d9\u10dd"
@@ -342,7 +378,7 @@
         }
     ],
     "wof:id":421202497,
-    "wof:lastmodified":1566680641,
+    "wof:lastmodified":1690931982,
     "wof:name":"Acre",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

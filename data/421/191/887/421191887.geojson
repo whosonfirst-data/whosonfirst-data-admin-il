@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Bror Hayil"
     ],
+    "name:fra_x_preferred":[
+        "Bror Hayil"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05e8\u05d5\u05e8 \u05d7\u05d9\u05dc"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421191887,
-    "wof:lastmodified":1566680660,
+    "wof:lastmodified":1690932018,
     "wof:name":"Beror Hayil",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

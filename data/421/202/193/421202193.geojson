@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0634\u0644\u0648\u0645\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0634\u0644\u0648\u0645\u0649"
+    ],
     "name:cat_x_preferred":[
         "Xelom\u00ed"
     ],
@@ -38,11 +41,17 @@
     "name:eng_x_variant":[
         "Shlomi"
     ],
+    "name:fin_x_preferred":[
+        "Shelomi"
+    ],
     "name:fra_x_preferred":[
         "Shlomi"
     ],
     "name:heb_x_preferred":[
         "\u05e9\u05dc\u05d5\u05de\u05d9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30ed\u30df"
     ],
     "name:lad_x_preferred":[
         "Shlomi"
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":421202193,
-    "wof:lastmodified":1566680640,
+    "wof:lastmodified":1690931981,
     "wof:name":"Shelomi",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

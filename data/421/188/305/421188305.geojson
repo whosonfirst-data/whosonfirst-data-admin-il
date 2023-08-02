@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Tirat Zvi"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0631\u0627\u062a \u0632\u0648\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Tirat-Zvi"
     ],
@@ -37,6 +40,12 @@
     ],
     "name:ind_x_preferred":[
         "Tirat Zvi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30a3\u30e9\u30fc\u30c8\u30ba\u30d3"
+    ],
+    "name:lit_x_preferred":[
+        "Tirat Cvi"
     ],
     "name:nld_x_preferred":[
         "Tirat Zvi"
@@ -62,8 +71,14 @@
     "name:swe_x_preferred":[
         "Tirat \u1e94evi"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0438\u0440\u0430\u0442-\u0426\u0432\u0456"
+    ],
     "name:und_x_variant":[
         "Tirattseve"
+    ],
+    "name:zho_x_preferred":[
+        "\u63d0\u62c9\u8332\u7dad"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -112,7 +127,7 @@
         }
     ],
     "wof:id":421188305,
-    "wof:lastmodified":1566680651,
+    "wof:lastmodified":1690932003,
     "wof:name":"Tirat Zevi",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

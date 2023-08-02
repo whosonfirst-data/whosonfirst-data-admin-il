@@ -32,6 +32,9 @@
     "name:pol_x_preferred":[
         "Karmei Josef"
     ],
+    "name:spa_x_preferred":[
+        "Karmei Yosef"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421192839,
-    "wof:lastmodified":1566680631,
+    "wof:lastmodified":1690931964,
     "wof:name":"Karmei Yosef",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

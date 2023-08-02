@@ -23,6 +23,9 @@
     "name:deu_x_preferred":[
         "Matat"
     ],
+    "name:deu_x_variant":[
+        "Mattat"
+    ],
     "name:eng_x_preferred":[
         "Mattat"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421203201,
-    "wof:lastmodified":1566680640,
+    "wof:lastmodified":1690931980,
     "wof:name":"Matat",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "HaGoshrim"
     ],
+    "name:fra_x_preferred":[
+        "HaGoshrim"
+    ],
     "name:heb_x_preferred":[
         "\u05d4\u05d2\u05d5\u05e9\u05e8\u05d9\u05dd"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421172231,
-    "wof:lastmodified":1566680653,
+    "wof:lastmodified":1690932006,
     "wof:name":"HaGosherim",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

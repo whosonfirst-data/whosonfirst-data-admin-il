@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u0648\u0641\u0631"
+    ],
     "name:ceb_x_preferred":[
         "\u2018Ofer"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421200791,
-    "wof:lastmodified":1566680667,
+    "wof:lastmodified":1690932030,
     "wof:name":"Ofer",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

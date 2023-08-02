@@ -52,6 +52,9 @@
     "name:tgk_x_variant":[
         "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u04e3 \u04b3\u043e\u0442\u0437\u0440"
     ],
+    "name:zho_x_preferred":[
+        "\u54c8\u4f50\u7a7a\u519b\u57fa\u5730"
+    ],
     "oa:elevation_ft":"148",
     "oa:type":"small_airport",
     "src:geom":"wikidata",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":102542711,
-    "wof:lastmodified":1631752515,
+    "wof:lastmodified":1690931939,
     "wof:name":"Hatzor Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

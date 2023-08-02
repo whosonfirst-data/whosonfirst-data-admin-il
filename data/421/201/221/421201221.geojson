@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062f\u0641\u0646\u0629"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0430\u0444\u043d\u0430"
     ],
@@ -24,6 +27,9 @@
         "Dafna"
     ],
     "name:ces_x_preferred":[
+        "Dafna"
+    ],
+    "name:dan_x_preferred":[
         "Dafna"
     ],
     "name:eng_x_preferred":[
@@ -47,11 +53,17 @@
     "name:pol_x_preferred":[
         "Dafna"
     ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0444\u043d\u0430"
+    ],
     "name:swe_x_preferred":[
         "Dafna"
     ],
     "name:und_x_variant":[
         "Metsudat Menahem Ussishkin Alef"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fbe\u592b\u7eb3"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -100,7 +112,7 @@
         }
     ],
     "wof:id":421201221,
-    "wof:lastmodified":1566680669,
+    "wof:lastmodified":1690932035,
     "wof:name":"Dafna",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

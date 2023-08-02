@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Kfar Baruch"
+    ],
     "name:ceb_x_preferred":[
         "Ma'agar Kefar Barukh"
     ],
@@ -24,6 +27,9 @@
         "Kfar Baruch"
     ],
     "name:eng_x_preferred":[
+        "Kfar Baruch"
+    ],
+    "name:glg_x_preferred":[
         "Kfar Baruch"
     ],
     "name:heb_x_preferred":[
@@ -36,6 +42,9 @@
         "Kefar Baruch"
     ],
     "name:pol_x_variant":[
+        "Kfar Baruch"
+    ],
+    "name:spa_x_preferred":[
         "Kfar Baruch"
     ],
     "qs:gn_country":"IL",
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":421171171,
-    "wof:lastmodified":1566680682,
+    "wof:lastmodified":1690932060,
     "wof:name":"Kefar Barukh",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

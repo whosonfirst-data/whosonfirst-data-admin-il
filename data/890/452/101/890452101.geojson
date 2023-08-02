@@ -31,6 +31,9 @@
     "name:ces_x_preferred":[
         "Dolev"
     ],
+    "name:deu_x_preferred":[
+        "Dolev"
+    ],
     "name:eng_x_preferred":[
         "Dolev"
     ],
@@ -44,6 +47,9 @@
         "\u05d3\u05d5\u05dc\u05d1"
     ],
     "name:nno_x_preferred":[
+        "Dolev"
+    ],
+    "name:nob_x_preferred":[
         "Dolev"
     ],
     "name:pol_x_preferred":[
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":890452101,
-    "wof:lastmodified":1566680684,
+    "wof:lastmodified":1690932064,
     "wof:name":"Dolev",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

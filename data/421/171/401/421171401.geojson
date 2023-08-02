@@ -17,10 +17,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u062a\u0633\u0648\u0631\u064a\u0645"
+    ],
     "name:ces_x_preferred":[
         "Ejn Curim"
     ],
     "name:eng_x_preferred":[
+        "Ein Tzurim"
+    ],
+    "name:fra_x_preferred":[
         "Ein Tzurim"
     ],
     "name:heb_x_preferred":[
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421171401,
-    "wof:lastmodified":1566680681,
+    "wof:lastmodified":1690932058,
     "wof:name":"En Zurim",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

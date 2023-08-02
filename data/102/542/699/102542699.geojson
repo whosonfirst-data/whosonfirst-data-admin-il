@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0639\u064a\u0646 \u0634\u064a\u0645\u0631"
     ],
+    "name:deu_x_preferred":[
+        "Milit\u00e4rflugfeld Ein Schemer"
+    ],
     "name:eng_x_preferred":[
         "Ein Shemer Airfield"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102542699,
-    "wof:lastmodified":1631752515,
+    "wof:lastmodified":1690931939,
     "wof:name":"Eyn Shemer Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

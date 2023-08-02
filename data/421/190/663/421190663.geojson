@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Beit Alfa"
+    ],
     "name:ces_x_preferred":[
         "Bejt Alfa"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:eng_x_preferred":[
         "Beit Alfa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062a \u0622\u0644\u0641\u0627"
     ],
     "name:fra_x_preferred":[
         "Be\u00eft-Alfa"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421190663,
-    "wof:lastmodified":1566680663,
+    "wof:lastmodified":1690932021,
     "wof:name":"Bet Alfa",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

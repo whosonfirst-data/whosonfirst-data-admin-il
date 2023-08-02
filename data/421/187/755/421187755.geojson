@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0646\u0647\u0627\u0631\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0647\u0627\u0631\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Nahariya"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0430\u0445\u0430\u0440\u0438\u044f"
     ],
@@ -37,6 +43,9 @@
     ],
     "name:deu_x_preferred":[
         "Naharija"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03c7\u03b1\u03c1\u03af\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Nahariya"
@@ -129,6 +138,9 @@
     "name:srp_x_preferred":[
         "\u041d\u0430\u0445\u0430\u0440\u0438\u0458\u0430"
     ],
+    "name:swa_x_preferred":[
+        "Nahariya"
+    ],
     "name:swe_x_preferred":[
         "Nahariya"
     ],
@@ -209,7 +221,7 @@
         }
     ],
     "wof:id":421187755,
-    "wof:lastmodified":1566680647,
+    "wof:lastmodified":1690931994,
     "wof:name":"Nahariya",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

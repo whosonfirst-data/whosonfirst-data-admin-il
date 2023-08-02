@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062d\u062a\u0633\u0648\u0631 \u0647\u062c\u0644\u064a\u0644\u064a\u062a"
+    ],
     "name:cat_x_preferred":[
         "Hassor"
     ],
@@ -24,9 +27,13 @@
         "Chacor"
     ],
     "name:ces_x_variant":[
-        "Chacor ha-Glilit"
+        "Chacor ha-Glilit",
+        "Chacor ha-Gelilit"
     ],
     "name:eng_x_preferred":[
+        "Hatzor HaGlilit"
+    ],
+    "name:fin_x_preferred":[
         "Hatzor HaGlilit"
     ],
     "name:fra_x_preferred":[
@@ -42,6 +49,9 @@
     ],
     "name:ind_x_preferred":[
         "Hazor"
+    ],
+    "name:ita_x_preferred":[
+        "Hatzor HaGlilit"
     ],
     "name:jpn_x_preferred":[
         "\u30cf\u30c4\u30a9\u30eb\u30fb\u30cf\u30b0\u30ea\u30ea\u30fc\u30c8"
@@ -66,6 +76,9 @@
     ],
     "name:und_x_variant":[
         "Hatzor"
+    ],
+    "name:urd_x_preferred":[
+        "\u062d\u0627\u0635\u0648\u0631 \u06c1\u06af\u0644\u06cc\u0644\u06cc\u0644\u062a"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -113,7 +126,7 @@
         }
     ],
     "wof:id":421187739,
-    "wof:lastmodified":1566680647,
+    "wof:lastmodified":1690931995,
     "wof:name":"Hazor",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

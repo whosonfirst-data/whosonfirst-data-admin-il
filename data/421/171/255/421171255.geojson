@@ -33,6 +33,9 @@
         "Ru\u1e96ama",
         "\u05e8\u05d7\u05de\u05d4"
     ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30cf\u30de"
+    ],
     "name:nld_x_preferred":[
         "Ruhama"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421171255,
-    "wof:lastmodified":1566680682,
+    "wof:lastmodified":1690932060,
     "wof:name":"Ruhama",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

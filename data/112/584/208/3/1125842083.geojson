@@ -31,6 +31,12 @@
     "name:arc_x_preferred":[
         "\u0710\u072b\u0729\u0720\u0718\u0722"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u0633\u0642\u0644\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Ashkelon"
+    ],
     "name:aze_x_preferred":[
         "A\u015fkelon"
     ],
@@ -61,6 +67,9 @@
     "name:deu_x_preferred":[
         "Aschkelon"
     ],
+    "name:diq_x_preferred":[
+        "E\u015fkelon"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03c3\u03ba\u03b1\u03bb\u03ce\u03bd\u03b1"
     ],
@@ -90,6 +99,9 @@
         "Askalon"
     ],
     "name:fra_x_preferred":[
+        "Ashkelon"
+    ],
+    "name:gle_x_preferred":[
         "Ashkelon"
     ],
     "name:glg_x_preferred":[
@@ -149,6 +161,9 @@
     "name:mar_x_preferred":[
         "\u0905\u0936\u0915\u0932\u0949\u0928"
     ],
+    "name:mdf_x_preferred":[
+        "\u0410\u0448\u043a\u044d\u043b\u043e\u043d"
+    ],
     "name:mkd_x_preferred":[
         "\u0410\u0448\u043a\u0435\u043b\u043e\u043d"
     ],
@@ -188,11 +203,17 @@
     "name:slv_x_preferred":[
         "A\u0161kelon"
     ],
+    "name:som_x_preferred":[
+        "Casqalaan"
+    ],
     "name:spa_x_preferred":[
         "Ascal\u00f3n"
     ],
     "name:srp_x_preferred":[
         "\u0410\u0448\u043a\u0435\u043b\u043e\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Ashkelon"
     ],
     "name:swe_x_preferred":[
         "Ashkelon"
@@ -229,6 +250,12 @@
     ],
     "name:war_x_preferred":[
         "Ashkelon"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e9a\u5b9e\u57fa\u4f26"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d0\u10e8\u10d9\u10d4\u10da\u10dd\u10dc\u10d8"
     ],
     "name:yid_x_preferred":[
         "\u05d0\u05e9\u05e7\u05dc\u05d5\u05df"
@@ -275,7 +302,7 @@
         }
     ],
     "wof:id":1125842083,
-    "wof:lastmodified":1566680689,
+    "wof:lastmodified":1690932069,
     "wof:name":"Ashqelon",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

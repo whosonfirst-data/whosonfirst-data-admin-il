@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0631\u062e\u0627\u0633\u064a\u0645"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u0435\u043a\u0445\u0430\u0441\u0438\u043c"
     ],
@@ -30,6 +33,12 @@
         "Rechasim"
     ],
     "name:eng_x_preferred":[
+        "Rekhasim"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u062e\u0627\u0633\u06cc\u0645"
+    ],
+    "name:fin_x_preferred":[
         "Rekhasim"
     ],
     "name:fra_x_preferred":[
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":421197321,
-    "wof:lastmodified":1566680664,
+    "wof:lastmodified":1690932025,
     "wof:name":"Rekhasim",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

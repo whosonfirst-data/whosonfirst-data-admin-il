@@ -36,6 +36,9 @@
         "Pardesiyah",
         "Pardesiyya"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u062f\u0633\u06cc\u0647"
+    ],
     "name:fra_x_preferred":[
         "Pardesiya"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:heb_x_variant":[
         "\u05e4\u05e8\u05d3\u05e1\u05d9\u05d9\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Pardesiya"
     ],
     "name:nld_x_preferred":[
         "Pardesia"
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":421201513,
-    "wof:lastmodified":1566680670,
+    "wof:lastmodified":1690932037,
     "wof:name":"Pardesiyya",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

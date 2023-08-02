@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Revivim"
     ],
+    "name:fin_x_preferred":[
+        "Revivim"
+    ],
     "name:fra_x_preferred":[
         "Revivim"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421166593,
-    "wof:lastmodified":1566680626,
+    "wof:lastmodified":1690931955,
     "wof:name":"Revivim",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

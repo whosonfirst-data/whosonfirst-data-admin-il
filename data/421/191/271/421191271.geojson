@@ -34,6 +34,9 @@
     "name:slk_x_preferred":[
         "Zichron Mo\u0161e"
     ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0456\u0445\u0440\u043e\u043d \u041c\u043e\u0448\u0435"
+    ],
     "name:yid_x_preferred":[
         "\u05d6\u05db\u05e8\u05d5\u05df \u05de\u05e9\u05d4"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421191271,
-    "wof:lastmodified":1566680661,
+    "wof:lastmodified":1690932019,
     "wof:name":"Zikhron Moshe",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

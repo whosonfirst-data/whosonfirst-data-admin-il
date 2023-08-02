@@ -20,6 +20,15 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0631 \u0639\u0642\u064a\u0641\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0631 \u0639\u0642\u064a\u0641\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Or Akiva"
+    ],
+    "name:bel_x_preferred":[
+        "\u041e\u0440-\u0410\u043a\u0456\u0432\u0430"
+    ],
     "name:cat_x_preferred":[
         "Or Aqiva"
     ],
@@ -28,6 +37,12 @@
     ],
     "name:ces_x_preferred":[
         "Or Akiva"
+    ],
+    "name:dan_x_preferred":[
+        "Or Akiva"
+    ],
+    "name:deu_x_preferred":[
+        "Or Akiwa"
     ],
     "name:eng_x_preferred":[
         "Or Akiva"
@@ -74,6 +89,9 @@
     "name:por_x_preferred":[
         "Or Aqiva"
     ],
+    "name:ron_x_preferred":[
+        "Or Akiva"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u0440-\u0410\u043a\u0438\u0432\u0430"
     ],
@@ -81,6 +99,9 @@
         "Or Akiva"
     ],
     "name:spa_x_preferred":[
+        "Or Akiva"
+    ],
+    "name:swa_x_preferred":[
         "Or Akiva"
     ],
     "name:swe_x_preferred":[
@@ -153,7 +174,7 @@
         }
     ],
     "wof:id":421199243,
-    "wof:lastmodified":1566680665,
+    "wof:lastmodified":1690932026,
     "wof:name":"Or Akiva",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

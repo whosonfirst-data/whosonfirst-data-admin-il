@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0631\u0648\u0634 \u0647\u0627\u0639\u064a\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u0648\u0634 \u0647\u0627\u0639\u064a\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Rosh HaAyin"
+    ],
     "name:bel_x_preferred":[
         "\u0420\u043e\u0448-\u0433\u0430-\u0410\u0456\u043d"
     ],
@@ -45,7 +51,13 @@
     "name:fas_x_preferred":[
         "\u0631\u0648\u0634 \u0647\u0627\u0639\u06cc\u0646"
     ],
+    "name:fin_x_preferred":[
+        "Rosh HaAyin"
+    ],
     "name:fra_x_preferred":[
+        "Rosh HaAyin"
+    ],
+    "name:gle_x_preferred":[
         "Rosh HaAyin"
     ],
     "name:glg_x_preferred":[
@@ -75,6 +87,9 @@
     "name:jpn_x_preferred":[
         "\u30ed\u30c3\u30b7\u30e5\u30fb\u30cf\u30a2\u30a4\u30f3"
     ],
+    "name:mlt_x_preferred":[
+        "Rosh HaAyin"
+    ],
     "name:nld_x_preferred":[
         "Rosj Ha\u00e4jin"
     ],
@@ -99,11 +114,17 @@
     "name:spa_x_preferred":[
         "Rosh HaAyin"
     ],
+    "name:swa_x_preferred":[
+        "Rosh HaAyin"
+    ],
     "name:swe_x_preferred":[
         "Rosh Ha\u2018Ayin"
     ],
     "name:tgl_x_preferred":[
         "Rosh HaAyin"
+    ],
+    "name:tur_x_preferred":[
+        "Ro\u015f HaAyin"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0448-\u0433\u0430-\u0410\u0457\u043d"
@@ -179,7 +200,7 @@
         }
     ],
     "wof:id":421201511,
-    "wof:lastmodified":1566680670,
+    "wof:lastmodified":1690932036,
     "wof:name":"Rosh HaAyin",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

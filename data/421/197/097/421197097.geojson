@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Neve Eitan"
     ],
+    "name:fra_x_preferred":[
+        "Neve Eitan"
+    ],
     "name:heb_x_preferred":[
         "\u05e0\u05d5\u05d5\u05d4 \u05d0\u05d9\u05ea\u05df"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421197097,
-    "wof:lastmodified":1566680663,
+    "wof:lastmodified":1690932023,
     "wof:name":"Newe Etan",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

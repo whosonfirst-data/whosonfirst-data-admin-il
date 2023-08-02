@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Ravid"
     ],
+    "name:fra_x_preferred":[
+        "Ravid"
+    ],
     "name:heb_x_preferred":[
         "\u05e8\u05d1\u05d9\u05d3"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421181767,
-    "wof:lastmodified":1566680654,
+    "wof:lastmodified":1690932008,
     "wof:name":"Ravid",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

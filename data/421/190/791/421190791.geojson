@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0627\u0632\u064a\u0645"
     ],
+    "name:ceb_x_preferred":[
+        "Korazim"
+    ],
     "name:ces_x_preferred":[
         "Korazim"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421190791,
-    "wof:lastmodified":1566680661,
+    "wof:lastmodified":1690932019,
     "wof:name":"Korazim",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

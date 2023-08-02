@@ -35,6 +35,9 @@
     "name:nno_x_preferred":[
         "Ibim"
     ],
+    "name:rus_x_preferred":[
+        "\u0418\u0431\u0438\u043c"
+    ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":294664,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421196285,
-    "wof:lastmodified":1566680660,
+    "wof:lastmodified":1690932017,
     "wof:name":"Ibbim",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

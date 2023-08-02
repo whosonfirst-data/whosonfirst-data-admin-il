@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Kfar HaNassi"
     ],
+    "name:fra_x_preferred":[
+        "Kfar HaNassi"
+    ],
     "name:heb_x_preferred":[
         "\u05db\u05e4\u05e8 \u05d4\u05e0\u05e9\u05d9\u05d0"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421166587,
-    "wof:lastmodified":1566680627,
+    "wof:lastmodified":1690931957,
     "wof:name":"Kefar HaNasi",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

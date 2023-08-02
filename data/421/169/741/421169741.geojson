@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0631 \u062c\u064a\u0648\u0631\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0631 \u062c\u064a\u0648\u0631\u0627"
+    ],
     "name:ces_x_preferred":[
         "Bar Giora"
     ],
@@ -37,6 +43,12 @@
     ],
     "name:pol_x_variant":[
         "Bar Gijora"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440 \u0413\u0438\u043e\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631 \u06af\u06cc\u0648\u0631\u0627\u0621"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":421169741,
-    "wof:lastmodified":1566680636,
+    "wof:lastmodified":1690931972,
     "wof:name":"Bar Giyyora",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

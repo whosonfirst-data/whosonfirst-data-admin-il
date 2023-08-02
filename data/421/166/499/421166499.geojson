@@ -41,8 +41,14 @@
     "name:nno_x_preferred":[
         "Or HaNer"
     ],
+    "name:nob_x_preferred":[
+        "Or HaNer"
+    ],
     "name:pol_x_preferred":[
         "Or HaNer"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440-\u0445\u0430-\u041d\u0435\u0440"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421166499,
-    "wof:lastmodified":1566680627,
+    "wof:lastmodified":1690931956,
     "wof:name":"Or HaNer",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

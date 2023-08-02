@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062d\u0646\u064a\u062a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062d\u0646\u064a\u062a\u0627"
+    ],
     "name:ceb_x_preferred":[
         "H\u0331anita"
     ],
@@ -48,6 +51,9 @@
         "Hanita"
     ],
     "name:pol_x_preferred":[
+        "Hanita"
+    ],
+    "name:por_x_preferred":[
         "Hanita"
     ],
     "name:swe_x_preferred":[
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421176131,
-    "wof:lastmodified":1566680680,
+    "wof:lastmodified":1690932056,
     "wof:name":"Hanita",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

@@ -35,8 +35,14 @@
     "name:heb_x_variant":[
         "\u05d4\u05d5\u05e0\u05d9\u05df"
     ],
+    "name:ind_x_preferred":[
+        "Hunin"
+    ],
     "name:pol_x_preferred":[
         "Hunin"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0648\u0646\u06cc\u0646"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":421184485,
-    "wof:lastmodified":1566680671,
+    "wof:lastmodified":1690932038,
     "wof:name":"Margaliyyot",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

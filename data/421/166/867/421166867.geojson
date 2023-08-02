@@ -32,6 +32,12 @@
     "name:heb_x_preferred":[
         "\u05db\u05de\u05d5\u05df"
     ],
+    "name:ita_x_preferred":[
+        "Kamon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30e2\u30f3"
+    ],
     "name:nld_x_preferred":[
         "Kamon"
     ],
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421166867,
-    "wof:lastmodified":1566680627,
+    "wof:lastmodified":1690931957,
     "wof:name":"Kammon",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

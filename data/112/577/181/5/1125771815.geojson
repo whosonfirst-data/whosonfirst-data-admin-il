@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0641\u0648 \u0647\u0648\u0631\u0648\u0646"
+    ],
     "name:ceb_x_preferred":[
         "Mevo horon"
     ],
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1125771815,
-    "wof:lastmodified":1566680690,
+    "wof:lastmodified":1690932069,
     "wof:name":"Mevo horon",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

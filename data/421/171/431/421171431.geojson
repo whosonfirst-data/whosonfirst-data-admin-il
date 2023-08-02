@@ -23,8 +23,14 @@
     "name:eng_x_preferred":[
         "Nir Eliyahu"
     ],
+    "name:fra_x_preferred":[
+        "Nir Eliyahu"
+    ],
     "name:heb_x_preferred":[
         "\u05e0\u05d9\u05e8 \u05d0\u05dc\u05d9\u05d4\u05d5"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30eb\u30fb\u30a8\u30ea\u30e4\u30d5"
     ],
     "name:nld_x_preferred":[
         "Nir Eliyahu"
@@ -34,6 +40,9 @@
     ],
     "name:pol_x_preferred":[
         "Nir Elijahu"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u0631 \u0627\u06cc\u0644\u06cc\u0627\u06c1\u0648"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":421171431,
-    "wof:lastmodified":1566680681,
+    "wof:lastmodified":1690932058,
     "wof:name":"Nir Eliyyahu",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

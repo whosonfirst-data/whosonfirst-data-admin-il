@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0634\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u0634\u0648\u0646"
+    ],
     "name:ces_x_preferred":[
         "Di\u0161on"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421186891,
-    "wof:lastmodified":1566680654,
+    "wof:lastmodified":1690932007,
     "wof:name":"Dishon",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

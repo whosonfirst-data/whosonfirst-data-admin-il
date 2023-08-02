@@ -22,6 +22,9 @@
     "name:heb_x_preferred":[
         "\u05e4\u05e8\u05d3\u05e1 \u05db\u05e5"
     ],
+    "name:nld_x_preferred":[
+        "Pardes Katz"
+    ],
     "name:und_x_variant":[
         "Pardess Katz"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421200771,
-    "wof:lastmodified":1566680667,
+    "wof:lastmodified":1690932032,
     "wof:name":"Pardes Ka\u1e95",
     "wof:parent_id":421190661,
     "wof:placetype":"neighbourhood",

@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0628\u0648\u0643\u064a\u0643"
+    ],
+    "name:ceb_x_preferred":[
+        "\u2018En Boqeq"
+    ],
     "name:ces_x_preferred":[
         "Ejn Bokek"
     ],
@@ -37,6 +43,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a8\u30f3\u30fb\u30dc\u30b1\u30c3\u30af"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d10\u0d7b \u0d2c\u0d4a\u0d15\u0d46\u0d15\u0d4d"
     ],
     "name:nld_x_preferred":[
         "Ein Bokek"
@@ -61,6 +70,9 @@
     ],
     "name:swe_x_preferred":[
         "Ginnosar"
+    ],
+    "name:swe_x_variant":[
+        "\u2018En Boqeq"
     ],
     "name:ukr_x_preferred":[
         "\u0415\u0439\u043d-\u0411\u043e\u043a\u0435\u043a"
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":421198097,
-    "wof:lastmodified":1566680658,
+    "wof:lastmodified":1690932014,
     "wof:name":"En Boqeq",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0642\u064a\u0633\u0627\u0631\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u064a\u0633\u0627\u0631\u064a\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Caesarea"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0435\u0441\u0430\u0440\u044b\u044f"
     ],
@@ -40,6 +46,9 @@
     ],
     "name:deu_x_preferred":[
         "Caesarea"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03b9\u03c3\u03ac\u03c1\u03b5\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Caesarea"
@@ -76,6 +85,9 @@
     ],
     "name:lad_x_preferred":[
         "Kesariya"
+    ],
+    "name:mlg_x_preferred":[
+        "Kaisarea"
     ],
     "name:nld_x_preferred":[
         "Caesarea"
@@ -121,6 +133,12 @@
     ],
     "name:vie_x_preferred":[
         "Caesarea"
+    ],
+    "name:war_x_preferred":[
+        "Cesarea"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e7\u05d9\u05e1\u05e8\u05d9\u05d4"
     ],
     "name:zho_x_preferred":[
         "\u51ef\u6492\u5229\u4e9a"
@@ -173,7 +191,7 @@
         }
     ],
     "wof:id":421177681,
-    "wof:lastmodified":1566680674,
+    "wof:lastmodified":1690932043,
     "wof:name":"Caesarea",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

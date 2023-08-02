@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Isfiya"
     ],
+    "name:fin_x_preferred":[
+        "Isfiya"
+    ],
     "name:fra_x_preferred":[
         "Isfiya"
     ],
@@ -38,6 +41,9 @@
     "name:heb_x_variant":[
         "H\u0331osefa",
         "\u05d7\u05d5\u05e1\u05d9\u05e4\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "Isfiya"
     ],
     "name:nno_x_preferred":[
         "Isfiya"
@@ -50,6 +56,9 @@
     ],
     "name:und_x_variant":[
         "Asafiyah"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u65af\u83f2\u4e9e"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":421202399,
-    "wof:lastmodified":1566680640,
+    "wof:lastmodified":1690931981,
     "wof:name":"Isfiya",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

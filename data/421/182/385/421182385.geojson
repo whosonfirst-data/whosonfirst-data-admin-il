@@ -17,7 +17,22 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aar_x_preferred":[
+        "Zoran"
+    ],
+    "name:ace_x_preferred":[
+        "Zoran"
+    ],
     "name:afr_x_preferred":[
+        "Zoran"
+    ],
+    "name:aka_x_preferred":[
+        "Zoran"
+    ],
+    "name:aln_x_preferred":[
+        "Zoran"
+    ],
+    "name:ang_x_preferred":[
         "Zoran"
     ],
     "name:ara_x_preferred":[
@@ -26,25 +41,79 @@
     "name:arg_x_preferred":[
         "Zoran"
     ],
+    "name:arn_x_preferred":[
+        "Zoran"
+    ],
     "name:ast_x_preferred":[
+        "Zoran"
+    ],
+    "name:atj_x_preferred":[
+        "Zoran"
+    ],
+    "name:avk_x_preferred":[
+        "Zoran"
+    ],
+    "name:aym_x_preferred":[
         "Zoran"
     ],
     "name:aze_x_preferred":[
         "Zoran"
     ],
+    "name:bam_x_preferred":[
+        "Zoran"
+    ],
+    "name:ban_x_preferred":[
+        "Zoran"
+    ],
     "name:bar_x_preferred":[
+        "Zoran"
+    ],
+    "name:bbc_x_preferred":[
+        "Zoran"
+    ],
+    "name:bcl_x_preferred":[
+        "Zoran"
+    ],
+    "name:bis_x_preferred":[
+        "Zoran"
+    ],
+    "name:bos_x_preferred":[
         "Zoran"
     ],
     "name:bre_x_preferred":[
         "Zoran"
     ],
+    "name:bto_x_preferred":[
+        "Zoran"
+    ],
     "name:cat_x_preferred":[
+        "Zoran"
+    ],
+    "name:ceb_x_preferred":[
         "Zoran"
     ],
     "name:ces_x_preferred":[
         "Zoran"
     ],
+    "name:cha_x_preferred":[
+        "Zoran"
+    ],
+    "name:cho_x_preferred":[
+        "Zoran"
+    ],
+    "name:chy_x_preferred":[
+        "Zoran"
+    ],
+    "name:cor_x_preferred":[
+        "Zoran"
+    ],
     "name:cos_x_preferred":[
+        "Zoran"
+    ],
+    "name:cps_x_preferred":[
+        "Zoran"
+    ],
+    "name:csb_x_preferred":[
         "Zoran"
     ],
     "name:cym_x_preferred":[
@@ -54,6 +123,21 @@
         "Zoran"
     ],
     "name:deu_x_preferred":[
+        "Zoran"
+    ],
+    "name:din_x_preferred":[
+        "Zoran"
+    ],
+    "name:dsb_x_preferred":[
+        "Zoran"
+    ],
+    "name:dtp_x_preferred":[
+        "Zoran"
+    ],
+    "name:egl_x_preferred":[
+        "Zoran"
+    ],
+    "name:eml_x_preferred":[
         "Zoran"
     ],
     "name:eng_x_preferred":[
@@ -68,16 +152,46 @@
     "name:eus_x_preferred":[
         "Zoran"
     ],
+    "name:ewe_x_preferred":[
+        "Zoran"
+    ],
+    "name:ext_x_preferred":[
+        "Zoran"
+    ],
+    "name:fao_x_preferred":[
+        "Zoran"
+    ],
+    "name:fij_x_preferred":[
+        "Zoran"
+    ],
     "name:fin_x_preferred":[
+        "Zoran"
+    ],
+    "name:fit_x_preferred":[
         "Zoran"
     ],
     "name:fra_x_preferred":[
         "Zoran"
     ],
+    "name:frc_x_preferred":[
+        "Zoran"
+    ],
     "name:frp_x_preferred":[
         "Zoran"
     ],
+    "name:frr_x_preferred":[
+        "Zoran"
+    ],
+    "name:fry_x_preferred":[
+        "Zoran"
+    ],
+    "name:ful_x_preferred":[
+        "Zoran"
+    ],
     "name:fur_x_preferred":[
+        "Zoran"
+    ],
+    "name:gag_x_preferred":[
         "Zoran"
     ],
     "name:gla_x_preferred":[
@@ -89,7 +203,25 @@
     "name:glg_x_preferred":[
         "Zoran"
     ],
+    "name:glv_x_preferred":[
+        "Zoran"
+    ],
+    "name:gor_x_preferred":[
+        "Zoran"
+    ],
+    "name:grn_x_preferred":[
+        "Zoran"
+    ],
     "name:gsw_x_preferred":[
+        "Zoran"
+    ],
+    "name:hat_x_preferred":[
+        "Zoran"
+    ],
+    "name:hau_x_preferred":[
+        "Zoran"
+    ],
+    "name:haw_x_preferred":[
         "Zoran"
     ],
     "name:hbs_x_preferred":[
@@ -102,16 +234,40 @@
         "\u05e6\u05d5\u05e8\u05df",
         "\u05d6\u05d5\u05e8\u05d0\u05df"
     ],
+    "name:her_x_preferred":[
+        "Zoran"
+    ],
+    "name:hif_x_preferred":[
+        "Zoran"
+    ],
+    "name:hil_x_preferred":[
+        "Zoran"
+    ],
+    "name:hmo_x_preferred":[
+        "Zoran"
+    ],
     "name:hrv_x_preferred":[
+        "Zoran"
+    ],
+    "name:hrx_x_preferred":[
+        "Zoran"
+    ],
+    "name:hsb_x_preferred":[
         "Zoran"
     ],
     "name:hun_x_preferred":[
         "Zor\u00e1n"
     ],
+    "name:ibo_x_preferred":[
+        "Zoran"
+    ],
     "name:ido_x_preferred":[
         "Zoran"
     ],
     "name:ile_x_preferred":[
+        "Zoran"
+    ],
+    "name:ilo_x_preferred":[
         "Zoran"
     ],
     "name:ina_x_preferred":[
@@ -120,19 +276,82 @@
     "name:ind_x_preferred":[
         "Zoran"
     ],
+    "name:ipk_x_preferred":[
+        "Zoran"
+    ],
     "name:isl_x_preferred":[
         "Zoran"
     ],
     "name:ita_x_preferred":[
         "Zoran"
     ],
+    "name:jam_x_preferred":[
+        "Zoran"
+    ],
+    "name:jav_x_preferred":[
+        "Zoran"
+    ],
+    "name:jbo_x_preferred":[
+        "Zoran"
+    ],
     "name:jpn_x_preferred":[
         "\u30be\u30e9\u30f3"
+    ],
+    "name:jut_x_preferred":[
+        "Zoran"
+    ],
+    "name:kaa_x_preferred":[
+        "Zoran"
+    ],
+    "name:kab_x_preferred":[
+        "Zoran"
+    ],
+    "name:kal_x_preferred":[
+        "Zoran"
+    ],
+    "name:kau_x_preferred":[
+        "Zoran"
+    ],
+    "name:kbp_x_preferred":[
+        "Zoran"
+    ],
+    "name:kea_x_preferred":[
+        "Zoran"
+    ],
+    "name:kik_x_preferred":[
+        "Zoran"
+    ],
+    "name:kin_x_preferred":[
+        "Zoran"
     ],
     "name:kon_x_preferred":[
         "Zoran"
     ],
+    "name:kri_x_preferred":[
+        "Zoran"
+    ],
+    "name:krj_x_preferred":[
+        "Zoran"
+    ],
+    "name:krl_x_preferred":[
+        "Zoran"
+    ],
+    "name:ksh_x_preferred":[
+        "Zoran"
+    ],
+    "name:kua_x_preferred":[
+        "Zoran"
+    ],
+    "name:lad_x_preferred":[
+        "Zoran"
+    ],
+    "name:lat_x_preferred":[
+        "Zoran"
+    ],
     "name:lav_x_preferred":[
+        "Zoran"
+    ],
+    "name:lfn_x_preferred":[
         "Zoran"
     ],
     "name:lij_x_preferred":[
@@ -141,10 +360,34 @@
     "name:lim_x_preferred":[
         "Zoran"
     ],
+    "name:lin_x_preferred":[
+        "Zoran"
+    ],
     "name:lit_x_preferred":[
         "Zoran"
     ],
+    "name:liv_x_preferred":[
+        "Zoran"
+    ],
+    "name:lmo_x_preferred":[
+        "Zoran"
+    ],
+    "name:loz_x_preferred":[
+        "Zoran"
+    ],
+    "name:ltg_x_preferred":[
+        "Zoran"
+    ],
     "name:ltz_x_preferred":[
+        "Zoran"
+    ],
+    "name:lug_x_preferred":[
+        "Zoran"
+    ],
+    "name:lus_x_preferred":[
+        "Zoran"
+    ],
+    "name:mah_x_preferred":[
         "Zoran"
     ],
     "name:min_x_preferred":[
@@ -156,13 +399,40 @@
     "name:mlg_x_preferred":[
         "Zoran"
     ],
+    "name:mlt_x_preferred":[
+        "Zoran"
+    ],
+    "name:mri_x_preferred":[
+        "Zoran"
+    ],
     "name:msa_x_preferred":[
+        "Zoran"
+    ],
+    "name:mus_x_preferred":[
+        "Zoran"
+    ],
+    "name:mwl_x_preferred":[
+        "Zoran"
+    ],
+    "name:nah_x_preferred":[
         "Zoran"
     ],
     "name:nap_x_preferred":[
         "Zoran"
     ],
+    "name:nau_x_preferred":[
+        "Zoran"
+    ],
+    "name:nav_x_preferred":[
+        "Zoran"
+    ],
+    "name:ndo_x_preferred":[
+        "Zoran"
+    ],
     "name:nds_x_preferred":[
+        "Zoran"
+    ],
+    "name:niu_x_preferred":[
         "Zoran"
     ],
     "name:nld_x_preferred":[
@@ -177,13 +447,49 @@
     "name:nor_x_preferred":[
         "Zoran"
     ],
+    "name:nov_x_preferred":[
+        "Zoran"
+    ],
     "name:nrm_x_preferred":[
+        "Zoran"
+    ],
+    "name:nso_x_preferred":[
+        "Zoran"
+    ],
+    "name:nya_x_preferred":[
+        "Zoran"
+    ],
+    "name:nys_x_preferred":[
         "Zoran"
     ],
     "name:oci_x_preferred":[
         "Zoran"
     ],
+    "name:olo_x_preferred":[
+        "Zoran"
+    ],
+    "name:pag_x_preferred":[
+        "Zoran"
+    ],
+    "name:pam_x_preferred":[
+        "Zoran"
+    ],
+    "name:pap_x_preferred":[
+        "Zoran"
+    ],
     "name:pcd_x_preferred":[
+        "Zoran"
+    ],
+    "name:pdc_x_preferred":[
+        "Zoran"
+    ],
+    "name:pdt_x_preferred":[
+        "Zoran"
+    ],
+    "name:pfl_x_preferred":[
+        "Zoran"
+    ],
+    "name:pih_x_preferred":[
         "Zoran"
     ],
     "name:pms_x_preferred":[
@@ -198,19 +504,58 @@
     "name:por_x_preferred":[
         "Zoran"
     ],
+    "name:prg_x_preferred":[
+        "Zoran"
+    ],
+    "name:que_x_preferred":[
+        "Zoran"
+    ],
+    "name:qug_x_preferred":[
+        "Zoran"
+    ],
+    "name:rgn_x_preferred":[
+        "Zoran"
+    ],
+    "name:rif_x_preferred":[
+        "Zoran"
+    ],
     "name:roh_x_preferred":[
         "Zoran"
     ],
     "name:ron_x_preferred":[
         "Zoran"
     ],
+    "name:run_x_preferred":[
+        "Zoran"
+    ],
+    "name:rup_x_preferred":[
+        "Zoran"
+    ],
     "name:rus_x_preferred":[
         "\u0417\u043e\u0440\u0430\u043d"
+    ],
+    "name:sag_x_preferred":[
+        "Zoran"
     ],
     "name:scn_x_preferred":[
         "Zoran"
     ],
     "name:sco_x_preferred":[
+        "Zoran"
+    ],
+    "name:sdc_x_preferred":[
+        "Zoran"
+    ],
+    "name:sei_x_preferred":[
+        "Zoran"
+    ],
+    "name:sgs_x_preferred":[
+        "Zoran"
+    ],
+    "name:sje_x_preferred":[
+        "Zoran"
+    ],
+    "name:sli_x_preferred":[
         "Zoran"
     ],
     "name:slk_x_preferred":[
@@ -219,14 +564,53 @@
     "name:slv_x_preferred":[
         "Zoran"
     ],
+    "name:sma_x_preferred":[
+        "Zoran"
+    ],
+    "name:sme_x_preferred":[
+        "Zoran"
+    ],
+    "name:smj_x_preferred":[
+        "Zoran"
+    ],
+    "name:smo_x_preferred":[
+        "Zoran"
+    ],
+    "name:sna_x_preferred":[
+        "Zoran"
+    ],
+    "name:som_x_preferred":[
+        "Zoran"
+    ],
+    "name:sot_x_preferred":[
+        "Zoran"
+    ],
     "name:spa_x_preferred":[
+        "Zoran"
+    ],
+    "name:sqi_x_preferred":[
         "Zoran"
     ],
     "name:srd_x_preferred":[
         "Zoran"
     ],
+    "name:srn_x_preferred":[
+        "Zoran"
+    ],
     "name:srp_x_preferred":[
         "\u0417\u043e\u0440\u0430\u043d"
+    ],
+    "name:srq_x_preferred":[
+        "Zoran"
+    ],
+    "name:ssw_x_preferred":[
+        "Zoran"
+    ],
+    "name:stq_x_preferred":[
+        "Zoran"
+    ],
+    "name:sun_x_preferred":[
+        "Zoran"
     ],
     "name:swa_x_preferred":[
         "Zoran"
@@ -234,16 +618,49 @@
     "name:swe_x_preferred":[
         "Zoran"
     ],
+    "name:szl_x_preferred":[
+        "Zoran"
+    ],
+    "name:tah_x_preferred":[
+        "Zoran"
+    ],
+    "name:tet_x_preferred":[
+        "Zoran"
+    ],
+    "name:ton_x_preferred":[
+        "Zoran"
+    ],
+    "name:tpi_x_preferred":[
+        "Zoran"
+    ],
+    "name:tsn_x_preferred":[
+        "Zoran"
+    ],
+    "name:tso_x_preferred":[
+        "Zoran"
+    ],
+    "name:tum_x_preferred":[
+        "Zoran"
+    ],
     "name:tur_x_preferred":[
+        "Zoran"
+    ],
+    "name:twi_x_preferred":[
         "Zoran"
     ],
     "name:ukr_x_preferred":[
         "\u0417\u043e\u0440\u044f\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u0417\u043e\u0440\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Tsoran"
     ],
     "name:vec_x_preferred":[
+        "Zoran"
+    ],
+    "name:ven_x_preferred":[
         "Zoran"
     ],
     "name:vie_x_preferred":[
@@ -252,13 +669,31 @@
     "name:vls_x_preferred":[
         "Zoran"
     ],
+    "name:vmf_x_preferred":[
+        "Zoran"
+    ],
     "name:vol_x_preferred":[
+        "Zoran"
+    ],
+    "name:vro_x_preferred":[
+        "Zoran"
+    ],
+    "name:war_x_preferred":[
         "Zoran"
     ],
     "name:wln_x_preferred":[
         "Zoran"
     ],
     "name:wol_x_preferred":[
+        "Zoran"
+    ],
+    "name:xho_x_preferred":[
+        "Zoran"
+    ],
+    "name:yor_x_preferred":[
+        "Zoran"
+    ],
+    "name:zea_x_preferred":[
         "Zoran"
     ],
     "name:zul_x_preferred":[
@@ -310,7 +745,7 @@
         }
     ],
     "wof:id":421182385,
-    "wof:lastmodified":1566680678,
+    "wof:lastmodified":1690932053,
     "wof:name":"Zoran",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

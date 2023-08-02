@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0642\u0644\u0646\u0633\u0648\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u0644\u0646\u0633\u0648\u0647"
+    ],
     "name:cat_x_preferred":[
         "Qalansawe"
+    ],
+    "name:ceb_x_preferred":[
+        "Qalansuwa"
     ],
     "name:ces_x_preferred":[
         "Kalansuva"
@@ -35,6 +41,9 @@
     "name:fas_x_preferred":[
         "\u0642\u0644\u0646\u0633\u0648\u0647"
     ],
+    "name:fin_x_preferred":[
+        "Qalansuwa"
+    ],
     "name:fra_x_preferred":[
         "Qalansawe"
     ],
@@ -43,6 +52,9 @@
     ],
     "name:heb_x_variant":[
         "\u05e7\u05dc\u05e0\u05e1\u05d5\u05d4"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u056c\u0561\u0576\u057d\u0578\u0582\u0561"
     ],
     "name:ind_x_preferred":[
         "Qalansawe"
@@ -74,8 +86,17 @@
     "name:spa_x_preferred":[
         "Qalansawe"
     ],
+    "name:swa_x_preferred":[
+        "Qalansawe"
+    ],
+    "name:swe_x_preferred":[
+        "Qalansuwa"
+    ],
     "name:tgl_x_preferred":[
         "Qalansawe"
+    ],
+    "name:tur_x_preferred":[
+        "Kalansuva"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u0430\u043d\u0441\u0443\u0430"
@@ -88,6 +109,9 @@
     ],
     "name:vie_x_preferred":[
         "Qalansawe"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e7\u05d0\u05dc\u05d0\u05e0\u05e1\u05d0\u05d5\u05d5\u05e2"
     ],
     "name:zho_x_preferred":[
         "\u52a0\u862d\u8607\u74e6"
@@ -139,7 +163,7 @@
         }
     ],
     "wof:id":421200395,
-    "wof:lastmodified":1566680668,
+    "wof:lastmodified":1690932032,
     "wof:name":"Qalansuwa",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

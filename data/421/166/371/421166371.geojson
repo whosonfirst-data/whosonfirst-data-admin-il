@@ -44,6 +44,9 @@
     "name:rus_x_preferred":[
         "\u0426\u0435\u044d\u043b\u0438\u043c"
     ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0435\u0435\u043b\u0456\u043c"
+    ],
     "name:und_x_variant":[
         "Tseelim"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421166371,
-    "wof:lastmodified":1566680627,
+    "wof:lastmodified":1690931957,
     "wof:name":"Ze'elim",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

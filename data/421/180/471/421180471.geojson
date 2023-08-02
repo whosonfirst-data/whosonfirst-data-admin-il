@@ -59,6 +59,9 @@
         "Zetan",
         "Giv'on HaHadasza"
     ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u0432\u043e\u043d-\u0445\u0430-\u0425\u0430\u0434\u0430\u0448\u0430"
+    ],
     "name:swe_x_preferred":[
         "Giv'on HaHadasha"
     ],
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421180471,
-    "wof:lastmodified":1566680645,
+    "wof:lastmodified":1690931992,
     "wof:name":"Givon Hahadasha",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

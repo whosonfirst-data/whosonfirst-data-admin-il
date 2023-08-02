@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0631\u062d\u0648\u0641\u0648\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u062d\u0648\u0641\u0648\u062a"
+    ],
+    "name:ast_x_preferred":[
+        "Rehovot"
+    ],
     "name:aze_x_preferred":[
         "Rexovot"
     ],
@@ -56,11 +62,17 @@
     "name:deu_x_preferred":[
         "Rechovot"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b5\u03c7\u03bf\u03b2\u03cc\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Rehovot"
     ],
     "name:epo_x_preferred":[
         "Re\u0125ovot"
+    ],
+    "name:eus_x_preferred":[
+        "Rehovot"
     ],
     "name:fas_x_preferred":[
         "\u0631\u062e\u0648\u0648\u062a"
@@ -69,6 +81,9 @@
         "Rehovot"
     ],
     "name:fra_x_preferred":[
+        "Rehovot"
+    ],
+    "name:gle_x_preferred":[
         "Rehovot"
     ],
     "name:heb_x_preferred":[
@@ -100,6 +115,9 @@
     ],
     "name:lit_x_preferred":[
         "Rehovotas"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0420\u044d\u0445\u043e\u0432\u043e\u0442"
     ],
     "name:mlg_x_preferred":[
         "Rehovot"
@@ -137,6 +155,9 @@
     "name:srp_x_preferred":[
         "\u0420\u0435\u0445\u043e\u0432\u043e\u0442"
     ],
+    "name:swa_x_preferred":[
+        "Rehovot"
+    ],
     "name:swe_x_preferred":[
         "Re\u1e96ovot"
     ],
@@ -154,6 +175,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0631\u062d\u0648\u0648\u0648\u062a"
+    ],
+    "name:vec_x_preferred":[
+        "Rehovot"
     ],
     "name:vie_x_preferred":[
         "Rehovot"
@@ -216,7 +240,7 @@
         }
     ],
     "wof:id":421191583,
-    "wof:lastmodified":1566680661,
+    "wof:lastmodified":1690932019,
     "wof:name":"Rehovot",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

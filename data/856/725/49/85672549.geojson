@@ -52,8 +52,14 @@
     "name:bel_x_preferred":[
         "\u0422\u044d\u043b\u044c-\u0410\u0432\u0456\u045e\u0441\u043a\u0430\u044f \u0430\u043a\u0440\u0443\u0433\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09c7\u09b2 \u0986\u09ac\u09bf\u09ac \u099c\u09c7\u09b2\u09be"
+    ],
     "name:bre_x_preferred":[
         "Distrig Tel Aviv"
+    ],
+    "name:bre_x_variant":[
+        "distrig Tel Aviv"
     ],
     "name:bul_x_preferred":[
         "\u0422\u0435\u043b\u0430\u0432\u0438\u0432\u0441\u043a\u0438 \u043e\u043a\u0440\u044a\u0433"
@@ -75,6 +81,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u03c4\u03bf\u03c5 \u03a4\u03b5\u03bb \u0391\u03b2\u03af\u03b2"
+    ],
+    "name:ell_x_variant":[
+        "\u03b4\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u03c4\u03bf\u03c5 \u03a4\u03b5\u03bb \u0391\u03b2\u03af\u03b2"
     ],
     "name:eng_x_preferred":[
         "Tel Aviv"
@@ -100,6 +109,9 @@
     ],
     "name:fra_x_variant":[
         "district de Tel Aviv"
+    ],
+    "name:frr_x_preferred":[
+        "Tel Aviv"
     ],
     "name:glv_x_preferred":[
         "Slyst Tel Aviv"
@@ -141,6 +153,9 @@
     "name:kor_x_variant":[
         "\ud154\uc544\ube44\ube0c\uad6c"
     ],
+    "name:lat_x_preferred":[
+        "districtus Telavivi"
+    ],
     "name:lav_x_preferred":[
         "Telavivas apgabals"
     ],
@@ -150,8 +165,14 @@
     "name:mkd_x_preferred":[
         "\u0422\u0435\u043b \u0410\u0432\u0438\u0432"
     ],
+    "name:mon_x_preferred":[
+        "\u0422\u0435\u043b-\u0410\u0432\u0438\u0432 \u0434\u04af\u04af\u0440\u044d\u0433"
+    ],
     "name:msa_x_preferred":[
         "Daerah Tel Aviv"
+    ],
+    "name:nan_x_preferred":[
+        "Tel Aviv Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Tel Aviv"
@@ -171,6 +192,9 @@
     "name:por_x_preferred":[
         "Tel Aviv"
     ],
+    "name:que_x_preferred":[
+        "Tel Awiw distritu"
+    ],
     "name:ron_x_preferred":[
         "Districtul Tel Aviv"
     ],
@@ -189,6 +213,9 @@
     "name:swe_x_preferred":[
         "Tel Aviv"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bc6\u0bb2\u0bcd \u0b85\u0bb5\u0bc0\u0bb5\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:tur_x_preferred":[
         "Tel Aviv B\u00f6lgesi"
     ],
@@ -203,6 +230,15 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Tel Aviv"
+    ],
+    "name:war_x_preferred":[
+        "Tel Aviv"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7279\u62c9\u7ef4\u592b\u533a"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d7\u10d4\u10da-\u10d0\u10d5\u10d8\u10d5\u10d8\u10e8 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:yid_x_preferred":[
         "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 \u05d3\u05d9\u05e1\u05d8\u05e8\u05d9\u05e7\u05d8"
@@ -341,7 +377,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1636502613,
+    "wof:lastmodified":1690931948,
     "wof:name":"Tel Aviv",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

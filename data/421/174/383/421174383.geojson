@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0634\u062a\u0627\u0648\u0644"
+    ],
     "name:cat_x_preferred":[
         "Eshtaol"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:eng_x_preferred":[
         "Eshtaol"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0634\u062a\u0647\u0648\u0644"
     ],
     "name:fra_x_preferred":[
         "Eshtaol"
@@ -80,8 +86,14 @@
     "name:spa_x_preferred":[
         "Eshtaol"
     ],
+    "name:swe_x_preferred":[
+        "Eshtaol"
+    ],
     "name:tgk_x_preferred":[
         "\u042d\u0448\u0442\u0430\u043e\u043b"
+    ],
+    "name:tur_x_preferred":[
+        "E\u015ftaol"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -129,7 +141,7 @@
         }
     ],
     "wof:id":421174383,
-    "wof:lastmodified":1566680643,
+    "wof:lastmodified":1690931988,
     "wof:name":"Eshta'ol",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

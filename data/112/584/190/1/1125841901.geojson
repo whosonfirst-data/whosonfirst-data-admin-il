@@ -25,6 +25,15 @@
     "name:ara_x_preferred":[
         "\u0645\u0639\u0627\u0644\u0648\u062a \u062a\u0631\u0634\u064a\u062d\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0639\u0627\u0644\u0648\u062a \u062a\u0631\u0634\u064a\u062d\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Ma'alot-Tarshiha"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0430\u043b\u043e\u0442-\u0422\u0430\u0440\u0448\u044b\u0445\u0430"
+    ],
     "name:cat_x_preferred":[
         "Maalot-Tarxiha"
     ],
@@ -63,11 +72,17 @@
     "name:hun_x_preferred":[
         "Ma\u2019alot"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0561\u056c\u0578\u057f \u054f\u0561\u0580\u0577\u056b\u056d\u0561"
+    ],
     "name:ind_x_preferred":[
         "Ma'alot-Tarshiha"
     ],
     "name:ita_x_preferred":[
         "Ma'alot-Tarshiha"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30a2\u30ed\u30fb\u30bf\u30eb\u30b7\u30cf"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10d0\u10da\u10dd\u10d7-\u10d7\u10d0\u10e0\u10e8\u10d8\u10ee\u10d0"
@@ -96,6 +111,12 @@
     "name:spa_x_preferred":[
         "Ma'alot-Tarshiha"
     ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u0442 \u0422\u0430\u0440\u0448\u0438\u0445\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Ma'alot Tarshiha"
+    ],
     "name:swe_x_preferred":[
         "Maalot Tarsh\u012bh\u0101"
     ],
@@ -107,6 +128,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0639\u0627\u0644\u0648\u062a \u062a\u0631\u0634\u06cc\u062d\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u0639\u0644\u0648\u062a \u062a\u0631\u0634\u06cc\u062d\u0627"
     ],
     "name:vie_x_preferred":[
         "Ma'alot-Tarshiha"
@@ -156,7 +180,7 @@
         }
     ],
     "wof:id":1125841901,
-    "wof:lastmodified":1566680689,
+    "wof:lastmodified":1690932068,
     "wof:name":"maalot Tarsh\u012bh\u0101",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

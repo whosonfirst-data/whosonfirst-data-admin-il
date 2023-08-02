@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Arbel"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0628\u0644"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05e8\u05d1\u05dc"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421169639,
-    "wof:lastmodified":1566680637,
+    "wof:lastmodified":1690931974,
     "wof:name":"Arbel",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

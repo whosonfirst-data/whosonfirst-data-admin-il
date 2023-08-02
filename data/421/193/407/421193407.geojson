@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062d\u062a\u0631\u064a\u0645"
+    ],
     "name:ces_x_preferred":[
         "Chacerim"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421193407,
-    "wof:lastmodified":1566680633,
+    "wof:lastmodified":1690931968,
     "wof:name":"Hazerim",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0636\u064a\u0631\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u062e\u0636\u064a\u0631\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Hadera"
+    ],
     "name:aze_x_preferred":[
         "Hadera"
     ],
@@ -120,6 +126,9 @@
     "name:mar_x_preferred":[
         "\u0939\u0945\u0921\u0930\u093e"
     ],
+    "name:mon_x_preferred":[
+        "\u0425\u0430\u0434\u0435\u0440\u0430"
+    ],
     "name:msa_x_preferred":[
         "Hadera"
     ],
@@ -165,7 +174,13 @@
     "name:srp_x_preferred":[
         "\u0425\u0430\u0434\u0435\u0440\u0430"
     ],
+    "name:swa_x_preferred":[
+        "Hadera"
+    ],
     "name:swe_x_preferred":[
+        "Hadera"
+    ],
+    "name:szl_x_preferred":[
         "Hadera"
     ],
     "name:tam_x_preferred":[
@@ -252,7 +267,7 @@
         }
     ],
     "wof:id":421202397,
-    "wof:lastmodified":1566680640,
+    "wof:lastmodified":1690931981,
     "wof:name":"Hadera",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

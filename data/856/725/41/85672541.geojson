@@ -41,11 +41,15 @@
     "name:arg_x_preferred":[
         "Destrito Central"
     ],
+    "name:ast_x_preferred":[
+        "distritu Central"
+    ],
     "name:aze_x_preferred":[
         "\u0130srail m\u0259rk\u0259zi dair\u0259si"
     ],
     "name:aze_x_variant":[
-        "M\u0259rk\u0259zi dair\u0259si"
+        "M\u0259rk\u0259zi dair\u0259si",
+        "M\u0259rk\u0259z dair\u0259si"
     ],
     "name:bar_x_preferred":[
         "Zentr\u00e4ubeziak"
@@ -73,6 +77,9 @@
     ],
     "name:ces_x_preferred":[
         "Centr\u00e1ln\u00ed distrikt"
+    ],
+    "name:cym_x_preferred":[
+        "Ardal Canolog"
     ],
     "name:dan_x_preferred":[
         "Centraldistriktet"
@@ -108,6 +115,9 @@
     ],
     "name:fra_x_preferred":[
         "district centre"
+    ],
+    "name:frr_x_preferred":[
+        "Maden"
     ],
     "name:glv_x_preferred":[
         "Slyst Veanagh"
@@ -174,8 +184,14 @@
     "name:msa_x_preferred":[
         "Daerah Tengah"
     ],
+    "name:nan_x_preferred":[
+        "Tiong-p\u014d\u0358-ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Centrum"
+    ],
+    "name:nld_x_variant":[
+        "Centraal district"
     ],
     "name:nno_x_preferred":[
         "Sentral-Israel"
@@ -198,6 +214,9 @@
     "name:por_x_preferred":[
         "Distrito Central"
     ],
+    "name:que_x_preferred":[
+        "Chawpi distritu"
+    ],
     "name:ron_x_preferred":[
         "Districtul Central"
     ],
@@ -210,6 +229,9 @@
     "name:sin_x_preferred":[
         "\u0db8\u0daf\u0dca\u200d\u0dba\u0db8 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
+    "name:slv_x_preferred":[
+        "Centralno okro\u017eje"
+    ],
     "name:spa_x_preferred":[
         "Distrito Central"
     ],
@@ -221,6 +243,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c02\u0c1f\u0c4d\u0c30\u0c32\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -247,6 +272,12 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Trung"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e2d\u592e\u533a"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10ea\u10d4\u10dc\u10e2\u10e0\u10d0\u10da\u10e3\u10e0\u10d8 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:yid_x_preferred":[
         "\u05e6\u05e2\u05e0\u05d8\u05e2\u05e8 \u05d3\u05d9\u05e1\u05d8\u05e8\u05d9\u05e7\u05d8"
@@ -324,7 +355,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1636502612,
+    "wof:lastmodified":1690931947,
     "wof:name":"Central",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

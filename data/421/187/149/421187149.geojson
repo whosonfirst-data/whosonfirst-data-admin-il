@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Meron"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u0648\u0646"
+    ],
     "name:fra_x_preferred":[
         "Meron"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421187149,
-    "wof:lastmodified":1566680649,
+    "wof:lastmodified":1690931998,
     "wof:name":"Meron",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:ind_x_preferred":[
         "Mekor Chaim"
     ],
+    "name:nld_x_preferred":[
+        "Mekor Chaim"
+    ],
     "name:und_x_variant":[
         "Mekor Haim"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421174147,
-    "wof:lastmodified":1566680645,
+    "wof:lastmodified":1690931990,
     "wof:name":"Meqor H\u0331ayyim",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

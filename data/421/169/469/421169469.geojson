@@ -23,6 +23,15 @@
     "name:ara_x_preferred":[
         "\u0631\u0639\u0646\u0627\u0646\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u0639\u0646\u0627\u0646\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Ra'anana"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0430\u043d\u0430\u043d\u0430"
+    ],
     "name:cat_x_preferred":[
         "Ra'anana"
     ],
@@ -51,6 +60,9 @@
         "Ra\u2018ananah",
         "Ra\u2018ananna",
         "Raanana",
+        "Ra'anana"
+    ],
+    "name:epo_x_preferred":[
         "Ra'anana"
     ],
     "name:fas_x_preferred":[
@@ -131,7 +143,13 @@
     "name:srp_x_preferred":[
         "\u0420\u0430\u043d\u0430\u043d\u0430"
     ],
+    "name:swa_x_preferred":[
+        "Ra'anana"
+    ],
     "name:swe_x_preferred":[
+        "Ra'anana"
+    ],
+    "name:szl_x_preferred":[
         "Ra'anana"
     ],
     "name:tgl_x_preferred":[
@@ -145,6 +163,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0631\u0639\u0646\u0627\u0646\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0631\u0639\u0646\u0627\u0646\u06c1"
     ],
     "name:vie_x_preferred":[
         "Ra'anana"
@@ -208,7 +229,7 @@
         }
     ],
     "wof:id":421169469,
-    "wof:lastmodified":1566680637,
+    "wof:lastmodified":1690931974,
     "wof:name":"Ra'anana",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

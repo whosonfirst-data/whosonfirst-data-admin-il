@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Kfar Ruppin"
     ],
+    "name:fin_x_preferred":[
+        "Kfar Ruppin"
+    ],
     "name:fra_x_preferred":[
         "Kfar Ruppin"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421172237,
-    "wof:lastmodified":1566680653,
+    "wof:lastmodified":1690932006,
     "wof:name":"Kefar Ruppin",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

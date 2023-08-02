@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Ramat HaKovesh"
     ],
+    "name:fra_x_preferred":[
+        "Ramat HaKovesh"
+    ],
     "name:heb_x_preferred":[
         "\u05e8\u05de\u05ea \u05d4\u05db\u05d5\u05d1\u05e9"
     ],
@@ -38,6 +41,9 @@
     "name:nno_x_preferred":[
         "Ramat HaKovesh"
     ],
+    "name:nob_x_preferred":[
+        "Ramat HaKovesh"
+    ],
     "name:pol_x_preferred":[
         "Ramat ha-Kowesz"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:por_x_preferred":[
         "Ramat Hakovesh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043c\u0430\u0442-\u0445\u0430-\u041a\u043e\u0432\u0435\u0448"
     ],
     "name:und_x_variant":[
         "Ramot Hakovesh"
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":421175715,
-    "wof:lastmodified":1566680657,
+    "wof:lastmodified":1690932011,
     "wof:name":"Ramat HaKovesh",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

@@ -26,8 +26,17 @@
     "name:arg_x_preferred":[
         "Safet"
     ],
+    "name:arz_x_preferred":[
+        "\u0635\u0641\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "Safed"
+    ],
     "name:aze_x_preferred":[
         "Safed"
+    ],
+    "name:bel_x_preferred":[
+        "\u0426\u0444\u0430\u0442"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09ab\u09c7\u09a6"
@@ -118,6 +127,9 @@
     "name:kat_x_preferred":[
         "\u10ea\u10e4\u10d0\u10d7\u10d8"
     ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u0444\u0430\u0434"
+    ],
     "name:kor_x_preferred":[
         "\uc81c\ud30c\ud2b8"
     ],
@@ -136,6 +148,9 @@
     "name:mkd_x_preferred":[
         "\u0421\u0430\u0444\u0435\u0434"
     ],
+    "name:mon_x_preferred":[
+        "\u0426\u0444\u0430\u0442"
+    ],
     "name:msa_x_preferred":[
         "Safed"
     ],
@@ -147,6 +162,9 @@
     ],
     "name:nob_x_preferred":[
         "Safed"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0430\u0444\u0435\u0434"
     ],
     "name:pol_x_preferred":[
         "Safed"
@@ -172,11 +190,17 @@
     "name:slv_x_preferred":[
         "Safed"
     ],
+    "name:snd_x_preferred":[
+        "\u0635\u0641\u062f"
+    ],
     "name:spa_x_preferred":[
         "Safed"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0430\u0444\u0435\u0434"
+    ],
+    "name:swa_x_preferred":[
+        "Safed"
     ],
     "name:swe_x_preferred":[
         "Safed"
@@ -264,7 +288,7 @@
         }
     ],
     "wof:id":421204749,
-    "wof:lastmodified":1566680638,
+    "wof:lastmodified":1690931976,
     "wof:name":"Zefat",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

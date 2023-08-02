@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Nof Ayalon"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0641 \u0622\u06cc\u0644\u0648\u0646"
+    ],
     "name:heb_x_colloquial":[
         "\u05e0\u05d5\u05e3 \u05d0\u05d9\u05d9\u05dc\u05d5\u05df"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":890413457,
-    "wof:lastmodified":1566680684,
+    "wof:lastmodified":1690932063,
     "wof:name":"Nof Ayalon",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

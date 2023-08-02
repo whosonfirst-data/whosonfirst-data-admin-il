@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0644 \u0627\u0644\u0633\u0628\u0639"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0644 \u0627\u0644\u0633\u0628\u0639"
+    ],
     "name:cat_x_preferred":[
         "Tel Xeva"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:eng_x_preferred":[
         "Tel as-Sabi"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0644 \u0627\u0644\u0633\u0628\u0639"
     ],
     "name:heb_x_preferred":[
         "Tel Sheva\u2018"
@@ -54,6 +60,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u043b\u044c-\u0428\u0435\u0432\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Tel as-Sabi"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":421177207,
-    "wof:lastmodified":1566680675,
+    "wof:lastmodified":1690932046,
     "wof:name":"Tel Sheva",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

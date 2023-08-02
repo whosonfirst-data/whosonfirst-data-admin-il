@@ -32,6 +32,9 @@
     "name:heb_x_preferred":[
         "\u05e8\u05de\u05ea \u05d4\u05e9\u05d5\u05e4\u05d8"
     ],
+    "name:ita_x_preferred":[
+        "Ramat HaShofet"
+    ],
     "name:nld_x_preferred":[
         "Ramat HaShofet"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421166739,
-    "wof:lastmodified":1566680626,
+    "wof:lastmodified":1690931955,
     "wof:name":"Ramat HaShofet",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

@@ -41,8 +41,14 @@
     "name:rus_x_preferred":[
         "\u041d\u043e\u0444\u0435\u0445"
     ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0444\u0435\u0445"
+    ],
     "name:und_x_variant":[
         "Kefar Avoda Rantiya"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u0641\u062e"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421172243,
-    "wof:lastmodified":1566680652,
+    "wof:lastmodified":1690932004,
     "wof:name":"Nofekh",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

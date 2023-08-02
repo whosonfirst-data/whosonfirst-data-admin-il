@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Maoz Haim"
     ],
+    "name:fra_x_preferred":[
+        "Maoz Haim"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05e2\u05d5\u05d6 \u05d7\u05d9\u05d9\u05dd"
     ],
@@ -37,6 +40,12 @@
     ],
     "name:pol_x_variant":[
         "Maoz Chaim"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043e\u0437-\u0425\u0430\u0438\u043c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043e\u0437-\u0425\u0430\u0457\u043c"
     ],
     "name:und_x_variant":[
         "Maoz"
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":421184483,
-    "wof:lastmodified":1566680671,
+    "wof:lastmodified":1690932038,
     "wof:name":"Maoz Hayyim",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

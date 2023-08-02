@@ -28,6 +28,9 @@
     "name:ind_x_preferred":[
         "Ma'alot Dafna"
     ],
+    "name:nld_x_preferred":[
+        "Ma'alot Dafna"
+    ],
     "name:yid_x_preferred":[
         "\u05de\u05e2\u05dc\u05d5\u05ea \u05d3\u05e4\u05e0\u05d4"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421184185,
-    "wof:lastmodified":1566680672,
+    "wof:lastmodified":1690932039,
     "wof:name":"Ma'alot Dafna",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

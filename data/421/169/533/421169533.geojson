@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0633\u0645\u0629 \u0637\u0628\u0639\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0633\u0645\u0629 \u0637\u0628\u0639\u0648\u0646"
+    ],
     "name:ceb_x_preferred":[
         "Basmat \u1e6cab\u2018\u016bn"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421169533,
-    "wof:lastmodified":1566680635,
+    "wof:lastmodified":1690931971,
     "wof:name":"Basmat Tabun",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

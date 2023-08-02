@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0648\u062a \u0645\u0631\u062f\u062e\u0627\u064a"
+    ],
     "name:ces_x_preferred":[
         "Ne'ot Mordechaj"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421187145,
-    "wof:lastmodified":1566680648,
+    "wof:lastmodified":1690931996,
     "wof:name":"Ne'ot Mordekhay",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

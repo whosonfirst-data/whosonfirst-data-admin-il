@@ -20,10 +20,19 @@
     "name:ara_x_preferred":[
         "\u062f\u0628\u0648\u0631\u064a\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Dabb\u016br\u012bya"
+    ],
     "name:ces_x_preferred":[
         "Daburija"
     ],
     "name:eng_x_preferred":[
+        "Daburiyya"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0628\u0648\u0631\u06cc\u0647"
+    ],
+    "name:fin_x_preferred":[
         "Daburiyya"
     ],
     "name:fra_x_preferred":[
@@ -39,6 +48,9 @@
     "name:ita_x_preferred":[
         "Daburiyya"
     ],
+    "name:nld_x_preferred":[
+        "Dabb\u016br\u012bya"
+    ],
     "name:nno_x_preferred":[
         "Daburiyya"
     ],
@@ -50,6 +62,9 @@
     ],
     "name:spa_x_preferred":[
         "Daburiyya"
+    ],
+    "name:swe_x_preferred":[
+        "Dabb\u016br\u012bya"
     ],
     "name:und_x_variant":[
         "Dabburiyah"
@@ -101,7 +116,7 @@
         }
     ],
     "wof:id":421197331,
-    "wof:lastmodified":1566680663,
+    "wof:lastmodified":1690932023,
     "wof:name":"Dabburiya",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

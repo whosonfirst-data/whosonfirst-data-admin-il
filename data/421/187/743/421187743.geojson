@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u064a\u0627\u062a \u0637\u0628\u0639\u0648\u0646"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0456\u0440\u2019\u044f\u0442-\u0422\u044b\u0432\u043e\u043d"
+    ],
     "name:cat_x_preferred":[
         "Qiryat Tivon"
     ],
@@ -28,6 +34,12 @@
     ],
     "name:eng_x_preferred":[
         "Kiryat Tiv'on"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0631\u06cc\u0627\u062a \u062a\u06cc\u0648\u0648\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "Kirjat Tiv'on"
     ],
     "name:fra_x_preferred":[
         "Kiryat Tivon"
@@ -74,6 +86,15 @@
     ],
     "name:und_x_variant":[
         "Tiv\u2018on"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0631\u06cc\u062a \u0637\u0628\u0639\u0648\u0646"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e7\u05e8\u05d9\u05ea \u05d8\u05d1\u05e2\u05d5\u05df"
+    ],
+    "name:zho_x_preferred":[
+        "\u63d0\u592b\u7fc1\u6751"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -122,7 +143,7 @@
         }
     ],
     "wof:id":421187743,
-    "wof:lastmodified":1566680649,
+    "wof:lastmodified":1690931997,
     "wof:name":"Qiryat Tivon",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

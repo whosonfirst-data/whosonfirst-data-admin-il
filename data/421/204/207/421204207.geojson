@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u062c\u064a\u0641"
+    ],
     "name:ces_x_preferred":[
         "Ejn Gev"
     ],
@@ -47,11 +50,17 @@
     "name:nno_x_preferred":[
         "Ein Gev"
     ],
+    "name:nob_x_preferred":[
+        "Ein Gev"
+    ],
     "name:pol_x_preferred":[
         "Ein Gev"
     ],
     "name:rus_x_preferred":[
         "\u042d\u0439\u043d-\u0413\u0435\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0439\u043d \u0413\u0435\u0432"
     ],
     "name:und_x_variant":[
         "\u2018Ein Gev"
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":421204207,
-    "wof:lastmodified":1566680638,
+    "wof:lastmodified":1690931977,
     "wof:name":"En Gev",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

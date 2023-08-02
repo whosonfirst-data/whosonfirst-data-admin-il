@@ -16,6 +16,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u062d\u0648\u0631\u0648\u0646"
+    ],
     "name:cat_x_preferred":[
         "Bethoron"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":421172175,
-    "wof:lastmodified":1566680652,
+    "wof:lastmodified":1690932005,
     "wof:name":"Bet Horon",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

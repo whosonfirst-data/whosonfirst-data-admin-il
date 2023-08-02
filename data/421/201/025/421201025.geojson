@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0644\u062d\u0645 \u0627\u0644\u062c\u0644\u064a\u0644\u200e"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062a \u0644\u062d\u0645 \u0627\u0644\u062c\u0644\u064a\u0644"
+    ],
     "name:cat_x_preferred":[
         "Betlem de Galilea"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:eng_x_preferred":[
         "Bethlehem of Galilee"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062a \u0644\u062d\u0645 \u062c\u0644\u06cc\u0644"
     ],
     "name:fra_x_preferred":[
         "Bethl\u00e9em de Galil\u00e9e"
@@ -83,6 +89,9 @@
     "name:slk_x_preferred":[
         "Bejt Lechem ha-Glilit"
     ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u0444\u043b\u0435\u0454\u043c \u0413\u0430\u043b\u0456\u043b\u0435\u0439\u0441\u044c\u043a\u0438\u0439"
+    ],
     "name:und_x_variant":[
         "Irgun Hahoresh"
     ],
@@ -131,7 +140,7 @@
         }
     ],
     "wof:id":421201025,
-    "wof:lastmodified":1566680669,
+    "wof:lastmodified":1690932036,
     "wof:name":"Bet Lehem HaGelilit",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

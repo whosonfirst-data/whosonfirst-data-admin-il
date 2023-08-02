@@ -17,13 +17,22 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u064a\u0632\u0631\u0627\u0639\u064a\u0644"
+    ],
     "name:cat_x_preferred":[
         "Jizreel"
     ],
     "name:ces_x_preferred":[
         "Jizre'el"
     ],
+    "name:deu_x_preferred":[
+        "Jizre'el"
+    ],
     "name:eng_x_preferred":[
+        "Yizre'el"
+    ],
+    "name:fra_x_preferred":[
         "Yizre'el"
     ],
     "name:heb_x_preferred":[
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":421192465,
-    "wof:lastmodified":1566680629,
+    "wof:lastmodified":1690931962,
     "wof:name":"Yizreel",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0627\u0631 \u062c\u0644\u0639\u0627\u062f\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0641\u0627\u0631 \u062c\u0644\u0639\u0627\u062f\u0649"
+    ],
     "name:cat_x_preferred":[
         "Kefar Guiladi"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:eng_x_preferred":[
         "Kfar Giladi"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0641\u0631 \u06af\u06cc\u0644\u0627\u062f\u06cc"
     ],
     "name:fra_x_preferred":[
         "Kfar-Guiladi"
@@ -71,6 +77,9 @@
     ],
     "name:spa_x_preferred":[
         "Kfar Guiladi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0444\u0430\u0440-\u0490\u0456\u043b\u0430\u0434\u0456"
     ],
     "name:und_x_variant":[
         "Kfargileady"
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":421182205,
-    "wof:lastmodified":1566680678,
+    "wof:lastmodified":1690932052,
     "wof:name":"Kefar Giladi",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

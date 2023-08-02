@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0645\u062c\u062f\u0627\u0644 \u0647\u0639\u064a\u0645\u0642"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u062c\u062f\u0627\u0644 \u0647\u0639\u064a\u0645\u0642"
+    ],
+    "name:ast_x_preferred":[
+        "Migdal HaEmek"
+    ],
     "name:cat_x_preferred":[
         "Migdal HaEmek"
     ],
@@ -91,6 +97,12 @@
     "name:spa_x_preferred":[
         "Migdal HaEmek"
     ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0433\u0434\u0430\u043b \u0425\u0430\u0435\u043c\u0435\u043a"
+    ],
+    "name:swa_x_preferred":[
+        "Migdal HaEmek"
+    ],
     "name:swe_x_preferred":[
         "Migdal Ha\u2018Emeq"
     ],
@@ -159,7 +171,7 @@
         }
     ],
     "wof:id":421198933,
-    "wof:lastmodified":1566680659,
+    "wof:lastmodified":1690932015,
     "wof:name":"Migdal HaEmeq",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

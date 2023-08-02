@@ -20,6 +20,15 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0627\u0635\u0631\u0629 \u0627\u0644\u0639\u0644\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0646\u0627\u0635\u0631\u0647 \u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Nof HaGalil"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u043e\u0444-\u0445\u0430-\u0413\u0430\u043b\u0456\u043b\u044c"
+    ],
     "name:cat_x_preferred":[
         "Natzaret Il\u00b7lit"
     ],
@@ -29,14 +38,23 @@
     "name:ces_x_preferred":[
         "Nazaret Ilit"
     ],
+    "name:ces_x_variant":[
+        "Nof ha-Galil"
+    ],
     "name:dan_x_preferred":[
         "Nazareth Illit"
     ],
     "name:deu_x_preferred":[
         "Nazareth-Illit"
     ],
+    "name:deu_x_variant":[
+        "Nof HaGalil"
+    ],
     "name:ell_x_preferred":[
         "\u03b5\u03b9\u03c3\u03b9\u03c4\u03b7\u03c1\u03b9\u03b1 \u03b3\u03b9\u03b1 \u039d\u03b1\u03b6\u03b1\u03c1\u03b5\u03c4"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03bf\u03c6 \u03a7\u03b1\u0393\u03ba\u03b1\u03bb\u03af\u03bb"
     ],
     "name:eng_x_preferred":[
         "Nazareth Illit"
@@ -91,6 +109,15 @@
     "name:nno_x_preferred":[
         "Nasaret Illit"
     ],
+    "name:nno_x_variant":[
+        "Nof HaGalil"
+    ],
+    "name:nob_x_preferred":[
+        "Nof HaGalil"
+    ],
+    "name:oss_x_preferred":[
+        "\u041d\u043e\u0444-\u0445\u0430-\u0413\u0430\u043b\u0438\u043b\u044c"
+    ],
     "name:pms_x_preferred":[
         "N\u00e0saret Illit"
     ],
@@ -107,7 +134,8 @@
         "\u041d\u0430\u0446\u0440\u0430\u0442-\u0418\u043b\u043b\u0438\u0442"
     ],
     "name:rus_x_variant":[
-        "\u041d\u0430\u0446\u0435\u0440\u0435\u0442-\u0418\u043b\u043b\u0438\u0442"
+        "\u041d\u0430\u0446\u0435\u0440\u0435\u0442-\u0418\u043b\u043b\u0438\u0442",
+        "\u041d\u043e\u0444-\u0445\u0430-\u0413\u0430\u043b\u0438\u043b\u044c"
     ],
     "name:sco_x_preferred":[
         "Nazareth Illit"
@@ -121,11 +149,17 @@
     "name:srp_x_preferred":[
         "\u041d\u0430\u0437\u0430\u0440\u0435\u0442 \u0418\u043b\u0438\u0442"
     ],
+    "name:swa_x_preferred":[
+        "Nof HaGalil"
+    ],
     "name:swe_x_preferred":[
         "Nasaret Illit"
     ],
     "name:tgl_x_preferred":[
         "Natzrat Ilit"
+    ],
+    "name:tur_x_preferred":[
+        "Nof HaGalil"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0437\u0430\u0440\u0435\u0442-\u0406\u043b\u043b\u0456\u0442"
@@ -194,7 +228,7 @@
         }
     ],
     "wof:id":421204713,
-    "wof:lastmodified":1566680638,
+    "wof:lastmodified":1690931976,
     "wof:name":"Nazerat Illit",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

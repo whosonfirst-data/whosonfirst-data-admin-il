@@ -26,6 +26,9 @@
     "name:heb_x_preferred":[
         "\u05de\u05d2\u05e9\u05d9\u05de\u05d9\u05dd"
     ],
+    "name:ita_x_preferred":[
+        "Magshimim"
+    ],
     "name:nno_x_preferred":[
         "Magshimim"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421169513,
-    "wof:lastmodified":1566680637,
+    "wof:lastmodified":1690931974,
     "wof:name":"Magshimim",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

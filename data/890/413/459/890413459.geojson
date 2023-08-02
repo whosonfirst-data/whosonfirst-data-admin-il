@@ -43,6 +43,9 @@
     "name:nno_x_preferred":[
         "Kfar Ruth"
     ],
+    "name:nob_x_preferred":[
+        "Kfar Ruth"
+    ],
     "name:pol_x_preferred":[
         "Kfar Rut"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":890413459,
-    "wof:lastmodified":1566680684,
+    "wof:lastmodified":1690932063,
     "wof:name":"Kfar Rut",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

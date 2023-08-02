@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062d\u064a\u0631\u0648\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u062d\u064a\u0631\u0648\u062a"
+    ],
     "name:cat_x_preferred":[
         "Moixav Herut"
     ],
@@ -38,6 +41,9 @@
     "name:heb_x_variant":[
         "H\u0331erut"
     ],
+    "name:jpn_x_preferred":[
+        "\u3078\u30eb\u30fc\u30c8"
+    ],
     "name:nno_x_preferred":[
         "Herut i Israel"
     ],
@@ -46,6 +52,12 @@
     ],
     "name:spa_x_preferred":[
         "Moshav Herut"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0435\u0440\u0443\u0442"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d7\u05e8\u05d5\u05ea"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -94,7 +106,7 @@
         }
     ],
     "wof:id":421177223,
-    "wof:lastmodified":1566680675,
+    "wof:lastmodified":1690932045,
     "wof:name":"Herut",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

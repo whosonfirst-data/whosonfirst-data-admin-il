@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u062c\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062a \u062c\u0646"
+    ],
     "name:cat_x_preferred":[
         "Bet Jan"
     ],
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421204637,
-    "wof:lastmodified":1566680639,
+    "wof:lastmodified":1690931977,
     "wof:name":"Beit Jann",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

@@ -29,11 +29,17 @@
     "name:ces_x_preferred":[
         "D\u017eisr az-Zarka"
     ],
+    "name:chv_x_preferred":[
+        "\u0414\u0436\u0438\u0441\u0440-\u044d\u0437-\u0417\u0430\u0440\u043a\u0430"
+    ],
     "name:deu_x_preferred":[
         "Dschisr az-Zarqa"
     ],
     "name:eng_x_preferred":[
         "Jisr az-Zarqa"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0633\u0631 \u0627\u0644\u0632\u0631\u0642\u0627\u0621"
     ],
     "name:heb_x_preferred":[
         "\u05d2'\u05e1\u05e8 \u05d0-\u05d6\u05e8\u05e7\u05d0"
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421171841,
-    "wof:lastmodified":1566680682,
+    "wof:lastmodified":1690932059,
     "wof:name":"Jisr ez Zarqa",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u064a\u0631\u0648\u062d\u0627\u0645"
     ],
+    "name:arz_x_preferred":[
+        "\u064a\u0631\u0648\u062d\u0627\u0645"
+    ],
     "name:cat_x_preferred":[
         "Jeroham"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:epo_x_preferred":[
         "Jeru\u0125am"
+    ],
+    "name:fin_x_preferred":[
+        "Yeruham"
     ],
     "name:fra_x_preferred":[
         "Yeruham"
@@ -62,8 +68,14 @@
     "name:pol_x_preferred":[
         "Yeruham"
     ],
+    "name:ron_x_preferred":[
+        "Yeruham"
+    ],
     "name:rus_x_preferred":[
         "\u0419\u0435\u0440\u0443\u0445\u0430\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Yeruham"
     ],
     "name:swe_x_preferred":[
         "Yero\u1e96am"
@@ -125,7 +137,7 @@
         }
     ],
     "wof:id":421168429,
-    "wof:lastmodified":1566680625,
+    "wof:lastmodified":1690931954,
     "wof:name":"Yeroham",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

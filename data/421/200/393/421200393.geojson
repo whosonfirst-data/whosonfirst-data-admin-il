@@ -26,8 +26,14 @@
     "name:ces_x_preferred":[
         "Nachf"
     ],
+    "name:ces_x_variant":[
+        "Nahf"
+    ],
     "name:eng_x_preferred":[
         "Nahf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u062d\u0641"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d7\u05e3"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421200393,
-    "wof:lastmodified":1566680668,
+    "wof:lastmodified":1690932033,
     "wof:name":"Nahf",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

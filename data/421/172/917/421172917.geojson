@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062a\u0633\u0628\u064a \u0631\u064a\u0645\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u062a\u0633\u0628\u0649 \u0631\u064a\u0645\u0648\u0646"
+    ],
     "name:cat_x_preferred":[
         "Mitsp\u00e9 Ramon"
     ],
@@ -32,6 +35,9 @@
     "name:deu_x_preferred":[
         "Mitzpe Ramon"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03c4\u03c3\u03c0\u03ad \u03a1\u03b1\u03bc\u03cc\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Mitzpe Ramon"
     ],
@@ -40,6 +46,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u06cc\u062a\u0633\u067e\u0647 \u0631\u0627\u0645\u0648\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Mitzpe Ramon"
     ],
     "name:fra_x_preferred":[
         "Mitzpe Ramon"
@@ -80,8 +89,14 @@
     "name:spa_x_preferred":[
         "Mitzpe Ramon"
     ],
+    "name:spa_x_variant":[
+        "Mitzp\u00e9 Ram\u00f3n"
+    ],
     "name:swe_x_preferred":[
         "Mitzpe Ramon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0446\u043f\u0435-\u0420\u0430\u043c\u043e\u043d"
     ],
     "name:und_x_variant":[
         "Ma\u1e25ane Ramon"
@@ -136,7 +151,7 @@
         }
     ],
     "wof:id":421172917,
-    "wof:lastmodified":1566680653,
+    "wof:lastmodified":1690932006,
     "wof:name":"Mizpe Ramon",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

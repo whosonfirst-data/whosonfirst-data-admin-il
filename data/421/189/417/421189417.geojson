@@ -59,6 +59,9 @@
     "name:pol_x_variant":[
         "Mesilot"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0441\u0438\u043b\u043e\u0442"
+    ],
     "name:swe_x_preferred":[
         "Mesillot"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421189417,
-    "wof:lastmodified":1566680650,
+    "wof:lastmodified":1690932001,
     "wof:name":"Mesillot",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

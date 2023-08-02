@@ -20,10 +20,16 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062c\u062f\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0645\u062c\u062f\u0644"
+    ],
     "name:ces_x_preferred":[
         "Migdal"
     ],
     "name:eng_x_preferred":[
+        "Migdal"
+    ],
+    "name:fra_x_preferred":[
         "Migdal"
     ],
     "name:heb_x_preferred":[
@@ -40,6 +46,9 @@
     ],
     "name:nno_x_preferred":[
         "Migdal i Israel"
+    ],
+    "name:nob_x_preferred":[
+        "Migdal"
     ],
     "name:pol_x_preferred":[
         "Migdal"
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":421192459,
-    "wof:lastmodified":1566680631,
+    "wof:lastmodified":1690931965,
     "wof:name":"Migdal",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

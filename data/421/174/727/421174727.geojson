@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0633\u062f\u064a\u0631\u0648\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u062f\u064a\u0631\u0648\u062a"
+    ],
+    "name:ast_x_preferred":[
+        "Sderot"
+    ],
     "name:bel_x_variant":[
         "\u0421\u0434\u044d\u0440\u043e\u0442"
     ],
@@ -47,11 +53,17 @@
     "name:deu_x_preferred":[
         "Sderot"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bd\u03c4\u03b5\u03c1\u03cc\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Sderot"
     ],
     "name:eng_x_variant":[
         "Sederot"
+    ],
+    "name:epo_x_preferred":[
+        "Sderot"
     ],
     "name:est_x_preferred":[
         "Sderot"
@@ -104,6 +116,9 @@
     "name:pol_x_preferred":[
         "Sderot"
     ],
+    "name:pol_x_variant":[
+        "Sederot"
+    ],
     "name:por_x_preferred":[
         "Sderot"
     ],
@@ -121,6 +136,9 @@
     ],
     "name:spa_x_preferred":[
         "Sederot"
+    ],
+    "name:swa_x_preferred":[
+        "Sderot"
     ],
     "name:swe_x_preferred":[
         "Sderot"
@@ -200,7 +218,7 @@
         }
     ],
     "wof:id":421174727,
-    "wof:lastmodified":1566680645,
+    "wof:lastmodified":1690931991,
     "wof:name":"Sederot",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

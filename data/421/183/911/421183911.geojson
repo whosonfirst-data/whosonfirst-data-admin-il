@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0637\u0645\u0631\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0637\u0645\u0631\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Tamra"
+    ],
     "name:bre_x_preferred":[
         "Tamra"
     ],
@@ -49,6 +55,9 @@
     ],
     "name:heb_x_variant":[
         "\u05ea\u05de\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u0947\u092e\u094d\u0930\u093e"
     ],
     "name:ind_x_preferred":[
         "Tamra"
@@ -87,6 +96,12 @@
         "Tamra"
     ],
     "name:spa_x_preferred":[
+        "Tamra"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0430\u043c\u0440\u0430"
+    ],
+    "name:swa_x_preferred":[
         "Tamra"
     ],
     "name:swe_x_preferred":[
@@ -163,7 +178,7 @@
         }
     ],
     "wof:id":421183911,
-    "wof:lastmodified":1566680676,
+    "wof:lastmodified":1690932048,
     "wof:name":"Tamra",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",
