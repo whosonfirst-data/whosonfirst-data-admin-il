@@ -39,6 +39,9 @@
     "name:pol_x_preferred":[
         "Ajjelet ha-Szachar"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u0435\u043b\u0435\u0442 \u0445\u0430-\u0428\u0430\u0445\u0430\u0440"
+    ],
     "name:und_x_variant":[
         "Aiyelet Hasha\u1e25ar"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421203895,
-    "wof:lastmodified":1566680639,
+    "wof:lastmodified":1690931978,
     "wof:name":"Ayyelet HaShahar",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

@@ -17,10 +17,19 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u0644\u0627\u062a\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u0647\u0648\u0644\u0627\u062a\u0627"
+    ],
     "name:ces_x_preferred":[
         "Chulata"
     ],
     "name:eng_x_preferred":[
+        "Hulata"
+    ],
+    "name:fra_x_preferred":[
         "Hulata"
     ],
     "name:heb_x_preferred":[
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":421182203,
-    "wof:lastmodified":1566680678,
+    "wof:lastmodified":1690932052,
     "wof:name":"Hulata",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

@@ -47,6 +47,9 @@
     "name:pol_x_preferred":[
         "Amirim"
     ],
+    "name:ron_x_preferred":[
+        "Amirim"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043c\u0438\u0440\u0438\u043c"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421171919,
-    "wof:lastmodified":1566680682,
+    "wof:lastmodified":1690932060,
     "wof:name":"Amirim",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

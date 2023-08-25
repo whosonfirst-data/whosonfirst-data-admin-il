@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0627\u0644\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0627\u0644\u064a\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0430\u043b\u0438\u0439\u044f"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:eng_x_preferred":[
         "Dalia"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0644\u06cc\u0627"
     ],
     "name:fra_x_preferred":[
         "Dalia"
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421171117,
-    "wof:lastmodified":1566680682,
+    "wof:lastmodified":1690932059,
     "wof:name":"Daliyya",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

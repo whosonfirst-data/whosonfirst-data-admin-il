@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u063a\u0641\u0639\u0627\u062a \u0628\u0631\u064a\u0646\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0641\u0639\u0627\u062a \u0628\u0631\u064a\u0646\u0631"
+    ],
     "name:ces_x_preferred":[
         "Giv'at Brenner"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:epo_x_preferred":[
         "Givat Brenner"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u06cc\u0648\u0627\u062a \u0628\u0631\u0646\u0631"
     ],
     "name:fra_x_preferred":[
         "Guivat-Brener"
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":421168551,
-    "wof:lastmodified":1566680625,
+    "wof:lastmodified":1690931953,
     "wof:name":"Givat Brenner",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

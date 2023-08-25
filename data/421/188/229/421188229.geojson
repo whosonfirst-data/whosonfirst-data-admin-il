@@ -44,6 +44,9 @@
     "name:pol_x_preferred":[
         "Udim"
     ],
+    "name:rus_x_preferred":[
+        "\u0423\u0434\u0438\u043c"
+    ],
     "name:szl_x_preferred":[
         "Udim"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421188229,
-    "wof:lastmodified":1566680651,
+    "wof:lastmodified":1690932002,
     "wof:name":"Udim",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

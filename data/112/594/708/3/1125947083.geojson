@@ -20,10 +20,19 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u0646\u064a\u0631"
+    ],
+    "name:arz_x_preferred":[
+        "\u0633\u0646\u064a\u0631"
+    ],
     "name:ces_x_preferred":[
         "Snir"
     ],
     "name:eng_x_preferred":[
+        "Snir"
+    ],
+    "name:fra_x_preferred":[
         "Snir"
     ],
     "name:heb_x_preferred":[
@@ -129,7 +138,7 @@
         }
     ],
     "wof:id":1125947083,
-    "wof:lastmodified":1566680686,
+    "wof:lastmodified":1690932066,
     "wof:name":"Snir",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

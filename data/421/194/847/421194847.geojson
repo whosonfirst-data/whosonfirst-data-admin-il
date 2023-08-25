@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Ziv'on"
     ],
+    "name:fra_x_preferred":[
+        "Ziv'on"
+    ],
     "name:heb_x_preferred":[
         "\u1e94iv\u2018on"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421194847,
-    "wof:lastmodified":1566680633,
+    "wof:lastmodified":1690931967,
     "wof:name":"Zivon",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

@@ -20,13 +20,25 @@
     "name:ara_x_preferred":[
         "\u0645\u0634\u0645\u0627\u0631 \u0647\u0639\u064a\u0645\u0642"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0634\u0645\u0627\u0631 \u0647\u0639\u064a\u0645\u0642"
+    ],
     "name:ces_x_preferred":[
         "Mi\u0161mar ha-Emek"
+    ],
+    "name:dan_x_preferred":[
+        "Mishmar Ha'emek"
     ],
     "name:deu_x_preferred":[
         "Mischmar haEmek"
     ],
     "name:eng_x_preferred":[
+        "Mishmar HaEmek"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0634\u0645\u0627\u0631 \u0647\u0627\u06cc\u0645\u06a9"
+    ],
+    "name:fin_x_preferred":[
         "Mishmar HaEmek"
     ],
     "name:fra_x_preferred":[
@@ -38,6 +50,9 @@
     "name:heb_x_variant":[
         "Mishmar Ha\u2018Emeq",
         "Mishmar Ha\u2018Emek"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30b7\u30e5\u30de\u30fc\u30eb\u30fb\u30cf\uff1d\u30a8\u30e1\u30af"
     ],
     "name:nld_x_preferred":[
         "Mishmar HaEmek"
@@ -103,7 +118,7 @@
         }
     ],
     "wof:id":421170875,
-    "wof:lastmodified":1566680673,
+    "wof:lastmodified":1690932040,
     "wof:name":"Mishmar HaEmeq",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

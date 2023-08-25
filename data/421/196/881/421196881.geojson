@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0634"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u062c\u0634"
+    ],
+    "name:ast_x_preferred":[
+        "Jish"
+    ],
     "name:ceb_x_preferred":[
         "J\u012bsh"
     ],
@@ -29,7 +35,16 @@
     "name:deu_x_preferred":[
         "Gisch"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03b9\u03c2"
+    ],
     "name:eng_x_preferred":[
+        "Jish"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062c\u0634"
+    ],
+    "name:fin_x_preferred":[
         "Jish"
     ],
     "name:fra_x_preferred":[
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":421196881,
-    "wof:lastmodified":1566680659,
+    "wof:lastmodified":1690932016,
     "wof:name":"Jish",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

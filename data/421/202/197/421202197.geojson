@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0634\u0641\u0627 \u0639\u0645\u0631\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0634\u0641\u0627 \u0639\u0645\u0631\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Shefa-Amr"
+    ],
     "name:cat_x_preferred":[
         "Shefa-Amr"
     ],
@@ -33,16 +39,23 @@
         "Shefa-'Amr"
     ],
     "name:eng_x_variant":[
-        "Shfaram"
+        "Shfaram",
+        "Shefa-Amr"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0641\u0627 \u0627\u0645\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Shefa-Amr"
     ],
     "name:fra_x_preferred":[
         "Shefa Amr"
     ],
     "name:heb_x_preferred":[
         "\u05e9\u05e4\u05e8\u05e2\u05dd"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0565\u0586\u0561\u0580\u0561\u0574"
     ],
     "name:ind_x_preferred":[
         "Shefa-'Amr"
@@ -71,8 +84,14 @@
     "name:por_x_preferred":[
         "Shefa-'Amr"
     ],
+    "name:ron_x_preferred":[
+        "Shefaram"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u0435\u0444\u0430\u0440\u0430\u043c"
+    ],
+    "name:rus_x_variant":[
+        "\u0428\u0444\u0430\u0440\u0430\u043c"
     ],
     "name:sco_x_preferred":[
         "Shefa-'Amr"
@@ -80,8 +99,17 @@
     "name:spa_x_preferred":[
         "Shefa-'Amr"
     ],
+    "name:srp_x_preferred":[
+        "\u0428\u0435\u0444\u0430 \u0410\u043c\u0440"
+    ],
+    "name:swa_x_preferred":[
+        "Shefa-Amr"
+    ],
     "name:tgl_x_preferred":[
         "Shefa-'Amr"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0444\u0430\u0440\u0430\u043c"
     ],
     "name:und_x_variant":[
         "Shfar\u2019am"
@@ -94,6 +122,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05e9\u05e4\u05e8\u05e2\u05dd"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c22\u6cd5\u963f\u59c6"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -140,7 +171,7 @@
         }
     ],
     "wof:id":421202197,
-    "wof:lastmodified":1566680642,
+    "wof:lastmodified":1690931984,
     "wof:name":"Shefaram",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

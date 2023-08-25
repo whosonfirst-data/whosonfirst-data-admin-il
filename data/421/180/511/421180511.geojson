@@ -29,6 +29,12 @@
     "name:eng_x_preferred":[
         "Nirim"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0631\u06cc\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "Nirim"
+    ],
     "name:fra_x_preferred":[
         "Nirim"
     ],
@@ -55,6 +61,9 @@
     ],
     "name:und_x_variant":[
         "HaShomer Ha\u1e94a\u2018ir"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u91cc\u59c6"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":421180511,
-    "wof:lastmodified":1566680645,
+    "wof:lastmodified":1690931992,
     "wof:name":"Nirim",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

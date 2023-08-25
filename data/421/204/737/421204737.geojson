@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u043d-\u042f\u045e\u043d\u044d"
+    ],
     "name:ceb_x_preferred":[
         "Gan Yavne"
     ],
@@ -29,17 +32,32 @@
     "name:eng_x_preferred":[
         "Gan Yavne"
     ],
+    "name:eng_x_variant":[
+        "Gan-Yavne"
+    ],
+    "name:fas_x_preferred":[
+        "\u063a\u0646 \u0639\u0648\u0646\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Gan Yavne"
+    ],
     "name:fra_x_preferred":[
         "Gan Yavn\u00e9"
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05df \u05d9\u05d1\u05e0\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u05d2\u05df-\u05d9\u05d1\u05e0\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Gan Yavne"
     ],
     "name:jpn_x_preferred":[
         "\u30ac\u30f3\u30fb\u30e4\u30f4\u30cd"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0413\u0430\u043d-\u042f\u0432\u043d\u044d"
     ],
     "name:nld_x_preferred":[
         "Gan Yavne"
@@ -56,8 +74,14 @@
     "name:sco_x_preferred":[
         "Gan Yavne"
     ],
+    "name:spa_x_preferred":[
+        "Gan-Yavne"
+    ],
     "name:swe_x_preferred":[
         "Gan Yavne"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0430\u043d-\u042f\u0432\u043d\u0435"
     ],
     "name:und_x_variant":[
         "Gan Yavneh"
@@ -113,7 +137,7 @@
         }
     ],
     "wof:id":421204737,
-    "wof:lastmodified":1566680637,
+    "wof:lastmodified":1690931975,
     "wof:name":"Gan Yavne",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

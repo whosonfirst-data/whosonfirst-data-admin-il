@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u064a\u0648\u062a\u0648\u0641\u0627\u062a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u064a\u0648\u062a\u0648\u0641\u0627\u062a\u0627"
+    ],
     "name:ces_x_preferred":[
         "Jotvata"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:fas_x_preferred":[
         "\u06cc\u0648\u062a\u200c\u0648\u0627\u062a\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Yotvata"
     ],
     "name:fra_x_preferred":[
         "Yotvata"
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421192469,
-    "wof:lastmodified":1566680631,
+    "wof:lastmodified":1690931964,
     "wof:name":"Yotvata",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:nno_x_preferred":[
         "Har Adar"
     ],
+    "name:nob_x_preferred":[
+        "Har Adar"
+    ],
     "name:pol_x_preferred":[
         "Har Adar"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:und_x_variant":[
         "Khirbat en Nijam"
+    ],
+    "name:vec_x_preferred":[
+        "Har Adar"
     ],
     "qs:name":"Har Adar",
     "qs:photos_9r":0,
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":890428821,
-    "wof:lastmodified":1566680685,
+    "wof:lastmodified":1690932065,
     "wof:name":"Har Adar",
     "wof:parent_id":421200701,
     "wof:placetype":"locality",

@@ -35,11 +35,23 @@
     "name:eng_x_preferred":[
         "Tel Mond"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0644 \u0645\u0648\u0646\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Tel Mond"
+    ],
     "name:fra_x_preferred":[
         "Tel Mond"
     ],
     "name:heb_x_preferred":[
         "\u05ea\u05dc \u05de\u05d5\u05e0\u05d3"
+    ],
+    "name:ita_x_preferred":[
+        "Tel Mond"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30eb\u30fb\u30e2\u30f3\u30c9"
     ],
     "name:nld_x_preferred":[
         "Tel Mond"
@@ -61,6 +73,9 @@
     ],
     "name:swe_x_preferred":[
         "Tel Mond"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u043b\u044c-\u041c\u043e\u043d\u0434"
     ],
     "name:zho_x_preferred":[
         "\u7279\u62c9\u8499\u5fb7"
@@ -113,7 +128,7 @@
         }
     ],
     "wof:id":421204805,
-    "wof:lastmodified":1566680638,
+    "wof:lastmodified":1690931976,
     "wof:name":"Tel Mond",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u062d\u0648\u0636"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u064a\u0646 \u062d\u0648\u0636"
+    ],
     "name:ceb_x_preferred":[
         "\u2018En Hod"
     ],
@@ -32,11 +35,20 @@
     "name:eng_x_preferred":[
         "Ein Hod"
     ],
+    "name:fin_x_preferred":[
+        "Ein Hod"
+    ],
     "name:fra_x_preferred":[
         "Ein Hod"
     ],
     "name:heb_x_preferred":[
         "\u05e2\u05d9\u05df \u05d4\u05d5\u05d3"
+    ],
+    "name:ind_x_preferred":[
+        "Ein Hod"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d10\u0d28\u0d41\u0d7d \u0d39\u0d42\u0d26\u0d4d"
     ],
     "name:nld_x_preferred":[
         "Ein Hod"
@@ -50,6 +62,9 @@
     "name:pol_x_variant":[
         "Ein Hod"
     ],
+    "name:rus_x_preferred":[
+        "\u042d\u0439\u043d-\u0425\u043e\u0434"
+    ],
     "name:spa_x_preferred":[
         "Ein Hod"
     ],
@@ -58,6 +73,9 @@
     ],
     "name:und_x_variant":[
         "Ain Hod"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u06cc\u0646 \u062d\u0648\u0636"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -106,7 +124,7 @@
         }
     ],
     "wof:id":421171121,
-    "wof:lastmodified":1566680682,
+    "wof:lastmodified":1690932059,
     "wof:name":"En Hod",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Gazit"
     ],
+    "name:fra_x_preferred":[
+        "Gazit"
+    ],
     "name:heb_x_preferred":[
         "\u05d2\u05d6\u05d9\u05ea"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421194155,
-    "wof:lastmodified":1566680633,
+    "wof:lastmodified":1690931967,
     "wof:name":"Gazit",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

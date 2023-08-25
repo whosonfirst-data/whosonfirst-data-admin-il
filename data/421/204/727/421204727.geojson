@@ -35,6 +35,9 @@
     "name:eng_x_preferred":[
         "Rosh Pinna"
     ],
+    "name:fin_x_preferred":[
+        "Rosh Pinna"
+    ],
     "name:fra_x_preferred":[
         "Rosh Pina"
     ],
@@ -68,6 +71,9 @@
     "name:rus_x_preferred":[
         "\u0420\u043e\u0448-\u041f\u0438\u043d\u043d\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0420\u043e\u0448-\u041f\u0438\u043d\u0430"
+    ],
     "name:spa_x_preferred":[
         "Rosh Pin\u00e1"
     ],
@@ -77,8 +83,14 @@
     "name:und_x_variant":[
         "J\u0101\u2018\u016bna"
     ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0634 \u067e\u0646\u06c1"
+    ],
     "name:yid_x_preferred":[
         "\u05e8\u05d0\u05e9 \u05e4\u05d9\u05e0\u05d4"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f57\u4ec0\u5e73\u7eb3"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -128,7 +140,7 @@
         }
     ],
     "wof:id":421204727,
-    "wof:lastmodified":1566680639,
+    "wof:lastmodified":1690931978,
     "wof:name":"Rosh Pinna",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

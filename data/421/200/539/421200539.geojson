@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u063a\u0627\u0646\u0648\u062a"
+    ],
+    "name:arz_x_preferred":[
+        "\u062c\u0627\u0646\u0648\u062a"
+    ],
     "name:ces_x_preferred":[
         "Ganot"
     ],
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":421200539,
-    "wof:lastmodified":1566680668,
+    "wof:lastmodified":1690932033,
     "wof:name":"Gannot",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

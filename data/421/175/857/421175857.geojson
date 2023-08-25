@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0639\u0631\u0627\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u0631\u0627\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "Arad"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0440\u0430\u0434"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u0440\u0430\u0434"
     ],
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09be\u09a6"
@@ -70,6 +79,9 @@
     ],
     "name:heb_x_variant":[
         "\u05d0\u05e8\u05d3"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0930\u093e\u0926"
     ],
     "name:hun_x_preferred":[
         "Arad"
@@ -141,6 +153,9 @@
         "\u0d85\u0dbb\u0da9\u0dca"
     ],
     "name:spa_x_preferred":[
+        "Arad"
+    ],
+    "name:swa_x_preferred":[
         "Arad"
     ],
     "name:swe_x_preferred":[
@@ -230,7 +245,7 @@
         }
     ],
     "wof:id":421175857,
-    "wof:lastmodified":1566680656,
+    "wof:lastmodified":1690932011,
     "wof:name":"Arad",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

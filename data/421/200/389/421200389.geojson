@@ -20,10 +20,16 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631\u064a\u0627\u0633\u064a\u0641"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0641\u0631\u064a\u0627\u0633\u064a\u0641"
+    ],
     "name:ceb_x_preferred":[
         "Kafir Yasif"
     ],
     "name:ces_x_preferred":[
+        "Kafr Jasif"
+    ],
+    "name:deu_x_preferred":[
         "Kafr Jasif"
     ],
     "name:eng_x_preferred":[
@@ -50,6 +56,9 @@
     ],
     "name:pol_x_preferred":[
         "Kafr Jasif"
+    ],
+    "name:por_x_preferred":[
+        "Kfar Yossef"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0444\u0440-\u042f\u0441\u0438\u0444"
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":421200389,
-    "wof:lastmodified":1566680668,
+    "wof:lastmodified":1690932034,
     "wof:name":"Kafr Yasif",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

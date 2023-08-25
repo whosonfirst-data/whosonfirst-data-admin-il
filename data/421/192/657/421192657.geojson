@@ -20,6 +20,18 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0633 \u0632\u064a\u0648\u0646\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u064a\u0633 \u0632\u064a\u0648\u0646\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Ness Ziona"
+    ],
+    "name:aze_x_preferred":[
+        "Nes-Siona"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u0435\u0441-\u0426\u044b\u0451\u043d\u0430"
+    ],
     "name:cat_x_preferred":[
         "Ness Tsiona"
     ],
@@ -32,6 +44,9 @@
     "name:deu_x_preferred":[
         "Nes Ziona"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b5\u03c2 \u0396\u03b9\u03cc\u03bd\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Ness Ziona"
     ],
@@ -43,6 +58,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0646\u0633 \u0632\u06cc\u0648\u0646\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Ness Ziona"
     ],
     "name:fra_x_preferred":[
         "Ness Ziona"
@@ -98,6 +116,9 @@
     "name:spa_x_preferred":[
         "Ness Tziona"
     ],
+    "name:swa_x_preferred":[
+        "Ness Ziona"
+    ],
     "name:swe_x_preferred":[
         "Ness Ziona"
     ],
@@ -115,6 +136,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0646\u06cc\u0633 \u0636\u06cc\u0648\u0646\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0646\u06cc\u0633 \u0635\u06cc\u0648\u0646\u06c1"
     ],
     "name:vie_x_preferred":[
         "Ness Ziona"
@@ -175,7 +199,7 @@
         }
     ],
     "wof:id":421192657,
-    "wof:lastmodified":1566680629,
+    "wof:lastmodified":1690931961,
     "wof:name":"Nes Ziyyona",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

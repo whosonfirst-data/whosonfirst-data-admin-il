@@ -19,11 +19,17 @@
     "name:ara_x_preferred":[
         "\u0639\u062c\u0645"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u062c\u0645"
+    ],
     "name:ckb_x_preferred":[
         "\u0639\u06d5\u062c\u06d5\u0645"
     ],
     "name:deu_x_preferred":[
         "\u02bfAdscham"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b6\u03b1\u03bc"
     ],
     "name:eng_x_preferred":[
         "Ajam"
@@ -37,8 +43,14 @@
     "name:heb_x_preferred":[
         "\u05e2\u05d2'\u05dd"
     ],
+    "name:ind_x_preferred":[
+        "Ajam"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30b8\u30e3\u30e0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0492\u0430\u0436\u0430\u043c"
     ],
     "name:kur_x_preferred":[
         "Ecem"
@@ -66,6 +78,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0639\u062c\u0645"
+    ],
+    "name:uzb_x_preferred":[
+        "Ajam"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u8d3e\u59c6"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -114,7 +132,7 @@
         }
     ],
     "wof:id":421177279,
-    "wof:lastmodified":1566680675,
+    "wof:lastmodified":1690932045,
     "wof:name":"Ajami",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

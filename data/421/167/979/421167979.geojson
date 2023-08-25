@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0631 \u062a\u0633\u0641\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0646\u064a\u0631 \u062a\u0633\u0641\u0649"
+    ],
     "name:ces_x_preferred":[
         "Nir Cvi"
     ],
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421167979,
-    "wof:lastmodified":1566680635,
+    "wof:lastmodified":1690931970,
     "wof:name":"Nir Zevi",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

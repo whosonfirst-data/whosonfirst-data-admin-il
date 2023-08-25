@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0641\u0646 \u064a\u0647\u0648\u062f\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u064a\u0641\u0646 \u064a\u0647\u0648\u062f\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Even Yehuda"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:eng_x_variant":[
         "Even Yehudah",
+        "Even Yehuda"
+    ],
+    "name:fin_x_preferred":[
         "Even Yehuda"
     ],
     "name:fra_x_preferred":[
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":421182371,
-    "wof:lastmodified":1566680678,
+    "wof:lastmodified":1690932053,
     "wof:name":"Even Yehuda",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

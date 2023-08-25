@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0644\u0648\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u064a\u0644\u0648\u062a"
+    ],
     "name:ces_x_preferred":[
         "Ejlot"
     ],
@@ -27,6 +30,15 @@
         "Eilot"
     ],
     "name:eng_x_preferred":[
+        "Eilot"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0644\u0648\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "Eilot"
+    ],
+    "name:fra_x_preferred":[
         "Eilot"
     ],
     "name:heb_x_preferred":[
@@ -94,7 +106,7 @@
         }
     ],
     "wof:id":421181209,
-    "wof:lastmodified":1566680655,
+    "wof:lastmodified":1690932009,
     "wof:name":"Elot",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

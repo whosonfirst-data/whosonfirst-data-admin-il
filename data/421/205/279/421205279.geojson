@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0641\u0627\u0643\u064a\u0645"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0641\u0627\u0643\u064a\u0645"
+    ],
+    "name:ast_x_preferred":[
+        "Ofakim"
+    ],
     "name:cat_x_preferred":[
         "Ofaqim"
     ],
@@ -93,6 +99,9 @@
     "name:spa_x_preferred":[
         "Ofakim"
     ],
+    "name:swa_x_preferred":[
+        "Ofakim"
+    ],
     "name:swe_x_preferred":[
         "Ofaqim"
     ],
@@ -164,7 +173,7 @@
         }
     ],
     "wof:id":421205279,
-    "wof:lastmodified":1566680643,
+    "wof:lastmodified":1690931986,
     "wof:name":"Ofaqim",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

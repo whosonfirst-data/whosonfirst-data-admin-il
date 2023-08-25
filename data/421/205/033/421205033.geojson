@@ -20,6 +20,9 @@
     "name:ces_x_preferred":[
         "Kfar Jechezkel"
     ],
+    "name:deu_x_preferred":[
+        "Kfar Yehezkel"
+    ],
     "name:eng_x_preferred":[
         "Kfar Yehezkel"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:pol_x_variant":[
         "Kfar Jehezkel"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0444\u0430\u0440-\u0418\u0435\u0445\u0435\u0437\u043a\u0435\u043b\u044c"
     ],
     "name:und_x_variant":[
         "Tiv\u2018on"
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421205033,
-    "wof:lastmodified":1566680643,
+    "wof:lastmodified":1690931986,
     "wof:name":"Kefar Yehezqel",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

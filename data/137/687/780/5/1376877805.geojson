@@ -30,6 +30,9 @@
         "\u05e0\u05d5\u05d4 \u05d0\u05d1\u05d9\u05d1\u05d9\u05dd",
         "Nev\u00e9 Avivim"
     ],
+    "name:nld_x_preferred":[
+        "Neve Avivim"
+    ],
     "name:pol_x_preferred":[
         "Newe Awiwim"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1376877805,
-    "wof:lastmodified":1566680623,
+    "wof:lastmodified":1690931952,
     "wof:name":"Neve Avivim",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

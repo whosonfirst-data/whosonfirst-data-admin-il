@@ -20,7 +20,13 @@
     "name:ces_x_preferred":[
         "Ginegar"
     ],
+    "name:deu_x_preferred":[
+        "Ginegar"
+    ],
     "name:eng_x_preferred":[
+        "Ginegar"
+    ],
+    "name:fra_x_preferred":[
         "Ginegar"
     ],
     "name:heb_x_preferred":[
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":421183777,
-    "wof:lastmodified":1566680676,
+    "wof:lastmodified":1690932047,
     "wof:name":"Ginnegar",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

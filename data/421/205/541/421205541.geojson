@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u062a\u0633\u0627\u0646\u064a\u0645"
+    ],
+    "name:arz_x_preferred":[
+        "\u0646\u064a\u062a\u0633\u0627\u0646\u064a\u0645"
+    ],
     "name:ces_x_preferred":[
         "Nicanim"
     ],
@@ -32,6 +38,9 @@
     "name:heb_x_variant":[
         "Ni\u1e95\u1e95anim",
         "\u05e0\u05e6\u05e0\u05d9\u05dd"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30c3\u30c4\u30a1\u30cb\u30e0"
     ],
     "name:nld_x_preferred":[
         "Nitzanim"
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":421205541,
-    "wof:lastmodified":1566680643,
+    "wof:lastmodified":1690931987,
     "wof:name":"Nizzanim",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

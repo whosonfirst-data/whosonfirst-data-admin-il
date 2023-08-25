@@ -23,6 +23,9 @@
     "name:ces_x_preferred":[
         "Ejnat"
     ],
+    "name:deu_x_preferred":[
+        "Kibbutz Einat"
+    ],
     "name:eng_x_preferred":[
         "Einat"
     ],
@@ -47,8 +50,14 @@
     "name:pol_x_preferred":[
         "Einat"
     ],
+    "name:rus_x_preferred":[
+        "\u042d\u0439\u043d\u0430\u0442"
+    ],
     "name:spa_x_preferred":[
         "Einat"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u06cc\u0646\u062a"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":421176013,
-    "wof:lastmodified":1566680680,
+    "wof:lastmodified":1690932055,
     "wof:name":"Enat",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

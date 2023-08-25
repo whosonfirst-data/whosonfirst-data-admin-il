@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0646\u0648\u0641\u064a\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0648\u0641\u064a\u062a"
+    ],
     "name:ces_x_preferred":[
         "Nofit"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:pol_x_preferred":[
         "Nofit"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0444\u0438\u0442"
     ],
     "name:und_x_variant":[
         "Pi Ner"
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421168057,
-    "wof:lastmodified":1566680625,
+    "wof:lastmodified":1690931954,
     "wof:name":"Nofit",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

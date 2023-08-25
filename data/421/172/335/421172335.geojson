@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Ein HaNatziv"
     ],
+    "name:fra_x_preferred":[
+        "Ein HaNatziv"
+    ],
     "name:heb_x_preferred":[
         "\u05e2\u05d9\u05df \u05d4\u05e0\u05e6\u05d9\"\u05d1"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421172335,
-    "wof:lastmodified":1566680652,
+    "wof:lastmodified":1690932005,
     "wof:name":"En HaNaziv",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

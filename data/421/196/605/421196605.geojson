@@ -38,6 +38,9 @@
     "name:pol_x_preferred":[
         "Zofit"
     ],
+    "name:urd_x_preferred":[
+        "\u0635\u0648\u0641\u06cc\u062a"
+    ],
     "name:vie_x_preferred":[
         "Tzofit"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421196605,
-    "wof:lastmodified":1566680659,
+    "wof:lastmodified":1690932016,
     "wof:name":"Zofit",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

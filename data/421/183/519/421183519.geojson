@@ -52,6 +52,9 @@
     "name:por_x_preferred":[
         "Shoresh"
     ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u0440\u0435\u0448"
+    ],
     "name:spa_x_preferred":[
         "Shoresh"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421183519,
-    "wof:lastmodified":1566680676,
+    "wof:lastmodified":1690932047,
     "wof:name":"Shoresh",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

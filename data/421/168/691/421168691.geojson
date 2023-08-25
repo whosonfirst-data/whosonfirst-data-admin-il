@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0645\u0644\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u0644\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Ramla"
+    ],
     "name:aze_x_preferred":[
         "Ramla"
     ],
@@ -74,6 +80,9 @@
     "name:fra_x_preferred":[
         "Ramla"
     ],
+    "name:gla_x_preferred":[
+        "Ramla"
+    ],
     "name:glv_x_preferred":[
         "Ramla"
     ],
@@ -85,6 +94,9 @@
     ],
     "name:hun_x_preferred":[
         "Ramla"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u0561\u0574\u056c\u0561"
     ],
     "name:ind_x_preferred":[
         "Ramla"
@@ -109,6 +121,12 @@
     ],
     "name:lit_x_preferred":[
         "Ramla"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0420\u0430\u043c\u043b\u0430"
+    ],
+    "name:mon_x_preferred":[
+        "\u0420\u0430\u043c\u043b\u0430"
     ],
     "name:nah_x_preferred":[
         "Ramla"
@@ -146,16 +164,28 @@
     "name:slv_x_preferred":[
         "Ramla"
     ],
+    "name:som_x_preferred":[
+        "Ramla"
+    ],
     "name:spa_x_preferred":[
         "Ramla"
     ],
     "name:srp_x_preferred":[
         "\u0420\u0430\u043c\u043b\u0430"
     ],
+    "name:swa_x_preferred":[
+        "Ramla"
+    ],
     "name:swe_x_preferred":[
         "Ramle"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb0\u0bbe\u0bae\u0bcd\u0bb2\u0bbe"
+    ],
     "name:tat_x_preferred":[
+        "\u0420\u0430\u043c\u043b\u0430"
+    ],
+    "name:tgk_x_preferred":[
         "\u0420\u0430\u043c\u043b\u0430"
     ],
     "name:tur_x_preferred":[
@@ -178,6 +208,9 @@
     ],
     "name:war_x_preferred":[
         "Ramla"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e0\u10d0\u10db\u10da\u10d0"
     ],
     "name:yid_x_preferred":[
         "\u05e8\u05de\u05dc\u05d4"
@@ -330,7 +363,7 @@
         }
     ],
     "wof:id":421168691,
-    "wof:lastmodified":1636502614,
+    "wof:lastmodified":1690931954,
     "wof:name":"Ramla",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

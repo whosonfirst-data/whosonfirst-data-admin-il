@@ -17,10 +17,19 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0627\u0631 \u0641\u064a\u062a\u0643\u064a\u0646"
+    ],
     "name:ces_x_preferred":[
         "Kfar Vitkin"
     ],
+    "name:deu_x_preferred":[
+        "Kfar Vitkin"
+    ],
     "name:eng_x_preferred":[
+        "Kfar Vitkin"
+    ],
+    "name:fin_x_preferred":[
         "Kfar Vitkin"
     ],
     "name:fra_x_preferred":[
@@ -28,6 +37,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05db\u05e4\u05e8 \u05d5\u05d9\u05ea\u05e7\u05d9\u05df"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30d5\u30a1\u30fc\u30fb\u30f4\u30a3\u30c8\u30ad\u30f3"
     ],
     "name:nno_x_preferred":[
         "Kfar Vitkin"
@@ -91,7 +103,7 @@
         }
     ],
     "wof:id":421171175,
-    "wof:lastmodified":1566680682,
+    "wof:lastmodified":1690932058,
     "wof:name":"Kefar Vitkin",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

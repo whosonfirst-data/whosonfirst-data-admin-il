@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Sdot Yam"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u062f\u0648\u062a \u06cc\u0627\u0645"
+    ],
     "name:fra_x_preferred":[
         "Sdot Yam"
     ],
@@ -42,6 +45,9 @@
         "Sdot Yam"
     ],
     "name:nno_x_preferred":[
+        "Sdot Yam"
+    ],
+    "name:nob_x_preferred":[
         "Sdot Yam"
     ],
     "name:pol_x_preferred":[
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421192851,
-    "wof:lastmodified":1566680629,
+    "wof:lastmodified":1690931960,
     "wof:name":"Sedot Yam",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

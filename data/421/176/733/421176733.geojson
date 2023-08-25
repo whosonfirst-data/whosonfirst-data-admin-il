@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0639\u0648\u062c\u0629 \u0627\u0644\u062d\u0641\u064a\u0631"
     ],
+    "name:cat_x_preferred":[
+        "Auja al-Hafir"
+    ],
     "name:eng_x_preferred":[
         "Auja al-Hafir"
     ],
@@ -38,6 +41,9 @@
     "name:heb_x_variant":[
         "\u05ea\u05dc-\u05e0\u05d9\u05e6\u05e0\u05d4"
     ],
+    "name:ind_x_preferred":[
+        "Auja al-Hafir"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30a6\u30b8\u30e3\u30fb\u30a2\u30eb\u30fb\u30cf\u30d5\u30a3\u30fc"
     ],
@@ -49,6 +55,9 @@
     ],
     "name:und_x_variant":[
         "Al \u2018Awj\u0101\u2019"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u0648\u062c\u06c1 \u0627\u0644\u062d\u0641\u06cc\u0631"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":421176733,
-    "wof:lastmodified":1566680680,
+    "wof:lastmodified":1690932056,
     "wof:name":"Nizzana",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

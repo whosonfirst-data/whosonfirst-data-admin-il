@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0639\u0648\u062a\u0633\u0645"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u0648\u062a\u0633\u0645"
+    ],
     "name:ces_x_preferred":[
         "Ocem"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421199511,
-    "wof:lastmodified":1566680666,
+    "wof:lastmodified":1690932028,
     "wof:name":"Yad Natan",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

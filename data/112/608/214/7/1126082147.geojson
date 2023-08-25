@@ -30,6 +30,9 @@
     "name:heb_x_preferred":[
         "\u05e0\u05d5\u05d5\u05d4 \u05e9\u05d0\u05e0\u05df"
     ],
+    "name:nld_x_preferred":[
+        "Neve Sha'anan"
+    ],
     "qs_pg:aaroncc":"IL",
     "qs_pg:gn_country":"IL",
     "qs_pg:gn_fcode":"PPLX",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1126082147,
-    "wof:lastmodified":1566680687,
+    "wof:lastmodified":1690932067,
     "wof:name":"Newe Sha'anan",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

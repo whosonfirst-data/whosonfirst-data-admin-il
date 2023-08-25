@@ -37,6 +37,9 @@
     "name:jpn_x_preferred":[
         "\u30e9\u30de\u30c8\u30fb\u30c0\u30f4\u30a3\u30c9\u7a7a\u8ecd\u57fa\u5730"
     ],
+    "name:kor_x_preferred":[
+        "\ub77c\ub9db \ub2e4\ube44\ub4dc \uacf5\uad70\uae30\uc9c0"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Ramat David"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":102542691,
-    "wof:lastmodified":1631752515,
+    "wof:lastmodified":1690931939,
     "wof:name":"Ramat David Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

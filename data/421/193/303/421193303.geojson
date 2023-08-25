@@ -41,6 +41,9 @@
     "name:nno_x_preferred":[
         "Ein Shemer"
     ],
+    "name:nob_x_preferred":[
+        "Ein Shemer"
+    ],
     "name:pol_x_preferred":[
         "En Szemer"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421193303,
-    "wof:lastmodified":1566680634,
+    "wof:lastmodified":1690931968,
     "wof:name":"En Shemer",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

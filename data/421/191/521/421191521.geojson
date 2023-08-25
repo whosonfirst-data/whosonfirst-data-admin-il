@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Tzora"
     ],
+    "name:fra_x_preferred":[
+        "Tzora"
+    ],
     "name:heb_x_preferred":[
         "\u05e6\u05e8\u05e2\u05d4"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421191521,
-    "wof:lastmodified":1566680661,
+    "wof:lastmodified":1690932018,
     "wof:name":"Zora",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

@@ -36,6 +36,9 @@
     "name:nno_x_preferred":[
         "Kfar HaNoar HaDati"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0444\u0430\u0440-\u0445\u0430-\u041d\u043e\u0430\u0440-\u0445\u0430-\u0414\u0430\u0442\u0438"
+    ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":294540,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421176129,
-    "wof:lastmodified":1566680680,
+    "wof:lastmodified":1690932055,
     "wof:name":"Kefar HaNoar HaDati",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

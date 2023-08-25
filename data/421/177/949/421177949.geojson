@@ -17,11 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:amh_x_preferred":[
+        "\u1233\u1215\u1292\u1295"
+    ],
     "name:ara_x_preferred":[
         "\u0633\u062e\u0646\u064a\u0646"
     ],
     "name:arz_x_preferred":[
         "\u0633\u062e\u0646\u064a\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Sakhnin"
     ],
     "name:cat_x_preferred":[
         "Sakhnin"
@@ -31,6 +37,9 @@
     ],
     "name:ces_x_preferred":[
         "Sachnin"
+    ],
+    "name:ces_x_variant":[
+        "Sachn\u00edn"
     ],
     "name:deu_x_preferred":[
         "Sachnin"
@@ -95,6 +104,12 @@
     ],
     "name:spa_x_preferred":[
         "Sajnin"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u0445\u043d\u0438\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Sakhnin"
     ],
     "name:swe_x_preferred":[
         "Sakhn\u012bn"
@@ -167,7 +182,7 @@
         }
     ],
     "wof:id":421177949,
-    "wof:lastmodified":1566680675,
+    "wof:lastmodified":1690932044,
     "wof:name":"Sakhnin",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

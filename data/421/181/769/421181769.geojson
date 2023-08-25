@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Zarzir"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0631\u0632\u06cc\u0631"
+    ],
     "name:heb_x_preferred":[
         "\u05d6\u05e8\u05d6\u05d9\u05e8"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421181769,
-    "wof:lastmodified":1566680654,
+    "wof:lastmodified":1690932008,
     "wof:name":"Zarzir",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

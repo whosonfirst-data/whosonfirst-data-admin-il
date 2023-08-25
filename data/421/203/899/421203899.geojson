@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u0986\u09a6\u09c7\u09b0\u09c7\u09a4"
+    ],
     "name:ces_x_preferred":[
         "Aderet"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421203899,
-    "wof:lastmodified":1566680640,
+    "wof:lastmodified":1690931980,
     "wof:name":"Adderet",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

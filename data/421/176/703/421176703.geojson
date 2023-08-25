@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Beit Kama"
     ],
+    "name:fra_x_preferred":[
+        "Beit Kama"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05ea \u05e7\u05de\u05d4"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421176703,
-    "wof:lastmodified":1566680680,
+    "wof:lastmodified":1690932056,
     "wof:name":"Bet Qama",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

@@ -57,7 +57,8 @@
         "\u0440\u0435\u043a\u0430 \u0414\u0430\u043d"
     ],
     "name:rus_x_variant":[
-        "\u0414\u044d\u043d"
+        "\u0414\u044d\u043d",
+        "\u0414\u0430\u043d"
     ],
     "name:swe_x_preferred":[
         "Dan"
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":421182083,
-    "wof:lastmodified":1636502614,
+    "wof:lastmodified":1690932052,
     "wof:name":"Dan",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

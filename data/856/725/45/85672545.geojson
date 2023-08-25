@@ -40,6 +40,9 @@
     "name:arg_x_preferred":[
         "Destrito Norte"
     ],
+    "name:ast_x_preferred":[
+        "distritu Norte"
+    ],
     "name:aze_x_preferred":[
         "\u0130srail \u015fimal dair\u0259si"
     ],
@@ -105,6 +108,9 @@
     ],
     "name:fra_x_variant":[
         "district nord"
+    ],
+    "name:frr_x_preferred":[
+        "Nuurd"
     ],
     "name:glv_x_preferred":[
         "Slyst Hwoaie"
@@ -174,6 +180,9 @@
     "name:msa_x_preferred":[
         "Daerah Utara"
     ],
+    "name:nan_x_preferred":[
+        "Pak-p\u014d\u0358-ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Noord"
     ],
@@ -195,17 +204,26 @@
     "name:por_x_preferred":[
         "Distrito Norte"
     ],
+    "name:que_x_preferred":[
+        "Chinchay distritu"
+    ],
     "name:ron_x_preferred":[
         "Districtul de Nord"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 \u0418\u0437\u0440\u0430\u0438\u043b\u044f"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"
+    ],
     "name:sco_x_preferred":[
         "Northren Destrict"
     ],
     "name:sin_x_preferred":[
         "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:slv_x_preferred":[
+        "Severno okro\u017eje"
     ],
     "name:spa_x_preferred":[
         "Distrito Norte"
@@ -221,6 +239,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c09\u0c24\u0c4d\u0c24\u0c30 \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tgl_x_preferred":[
+        "Hilagang Distrito"
     ],
     "name:tha_x_preferred":[
         "\u0e19\u0e2d\u0e23\u0e4c\u0e17\u0e40\u0e17\u0e34\u0e23\u0e4c\u0e19 \u0e14\u0e34\u0e2a\u0e17\u0e23\u0e34\u0e04"
@@ -241,6 +262,12 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn B\u1eafc"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5317\u90e8\u533a"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10dd\u10dd\u10e0\u10e3\u10d4 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:yid_x_preferred":[
         "\u05e6\u05e4\u05d5\u05df \u05d3\u05d9\u05e1\u05d8\u05e8\u05d9\u05e7\u05d8"
@@ -374,7 +401,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1636502612,
+    "wof:lastmodified":1690931946,
     "wof:name":"Northern",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

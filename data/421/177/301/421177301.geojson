@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Kfar Glikson"
     ],
+    "name:fra_x_preferred":[
+        "Kfar Glikson"
+    ],
     "name:heb_x_preferred":[
         "\u05db\u05e4\u05e8 \u05d2\u05dc\u05d9\u05e7\u05e1\u05d5\u05df"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421177301,
-    "wof:lastmodified":1566680674,
+    "wof:lastmodified":1690932042,
     "wof:name":"Kefar Glickson",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

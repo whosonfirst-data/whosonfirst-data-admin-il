@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Gan Ner"
+    ],
     "name:ces_x_preferred":[
         "Gan Ner"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421184903,
-    "wof:lastmodified":1566680672,
+    "wof:lastmodified":1690932039,
     "wof:name":"Gan Ner",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

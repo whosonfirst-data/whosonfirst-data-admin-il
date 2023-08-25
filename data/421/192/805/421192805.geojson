@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0644\u062e\u064a\u0634"
+    ],
     "name:bel_x_preferred":[
         "\u041b\u0430\u0445\u0456\u0448"
     ],
@@ -34,6 +37,12 @@
     ],
     "name:eng_x_preferred":[
         "Lachish"
+    ],
+    "name:eus_x_preferred":[
+        "Tel Lakix"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0644 \u0644\u0627\u0686\u06cc\u0634"
     ],
     "name:fra_x_preferred":[
         "Lakish"
@@ -55,6 +64,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30ad\u30b7\u30e5"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uae30\uc2a4"
     ],
     "name:nld_x_preferred":[
         "Lachis"
@@ -139,7 +151,7 @@
         }
     ],
     "wof:id":421192805,
-    "wof:lastmodified":1566680630,
+    "wof:lastmodified":1690931962,
     "wof:name":"Lakhish",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

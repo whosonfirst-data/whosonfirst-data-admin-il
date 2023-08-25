@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09af\u09be\u09a8\u09cb\u09af\u09bc\u09be\u09b9"
+    ],
     "name:ces_x_preferred":[
         "Zanoach"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421199515,
-    "wof:lastmodified":1566680666,
+    "wof:lastmodified":1690932029,
     "wof:name":"Zanoah",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

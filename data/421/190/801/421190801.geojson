@@ -50,6 +50,12 @@
     "name:pol_x_variant":[
         "HaZorea"
     ],
+    "name:spa_x_preferred":[
+        "Hazorea"
+    ],
+    "name:zho_x_preferred":[
+        "\u64ad\u79cd\u8005"
+    ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":294806,
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421190801,
-    "wof:lastmodified":1566680663,
+    "wof:lastmodified":1690932022,
     "wof:name":"HaZorea",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

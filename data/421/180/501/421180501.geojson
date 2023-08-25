@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u09a8\u09bf \u0986\u09af\u09bc\u09bf\u09b6"
+    ],
     "name:ceb_x_preferred":[
         "Bene 'Ayish"
     ],
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421180501,
-    "wof:lastmodified":1566680646,
+    "wof:lastmodified":1690931993,
     "wof:name":"Bene Ayish",
     "wof:parent_id":1108720841,
     "wof:placetype":"locality",

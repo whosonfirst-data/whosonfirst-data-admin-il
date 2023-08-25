@@ -117,6 +117,9 @@
     "name:swe_x_preferred":[
         "Naan"
     ],
+    "name:swe_x_variant":[
+        "Na'an"
+    ],
     "name:tgk_x_preferred":[
         "\u041d\u043e\u043d"
     ],
@@ -181,7 +184,7 @@
         }
     ],
     "wof:id":421182681,
-    "wof:lastmodified":1566680678,
+    "wof:lastmodified":1690932051,
     "wof:name":"Naan",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Netiv HaLamed-Heh"
     ],
+    "name:fra_x_preferred":[
+        "Netiv HaLamed-Heh"
+    ],
     "name:heb_x_preferred":[
         "\u05e0\u05ea\u05d9\u05d1 \u05d4\u05dc\"\u05d4"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421173391,
-    "wof:lastmodified":1566680649,
+    "wof:lastmodified":1690931998,
     "wof:name":"Netiv HaLamed He",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

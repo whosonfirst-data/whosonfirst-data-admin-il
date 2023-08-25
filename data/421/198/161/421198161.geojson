@@ -43,6 +43,9 @@
     "name:und_x_variant":[
         "Mo\u1e95a Ta\u1e96tit"
     ],
+    "name:yid_x_preferred":[
+        "\u05de\u05d5\u05e6\u05d0"
+    ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":294148,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421198161,
-    "wof:lastmodified":1566680658,
+    "wof:lastmodified":1690932014,
     "wof:name":"Moza",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

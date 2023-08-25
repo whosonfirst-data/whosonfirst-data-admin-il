@@ -17,13 +17,28 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u0448\u043c\u0430\u0440 \u0425\u0430\u0448\u0430\u0440\u043e\u043d"
+    ],
     "name:ces_x_preferred":[
         "Mi\u0161mar ha-\u0160aron"
+    ],
+    "name:dan_x_preferred":[
+        "Mishmar HaSharon"
     ],
     "name:deu_x_preferred":[
         "Mischmar haScharon"
     ],
     "name:eng_x_preferred":[
+        "Mishmar HaSharon"
+    ],
+    "name:epo_x_preferred":[
+        "Mi\u015dmar ha-\u015caron"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0634\u0645\u0627\u0631 \u0647\u0627\u0634\u0631\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
         "Mishmar HaSharon"
     ],
     "name:heb_x_preferred":[
@@ -106,7 +121,7 @@
         }
     ],
     "wof:id":421199491,
-    "wof:lastmodified":1566680665,
+    "wof:lastmodified":1690932027,
     "wof:name":"Mishmar HaSharon",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

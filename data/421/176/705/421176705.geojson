@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Lavi"
     ],
+    "name:fra_x_preferred":[
+        "Lavi"
+    ],
     "name:heb_x_preferred":[
         "\u05dc\u05d1\u05d9\u05d0"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421176705,
-    "wof:lastmodified":1566680680,
+    "wof:lastmodified":1690932055,
     "wof:name":"Lavi",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

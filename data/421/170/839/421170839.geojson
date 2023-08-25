@@ -35,6 +35,9 @@
     "name:ita_x_preferred":[
         "Sde Nehemia"
     ],
+    "name:nld_x_preferred":[
+        "Sde Nehemia"
+    ],
     "name:nno_x_preferred":[
         "Sde Nehemia"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421170839,
-    "wof:lastmodified":1566680673,
+    "wof:lastmodified":1690932042,
     "wof:name":"Sede Nehemya",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0639\u06cc\u0646 \u06af\u062f\u06cc"
+    ],
     "name:ceb_x_preferred":[
         "\u2018En Gedi"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:eng_x_preferred":[
         "Ein Gedi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u06cc\u0646 \u06af\u062f\u06cc"
     ],
     "name:fra_x_preferred":[
         "Ein Gedi"
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1125841979,
-    "wof:lastmodified":1566680689,
+    "wof:lastmodified":1690932069,
     "wof:name":"\u2018En Gedi",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0644\u064a"
+    ],
     "name:ceb_x_preferred":[
         "Nili"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":890413471,
-    "wof:lastmodified":1566680683,
+    "wof:lastmodified":1690932061,
     "wof:name":"Nili",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

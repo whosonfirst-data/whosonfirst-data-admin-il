@@ -16,11 +16,17 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u063a\u0641\u0639\u0627\u062a \u0647\u0631\u062a\u0633\u0644"
+    ],
     "name:ces_x_preferred":[
         "Giv'at Herzl"
     ],
     "name:eng_x_preferred":[
         "Giv'at Herzl"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d1\u05e2\u05ea \u05d4\u05e8\u05e6\u05dc"
     ],
     "name:und_x_variant":[
         "Giv\u2018at Herzl"
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":421175705,
-    "wof:lastmodified":1566680657,
+    "wof:lastmodified":1690932012,
     "wof:name":"Giv\u2019at Herzl",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

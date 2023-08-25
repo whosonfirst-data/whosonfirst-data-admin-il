@@ -34,6 +34,9 @@
     "name:deu_x_preferred":[
         "Givat Schmuel"
     ],
+    "name:deu_x_variant":[
+        "Giv\u02bfat Schmuel"
+    ],
     "name:eng_x_preferred":[
         "Giv\u2018at Shmuel"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:fas_x_preferred":[
         "\u06af\u06cc\u0648\u0622\u062a \u0627\u0634\u0645\u0648\u0626\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "Giv'at Shmuel"
     ],
     "name:fra_x_preferred":[
         "Giv'at Shmuel"
@@ -92,8 +98,14 @@
     "name:spa_x_preferred":[
         "Guivat Shmuel"
     ],
+    "name:swa_x_preferred":[
+        "Giv'at Shmuel"
+    ],
     "name:swe_x_preferred":[
         "Giv\u2018at Shemu'\u00e9l"
+    ],
+    "name:tur_x_preferred":[
+        "Giv'at \u015emuel"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0456\u0432\u0430\u0442-\u0428\u043c\u0443\u0435\u043b\u044c"
@@ -162,7 +174,7 @@
         }
     ],
     "wof:id":1376877803,
-    "wof:lastmodified":1566680623,
+    "wof:lastmodified":1690931952,
     "wof:name":"Givat Shemu'el",
     "wof:parent_id":421202049,
     "wof:placetype":"neighbourhood",

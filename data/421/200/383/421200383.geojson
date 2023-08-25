@@ -35,6 +35,12 @@
     "name:eng_x_preferred":[
         "Fureidis"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u06cc\u062f\u06cc\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Fureidis"
+    ],
     "name:fra_x_preferred":[
         "Fureidis"
     ],
@@ -64,6 +70,9 @@
     ],
     "name:swe_x_preferred":[
         "El Fureid\u012bs"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0443\u0440\u0435\u0439\u0434\u0456\u0441"
     ],
     "name:und_x_variant":[
         "Al Fureidis"
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":421200383,
-    "wof:lastmodified":1566680667,
+    "wof:lastmodified":1690932031,
     "wof:name":"El Fureidis",
     "wof:parent_id":1108720819,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Kramim"
     ],
+    "name:fra_x_preferred":[
+        "Kramim"
+    ],
     "name:heb_x_preferred":[
         "\u05db\u05e8\u05de\u05d9\u05dd"
     ],
@@ -33,6 +36,9 @@
         "Kramim"
     ],
     "name:nno_x_preferred":[
+        "Kramim"
+    ],
+    "name:nob_x_preferred":[
         "Kramim"
     ],
     "name:pol_x_preferred":[
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421169573,
-    "wof:lastmodified":1566680636,
+    "wof:lastmodified":1690931972,
     "wof:name":"Keramim",
     "wof:parent_id":1108720817,
     "wof:placetype":"locality",

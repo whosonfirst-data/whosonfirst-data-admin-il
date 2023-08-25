@@ -20,6 +20,15 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0642\u0627\u0633\u0645"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0641\u0631 \u0642\u0627\u0633\u0645"
+    ],
+    "name:ast_x_preferred":[
+        "Kafr Qasim"
+    ],
+    "name:aze_x_preferred":[
+        "Kafr-Qasim"
+    ],
     "name:cat_x_preferred":[
         "Kafr Qasim"
     ],
@@ -32,11 +41,17 @@
     "name:deu_x_preferred":[
         "Kafr Qasim"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c6\u03c1 \u039a\u03b1\u03c3\u03af\u03bc"
+    ],
     "name:eng_x_preferred":[
         "Kafr Qasim"
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0641\u0631 \u0642\u0627\u0633\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "Kafr Qasim"
     ],
     "name:fra_x_preferred":[
         "Kafr Qasim"
@@ -77,8 +92,17 @@
     "name:spa_x_preferred":[
         "Kafr Qasim"
     ],
+    "name:swa_x_preferred":[
+        "Kafr Qasim"
+    ],
     "name:swe_x_preferred":[
         "Kafr Q\u0101sim"
+    ],
+    "name:tur_x_preferred":[
+        "Kafr Kas\u0131m"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0444\u0440-\u041a\u0430\u0441\u0435\u043c"
     ],
     "name:und_x_variant":[
         "Kufr Q\u0101sim"
@@ -145,7 +169,7 @@
         }
     ],
     "wof:id":421197329,
-    "wof:lastmodified":1566680664,
+    "wof:lastmodified":1690932025,
     "wof:name":"Kafr Qasim",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

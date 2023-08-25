@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Ma'oz Aviv"
     ],
+    "name:eng_x_variant":[
+        "Me'oz Aviv"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05e2\u05d5\u05d6 \u05d0\u05d1\u05d9\u05d1"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1376877831,
-    "wof:lastmodified":1566680622,
+    "wof:lastmodified":1690931951,
     "wof:name":"Ma'oz Aviv",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

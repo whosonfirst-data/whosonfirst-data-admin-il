@@ -41,6 +41,9 @@
     "name:pol_x_variant":[
         "Tzur Moshe"
     ],
+    "name:rus_x_preferred":[
+        "\u0426\u0443\u0440-\u041c\u043e\u0448\u0435"
+    ],
     "name:swe_x_preferred":[
         "\u1e94ur Moshe"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421203495,
-    "wof:lastmodified":1566680640,
+    "wof:lastmodified":1690931980,
     "wof:name":"Zur Moshe",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

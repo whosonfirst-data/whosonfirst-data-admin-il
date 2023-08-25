@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Givat Hen"
     ],
+    "name:fra_x_preferred":[
+        "Guivat-Hen"
+    ],
     "name:heb_x_preferred":[
         "\u05d2\u05d1\u05e2\u05ea \u05d7\"\u05df"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421204741,
-    "wof:lastmodified":1566680638,
+    "wof:lastmodified":1690931976,
     "wof:name":"Givat Hen",
     "wof:parent_id":1108720821,
     "wof:placetype":"locality",

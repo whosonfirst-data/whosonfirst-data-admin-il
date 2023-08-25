@@ -41,6 +41,9 @@
     "name:pol_x_preferred":[
         "Ilanija"
     ],
+    "name:rus_x_preferred":[
+        "\u0418\u043b\u0430\u043d\u0438\u044f"
+    ],
     "name:swe_x_preferred":[
         "Ilaniyya"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421169645,
-    "wof:lastmodified":1566680635,
+    "wof:lastmodified":1690931971,
     "wof:name":"Ilaniyya",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

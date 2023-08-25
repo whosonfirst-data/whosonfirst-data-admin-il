@@ -29,6 +29,15 @@
     "name:eng_x_preferred":[
         "Deir Hanna"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0631 \u062d\u0646\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Deir Hanna"
+    ],
+    "name:fra_x_preferred":[
+        "Deir Hanna"
+    ],
     "name:heb_x_preferred":[
         "\u05d3\u05d9\u05e8 \u05d7\u05e0\u05d0"
     ],
@@ -52,6 +61,9 @@
     ],
     "name:und_x_variant":[
         "Kefar Yohanah"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06cc\u0631 \u062d\u0646\u0627"
     ],
     "name:zho_x_preferred":[
         "\u4ee3\u723e\u6f22\u7d0d"
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":421177267,
-    "wof:lastmodified":1566680674,
+    "wof:lastmodified":1690932044,
     "wof:name":"Deir Hanna",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

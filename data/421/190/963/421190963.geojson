@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "Gat\u00f3n de Campos"
     ],
+    "name:fra_x_variant":[
+        "Ga'aton"
+    ],
     "name:heb_x_preferred":[
         "Ga\u2018ton"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421190963,
-    "wof:lastmodified":1566680661,
+    "wof:lastmodified":1690932020,
     "wof:name":"Gaton",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

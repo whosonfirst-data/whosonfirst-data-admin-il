@@ -35,6 +35,9 @@
     "name:nno_x_preferred":[
         "Kinneret i Israel"
     ],
+    "name:pol_x_preferred":[
+        "Kinneret"
+    ],
     "name:por_x_preferred":[
         "Kinneret"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:spa_x_preferred":[
         "Kinneret"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u043d\u0435\u0440\u0435\u0442"
     ],
     "name:und_x_variant":[
         "Mall\u0101ha"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421192653,
-    "wof:lastmodified":1566680631,
+    "wof:lastmodified":1690931964,
     "wof:name":"Kinneret",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

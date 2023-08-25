@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0627\u0631 \u0623\u0648\u0631\u0627\u0646\u064a\u0645"
+    ],
     "name:ceb_x_preferred":[
         "Kfar NaOranim"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:pol_x_preferred":[
         "Kefar HaOranim"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0444\u0430\u0440-\u0445\u0430-\u041e\u0440\u0430\u043d\u0438\u043c"
     ],
     "name:swe_x_preferred":[
         "Kfar NaOranim"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":890413469,
-    "wof:lastmodified":1566680684,
+    "wof:lastmodified":1690932062,
     "wof:name":"Kfar NaOranim",
     "wof:parent_id":1091913137,
     "wof:placetype":"locality",

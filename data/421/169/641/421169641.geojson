@@ -32,6 +32,9 @@
     "name:epo_x_preferred":[
         "Hukok"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0648\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Hukok"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421169641,
-    "wof:lastmodified":1566680637,
+    "wof:lastmodified":1690931973,
     "wof:name":"Huqoq",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

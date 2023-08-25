@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0634\u064a\u0645\u0634"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062a \u0634\u064a\u0645\u0634"
+    ],
+    "name:ast_x_preferred":[
+        "Beit Shemesh"
+    ],
     "name:cat_x_preferred":[
         "Betx\u00e8meix"
     ],
@@ -32,13 +38,25 @@
     "name:ces_x_preferred":[
         "Bejt \u0160eme\u0161"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u0439\u0442-\u0428\u0435\u043c\u0435\u0448"
+    ],
     "name:deu_x_preferred":[
         "Bet Schemesch"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ad\u03b9\u03c4 \u03a3\u03b5\u03bc\u03ad\u03c2"
     ],
     "name:eng_x_preferred":[
         "Bet Shemesh"
     ],
     "name:eng_x_variant":[
+        "Beit Shemesh"
+    ],
+    "name:epo_x_preferred":[
+        "Beit Shemesh"
+    ],
+    "name:eus_x_preferred":[
         "Beit Shemesh"
     ],
     "name:fas_x_preferred":[
@@ -50,11 +68,20 @@
     "name:fra_x_preferred":[
         "Bet Shemesh"
     ],
+    "name:gle_x_preferred":[
+        "Beit Shemesh"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05ea \u05e9\u05de\u05e9"
     ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0925 \u0936\u0947\u092e\u0947\u0936"
+    ],
     "name:hun_x_preferred":[
         "B\u00e9t Semes"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0575\u0569 \u0547\u0565\u0574\u0565\u0577"
     ],
     "name:ind_x_preferred":[
         "Bet-Semes"
@@ -123,6 +150,9 @@
     "name:srp_x_preferred":[
         "\u0411\u0435\u0442 \u0428\u0435\u043c\u0435\u0448"
     ],
+    "name:swa_x_preferred":[
+        "Beit Shemesh"
+    ],
     "name:swe_x_preferred":[
         "Bet Shemesh"
     ],
@@ -140,6 +170,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u062a \u0634\u0645\u0633"
+    ],
+    "name:vec_x_preferred":[
+        "Bet Shemesh"
     ],
     "name:vie_x_preferred":[
         "Beit Shemesh"
@@ -203,7 +236,7 @@
         }
     ],
     "wof:id":421202185,
-    "wof:lastmodified":1566680642,
+    "wof:lastmodified":1690931985,
     "wof:name":"Bet Shemesh",
     "wof:parent_id":1108720823,
     "wof:placetype":"locality",

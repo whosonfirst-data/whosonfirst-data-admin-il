@@ -23,6 +23,9 @@
     "name:ara_x_variant":[
         "\u0639\u0645\u064a\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u0645\u064a\u0631"
+    ],
     "name:aze_x_preferred":[
         "\u018fmir"
     ],
@@ -268,7 +271,7 @@
         }
     ],
     "wof:id":421199139,
-    "wof:lastmodified":1566680666,
+    "wof:lastmodified":1690932029,
     "wof:name":"Amir",
     "wof:parent_id":1108720839,
     "wof:placetype":"locality",

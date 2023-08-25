@@ -35,6 +35,9 @@
     "name:fin_x_preferred":[
         "Megiddo"
     ],
+    "name:fra_x_preferred":[
+        "Megiddo"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05d2\u05d9\u05d3\u05d5"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:spa_x_preferred":[
         "Meguido"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u5409\u591a"
     ],
     "qs:gn_country":"IL",
     "qs:gn_fcode":"PPL",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421194829,
-    "wof:lastmodified":1566680632,
+    "wof:lastmodified":1690931966,
     "wof:name":"Megiddo",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",

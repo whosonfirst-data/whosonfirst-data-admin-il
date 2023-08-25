@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0631\u0634\u0628\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u0634\u0628\u0648\u0646"
+    ],
     "name:ceb_x_preferred":[
         "Rishpon"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421180777,
-    "wof:lastmodified":1566680646,
+    "wof:lastmodified":1690931992,
     "wof:name":"Rishpon",
     "wof:parent_id":1108720805,
     "wof:placetype":"locality",

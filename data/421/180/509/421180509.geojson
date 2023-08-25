@@ -41,6 +41,9 @@
     "name:spa_x_preferred":[
         "Sha'alvim"
     ],
+    "name:swe_x_preferred":[
+        "Sha'alvim"
+    ],
     "name:und_x_variant":[
         "Salvit"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421180509,
-    "wof:lastmodified":1566680646,
+    "wof:lastmodified":1690931993,
     "wof:name":"Shaalvim",
     "wof:parent_id":1108720815,
     "wof:placetype":"locality",

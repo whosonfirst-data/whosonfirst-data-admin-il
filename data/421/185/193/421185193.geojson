@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0625\u0644\u0639\u0632\u0631\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0639\u0632\u0631\u0649"
+    ],
     "name:ces_x_preferred":[
         "Bejt El'azari"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421185193,
-    "wof:lastmodified":1566680683,
+    "wof:lastmodified":1690932061,
     "wof:name":"Bet Elazari",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

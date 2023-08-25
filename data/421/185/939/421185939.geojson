@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Carmel City"
+    ],
     "name:cat_x_preferred":[
         "Ir ha-Karmel"
     ],
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421185939,
-    "wof:lastmodified":1566680683,
+    "wof:lastmodified":1690932060,
     "wof:name":"Daliyat el Karmil",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",

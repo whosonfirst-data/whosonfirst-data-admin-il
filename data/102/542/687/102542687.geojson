@@ -2,272 +2,290 @@
   "id": 102542687,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "1973-01-01",
-    "date:inception_upper": "1973-12-31",
-    "edtf:cessation": "..",
-    "edtf:inception": "1973",
-    "geom:area": 0.000012892558999998442,
-    "geom:area_square_m": 135172.773794,
-    "geom:bbox": "34.876667,32.011990,34.895210,32.017101",
-    "geom:latitude": 32.014355696678265,
-    "geom:longitude": 34.8813930904259,
-    "iso:country": "IL",
-    "lbl:latitude": 32.005595,
-    "lbl:longitude": 34.877214,
-    "mps:latitude": 32.005595,
-    "mps:longitude": 34.877214,
-    "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
-    "mz:min_zoom": 13,
-    "name:afr_x_preferred": [
-      "Ben Gurion Internasionale Lughawe"
+    "date:inception_lower":"1973-01-01",
+    "date:inception_upper":"1973-12-31",
+    "edtf:cessation":"..",
+    "edtf:inception":"1973",
+    "geom:area":0.000013,
+    "geom:area_square_m":135172.773794,
+    "geom:bbox":"34.876667,32.01199,34.89521,32.017101",
+    "geom:latitude":32.014356,
+    "geom:longitude":34.881393,
+    "iso:country":"IL",
+    "lbl:latitude":32.005595,
+    "lbl:longitude":34.877214,
+    "mps:latitude":32.005595,
+    "mps:longitude":34.877214,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":13,
+    "name:afr_x_preferred":[
+        "Ben Gurion Internasionale Lughawe"
     ],
-    "name:ara_x_preferred": [
-      "مطار بن غوريون الدولي"
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0628\u0646 \u063a\u0648\u0631\u064a\u0648\u0646 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:ben_x_preferred": [
-      "বেন গুরিয়ন বিমানবন্দর"
+    "name:arz_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0628\u0646 \u062c\u0648\u0631\u064a\u0648\u0646 \u0627\u0644\u062f\u0648\u0644\u0649"
     ],
-    "name:bul_x_preferred": [
-      "Международно летище Бен Гурион"
+    "name:ast_x_preferred":[
+        "Aeropuertu Internacional Ben Guri\u00f3n"
     ],
-    "name:cat_x_preferred": [
-      "Aeroport Internacional de Ben Gurion"
+    "name:aze_x_preferred":[
+        "Ben-Qurion Beyn\u0259lxalq Hava Liman\u0131"
     ],
-    "name:ceb_x_preferred": [
-      "Ben Gurion Airport"
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u09a8 \u0997\u09c1\u09b0\u09bf\u09af\u09bc\u09a8 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
     ],
-    "name:ces_x_preferred": [
-      "Ben Gurionovo mezinárodní letiště"
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e \u043b\u0435\u0442\u0438\u0449\u0435 \u0411\u0435\u043d \u0413\u0443\u0440\u0438\u043e\u043d"
     ],
-    "name:cym_x_preferred": [
-      "Maes Awyr Rhyngwladol Ben Gurion"
+    "name:cat_x_preferred":[
+        "Aeroport Internacional de Ben Gurion"
     ],
-    "name:dan_x_preferred": [
-      "Ben Gurion International Airport"
+    "name:ceb_x_preferred":[
+        "Ben Gurion Airport"
     ],
-    "name:deu_x_preferred": [
-      "Flughafen Ben Gurion"
+    "name:ces_x_preferred":[
+        "Ben Gurionovo mezin\u00e1rodn\u00ed leti\u0161t\u011b"
     ],
-    "name:ell_x_preferred": [
-      "Διεθνές Αεροδρόμιο Μπεν Γκουριόν"
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Ben Gurion"
     ],
-    "name:eng_x_preferred": [
-      "Ben Gurion Airport"
+    "name:dan_x_preferred":[
+        "Ben Gurion International Airport"
     ],
-    "name:eng_x_variant": [
-      "TLV",
-      "LLBG"
+    "name:deu_x_preferred":[
+        "Flughafen Ben Gurion"
     ],
-    "name:epo_x_preferred": [
-      "Internacia Flughaveno Ben Gurion"
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 \u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u039c\u03c0\u03b5\u03bd \u0393\u03ba\u03bf\u03c5\u03c1\u03b9\u03cc\u03bd"
     ],
-    "name:est_x_preferred": [
-      "Ben Gurioni rahvusvaheline lennujaam"
+    "name:eng_x_preferred":[
+        "Ben Gurion Airport"
     ],
-    "name:eus_x_preferred": [
-      "Ben Gurion aireportua"
+    "name:eng_x_variant":[
+        "TLV",
+        "LLBG"
     ],
-    "name:fas_x_preferred": [
-      "فرودگاه بین‌المللی بن گوریون"
+    "name:epo_x_preferred":[
+        "Internacia Flughaveno Ben Gurion"
     ],
-    "name:fin_x_preferred": [
-      "Ben Gurionin kansainvälinen lentoasema"
+    "name:est_x_preferred":[
+        "Ben Gurioni rahvusvaheline lennujaam"
     ],
-    "name:fra_x_preferred": [
-      "Aéroport international de Tel Aviv-David Ben Gourion"
+    "name:eus_x_preferred":[
+        "Ben Gurion aireportua"
     ],
-    "name:fra_x_variant": [
-      "aéroport international David-Ben-Gourion"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0628\u0646 \u06af\u0648\u0631\u06cc\u0648\u0646"
     ],
-    "name:fry_x_preferred": [
-      "Ben Gurion Ynternasjonale Lofthaven"
+    "name:fin_x_preferred":[
+        "Ben Gurionin kansainv\u00e4linen lentoasema"
     ],
-    "name:gle_x_preferred": [
-      "Aerfort Idirnáisiúnta Ben Gurion"
+    "name:fra_x_preferred":[
+        "A\u00e9roport international de Tel Aviv-David Ben Gourion"
     ],
-    "name:hat_x_preferred": [
-      "Ben Guryon Ayewopò Entènasyonal"
+    "name:fra_x_variant":[
+        "a\u00e9roport international David-Ben-Gourion"
     ],
-    "name:heb_x_preferred": [
-      "נמל התעופה בן-גוריון"
+    "name:fry_x_preferred":[
+        "Ben Gurion Ynternasjonale Lofthaven"
     ],
-    "name:hin_x_preferred": [
-      "बेन गुरियन हवाई अड्डा"
+    "name:gle_x_preferred":[
+        "Aerfort Idirn\u00e1isi\u00fanta Ben Gurion"
     ],
-    "name:hun_x_preferred": [
-      "Ben-Gurion nemzetközi repülőtér"
+    "name:hat_x_preferred":[
+        "Ben Guryon Ayewop\u00f2 Ent\u00e8nasyonal"
     ],
-    "name:ind_x_preferred": [
-      "Bandar Udara Internasional Ben Gurion"
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df"
     ],
-    "name:isl_x_preferred": [
-      "Ben Gurion-flugvöllur"
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0928 \u0917\u0941\u0930\u093f\u092f\u0928 \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
     ],
-    "name:ita_x_preferred": [
-      "Aeroporto di Tel Aviv-Ben-Gurion"
+    "name:hun_x_preferred":[
+        "Ben-Gurion nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
     ],
-    "name:jpn_x_preferred": [
-      "ベン・グリオン国際空港"
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Ben Gurion"
     ],
-    "name:kor_x_preferred": [
-      "벤구리온 국제공항"
+    "name:isl_x_preferred":[
+        "Ben Gurion-flugv\u00f6llur"
     ],
-    "name:lad_x_preferred": [
-      "Ayroporto Internasional Ben Gurion"
+    "name:ita_x_preferred":[
+        "Aeroporto di Tel Aviv-Ben-Gurion"
     ],
-    "name:mar_x_preferred": [
-      "बेन गुरियन विमानतळ"
+    "name:jpn_x_preferred":[
+        "\u30d9\u30f3\u30fb\u30b0\u30ea\u30aa\u30f3\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:mkd_x_preferred": [
-      "Бен Гурион"
+    "name:kor_x_preferred":[
+        "\ubca4\uad6c\ub9ac\uc628 \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:mri_x_preferred": [
-      "Papa Rererangi o Ben Gurion"
+    "name:lad_x_preferred":[
+        "Ayroporto Internasional Ben Gurion"
     ],
-    "name:msa_x_preferred": [
-      "Lapangan Terbang Ben Gurion"
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d46\u0d7b \u0d17\u0d41\u0d31\u0d3f\u0d2f\u0d4b\u0d7a \u0d0e\u0d2f\u0d7c\u0d2a\u0d4b\u0d7c\u0d1f\u0d4d\u0d1f\u0d4d"
     ],
-    "name:mya_x_preferred": [
-      "ဘန်ဂူရီယွန် အပြည်ပြည်ဆိုင်ရာလေဆိပ်"
+    "name:mar_x_preferred":[
+        "\u092c\u0947\u0928 \u0917\u0941\u0930\u093f\u092f\u0928 \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
-    "name:nep_x_preferred": [
-      "तेल अवीव अन्तर्राष्ट्रिय हवाई अड्डा"
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u043d \u0413\u0443\u0440\u0438\u043e\u043d"
     ],
-    "name:new_x_preferred": [
-      "बेन गुरियन विमानस्थल"
+    "name:mon_x_preferred":[
+        "\u0411\u0435\u043d-\u0413\u0443\u0440\u0438\u043e\u043d \u043e\u043b\u043e\u043d \u0443\u043b\u0441\u044b\u043d \u043d\u0438\u0441\u044d\u0445 \u0431\u0443\u0443\u0434\u0430\u043b"
     ],
-    "name:nld_x_preferred": [
-      "Luchthaven Ben-Gurion"
+    "name:mri_x_preferred":[
+        "Papa Rererangi o Ben Gurion"
     ],
-    "name:nno_x_preferred": [
-      "Ben Gurion internasjonale lufthamn"
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Ben Gurion"
     ],
-    "name:nob_x_preferred": [
-      "Ben Gurion internasjonale lufthavn"
+    "name:mya_x_preferred":[
+        "\u1018\u1014\u103a\u1002\u1030\u101b\u102e\u101a\u103d\u1014\u103a \u1021\u1015\u103c\u100a\u103a\u1015\u103c\u100a\u103a\u1006\u102d\u102f\u1004\u103a\u101b\u102c\u101c\u1031\u1006\u102d\u1015\u103a"
     ],
-    "name:nor_x_preferred": [
-      "Ben Gurion internasjonale lufthavn"
+    "name:nep_x_preferred":[
+        "\u0924\u0947\u0932 \u0905\u0935\u0940\u0935 \u0905\u0928\u094d\u0924\u0930\u094d\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u093f\u092f \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
     ],
-    "name:pol_x_preferred": [
-      "Port lotniczy Tel Awiw-Ben Gurion"
+    "name:new_x_preferred":[
+        "\u092c\u0947\u0928 \u0917\u0941\u0930\u093f\u092f\u0928 \u0935\u093f\u092e\u093e\u0928\u0938\u094d\u0925\u0932"
     ],
-    "name:por_x_preferred": [
-      "Aeroporto Internacional Ben Gurion"
+    "name:nld_x_preferred":[
+        "Luchthaven Ben-Gurion"
     ],
-    "name:ron_x_preferred": [
-      "Aeroportul internațional Ben Gurion"
+    "name:nno_x_preferred":[
+        "Ben Gurion internasjonale lufthamn"
     ],
-    "name:rus_x_preferred": [
-      "Аэропорт имени Бен-Гуриона"
+    "name:nob_x_preferred":[
+        "Ben Gurion internasjonale lufthavn"
     ],
-    "name:rus_x_variant": [
-      "аэропорт имени Бен-Гуриона"
+    "name:nor_x_preferred":[
+        "Ben Gurion internasjonale lufthavn"
     ],
-    "name:sco_x_preferred": [
-      "Ben Gurion Airport"
+    "name:pol_x_preferred":[
+        "Port lotniczy Tel Awiw-Ben Gurion"
     ],
-    "name:sgs_x_preferred": [
-      "Ben Guriona uora ousts"
+    "name:por_x_preferred":[
+        "Aeroporto Internacional Ben Gurion"
     ],
-    "name:slk_x_preferred": [
-      "Medzinárodné letisko Ben Gurion"
+    "name:ron_x_preferred":[
+        "Aeroportul interna\u021bional Ben Gurion"
     ],
-    "name:spa_x_preferred": [
-      "Aeropuerto Internacional Ben Gurión"
+    "name:rus_x_preferred":[
+        "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0438\u043c\u0435\u043d\u0438 \u0411\u0435\u043d-\u0413\u0443\u0440\u0438\u043e\u043d\u0430"
     ],
-    "name:srp_x_preferred": [
-      "Аеродром Бен-Гурион"
+    "name:rus_x_variant":[
+        "\u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0438\u043c\u0435\u043d\u0438 \u0411\u0435\u043d-\u0413\u0443\u0440\u0438\u043e\u043d\u0430"
     ],
-    "name:swe_x_preferred": [
-      "Ben Gurions internationella flygplats"
+    "name:sco_x_preferred":[
+        "Ben Gurion Airport"
     ],
-    "name:tgl_x_preferred": [
-      "Pandaigdigang Paliparan ng Ben Gurion"
+    "name:sgs_x_preferred":[
+        "Ben Guriona uora ousts"
     ],
-    "name:tha_x_preferred": [
-      "ท่าอากาศยานนานาชาติเบนกูเรียน"
+    "name:slk_x_preferred":[
+        "Medzin\u00e1rodn\u00e9 letisko Ben Gurion"
     ],
-    "name:tur_x_preferred": [
-      "Ben Gurion Uluslararası Havalimanı"
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Ben Guri\u00f3n"
     ],
-    "name:tur_x_variant": [
-      "Ben Gurion Uluslararası Havaalanı"
+    "name:srp_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0411\u0435\u043d-\u0413\u0443\u0440\u0438\u043e\u043d"
     ],
-    "name:ukr_x_preferred": [
-      "Міжнародний аеропорт імені Бен-Гуріона"
+    "name:swe_x_preferred":[
+        "Ben Gurions internationella flygplats"
     ],
-    "name:vie_x_preferred": [
-      "Sân bay quốc tế Ben Gurion"
+    "name:tgl_x_preferred":[
+        "Pandaigdigang Paliparan ng Ben Gurion"
     ],
-    "name:yid_x_preferred": [
-      "בן גוריון פליפעלד"
+    "name:tha_x_preferred":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e19\u0e32\u0e19\u0e32\u0e0a\u0e32\u0e15\u0e34\u0e40\u0e1a\u0e19\u0e01\u0e39\u0e40\u0e23\u0e35\u0e22\u0e19"
     ],
-    "name:yue_x_preferred": [
-      "本古里安機場"
+    "name:tur_x_preferred":[
+        "Ben Gurion Uluslararas\u0131 Havaliman\u0131"
     ],
-    "name:zho_x_preferred": [
-      "本-古里安国际机场"
+    "name:tur_x_variant":[
+        "Ben Gurion Uluslararas\u0131 Havaalan\u0131"
     ],
-    "oa:elevation_ft": "135",
-    "oa:type": "large_airport",
-    "src:geom": "woedb",
-    "src:geom_alt": [],
-    "src:lbl_centroid": "mapshaper",
-    "wd:wordcount": 5514,
-    "woe:hierarchy": {
-      "country_id": 23424852,
-      "planet_id": 1,
-      "state_id": 2345792
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0439 \u0430\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u0456\u043c\u0435\u043d\u0456 \u0411\u0435\u043d-\u0413\u0443\u0440\u0456\u043e\u043d\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Ben Gurion"
+    ],
+    "name:wuu_x_preferred":[
+        "\u672c-\u53e4\u91cc\u5b89\u56fd\u9645\u673a\u573a"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d1\u05df \u05d2\u05d5\u05e8\u05d9\u05d5\u05df \u05e4\u05dc\u05d9\u05e4\u05e2\u05dc\u05d3"
+    ],
+    "name:yue_x_preferred":[
+        "\u672c\u53e4\u91cc\u5b89\u6a5f\u5834"
+    ],
+    "name:zho_x_preferred":[
+        "\u672c-\u53e4\u91cc\u5b89\u56fd\u9645\u673a\u573a"
+    ],
+    "oa:elevation_ft":"135",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl_centroid":"mapshaper",
+    "wd:wordcount":5514,
+    "woe:hierarchy":{
+        "country_id":23424852,
+        "planet_id":1,
+        "state_id":2345792
     },
-    "wof:belongsto": [
-      102191569,
-      85632315,
-      1108720815,
-      85672541
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        1108720815,
+        85672541
     ],
-    "wof:breaches": [],
-    "wof:concordances": {
-      "gp:id": 12513775,
-      "iata:code": "TLV",
-      "icao:code": "LLBG",
-      "oa:id": "4411",
-      "wd:id": "Q181479",
-      "wk:page": "Ben_Gurion_International_Airport"
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513775,
+        "iata:code":"TLV",
+        "icao:code":"LLBG",
+        "oa:id":"4411",
+        "wd:id":"Q181479",
+        "wk:page":"Ben_Gurion_International_Airport"
     },
-    "wof:country": "",
-    "wof:created": 1640294257,
-    "wof:geomhash": "3d72e35fc4580f0c427354f218290830",
-    "wof:hierarchy": [
-      {
-        "campus_id": 102542687,
-        "continent_id": 102191569,
-        "country_id": 85632315,
-        "county_id": 1108720815,
-        "locality_id": -1,
-        "neighbourhood_id": -1,
-        "region_id": 85672541
-      }
+    "wof:country":"IL",
+    "wof:created":1640294257,
+    "wof:geomhash":"3d72e35fc4580f0c427354f218290830",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542687,
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720815,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672541
+        }
     ],
-    "wof:id": 102542687,
-    "wof:lastmodified": 1640294456,
-    "wof:name": "Ben Gurion Airport",
-    "wof:parent_id": -1,
-    "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-il",
-    "wof:superseded_by": [],
-    "wof:supersedes": [
-      1746879097
+    "wof:id":102542687,
+    "wof:lastmodified":1690931939,
+    "wof:name":"Ben Gurion Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1746879097
     ],
-    "wof:tags": [
-      "airport"
+    "wof:tags":[
+        "airport"
     ]
-  },
+},
   "bbox": [
     34.876667,
     32.01199,
     34.89521,
     32.017101
-  ],
+],
   "geometry": {"coordinates":[[[[34.892662,32.01368],[34.892578,32.015354],[34.89521,32.01199],[34.892662,32.01368]]],[[[34.882278,32.013023],[34.876667,32.013332],[34.87833,32.017101],[34.882278,32.013023]]]],"type":"MultiPolygon"}
 }

@@ -26,11 +26,17 @@
     "name:ces_x_preferred":[
         "Kaukab Abu al-Hid\u017ea"
     ],
+    "name:ces_x_variant":[
+        "Kaukab Ab\u00fa al-H\u00edd\u017e\u00e1"
+    ],
     "name:eng_x_preferred":[
         "Kaukab Abu al-Hija"
     ],
     "name:eng_x_variant":[
         "Kawkab Abu-Al-Hij"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u06a9\u0628 \u0627\u0628\u0648 \u0627\u0644\u0647\u06cc\u062c\u0627\u0621"
     ],
     "name:heb_x_preferred":[
         "\u05db\u05d0\u05d5\u05db\u05d1 \u05d0\u05d1\u05d5 \u05d0\u05dc-\u05d4\u05d9\u05d2'\u05d0"
@@ -39,7 +45,8 @@
         "\u05db\u05d5\u05db\u05d1 \u05d0\u05e0\u05d5 \u05d0\u05dc \u05d4\u05d9\u05d2\u2019\u05d0",
         "Kaukab Ab\u016b el H\u012bj\u0101",
         "Kawkab Ab\u016b el H\u012bj\u0101",
-        "\u0643\u0648\u0643\u0628 \u0623\u0628\u0648 \u0627\u0644\u0647\u064a\u062c\u0627\u0621"
+        "\u0643\u0648\u0643\u0628 \u0623\u0628\u0648 \u0627\u0644\u0647\u064a\u062c\u0627\u0621",
+        "\u05db\u05d0\u05d5\u05db\u05d1 \u05d0\u05d1\u05d5 \u05d0\u05dc-\u05d4\u05d9\u05d2\u05f3\u05d0"
     ],
     "name:nld_x_preferred":[
         "Kaukab Abu al-Hija"
@@ -113,7 +120,7 @@
         }
     ],
     "wof:id":421182793,
-    "wof:lastmodified":1566680679,
+    "wof:lastmodified":1690932053,
     "wof:name":"Kaukab Abu el Hija",
     "wof:parent_id":1108720807,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u062f\u0648\u0631\u064a\u0645"
+    ],
     "name:ces_x_preferred":[
         "Kadarim"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421199633,
-    "wof:lastmodified":1566680665,
+    "wof:lastmodified":1690932027,
     "wof:name":"Kadarim",
     "wof:parent_id":1108720825,
     "wof:placetype":"locality",

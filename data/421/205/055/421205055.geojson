@@ -23,6 +23,15 @@
     "name:ara_x_preferred":[
         "\u064a\u0641\u0646\u0647"
     ],
+    "name:arz_x_preferred":[
+        "\u064a\u0641\u0646\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Yavne"
+    ],
+    "name:bel_x_preferred":[
+        "\u042f\u045e\u043d\u044d"
+    ],
     "name:cat_x_preferred":[
         "Jamnia"
     ],
@@ -35,11 +44,17 @@
     "name:deu_x_preferred":[
         "Jawne"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03b1\u03b2\u03bd\u03ad"
+    ],
     "name:eng_x_preferred":[
         "Yavne"
     ],
     "name:fas_x_preferred":[
         "\u06cc\u0628\u0646\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Yavne"
     ],
     "name:fra_x_preferred":[
         "Yavn\u00e9"
@@ -55,6 +70,9 @@
     ],
     "name:heb_x_variant":[
         "Yavn\u00e9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092f\u0935\u0928\u0947"
     ],
     "name:hrv_x_preferred":[
         "Jabna"
@@ -74,8 +92,14 @@
     "name:kor_x_preferred":[
         "\uc57c\ube0c\ub124"
     ],
+    "name:lat_x_preferred":[
+        "Iamnia"
+    ],
     "name:lit_x_preferred":[
         "Javn\u0117"
+    ],
+    "name:mlg_x_preferred":[
+        "Jamnia"
     ],
     "name:nld_x_preferred":[
         "Javne"
@@ -84,6 +108,9 @@
         "Yavne"
     ],
     "name:nno_x_preferred":[
+        "Yavne"
+    ],
+    "name:nob_x_preferred":[
         "Yavne"
     ],
     "name:pol_x_preferred":[
@@ -102,6 +129,9 @@
         "Yavne"
     ],
     "name:spa_x_preferred":[
+        "Yavne"
+    ],
+    "name:swa_x_preferred":[
         "Yavne"
     ],
     "name:swe_x_preferred":[
@@ -184,7 +214,7 @@
         }
     ],
     "wof:id":421205055,
-    "wof:lastmodified":1566680642,
+    "wof:lastmodified":1690931986,
     "wof:name":"Yavne",
     "wof:parent_id":1108720813,
     "wof:placetype":"locality",

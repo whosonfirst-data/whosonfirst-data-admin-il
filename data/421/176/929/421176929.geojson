@@ -20,6 +20,15 @@
     "name:ara_x_preferred":[
         "\u0637\u064a\u0631\u0629 \u0627\u0644\u0643\u0631\u0645\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u0637\u064a\u0631\u0629 \u0627\u0644\u0643\u0631\u0645\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Tirat Carmel"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0438\u0440\u0430\u0442 \u041a\u0430\u0440\u043c\u0435\u043b"
+    ],
     "name:cat_x_preferred":[
         "Tirat Carmel"
     ],
@@ -45,11 +54,20 @@
     "name:fas_x_preferred":[
         "\u0637\u06cc\u0631\u0647 \u06a9\u0631\u0645\u0644"
     ],
+    "name:fin_x_preferred":[
+        "Tirat Carmel"
+    ],
     "name:fra_x_preferred":[
+        "Tirat Carmel"
+    ],
+    "name:gle_x_preferred":[
         "Tirat Carmel"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d9\u05e8\u05ea \u05db\u05e8\u05de\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u093f\u0930\u0924 \u0915\u093e\u0930\u094d\u092e\u0947\u0932"
     ],
     "name:hun_x_preferred":[
         "Tirat Carmel"
@@ -91,11 +109,17 @@
     "name:spa_x_preferred":[
         "Tirat Carmel"
     ],
+    "name:swa_x_preferred":[
+        "Tirat Carmel"
+    ],
     "name:swe_x_preferred":[
         "Tirat Karmel"
     ],
     "name:tgl_x_preferred":[
         "Tirat Karmel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u0440\u0430\u0442-\u041a\u0430\u0440\u043c\u0435\u043b\u044c"
     ],
     "name:und_x_variant":[
         "At Tira"
@@ -165,7 +189,7 @@
         }
     ],
     "wof:id":421176929,
-    "wof:lastmodified":1566680681,
+    "wof:lastmodified":1690932057,
     "wof:name":"Tirat Karmel",
     "wof:parent_id":1108720835,
     "wof:placetype":"locality",
