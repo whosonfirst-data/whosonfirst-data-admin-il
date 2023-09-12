@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.12356,
-    "geom:area_square_m":1294847134.05264,
+    "geom:area_square_m":1294847069.594348,
     "geom:bbox":"34.664784,31.757295,35.051422,32.412854",
     "geom:latitude":32.059,
     "geom:longitude":34.884808,
@@ -13,6 +13,9 @@
     "iso:country":"IL",
     "label:eng_x_preferred_longname":[
         "Central District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "label:eng_x_preferred_shortcode":[
         "HM"
@@ -338,7 +341,7 @@
         "quattroshapes",
         "meso"
     ],
-    "wof:geomhash":"c03355eebe3ccd8be7f7fb5392cff85f",
+    "wof:geomhash":"6f6c448fdb41b0d90e70a220d8bbba5d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -355,7 +358,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1690931947,
+    "wof:lastmodified":1694493260,
     "wof:name":"Central",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.09516,
-    "geom:area_square_m":22097947086.216896,
+    "geom:area_square_m":22097947086.216579,
     "geom:bbox":"34.267257,29.490655,35.895392,33.333882",
     "geom:latitude":31.450573,
     "geom:longitude":35.010249,
@@ -13,6 +13,9 @@
     "iso:country":"IL",
     "itu:country_code":[
         "972"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "IL"
@@ -1300,7 +1303,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"972",
     "statoids:ds":"IL",
     "statoids:fifa":"ISR",
@@ -1364,7 +1368,7 @@
         "meso",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"e2a714764fecd2bceb9f257b0299fe7d",
+    "wof:geomhash":"2f7ba47c8d18234c4365c973d74cca87",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1381,12 +1385,12 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1690931948,
+    "wof:lastmodified":1694492187,
     "wof:name":"Israel",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":8296900,
-    "wof:population_rank":13,
+    "wof:population":9053300,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-il",
     "wof:shortcode":"IL",
     "wof:superseded_by":[],

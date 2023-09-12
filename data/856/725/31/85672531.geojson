@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.362508,
-    "geom:area_square_m":14465214113.158842,
+    "geom:area_square_m":14465214016.041691,
     "geom:bbox":"34.267257,29.490483,35.477389,31.862531",
     "geom:latitude":30.837945,
     "geom:longitude":34.871223,
@@ -13,6 +13,9 @@
     "iso:country":"IL",
     "label:eng_x_preferred_longname":[
         "Southern District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "label:eng_x_preferred_shortcode":[
         "HD"
@@ -365,7 +368,7 @@
         "quattroshapes",
         "meso"
     ],
-    "wof:geomhash":"5ab69c27f144f8366b0beaf04b64599a",
+    "wof:geomhash":"7c5386ded47d6350ab5aaacd4ef8fa82",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -382,7 +385,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1690931947,
+    "wof:lastmodified":1694493263,
     "wof:name":"Southern",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

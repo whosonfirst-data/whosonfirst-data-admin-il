@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062088,
-    "geom:area_square_m":652820203.924868,
+    "geom:area_square_m":652820203.924976,
     "geom:bbox":"34.820337,31.603192,35.265668,31.882742",
     "geom:latitude":31.752476,
     "geom:longitude":35.031659,
@@ -13,6 +13,9 @@
     "iso:country":"IL",
     "label:eng_x_preferred_longname":[
         "Jerusalem District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "label:eng_x_preferred_shortcode":[
         "JM"
@@ -391,7 +394,7 @@
         "quattroshapes",
         "meso"
     ],
-    "wof:geomhash":"6fa1a0330997409167c62a10dacd9bb5",
+    "wof:geomhash":"b789720e330fee2287e58b45c1fbe352",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -408,7 +411,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1690931946,
+    "wof:lastmodified":1694493260,
     "wof:name":"Jerusalem",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

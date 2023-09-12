@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.447131,
-    "geom:area_square_m":4643958430.084109,
+    "geom:area_square_m":4643958909.420036,
     "geom:bbox":"35.027664,32.386967,35.895403,33.334141",
     "geom:latitude":32.864848,
     "geom:longitude":35.47319,
@@ -13,6 +13,9 @@
     "iso:country":"IL",
     "label:eng_x_preferred_longname":[
         "Northern District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "label:eng_x_preferred_shortcode":[
         "HZ"
@@ -384,7 +387,7 @@
         "quattroshapes",
         "meso"
     ],
-    "wof:geomhash":"bd40e9e42b94da904a600191f66428e2",
+    "wof:geomhash":"1fcd896673b51547b745e6b8463cdf89",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -401,7 +404,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1690931946,
+    "wof:lastmodified":1694493260,
     "wof:name":"Northern",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

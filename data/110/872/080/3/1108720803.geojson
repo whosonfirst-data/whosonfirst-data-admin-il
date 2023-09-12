@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016026,
-    "geom:area_square_m":166556011.752131,
+    "geom:area_square_m":166555815.04491,
     "geom:bbox":"35.515742,32.70591,35.649308,32.895682",
     "geom:latitude":32.808572,
     "geom:longitude":35.59003,
     "iso:country":"IL",
+    "label:eng_x_preferred_longname":[
+        "Sea of Galilee Unincorporated Subdistrict"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "unincorporated subdistrict"
+    ],
     "lbl:latitude":32.815746,
     "lbl:longitude":35.588738,
     "lbl:max_zoom":10.0,
@@ -78,6 +84,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1 \u03c4\u03b7\u03c2 \u0393\u03b1\u03bb\u03b9\u03bb\u03b1\u03af\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Sea of Galilee"
     ],
     "name:epo_x_preferred":[
         "Maro Kineret"
@@ -247,7 +256,7 @@
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"277b99fb1ccfd62cee52089ef6bfb50c",
+    "wof:geomhash":"2533bdfd7a41e3dd02e521e243f7e351",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -257,7 +266,7 @@
         }
     ],
     "wof:id":1108720803,
-    "wof:lastmodified":1627522199,
+    "wof:lastmodified":1694498049,
     "wof:name":"Sea of Galilee",
     "wof:parent_id":85672545,
     "wof:placetype":"county",
