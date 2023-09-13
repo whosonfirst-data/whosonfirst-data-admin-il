@@ -1304,7 +1304,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"972",
     "statoids:ds":"IL",
     "statoids:fifa":"ISR",
@@ -1385,7 +1385,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1694492187,
+    "wof:lastmodified":1694639638,
     "wof:name":"Israel",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
