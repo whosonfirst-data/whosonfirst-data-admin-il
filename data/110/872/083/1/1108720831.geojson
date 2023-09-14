@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015279,
-    "geom:area_square_m":161760204.106975,
+    "geom:area_square_m":161760204.106992,
     "geom:bbox":"35.3558343436,30.9642474139,35.4597797463,31.2350551627",
     "geom:latitude":31.110045,
     "geom:longitude":35.40752,
     "iso:country":"IL",
+    "label:eng_x_preferred_longname":[
+        "Dead Sea Unincorporated Subdistrict"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "unincorporated subdistrict"
+    ],
     "lbl:latitude":31.122801,
     "lbl:longitude":35.425628,
     "lbl:max_zoom":10.0,
@@ -120,6 +126,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03b5\u03ba\u03c1\u03ac \u03b8\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Dead Sea"
     ],
     "name:epo_x_preferred":[
         "Morta maro"
@@ -397,7 +406,7 @@
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"84adcf7952e357d5b6d7e8ab9c76bbf2",
+    "wof:geomhash":"3b5b1b36e3f1ed14f71c64ba045af381",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -407,7 +416,7 @@
         }
     ],
     "wof:id":1108720831,
-    "wof:lastmodified":1582356361,
+    "wof:lastmodified":1694497897,
     "wof:name":"Dead Sea",
     "wof:parent_id":85672531,
     "wof:placetype":"county",

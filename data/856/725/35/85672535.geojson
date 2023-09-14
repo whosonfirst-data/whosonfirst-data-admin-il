@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083143,
-    "geom:area_square_m":865959325.458016,
+    "geom:area_square_m":865959369.397716,
     "geom:bbox":"34.869135,32.372265,35.210783,32.887717",
     "geom:latitude":32.615321,
     "geom:longitude":35.019257,
@@ -13,6 +13,9 @@
     "iso:country":"IL",
     "label:eng_x_preferred_longname":[
         "Haifa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "label:eng_x_preferred_shortcode":[
         "HA"
@@ -382,7 +385,7 @@
         "meso",
         "quattroshapes"
     ],
-    "wof:geomhash":"8094a3dce3b65a0d3eec9a5aabf6479d",
+    "wof:geomhash":"0aec943f09289c255876938acd0a8385",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -399,7 +402,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1690931946,
+    "wof:lastmodified":1694493222,
     "wof:name":"Haifa",
     "wof:parent_id":85632315,
     "wof:placetype":"region",
