@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089434,
-    "geom:area_square_m":928080516.049739,
+    "geom:area_square_m":928080466.401526,
     "geom:bbox":"35.066077,32.748645,35.43914,33.107918",
     "geom:latitude":32.940535,
     "geom:longitude":35.241943,
@@ -70,12 +70,13 @@
     "wof:concordances":{
         "hasc:id":"IL.HZ.AK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"IL",
     "wof:created":1476124690,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"6e6e2d48778983421915a8dd813fee71",
+    "wof:geomhash":"657395a1dc231689d87804cf0961ae29",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108720807,
-    "wof:lastmodified":1642551773,
+    "wof:lastmodified":1695886517,
     "wof:name":"Akko",
     "wof:parent_id":85672545,
     "wof:placetype":"county",

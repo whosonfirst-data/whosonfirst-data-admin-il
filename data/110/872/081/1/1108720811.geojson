@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111299,
-    "geom:area_square_m":1154059223.963784,
+    "geom:area_square_m":1154059223.964239,
     "geom:bbox":"35.6134911487,32.6820527632,35.8954026113,33.3338961181",
     "geom:latitude":33.011244,
     "geom:longitude":35.741956,
@@ -94,12 +94,13 @@
     "wof:concordances":{
         "hasc:id":"IL.HZ.GO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"IL",
     "wof:created":1476124692,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"733d0014a683df98053e3c7181f11ba7",
+    "wof:geomhash":"9d071f3c2fa077edbe56523c6707c04a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108720811,
-    "wof:lastmodified":1582356364,
+    "wof:lastmodified":1695886802,
     "wof:name":"Golan",
     "wof:parent_id":-1,
     "wof:placetype":"county",

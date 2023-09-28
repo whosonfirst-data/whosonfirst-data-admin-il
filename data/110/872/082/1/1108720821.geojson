@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027034,
-    "geom:area_square_m":283127742.791131,
+    "geom:area_square_m":283127773.998369,
     "geom:bbox":"34.836844,32.001279,35.023867,32.248868",
     "geom:latitude":32.11724,
     "geom:longitude":34.924525,
@@ -70,12 +70,13 @@
     "wof:concordances":{
         "hasc:id":"IL.HM.PT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"IL",
     "wof:created":1476124699,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"d17077475622d58c051cc1c3450c65ed",
+    "wof:geomhash":"451e6785601aff1cc1c2bc98e84610de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108720821,
-    "wof:lastmodified":1642551831,
+    "wof:lastmodified":1695886538,
     "wof:name":"Petah Tiqwa",
     "wof:parent_id":85672541,
     "wof:placetype":"county",

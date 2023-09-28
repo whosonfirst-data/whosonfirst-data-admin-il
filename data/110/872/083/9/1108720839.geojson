@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064585,
-    "geom:area_square_m":669319175.219997,
+    "geom:area_square_m":669319121.062018,
     "geom:bbox":"35.361892,32.880052,35.685195,33.290674",
     "geom:latitude":33.059198,
     "geom:longitude":35.543543,
@@ -70,12 +70,13 @@
     "wof:concordances":{
         "hasc:id":"IL.HZ.ZF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"IL",
     "wof:created":1476124709,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"ddc0a000343d572f03c1fc91ed29f7a4",
+    "wof:geomhash":"bb1b395cb169e695ccb599fd22242d48",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108720839,
-    "wof:lastmodified":1627522200,
+    "wof:lastmodified":1695886677,
     "wof:name":"Zefat",
     "wof:parent_id":85672545,
     "wof:placetype":"county",

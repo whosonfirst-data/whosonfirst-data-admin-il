@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028287,
-    "geom:area_square_m":294133585.838866,
+    "geom:area_square_m":294133660.074728,
     "geom:bbox":"34.952408,32.634425,35.161365,32.887717",
     "geom:latitude":32.761407,
     "geom:longitude":35.062018,
@@ -284,12 +284,13 @@
         "hasc:id":"IL.HA.HF",
         "wd:id":"Q185845"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"IL",
     "wof:created":1476124706,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"5f6b5d220042b0b4168faee7a02d02f7",
+    "wof:geomhash":"6152f116860ad974516c804dbbb65dcd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -299,7 +300,7 @@
         }
     ],
     "wof:id":1108720835,
-    "wof:lastmodified":1690931950,
+    "wof:lastmodified":1695886801,
     "wof:name":"Haifa",
     "wof:parent_id":85672535,
     "wof:placetype":"county",

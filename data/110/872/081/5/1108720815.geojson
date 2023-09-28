@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032311,
-    "geom:area_square_m":339105355.488294,
+    "geom:area_square_m":339105189.508137,
     "geom:bbox":"34.809626,31.808827,35.040839,32.02731",
     "geom:latitude":31.924385,
     "geom:longitude":34.921717,
@@ -208,12 +208,13 @@
     "wof:concordances":{
         "hasc:id":"IL.HM.RM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"IL",
     "wof:created":1476124696,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"a4e1ee03e276fd7fc4a1ff1a62bbe2bc",
+    "wof:geomhash":"bada4ca1de58a8eb654721eb680b1b51",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -223,7 +224,7 @@
         }
     ],
     "wof:id":1108720815,
-    "wof:lastmodified":1636502613,
+    "wof:lastmodified":1695886068,
     "wof:name":"Ramla",
     "wof:parent_id":85672541,
     "wof:placetype":"county",
