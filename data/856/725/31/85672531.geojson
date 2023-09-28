@@ -357,12 +357,14 @@
         "gn:id":294952,
         "gp:id":2345791,
         "hasc:id":"IL.HD",
+        "iso:code":"IL-D",
         "iso:id":"IL-D",
         "qs_pg:id":913650,
         "unlc:id":"IL-D",
         "wd:id":"Q188781",
         "wk:page":"Southern District (Israel)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IL",
     "wof:geom_alt":[
         "quattroshapes",
@@ -385,7 +387,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1694493263,
+    "wof:lastmodified":1695885132,
     "wof:name":"Southern",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

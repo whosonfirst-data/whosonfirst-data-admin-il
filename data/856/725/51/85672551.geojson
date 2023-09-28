@@ -380,12 +380,14 @@
         "gn:id":293198,
         "gp:id":2345796,
         "hasc:id":"IL.JM",
+        "iso:code":"IL-JM",
         "iso:id":"IL-JM",
         "qs_pg:id":1168670,
         "unlc:id":"IL-JM",
         "wd:id":"Q192232",
         "wk:page":"Jerusalem District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1108720823
     ],
@@ -411,7 +413,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1694493260,
+    "wof:lastmodified":1695884937,
     "wof:name":"Jerusalem",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

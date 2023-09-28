@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016444,
-    "geom:area_square_m":172279551.049129,
+    "geom:area_square_m":172279551.049248,
     "geom:bbox":"34.733099,31.98878,34.87583,32.202197",
     "geom:latitude":32.08247,
     "geom:longitude":34.809661,
@@ -346,12 +346,14 @@
         "gn:id":293396,
         "gp:id":2345795,
         "hasc:id":"IL.TA",
+        "iso:code":"IL-TA",
         "iso:id":"IL-TA",
         "qs_pg:id":240034,
         "unlc:id":"IL-TA",
         "wd:id":"Q192811",
         "wk:page":"Tel Aviv District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1108720837
     ],
@@ -360,7 +362,7 @@
         "quattroshapes",
         "meso"
     ],
-    "wof:geomhash":"a61c05481a345cb4f3ec7747a114361a",
+    "wof:geomhash":"6a0cb745acc7e802eb62d1f5abe2cda3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -377,7 +379,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1690931948,
+    "wof:lastmodified":1695884938,
     "wof:name":"Tel Aviv",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

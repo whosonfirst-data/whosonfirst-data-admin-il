@@ -375,11 +375,13 @@
         "gn:id":294800,
         "gp:id":2345794,
         "hasc:id":"IL.HA",
+        "iso:code":"IL-HA",
         "iso:id":"IL-HA",
         "qs_pg:id":1168669,
         "wd:id":"Q185845",
         "wk:page":"Haifa District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IL",
     "wof:geom_alt":[
         "meso",
@@ -402,7 +404,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1694493222,
+    "wof:lastmodified":1695884653,
     "wof:name":"Haifa",
     "wof:parent_id":85632315,
     "wof:placetype":"region",
