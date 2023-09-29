@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050896,
-    "geom:area_square_m":529229023.099658,
+    "geom:area_square_m":529229023.099458,
     "geom:bbox":"35.3755397212,32.595169126,35.6752182353,32.9604984428",
     "geom:latitude":32.761372,
     "geom:longitude":35.498047,
@@ -88,12 +88,13 @@
     "wof:concordances":{
         "hasc:id":"IL.HZ.KN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"IL",
     "wof:created":1476124702,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"4cdb7bd4adccd6abaacc99b98ca10c8b",
+    "wof:geomhash":"c390a9da38c4b07bd1235e694e4d1e7b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108720825,
-    "wof:lastmodified":1582356362,
+    "wof:lastmodified":1695886801,
     "wof:name":"Kinneret",
     "wof:parent_id":85672545,
     "wof:placetype":"county",

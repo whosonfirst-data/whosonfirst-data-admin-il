@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030871,
-    "geom:area_square_m":324141733.613123,
+    "geom:area_square_m":324141733.613141,
     "geom:bbox":"34.6647840417,31.7572948226,34.8718905658,32.0109774086",
     "geom:latitude":31.881074,
     "geom:longitude":34.767283,
@@ -187,12 +187,13 @@
     "wof:concordances":{
         "hasc:id":"IL.HM.RH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"IL",
     "wof:created":1476124695,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"16515bfa76e6514160b88e1cff615f56",
+    "wof:geomhash":"69ce6a1beaf54b1664847f45729c9bd5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -202,7 +203,7 @@
         }
     ],
     "wof:id":1108720813,
-    "wof:lastmodified":1582356367,
+    "wof:lastmodified":1695886805,
     "wof:name":"Rehovot",
     "wof:parent_id":85672541,
     "wof:placetype":"county",

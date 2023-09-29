@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.12039,
-    "geom:area_square_m":1267770885.923903,
+    "geom:area_square_m":1267771010.153569,
     "geom:bbox":"34.468576,31.407478,34.960956,31.862531",
     "geom:latitude":31.610661,
     "geom:longitude":34.729511,
@@ -70,12 +70,13 @@
     "wof:concordances":{
         "hasc:id":"IL.HD.AS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"IL",
     "wof:created":1476124711,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"dddc29a8994ae8c858f3e901d24f49bc",
+    "wof:geomhash":"d832f82ff72106018b7f3fe1626773fd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108720841,
-    "wof:lastmodified":1627522199,
+    "wof:lastmodified":1695886677,
     "wof:name":"Ashqelon",
     "wof:parent_id":85672531,
     "wof:placetype":"county",

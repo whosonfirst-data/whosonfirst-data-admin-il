@@ -1346,6 +1346,7 @@
         "hasc:id":"IL",
         "icao:code":"4X",
         "ioc:id":"ISR",
+        "iso:code":"IL",
         "itu:id":"ISR",
         "loc:id":"n79003285",
         "m49:code":"376",
@@ -1359,6 +1360,7 @@
         "wd:id":"Q801",
         "wmo:id":"IS"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IL",
     "wof:country_alpha3":"ISR",
     "wof:geom_alt":[
@@ -1385,7 +1387,7 @@
         "ara",
         "eng"
     ],
-    "wof:lastmodified":1694639638,
+    "wof:lastmodified":1695881300,
     "wof:name":"Israel",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

@@ -377,11 +377,13 @@
         "gn:id":294824,
         "gp:id":2345793,
         "hasc:id":"IL.HZ",
+        "iso:code":"IL-Z",
         "iso:id":"IL-Z",
         "qs_pg:id":1168668,
         "wd:id":"Q189942",
         "wk:page":"Northern District (Israel)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IL",
     "wof:geom_alt":[
         "quattroshapes",
@@ -404,7 +406,7 @@
         "heb",
         "ara"
     ],
-    "wof:lastmodified":1694493260,
+    "wof:lastmodified":1695884937,
     "wof:name":"Northern",
     "wof:parent_id":85632315,
     "wof:placetype":"region",

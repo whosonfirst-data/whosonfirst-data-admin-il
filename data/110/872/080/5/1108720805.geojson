@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033343,
-    "geom:area_square_m":348472299.783657,
+    "geom:area_square_m":348472155.316828,
     "geom:bbox":"34.809209,32.190998,35.051422,32.412854",
     "geom:latitude":32.30696,
     "geom:longitude":34.925652,
@@ -88,12 +88,13 @@
     "wof:concordances":{
         "hasc:id":"IL.HM.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"IL",
     "wof:created":1476124689,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"c44c927a585cb01b81197adcb5d9b0e6",
+    "wof:geomhash":"d81e71eed1abf4959ca55eb12b153318",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108720805,
-    "wof:lastmodified":1642551773,
+    "wof:lastmodified":1695886516,
     "wof:name":"Sharon",
     "wof:parent_id":85672541,
     "wof:placetype":"county",

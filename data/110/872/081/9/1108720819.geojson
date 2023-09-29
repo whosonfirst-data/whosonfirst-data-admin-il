@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054856,
-    "geom:area_square_m":571825523.346975,
+    "geom:area_square_m":571825523.347106,
     "geom:bbox":"34.869135441,32.3722647574,35.210783,32.7679787601",
     "geom:latitude":32.539991,
     "geom:longitude":34.997208,
@@ -193,12 +193,13 @@
     "wof:concordances":{
         "hasc:id":"IL.HA.HD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"IL",
     "wof:created":1476124698,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"41cfb230894604f03547d411a986f7a3",
+    "wof:geomhash":"95874dd77036b1c6aa18fe1de4782d12",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -208,7 +209,7 @@
         }
     ],
     "wof:id":1108720819,
-    "wof:lastmodified":1582356363,
+    "wof:lastmodified":1695886802,
     "wof:name":"Hadera",
     "wof:parent_id":85672535,
     "wof:placetype":"county",

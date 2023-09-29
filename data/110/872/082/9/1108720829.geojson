@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114706,
-    "geom:area_square_m":1194797015.710736,
+    "geom:area_square_m":1194797382.065293,
     "geom:bbox":"35.027664,32.386967,35.580338,32.816183",
     "geom:latitude":32.607481,
     "geom:longitude":35.325344,
@@ -82,12 +82,13 @@
     "wof:concordances":{
         "hasc:id":"IL.HZ.JZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"IL",
     "wof:created":1476124703,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"4fda7cb4cd5739dbcfaa516de2f498ab",
+    "wof:geomhash":"0ef47b0cdecbfe427aab6f28339833b4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108720829,
-    "wof:lastmodified":1627522202,
+    "wof:lastmodified":1695886682,
     "wof:name":"Yizre'el",
     "wof:parent_id":85672545,
     "wof:placetype":"county",

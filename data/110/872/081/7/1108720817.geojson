@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.215561,
-    "geom:area_square_m":12916675539.780102,
+    "geom:area_square_m":12916675401.271494,
     "geom:bbox":"34.267257,29.490483,35.426245,31.503609",
     "geom:latitude":30.752615,
     "geom:longitude":34.873288,
@@ -70,12 +70,13 @@
     "wof:concordances":{
         "hasc:id":"IL.HD.BS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"IL",
     "wof:created":1476124697,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"64cba7279490817ec1a785e1d7050261",
+    "wof:geomhash":"9e30a8630b400f2069d9e39d28e25503",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108720817,
-    "wof:lastmodified":1627522199,
+    "wof:lastmodified":1695886677,
     "wof:name":"Be'er Sheva",
     "wof:parent_id":85672531,
     "wof:placetype":"county",
