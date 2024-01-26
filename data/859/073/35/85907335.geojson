@@ -6,11 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000063,
     "geom:area_square_m":658406.492805,
-    "geom:bbox":"34.8115539551,32.0811823412,34.8211669922,32.0895556859",
+    "geom:bbox":"34.811554,32.081182,34.821167,32.089556",
     "geom:latitude":32.085615,
     "geom:longitude":34.816367,
     "gn:id":"",
     "iso:country":"IL",
+    "lbl:bbox":"34.809987,32.0856,34.819987,32.0956",
     "lbl:latitude":32.088946,
     "lbl:longitude":34.812896,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
@@ -51,9 +53,28 @@
     "qs:woe_lau":0,
     "qs:woe_local":1968212,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Shkhunat Gefen",
+    "qs_pg:name_adm0":"Israel",
+    "qs_pg:name_adm1":"Tel Aviv",
+    "qs_pg:photos":187,
+    "qs_pg:photos_1k":38,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":187,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":230481,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424852,
+    "qs_pg:woe_id":22725180,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mz",
+    "woe:adm0_id":23424852,
+    "woe:name_adm0":"Israel",
+    "woe:name_adm1":"Tel Aviv",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85672549,
         102191569,
@@ -66,8 +87,16 @@
         "gp:id":22725180,
         "qs_pg:id":230481
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            22725180
+        ],
+        "qs_pg:id":[
+            230481
+        ]
+    },
     "wof:country":"IL",
-    "wof:geomhash":"222607f254f31ed84e16ef04701b1ff9",
+    "wof:geomhash":"5105b79bb179ce66438f514875963c34",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,20 +111,22 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680562,
+    "wof:lastmodified":1706239786,
     "wof:name":"Shkhunat Gefen",
     "wof:parent_id":421183425,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-il",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126095949
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    34.81155395507517,
-    32.08118234117678,
-    34.82116699220035,
-    32.08955568589349
+    34.811554,
+    32.081182,
+    34.821167,
+    32.089556
 ],
-  "geometry": {"coordinates":[[[34.81979370117517,32.08745735663],[34.81998742373406,32.08722870830003],[34.82116699220006,32.08722870830003],[34.82116699220023,32.08583647829097],[34.82116699220018,32.08257455950007],[34.82116699220035,32.08257450027527],[34.8168533965594,32.08257450027527],[34.81567382812517,32.08118234117678],[34.81213497223683,32.08257455950007],[34.81155395507517,32.08280313697374],[34.81155395507517,32.08490164870044],[34.81155395507517,32.08560779452678],[34.81292724610017,32.08722870212311],[34.81292724467846,32.08955568518321],[34.81567382811852,32.08955568589349],[34.81842041020002,32.0895556839522],[34.81979370117517,32.08955567897529],[34.81979370117517,32.08745735663]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.819794,32.087457],[34.819987,32.087229],[34.821167,32.087229],[34.821167,32.085836],[34.821167,32.082575],[34.821167,32.082575],[34.816853,32.082575],[34.815674,32.081182],[34.812135,32.082575],[34.811554,32.082803],[34.811554,32.084902],[34.811554,32.085608],[34.812927,32.087229],[34.812927,32.089556],[34.815674,32.089556],[34.81842,32.089556],[34.819794,32.089556],[34.819794,32.087457]]],"type":"Polygon"}
 }

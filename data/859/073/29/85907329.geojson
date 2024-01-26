@@ -6,11 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000012,
     "geom:area_square_m":120782.563455,
-    "geom:bbox":"34.8199875995,32.0988630283,34.8239135742,32.1025819438",
+    "geom:bbox":"34.819988,32.098863,34.823914,32.102582",
     "geom:latitude":32.100502,
     "geom:longitude":34.822043,
     "gn:id":"",
     "iso:country":"IL",
+    "lbl:bbox":"34.8189,32.095608,34.8289,32.105608",
     "lbl:latitude":32.095372,
     "lbl:longitude":34.828377,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
@@ -51,9 +53,28 @@
     "qs:woe_lau":0,
     "qs:woe_local":1968212,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Tel Giborim",
+    "qs_pg:name_adm0":"Israel",
+    "qs_pg:name_adm1":"Tel Aviv",
+    "qs_pg:photos":109,
+    "qs_pg:photos_1k":22,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":109,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":230487,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424852,
+    "qs_pg:woe_id":22725170,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mz",
+    "woe:adm0_id":23424852,
+    "woe:name_adm0":"Israel",
+    "woe:name_adm1":"Tel Aviv",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85672549,
         102191569,
@@ -66,8 +87,16 @@
         "gp:id":22725170,
         "qs_pg:id":230487
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            22725170
+        ],
+        "qs_pg:id":[
+            230487
+        ]
+    },
     "wof:country":"IL",
-    "wof:geomhash":"346128cc69850b95f66d0236438713a9",
+    "wof:geomhash":"442833468b7dece916af8ef65cdf9616",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,20 +111,22 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680562,
+    "wof:lastmodified":1706239786,
     "wof:name":"Tel Giborim",
     "wof:parent_id":421190661,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-il",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126069575
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    34.81998759947072,
-    32.09886302829996,
-    34.82391357422517,
-    32.10258194383398
+    34.819988,
+    32.098863,
+    34.823914,
+    32.102582
 ],
-  "geometry": {"coordinates":[[[34.82116699220006,32.09886303174103],[34.82064459992716,32.09886302829996],[34.81998759947072,32.10118967305007],[34.81998764966141,32.1011897323001],[34.82116699220023,32.10258194383398],[34.82391357422517,32.10150116559205],[34.8239135742146,32.1011897323001],[34.82391357421682,32.09886303652219],[34.82116699220006,32.09886303174103]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.821167,32.098863],[34.820645,32.098863],[34.819988,32.10119],[34.819988,32.10119],[34.821167,32.102582],[34.823914,32.101501],[34.823914,32.10119],[34.823914,32.098863],[34.821167,32.098863]]],"type":"Polygon"}
 }
