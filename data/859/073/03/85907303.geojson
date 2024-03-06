@@ -11,6 +11,7 @@
     "geom:longitude":34.77056,
     "gn:id":"",
     "iso:country":"IL",
+    "lbl:bbox":"34.766513,32.054809,34.776513,32.064809",
     "lbl:latitude":32.05587,
     "lbl:longitude":34.769621,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:ces_x_preferred":[
@@ -66,10 +68,29 @@
         "\u5f17\u7f85\u502b\u6c40"
     ],
     "qs:gn_id":0,
+    "qs_pg:name":"Florentine",
+    "qs_pg:name_adm0":"Israel",
+    "qs_pg:name_adm1":"Tel Aviv",
+    "qs_pg:photos":2617,
+    "qs_pg:photos_1k":530,
+    "qs_pg:photos_9k":12,
+    "qs_pg:photos_9r":10,
+    "qs_pg:photos_all":2617,
+    "qs_pg:photos_sr":18,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":366829,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424852,
+    "qs_pg:woe_id":22725142,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mz",
     "wd:wordcount":112,
+    "woe:adm0_id":23424852,
+    "woe:name_adm0":"Israel",
+    "woe:name_adm1":"Tel Aviv",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85672549,
         102191569,
@@ -82,6 +103,17 @@
         "gp:id":22725142,
         "qs_pg:id":366829,
         "wd:id":"Q2891017"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            22725142
+        ],
+        "qs_pg:id":[
+            366829
+        ],
+        "wd:id":[
+            "Q2891017"
+        ]
     },
     "wof:country":"IL",
     "wof:geomhash":"80482ec2b9333e33c5c35f53a18f0f0e",
@@ -99,13 +131,15 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690931943,
+    "wof:lastmodified":1706239785,
     "wof:name":"Florentine",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-il",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126089975
+    ],
     "wof:tags":[]
 },
   "bbox": [

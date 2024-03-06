@@ -6,11 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000079,
     "geom:area_square_m":825461.848171,
-    "geom:bbox":"34.7882080078,32.0872287006,34.7991943359,32.0965362881",
+    "geom:bbox":"34.788208,32.087229,34.799194,32.096536",
     "geom:latitude":32.091527,
     "geom:longitude":34.79379,
     "gn:id":"",
     "iso:country":"IL",
+    "lbl:bbox":"34.788166,32.087028,34.798166,32.097028",
     "lbl:latitude":32.092589,
     "lbl:longitude":34.797725,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:ces_x_preferred":[
@@ -63,10 +65,29 @@
     "qs:woe_lau":0,
     "qs:woe_local":1968212,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Giv'at Amal Bet",
+    "qs_pg:name_adm0":"Israel",
+    "qs_pg:name_adm1":"Tel Aviv",
+    "qs_pg:photos":213,
+    "qs_pg:photos_1k":43,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":213,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":366816,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424852,
+    "qs_pg:woe_id":22725106,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mz",
     "wd:wordcount":121,
+    "woe:adm0_id":23424852,
+    "woe:name_adm0":"Israel",
+    "woe:name_adm1":"Tel Aviv",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85672549,
         102191569,
@@ -80,8 +101,16 @@
         "qs_pg:id":366816,
         "wd:id":"Q3496736"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            22725106
+        ],
+        "qs_pg:id":[
+            366816
+        ]
+    },
     "wof:country":"IL",
-    "wof:geomhash":"af64d2f30b7ce2a3e3cf2cec6d691e6b",
+    "wof:geomhash":"664bc041e7cd61f5fc3eb0ca8268af78",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,20 +125,22 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680566,
+    "wof:lastmodified":1706239784,
     "wof:name":"Giv'at Amal Bet",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-il",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126089973
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    34.78820800780022,
-    32.08722870059748,
-    34.79919433590004,
-    32.09653628811127
+    34.788208,
+    32.087229,
+    34.799194,
+    32.096536
 ],
-  "geometry": {"coordinates":[[[34.79919433412255,32.08722870316502],[34.79370117456659,32.08722870059748],[34.79095458981396,32.08722870088774],[34.79095458981362,32.08955568515231],[34.78820800780022,32.08955568815257],[34.78820800780022,32.09188261260027],[34.78820800780022,32.09420947835227],[34.79095458981919,32.09420948135254],[34.79095458981362,32.09653628605238],[34.79370117188347,32.09653628811127],[34.79644775390017,32.09653628605238],[34.79644775390017,32.0942094808231],[34.79782104492523,32.09258844936922],[34.79782104492523,32.09211133926358],[34.79801482272768,32.09188261408025],[34.79919433590004,32.09188261400644],[34.79919433412255,32.08722870316502]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.799194,32.087229],[34.793701,32.087229],[34.790955,32.087229],[34.790955,32.089556],[34.788208,32.089556],[34.788208,32.091883],[34.788208,32.094209],[34.790955,32.094209],[34.790955,32.096536],[34.793701,32.096536],[34.796448,32.096536],[34.796448,32.094209],[34.797821,32.092588],[34.797821,32.092111],[34.798015,32.091883],[34.799194,32.091883],[34.799194,32.087229]]],"type":"Polygon"}
 }

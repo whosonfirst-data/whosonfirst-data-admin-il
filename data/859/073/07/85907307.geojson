@@ -11,6 +11,7 @@
     "geom:longitude":34.786391,
     "gn:id":"",
     "iso:country":"IL",
+    "lbl:bbox":"34.777,32.060846,34.787,32.070846",
     "lbl:latitude":32.063796,
     "lbl:longitude":34.783398,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:ces_x_preferred":[
@@ -60,12 +62,31 @@
     "qs:woe_lau":0,
     "qs:woe_local":1968212,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Ha-rakevet",
+    "qs_pg:name_adm0":"Israel",
+    "qs_pg:name_adm1":"Tel Aviv",
+    "qs_pg:photos":1152,
+    "qs_pg:photos_1k":233,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1152,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1087573,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424852,
+    "qs_pg:woe_id":22725144,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mz",
     "wd:latitude":32.063092,
     "wd:longitude":34.783486,
     "wd:wordcount":42,
+    "woe:adm0_id":23424852,
+    "woe:name_adm0":"Israel",
+    "woe:name_adm1":"Tel Aviv",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85672549,
         102191569,
@@ -78,6 +99,17 @@
         "gp:id":22725144,
         "qs_pg:id":1087573,
         "wd:id":"Q5636403"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            22725144
+        ],
+        "qs_pg:id":[
+            1087573
+        ],
+        "wd:id":[
+            "Q5636403"
+        ]
     },
     "wof:country":"IL",
     "wof:geomhash":"c2b08b431176be86e7a4639436153976",
@@ -95,13 +127,15 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690931943,
+    "wof:lastmodified":1706239786,
     "wof:name":"Ha-rakevet",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-il",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126092129
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,6 +9,20 @@
     "geom:bbox":"35.39026,32.56039,35.39026,32.56039",
     "geom:latitude":32.56039,
     "geom:longitude":35.39026,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"En Harod",
+    "gn:country_code":"IL",
+    "gn:dem":31,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11049558,
+    "gn:latitude":32.5602,
+    "gn:longitude":35.3934,
+    "gn:modification_date":"2016-01-27",
+    "gn:name":"En Harod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
     "iso:country":"IL",
     "lbl:bbox":"35.37026,32.54039,35.41026,32.58039",
     "lbl:max_zoom":18.0,
@@ -102,6 +116,11 @@
         "wd:id":"Q1339887",
         "wk:page":"Ein Harod"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11049558
+        ]
+    },
     "wof:country":"IL",
     "wof:created":1459008750,
     "wof:geomhash":"db95d83afbfd12b8938f285b43e41a38",
@@ -115,13 +134,15 @@
         }
     ],
     "wof:id":421167991,
-    "wof:lastmodified":1690931969,
+    "wof:lastmodified":1706239786,
     "wof:name":"En Harod",
     "wof:parent_id":1108720829,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-il",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310113367
+    ],
     "wof:tags":[]
 },
   "bbox": [
