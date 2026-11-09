@@ -111,7 +111,7 @@
         "wk:page":"Katzrin"
     },
     "wof:country":"IL",
-    "wof:geomhash":"45bf36efcb3e98bee890380fbffcd040",
+    "wof:geomhash":"da317a159919b6ccb622c54e4d86d199",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -176,5 +176,5 @@
     35.69139000000001,
     32.99194
 ],
-  "geometry": {"coordinates":[35.69139000000001,32.99194],"type":"Point"}
+  "geometry": {"coordinates":[35.69139,32.99194],"type":"Point"}
 }

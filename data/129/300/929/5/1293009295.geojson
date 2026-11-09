@@ -70,7 +70,7 @@
         "wk:page":"Qaqun"
     },
     "wof:country":"IL",
-    "wof:geomhash":"f5aa2fc02eeab5298cbcc6613fd12062",
+    "wof:geomhash":"97ee46a07c8f21a8ec7b72b2926e9aeb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,5 +96,5 @@
     34.99339000000001,
     32.37016
 ],
-  "geometry": {"coordinates":[34.99339000000001,32.37016],"type":"Point"}
+  "geometry": {"coordinates":[34.99339,32.37016],"type":"Point"}
 }

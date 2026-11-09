@@ -65,7 +65,7 @@
         "wk:page":"Kfar_Ahim"
     },
     "wof:country":"IL",
-    "wof:geomhash":"ccd662ed29488857e9f7c464f8d4b50a",
+    "wof:geomhash":"30103ad4169df72504831fa43955e81f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,5 +91,5 @@
     34.75680999999999,
     31.7448
 ],
-  "geometry": {"coordinates":[34.75680999999999,31.7448],"type":"Point"}
+  "geometry": {"coordinates":[34.75681,31.7448],"type":"Point"}
 }

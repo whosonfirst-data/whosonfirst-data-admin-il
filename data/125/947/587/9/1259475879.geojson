@@ -64,7 +64,7 @@
         "wk:page":"Motza_Illit"
     },
     "wof:country":"IL",
-    "wof:geomhash":"3aa14f4f55fe114d20d89a2dfbc35b3e",
+    "wof:geomhash":"9225d3057f768c26ef1339a798fc61d1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,5 +90,5 @@
     35.15776,
     31.79357000000001
 ],
-  "geometry": {"coordinates":[35.15776,31.79357000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.15776,31.79357],"type":"Point"}
 }

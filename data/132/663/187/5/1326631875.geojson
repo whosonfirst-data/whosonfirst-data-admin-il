@@ -54,7 +54,7 @@
         "wk:page":"Amuka,_Israel"
     },
     "wof:country":"IL",
-    "wof:geomhash":"607f9d44bf420722541d392800ad4505",
+    "wof:geomhash":"fc21d6985bf6c4094398317816a72d11",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     35.52549000000001,
     32.997
 ],
-  "geometry": {"coordinates":[35.52549000000001,32.997],"type":"Point"}
+  "geometry": {"coordinates":[35.52549,32.997],"type":"Point"}
 }

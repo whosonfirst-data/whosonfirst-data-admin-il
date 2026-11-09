@@ -54,7 +54,7 @@
         "wk:page":"Gita,_Israel"
     },
     "wof:country":"IL",
-    "wof:geomhash":"cb711dc132ea0d8cf93e5c896f7cb73d",
+    "wof:geomhash":"db80b71eb1cdc311ce5a2943582ce5da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     35.24997000000001,
     32.96700999999999
 ],
-  "geometry": {"coordinates":[35.24997000000001,32.96700999999999],"type":"Point"}
+  "geometry": {"coordinates":[35.24997,32.96701],"type":"Point"}
 }

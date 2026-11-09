@@ -58,7 +58,7 @@
         "wk:page":"Mitzpe_Netofa"
     },
     "wof:country":"IL",
-    "wof:geomhash":"67424b5d2335317d80057b6267397ee1",
+    "wof:geomhash":"5af45d8e0a07c150c4c5848945fd093f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     35.38290999999999,
     32.80287
 ],
-  "geometry": {"coordinates":[35.38290999999999,32.80287],"type":"Point"}
+  "geometry": {"coordinates":[35.38291,32.80287],"type":"Point"}
 }

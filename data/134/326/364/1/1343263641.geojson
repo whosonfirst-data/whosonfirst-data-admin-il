@@ -56,7 +56,7 @@
         "wk:page":"Poria,_Israel"
     },
     "wof:country":"IL",
-    "wof:geomhash":"419b38b5889309377f29871ecdc858e0",
+    "wof:geomhash":"0bb9d828b1118d3f49fd48b1ac911621",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,5 +82,5 @@
     35.53816,
     32.74310999999999
 ],
-  "geometry": {"coordinates":[35.53816,32.74310999999999],"type":"Point"}
+  "geometry": {"coordinates":[35.53816,32.74311],"type":"Point"}
 }

@@ -62,7 +62,7 @@
         "wk:page":"Shdema"
     },
     "wof:country":"IL",
-    "wof:geomhash":"ec93f1ff230c5f6b5973edb0976e0ff1",
+    "wof:geomhash":"d57fc6742737c1b35d6ed5816753303f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,5 +88,5 @@
     34.74366,
     31.83439000000001
 ],
-  "geometry": {"coordinates":[34.74366,31.83439000000001],"type":"Point"}
+  "geometry": {"coordinates":[34.74366,31.83439],"type":"Point"}
 }

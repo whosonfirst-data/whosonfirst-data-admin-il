@@ -67,7 +67,7 @@
         "wk:page":"Shimron"
     },
     "wof:country":"IL",
-    "wof:geomhash":"3ac10c1b468971e4c84d20f28ef1f737",
+    "wof:geomhash":"8dbf6485f4de63a635932d665a295aad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,5 +93,5 @@
     35.20334000000001,
     32.70732
 ],
-  "geometry": {"coordinates":[35.20334000000001,32.70732],"type":"Point"}
+  "geometry": {"coordinates":[35.20334,32.70732],"type":"Point"}
 }

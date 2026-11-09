@@ -58,7 +58,7 @@
         "wk:page":"Usha%2C_Israel"
     },
     "wof:country":"IL",
-    "wof:geomhash":"68fe1c26d2a2f579974eefc615a51109",
+    "wof:geomhash":"6ea0420864d8dce1a409d031ef7df259",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     35.11510999999999,
     32.79509
 ],
-  "geometry": {"coordinates":[35.11510999999999,32.79509],"type":"Point"}
+  "geometry": {"coordinates":[35.11511,32.79509],"type":"Point"}
 }

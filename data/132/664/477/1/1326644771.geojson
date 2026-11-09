@@ -61,7 +61,7 @@
         "wk:page":"Sha%27al"
     },
     "wof:country":"IL",
-    "wof:geomhash":"f84df6c5ebdc9308de7ed5f83b20cfd1",
+    "wof:geomhash":"3977920a813ce53c1a3de91601e6a48d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,5 +126,5 @@
     35.71789000000001,
     33.11681
 ],
-  "geometry": {"coordinates":[35.71789000000001,33.11681],"type":"Point"}
+  "geometry": {"coordinates":[35.71789,33.11681],"type":"Point"}
 }

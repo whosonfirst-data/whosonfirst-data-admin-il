@@ -58,7 +58,7 @@
         "wk:page":"Hussniyya"
     },
     "wof:country":"IL",
-    "wof:geomhash":"5ee0cda50eaf7bd3235c01babba8f36f",
+    "wof:geomhash":"e3101a8e06fa9df0e8e4c556567458dd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     35.31417000000001,
     32.903
 ],
-  "geometry": {"coordinates":[35.31417000000001,32.903],"type":"Point"}
+  "geometry": {"coordinates":[35.31417,32.903],"type":"Point"}
 }

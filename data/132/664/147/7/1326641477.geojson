@@ -57,7 +57,7 @@
         "wk:page":"Sarid"
     },
     "wof:country":"IL",
-    "wof:geomhash":"40a22b518fab1ae29a76756f5d8cfaf1",
+    "wof:geomhash":"cfbeb41f183f7d023cf7e1e2bdf24b59",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     35.22555999999999,
     32.66345
 ],
-  "geometry": {"coordinates":[35.22555999999999,32.66345],"type":"Point"}
+  "geometry": {"coordinates":[35.22556,32.66345],"type":"Point"}
 }

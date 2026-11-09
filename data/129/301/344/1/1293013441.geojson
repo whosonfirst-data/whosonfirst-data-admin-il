@@ -61,7 +61,7 @@
         "wk:page":"Ayanot"
     },
     "wof:country":"IL",
-    "wof:geomhash":"ebbd8a5be57d3a769f162935d146c075",
+    "wof:geomhash":"f46521a374950295904c6713ea64259f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     34.76807,
     31.91594000000001
 ],
-  "geometry": {"coordinates":[34.76807,31.91594000000001],"type":"Point"}
+  "geometry": {"coordinates":[34.76807,31.91594],"type":"Point"}
 }

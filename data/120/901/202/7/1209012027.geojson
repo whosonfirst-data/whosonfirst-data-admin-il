@@ -56,7 +56,7 @@
         "wk:page":"Rehov"
     },
     "wof:country":"IL",
-    "wof:geomhash":"53d511a9f9d8d6bb0ec9615bf39761cd",
+    "wof:geomhash":"02ebf097d90fe92f37d6caed79f78b40",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,5 +82,5 @@
     35.49169000000001,
     32.45047
 ],
-  "geometry": {"coordinates":[35.49169000000001,32.45047],"type":"Point"}
+  "geometry": {"coordinates":[35.49169,32.45047],"type":"Point"}
 }

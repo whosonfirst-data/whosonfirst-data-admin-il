@@ -76,7 +76,7 @@
         "wk:page":"Meiser"
     },
     "wof:country":"IL",
-    "wof:geomhash":"7c7b94132f9d8e3854044f3036b44888",
+    "wof:geomhash":"0f24a17949ed9995b69e788321fd238e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -102,5 +102,5 @@
     35.04134000000001,
     32.44445
 ],
-  "geometry": {"coordinates":[35.04134000000001,32.44445],"type":"Point"}
+  "geometry": {"coordinates":[35.04134,32.44445],"type":"Point"}
 }

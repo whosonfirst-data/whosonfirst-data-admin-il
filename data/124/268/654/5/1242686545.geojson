@@ -60,7 +60,7 @@
         "wk:page":"Avihayil"
     },
     "wof:country":"IL",
-    "wof:geomhash":"d28118a7051a465c831fac0827bebd4a",
+    "wof:geomhash":"1211137d936c184c7c29b88af84a858b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     34.87119000000001,
     32.3504
 ],
-  "geometry": {"coordinates":[34.87119000000001,32.3504],"type":"Point"}
+  "geometry": {"coordinates":[34.87119,32.3504],"type":"Point"}
 }

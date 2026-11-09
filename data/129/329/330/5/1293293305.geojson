@@ -61,7 +61,7 @@
         "wk:page":"Sde_Yitzhak"
     },
     "wof:country":"IL",
-    "wof:geomhash":"f740a9f87819e61cde1fb7438c22804e",
+    "wof:geomhash":"070e4577d8d393f23a138f36b1024f8e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     35.0,
     32.4
 ],
-  "geometry": {"coordinates":[35.0,32.4],"type":"Point"}
+  "geometry": {"coordinates":[35,32.4],"type":"Point"}
 }

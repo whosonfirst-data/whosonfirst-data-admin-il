@@ -63,7 +63,7 @@
         "wk:page":"Ahihud"
     },
     "wof:country":"IL",
-    "wof:geomhash":"dd777b0be764ed6e79b0ffa1c4ff6cf8",
+    "wof:geomhash":"f02a782a6f8d2ea8cf74a48d24d7c8a6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     35.17137,
     32.90835999999999
 ],
-  "geometry": {"coordinates":[35.17137,32.90835999999999],"type":"Point"}
+  "geometry": {"coordinates":[35.17137,32.90836],"type":"Point"}
 }

@@ -114,7 +114,7 @@
         "wk:page":"Degania_Alef"
     },
     "wof:country":"IL",
-    "wof:geomhash":"6e1f432240e5c84fe86646a12fe181d2",
+    "wof:geomhash":"f9e2d19e220d3a43c558f90c0f5c8e7f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -140,5 +140,5 @@
     35.57487000000001,
     32.70798
 ],
-  "geometry": {"coordinates":[35.57487000000001,32.70798],"type":"Point"}
+  "geometry": {"coordinates":[35.57487,32.70798],"type":"Point"}
 }

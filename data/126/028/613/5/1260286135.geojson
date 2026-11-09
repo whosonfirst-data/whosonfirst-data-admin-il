@@ -48,7 +48,7 @@
         "gn:id":295725
     },
     "wof:country":"IL",
-    "wof:geomhash":"00a77f6824ceaad80d6e37ba679f85cf",
+    "wof:geomhash":"69447b89b219d481bf82b09748908458",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     35.47004000000001,
     32.79557
 ],
-  "geometry": {"coordinates":[35.47004000000001,32.79557],"type":"Point"}
+  "geometry": {"coordinates":[35.47004,32.79557],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Neve_Ilan"
     },
     "wof:country":"IL",
-    "wof:geomhash":"ab7da888912511fc526cae69b9038a17",
+    "wof:geomhash":"d6130935de125107e52ee4a59b667f33",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     35.08029000000001,
     31.80858
 ],
-  "geometry": {"coordinates":[35.08029000000001,31.80858],"type":"Point"}
+  "geometry": {"coordinates":[35.08029,31.80858],"type":"Point"}
 }

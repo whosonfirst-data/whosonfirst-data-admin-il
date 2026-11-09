@@ -71,7 +71,7 @@
         "wk:page":"Kvutzat_Shiller"
     },
     "wof:country":"IL",
-    "wof:geomhash":"fe7c0483304a8b3b67a93de659778158",
+    "wof:geomhash":"3b8d1dd4d4b6fda4d016e0cef1685393",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,5 +97,5 @@
     34.79960999999999,
     31.87864
 ],
-  "geometry": {"coordinates":[34.79960999999999,31.87864],"type":"Point"}
+  "geometry": {"coordinates":[34.79961,31.87864],"type":"Point"}
 }

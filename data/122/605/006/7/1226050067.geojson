@@ -51,7 +51,7 @@
         "wk:page":"Moran%2C_Israel"
     },
     "wof:country":"IL",
-    "wof:geomhash":"42eb7103d3f91343d7ab17d8a4ae9b26",
+    "wof:geomhash":"5e36492ed186e045c52490d4105b5b5b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     35.39663,
     32.91934000000001
 ],
-  "geometry": {"coordinates":[35.39663,32.91934000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.39663,32.91934],"type":"Point"}
 }

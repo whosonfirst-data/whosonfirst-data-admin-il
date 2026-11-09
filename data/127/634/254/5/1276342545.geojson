@@ -62,7 +62,7 @@
         "wk:page":"Ein_Ya%27akov"
     },
     "wof:country":"IL",
-    "wof:geomhash":"16b035924404be9adb8e764bd2375cec",
+    "wof:geomhash":"fe4d3527f6bc3f0b03ca79f471a794bc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,5 +88,5 @@
     35.22982000000001,
     33.00977
 ],
-  "geometry": {"coordinates":[35.22982000000001,33.00977],"type":"Point"}
+  "geometry": {"coordinates":[35.22982,33.00977],"type":"Point"}
 }

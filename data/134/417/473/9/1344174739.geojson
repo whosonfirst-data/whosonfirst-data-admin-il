@@ -67,7 +67,7 @@
         "wk:page":"Tzukim"
     },
     "wof:country":"IL",
-    "wof:geomhash":"fb7225bc7bf84d69413594ce1fdae057",
+    "wof:geomhash":"8eb6d66a1cf2508e315d241c90c8d053",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,5 +93,5 @@
     35.16605999999999,
     30.49172
 ],
-  "geometry": {"coordinates":[35.16605999999999,30.49172],"type":"Point"}
+  "geometry": {"coordinates":[35.16606,30.49172],"type":"Point"}
 }

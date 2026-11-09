@@ -57,7 +57,7 @@
         "wk:page":"Aluma"
     },
     "wof:country":"IL",
-    "wof:geomhash":"3a67df44cb6b7f9088eba91198bff863",
+    "wof:geomhash":"a8665af799aaa442a4d38585aef9e388",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     34.74338,
     31.65177000000001
 ],
-  "geometry": {"coordinates":[34.74338,31.65177000000001],"type":"Point"}
+  "geometry": {"coordinates":[34.74338,31.65177],"type":"Point"}
 }

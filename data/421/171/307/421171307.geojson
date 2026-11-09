@@ -49,7 +49,7 @@
     },
     "wof:country":"IL",
     "wof:created":1459008889,
-    "wof:geomhash":"6854999d1e91535b73a73619fc1a1503",
+    "wof:geomhash":"5c86652878b2cfd65fa738f19ed09a22",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     34.4235985,
     30.929433
 ],
-  "geometry": {"coordinates":[34.4235985,30.929433],"type":"Point"}
+  "geometry": {"coordinates":[34.423599,30.929433],"type":"Point"}
 }

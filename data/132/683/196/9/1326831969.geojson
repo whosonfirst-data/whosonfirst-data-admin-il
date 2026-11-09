@@ -60,7 +60,7 @@
         "wk:page":"Shefer"
     },
     "wof:country":"IL",
-    "wof:geomhash":"13db3a842c30ae4e44c8dd6c32953f62",
+    "wof:geomhash":"a8b2a0e09b6787e994afd77907932fa5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     35.4361,
     32.94374000000001
 ],
-  "geometry": {"coordinates":[35.4361,32.94374000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.4361,32.94374],"type":"Point"}
 }

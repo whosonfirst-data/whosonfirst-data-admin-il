@@ -54,7 +54,7 @@
         "wk:page":"Qaddita"
     },
     "wof:country":"IL",
-    "wof:geomhash":"562f3397690d7b0071ab927878ba5c31",
+    "wof:geomhash":"ab6027264236a999f1ed6f372435c12c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     35.46773,
     33.00510999999999
 ],
-  "geometry": {"coordinates":[35.46773,33.00510999999999],"type":"Point"}
+  "geometry": {"coordinates":[35.46773,33.00511],"type":"Point"}
 }
