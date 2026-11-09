@@ -57,7 +57,7 @@
         "wk:page":"Hazon%2C_Israel"
     },
     "wof:country":"IL",
-    "wof:geomhash":"b10beba52f18d8bbc4586cd8d5a1fb07",
+    "wof:geomhash":"8efeb9e2f55740b2cc3440987a6476b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     35.39530999999999,
     32.90659
 ],
-  "geometry": {"coordinates":[35.39530999999999,32.90659],"type":"Point"}
+  "geometry": {"coordinates":[35.39531,32.90659],"type":"Point"}
 }

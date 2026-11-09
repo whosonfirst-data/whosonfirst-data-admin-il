@@ -69,7 +69,7 @@
         "wk:page":"Yodfat"
     },
     "wof:country":"IL",
-    "wof:geomhash":"1f5af9324599f11ae1158cf998977861",
+    "wof:geomhash":"8d5cfbbd0ac5adae1ab273d0435bffd2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,5 +95,5 @@
     35.27157000000001,
     32.83808
 ],
-  "geometry": {"coordinates":[35.27157000000001,32.83808],"type":"Point"}
+  "geometry": {"coordinates":[35.27157,32.83808],"type":"Point"}
 }

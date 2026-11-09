@@ -63,7 +63,7 @@
         "wk:page":"Gan_HaDarom"
     },
     "wof:country":"IL",
-    "wof:geomhash":"d6620fd608fd4341e924e77760a8e66f",
+    "wof:geomhash":"456e6e4215b326500f52ced94c6b24fe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     34.69994000000001,
     31.80413
 ],
-  "geometry": {"coordinates":[34.69994000000001,31.80413],"type":"Point"}
+  "geometry": {"coordinates":[34.69994,31.80413],"type":"Point"}
 }

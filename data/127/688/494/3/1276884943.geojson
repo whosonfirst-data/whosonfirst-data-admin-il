@@ -65,7 +65,7 @@
         "wk:page":"Ein_al-Asad"
     },
     "wof:country":"IL",
-    "wof:geomhash":"2b6318eb75fd896c571ba537acbba5fb",
+    "wof:geomhash":"1f15f297c59c8174625ba3a67e4c6953",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,5 +91,5 @@
     35.39639000000001,
     32.94137
 ],
-  "geometry": {"coordinates":[35.39639000000001,32.94137],"type":"Point"}
+  "geometry": {"coordinates":[35.39639,32.94137],"type":"Point"}
 }

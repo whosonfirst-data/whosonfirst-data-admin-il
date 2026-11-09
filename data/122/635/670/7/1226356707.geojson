@@ -60,7 +60,7 @@
         "wk:page":"Retamim"
     },
     "wof:country":"IL",
-    "wof:geomhash":"3ff028442c19fc1c1890a325bbae6c3d",
+    "wof:geomhash":"c86eef8d4c21734087b06a08cb3e44f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     34.68969,
     31.05464000000001
 ],
-  "geometry": {"coordinates":[34.68969,31.05464000000001],"type":"Point"}
+  "geometry": {"coordinates":[34.68969,31.05464],"type":"Point"}
 }

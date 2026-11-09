@@ -57,7 +57,7 @@
         "wk:page":"Givolim"
     },
     "wof:country":"IL",
-    "wof:geomhash":"2b587002f68c3dd402f4d1f30caf377e",
+    "wof:geomhash":"9031cc86a1562e070ea7230135b445e7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     34.59135999999999,
     31.39658
 ],
-  "geometry": {"coordinates":[34.59135999999999,31.39658],"type":"Point"}
+  "geometry": {"coordinates":[34.59136,31.39658],"type":"Point"}
 }

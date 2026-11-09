@@ -58,7 +58,7 @@
         "wk:page":"Shuva"
     },
     "wof:country":"IL",
-    "wof:geomhash":"11c98c349d2453abc92efdc3e6de5a3b",
+    "wof:geomhash":"abdafdf231aae8070992021f2290543c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     34.54404,
     31.45094000000001
 ],
-  "geometry": {"coordinates":[34.54404,31.45094000000001],"type":"Point"}
+  "geometry": {"coordinates":[34.54404,31.45094],"type":"Point"}
 }

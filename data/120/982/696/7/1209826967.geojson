@@ -67,7 +67,7 @@
         "wk:page":"Suhmata"
     },
     "wof:country":"IL",
-    "wof:geomhash":"e7bc43b9f34d34f1bc12f1b36f47ce0a",
+    "wof:geomhash":"3309a328c5e01d6db194beccef397924",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,5 +93,5 @@
     35.31361,
     33.00680999999999
 ],
-  "geometry": {"coordinates":[35.31361,33.00680999999999],"type":"Point"}
+  "geometry": {"coordinates":[35.31361,33.00681],"type":"Point"}
 }

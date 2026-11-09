@@ -57,7 +57,7 @@
         "wk:page":"Yahel"
     },
     "wof:country":"IL",
-    "wof:geomhash":"02a748bf6336bb0a8b8a021d90052e1f",
+    "wof:geomhash":"1305e8bc55bf7b84c73281f4c3add473",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     35.12817,
     30.08364000000001
 ],
-  "geometry": {"coordinates":[35.12817,30.08364000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.12817,30.08364],"type":"Point"}
 }

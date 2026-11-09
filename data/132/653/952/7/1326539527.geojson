@@ -54,7 +54,7 @@
         "wk:page":"Nehora"
     },
     "wof:country":"IL",
-    "wof:geomhash":"451ad369bf1272fd80c40ae05e55a489",
+    "wof:geomhash":"8701f07ba392b35b22fd8b2cbfc2b77b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     34.70424000000001,
     31.62276
 ],
-  "geometry": {"coordinates":[34.70424000000001,31.62276],"type":"Point"}
+  "geometry": {"coordinates":[34.70424,31.62276],"type":"Point"}
 }

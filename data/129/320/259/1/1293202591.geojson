@@ -57,7 +57,7 @@
         "wk:page":"Beit_Rimon"
     },
     "wof:country":"IL",
-    "wof:geomhash":"d38aa8ae6abccb413563eaaf267ab748",
+    "wof:geomhash":"9a0f30a8fee2e69849d8887f61c19187",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     35.32765999999999,
     32.77995
 ],
-  "geometry": {"coordinates":[35.32765999999999,32.77995],"type":"Point"}
+  "geometry": {"coordinates":[35.32766,32.77995],"type":"Point"}
 }

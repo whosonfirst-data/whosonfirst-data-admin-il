@@ -66,7 +66,7 @@
         "wk:page":"Kerem_Ben_Zimra"
     },
     "wof:country":"IL",
-    "wof:geomhash":"c830a300ac6d88fd5818cf8f8ea45238",
+    "wof:geomhash":"2380fe187d781ff497d172397385e09e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,5 +92,5 @@
     35.46872000000001,
     33.03833
 ],
-  "geometry": {"coordinates":[35.46872000000001,33.03833],"type":"Point"}
+  "geometry": {"coordinates":[35.46872,33.03833],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Giv%27at_Avni"
     },
     "wof:country":"IL",
-    "wof:geomhash":"686265340d30cda19df52e3f5dbb26fb",
+    "wof:geomhash":"d11f899a90eca79a8fa679fe542e7c0b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     35.43747000000001,
     32.77682
 ],
-  "geometry": {"coordinates":[35.43747000000001,32.77682],"type":"Point"}
+  "geometry": {"coordinates":[35.43747,32.77682],"type":"Point"}
 }

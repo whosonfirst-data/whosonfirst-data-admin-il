@@ -70,7 +70,7 @@
         "wk:page":"Negba"
     },
     "wof:country":"IL",
-    "wof:geomhash":"d7ccc3926e72ba395bb5137613fa17ed",
+    "wof:geomhash":"e3ef12eccd3dcfa6a41578628137600c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,5 +96,5 @@
     34.68324,
     31.66237000000001
 ],
-  "geometry": {"coordinates":[34.68324,31.66237000000001],"type":"Point"}
+  "geometry": {"coordinates":[34.68324,31.66237],"type":"Point"}
 }

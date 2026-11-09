@@ -57,7 +57,7 @@
         "wk:page":"Tefahot"
     },
     "wof:country":"IL",
-    "wof:geomhash":"8211503bce54c03835e5be9b7b78f919",
+    "wof:geomhash":"5e186a338b76340b6d4bf225986beb92",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     35.42402,
     32.86790999999999
 ],
-  "geometry": {"coordinates":[35.42402,32.86790999999999],"type":"Point"}
+  "geometry": {"coordinates":[35.42402,32.86791],"type":"Point"}
 }

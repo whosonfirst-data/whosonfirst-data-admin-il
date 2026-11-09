@@ -61,7 +61,7 @@
         "wk:page":"Neot_HaKikar"
     },
     "wof:country":"IL",
-    "wof:geomhash":"677a909443c1cce1b6c103fbbe728433",
+    "wof:geomhash":"37878a66c3d1bebb8f658745d295c9e7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     35.37840999999999,
     30.93405
 ],
-  "geometry": {"coordinates":[35.37840999999999,30.93405],"type":"Point"}
+  "geometry": {"coordinates":[35.37841,30.93405],"type":"Point"}
 }

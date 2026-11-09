@@ -69,7 +69,7 @@
         "wk:page":"Harduf"
     },
     "wof:country":"IL",
-    "wof:geomhash":"eb83b5df69f3abeb22c1f45a970661aa",
+    "wof:geomhash":"d1d8bdd86abc0b2987f08e5b6e35ee17",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,5 +95,5 @@
     35.17469000000001,
     32.76342
 ],
-  "geometry": {"coordinates":[35.17469000000001,32.76342],"type":"Point"}
+  "geometry": {"coordinates":[35.17469,32.76342],"type":"Point"}
 }

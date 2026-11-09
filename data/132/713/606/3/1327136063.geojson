@@ -75,7 +75,7 @@
         "wk:page":"Ilut"
     },
     "wof:country":"IL",
-    "wof:geomhash":"05b3385fa7334e6a81e8597590178cdb",
+    "wof:geomhash":"96f468fbb2cf57a1fe3e43f95da3175e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,5 +101,5 @@
     35.25944000000001,
     32.71639
 ],
-  "geometry": {"coordinates":[35.25944000000001,32.71639],"type":"Point"}
+  "geometry": {"coordinates":[35.25944,32.71639],"type":"Point"}
 }

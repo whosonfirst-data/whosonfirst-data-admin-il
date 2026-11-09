@@ -60,7 +60,7 @@
         "wk:page":"Magen_Shaul"
     },
     "wof:country":"IL",
-    "wof:geomhash":"f40dd84986d3e4b4cdd597c3c3c4ad31",
+    "wof:geomhash":"f37f109d4eff20db13599aaaabffb40c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     35.30775999999999,
     32.52174
 ],
-  "geometry": {"coordinates":[35.30775999999999,32.52174],"type":"Point"}
+  "geometry": {"coordinates":[35.30776,32.52174],"type":"Point"}
 }

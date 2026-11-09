@@ -67,7 +67,7 @@
         "wk:page":"Hibat_Tzion"
     },
     "wof:country":"IL",
-    "wof:geomhash":"893206f2335c8d9338ba9d3ee56bc5f5",
+    "wof:geomhash":"3740dbe670a4ee7ecadaf3e47c0e677c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,5 +93,5 @@
     34.91249000000001,
     32.39731
 ],
-  "geometry": {"coordinates":[34.91249000000001,32.39731],"type":"Point"}
+  "geometry": {"coordinates":[34.91249,32.39731],"type":"Point"}
 }

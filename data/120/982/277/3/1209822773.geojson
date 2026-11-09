@@ -78,7 +78,7 @@
         "wk:page":"Degania_Bet"
     },
     "wof:country":"IL",
-    "wof:geomhash":"a6b58f7813c11a797e1802bb31bbe00c",
+    "wof:geomhash":"bf47e9c200afa847146c445fb5b52b15",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,5 +104,5 @@
     35.57595999999999,
     32.69987
 ],
-  "geometry": {"coordinates":[35.57595999999999,32.69987],"type":"Point"}
+  "geometry": {"coordinates":[35.57596,32.69987],"type":"Point"}
 }

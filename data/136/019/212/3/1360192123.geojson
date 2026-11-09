@@ -57,7 +57,7 @@
         "wk:page":"Adi%2C_Israel"
     },
     "wof:country":"IL",
-    "wof:geomhash":"85bd4719af17e50bcd146dae4ad7651f",
+    "wof:geomhash":"81c6831b330c2559158349156db3b98d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     35.17282,
     32.78485999999999
 ],
-  "geometry": {"coordinates":[35.17282,32.78485999999999],"type":"Point"}
+  "geometry": {"coordinates":[35.17282,32.78486],"type":"Point"}
 }

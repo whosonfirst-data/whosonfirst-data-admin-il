@@ -54,7 +54,7 @@
         "wk:page":"Moreshet"
     },
     "wof:country":"IL",
-    "wof:geomhash":"3a1675ae793e8b86690ab59a0d469d3a",
+    "wof:geomhash":"b9d04bff212e362bff5eb61a43b8ab45",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     35.23466,
     32.82859000000001
 ],
-  "geometry": {"coordinates":[35.23466,32.82859000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.23466,32.82859],"type":"Point"}
 }

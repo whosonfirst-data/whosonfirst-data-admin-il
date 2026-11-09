@@ -58,7 +58,7 @@
         "wk:page":"Ye%27af"
     },
     "wof:country":"IL",
-    "wof:geomhash":"20c1923a8eab5ec0a3608698f48a2f59",
+    "wof:geomhash":"b3e2ad38f16a55328fafd1b2ba530091",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     34.9654,
     32.26759000000001
 ],
-  "geometry": {"coordinates":[34.9654,32.26759000000001],"type":"Point"}
+  "geometry": {"coordinates":[34.9654,32.26759],"type":"Point"}
 }

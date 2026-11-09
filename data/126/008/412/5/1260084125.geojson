@@ -57,7 +57,7 @@
         "wk:page":"Zimrat"
     },
     "wof:country":"IL",
-    "wof:geomhash":"6e34e71ffb65878ab225bdae5036840e",
+    "wof:geomhash":"ff15f5dc93be81136af512eb16e71560",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     34.55401,
     31.44784000000001
 ],
-  "geometry": {"coordinates":[34.55401,31.44784000000001],"type":"Point"}
+  "geometry": {"coordinates":[34.55401,31.44784],"type":"Point"}
 }

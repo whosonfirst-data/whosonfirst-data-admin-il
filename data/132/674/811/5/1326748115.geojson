@@ -71,7 +71,7 @@
         "wk:page":"Ein_HaShlosha"
     },
     "wof:country":"IL",
-    "wof:geomhash":"96a25ac42c3b0158d0cc9fdff60c8edf",
+    "wof:geomhash":"b44c34db387fba72ded9235cecd82312",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,5 +97,5 @@
     34.40165,
     31.35109000000001
 ],
-  "geometry": {"coordinates":[34.40165,31.35109000000001],"type":"Point"}
+  "geometry": {"coordinates":[34.40165,31.35109],"type":"Point"}
 }

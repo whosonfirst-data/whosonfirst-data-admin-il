@@ -69,7 +69,7 @@
         "wk:page":"Muqeible"
     },
     "wof:country":"IL",
-    "wof:geomhash":"e5cdb635ddcd3ea74ff24e00f69cd6cc",
+    "wof:geomhash":"5674122b7fe763b147462ba79f041a40",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,5 +95,5 @@
     35.29617000000001,
     32.51424
 ],
-  "geometry": {"coordinates":[35.29617000000001,32.51424],"type":"Point"}
+  "geometry": {"coordinates":[35.29617,32.51424],"type":"Point"}
 }

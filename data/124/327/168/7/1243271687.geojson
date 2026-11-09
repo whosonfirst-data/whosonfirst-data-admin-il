@@ -58,7 +58,7 @@
         "wk:page":"Ras_al-Ein"
     },
     "wof:country":"IL",
-    "wof:geomhash":"3e2e3819931cd7f6edbe6dfcd0a5ba0b",
+    "wof:geomhash":"2eceac6b8bf6a9aa562ac790bd850ee2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     35.37284000000001,
     32.91582
 ],
-  "geometry": {"coordinates":[35.37284000000001,32.91582],"type":"Point"}
+  "geometry": {"coordinates":[35.37284,32.91582],"type":"Point"}
 }

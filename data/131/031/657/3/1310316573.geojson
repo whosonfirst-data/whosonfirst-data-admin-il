@@ -46,7 +46,7 @@
         "wk:page":"Nurit"
     },
     "wof:country":"IL",
-    "wof:geomhash":"ce6080710e0afbb2ffccbcc7ec13027b",
+    "wof:geomhash":"e96d8bd2b2abe46450724f5f95eebc99",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     35.35749000000001,
     32.54149
 ],
-  "geometry": {"coordinates":[35.35749000000001,32.54149],"type":"Point"}
+  "geometry": {"coordinates":[35.35749,32.54149],"type":"Point"}
 }

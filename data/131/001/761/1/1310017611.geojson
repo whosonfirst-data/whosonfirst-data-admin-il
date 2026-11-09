@@ -60,7 +60,7 @@
         "wk:page":"Mle%27a"
     },
     "wof:country":"IL",
-    "wof:geomhash":"0fd469d66717309059d48f8cfa832ff2",
+    "wof:geomhash":"1c1dc53d12f9acf2a33cae06c05c1514",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     35.23747,
     32.56330999999999
 ],
-  "geometry": {"coordinates":[35.23747,32.56330999999999],"type":"Point"}
+  "geometry": {"coordinates":[35.23747,32.56331],"type":"Point"}
 }
